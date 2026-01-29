@@ -1,27 +1,178 @@
-name: Auto Proxy Updater
+name: Advanced Proxy Collector
 
 permissions:
   contents: write
 
 on:
+  schedule:
+    - cron: '0 * * * *' # اجرا سر هر ساعت
   workflow_dispatch:
 
 jobs:
-  update-proxies:
+  build:
     runs-on: ubuntu-latest
     
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v3
 
-    - name: Create Test File
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: Install Dependencies
       run: |
-        echo "This is a test file created at $(date)" > test_proxy.txt
+        pip install requests
+
+    - name: Run Collector Script
+      run: |
+        python3 -c "
+        import requests
+        import base64
+        import json
+        import re
+        import socket
+        import concurrent.futures
+        from urllib.parse import urlparse, unquote
+
+        # --- تنظیمات ---
+        SOURCES = [
+            'https://chat.tawana.online/sub/tawanaproxy.txt', # لینک خودتان
+            'https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/EternityAirports_sub.txt', # منبع کمکی ۱
+            'https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/all_extracted_configs.txt', # منبع کمکی ۲
+        ]
+        OUTPUT_FILE = 'sub.txt'
+        TIMEOUT = 2  # ثانیه برای تست اتصال
+        MAX_WORKERS = 50 # تعداد تست همزمان
+
+        # --- تابع تبدیل کد کشور به پرچم ---
+        def get_flag(country_code):
+            if not country_code: return '🚩'
+            return chr(127397 + ord(country_code[0])) + chr(127397 + ord(country_code[1]))
+
+        # --- تابع استخراج اطلاعات از کانفیگ ---
+        def parse_config(config):
+            try:
+                if config.startswith('vmess://'):
+                    b64 = config[8:]
+                    # اصلاح پدینگ بیس۶۴
+                    padding = len(b64) % 4
+                    if padding: b64 += '=' * (4 - padding)
+                    data = json.loads(base64.b64decode(b64).decode('utf-8'))
+                    return {'type': 'vmess', 'ip': data['add'], 'port': int(data['port']), 'data': data}
+                
+                elif config.startswith('vless://') or config.startswith('trojan://'):
+                    # Regex برای استخراج آی‌پی و پورت
+                    match = re.search(r'://(?:.*@)?([\w\.-]+):(\d+)', config)
+                    if match:
+                        return {'type': config.split(':')[0], 'ip': match.group(1), 'port': int(match.group(2)), 'raw': config}
+            except:
+                pass
+            return None
+
+        # --- تابع تست اتصال ---
+        def check_connection(proxy_info):
+            try:
+                sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+                sock.settimeout(TIMEOUT)
+                result = sock.connect_ex((proxy_info['ip'], proxy_info['port']))
+                sock.close()
+                return result == 0
+            except:
+                return False
+
+        # --- برنامه اصلی ---
+        all_configs = []
+        
+        # ۱. دانلود کانفیگ‌ها
+        print('Downloading sources...')
+        raw_content = ''
+        for url in SOURCES:
+            try:
+                resp = requests.get(url, timeout=10)
+                if resp.status_code == 200:
+                    # اگر بیس۶۴ بود دیکد کن
+                    content = resp.text.strip()
+                    try:
+                        decoded = base64.b64decode(content).decode('utf-8')
+                        if 'vmess://' in decoded or 'vless://' in decoded:
+                            content = decoded
+                    except:
+                        pass
+                    raw_content += content + '\n'
+            except Exception as e:
+                print(f'Error downloading {url}: {e}')
+
+        # ۲. پردازش اولیه
+        config_lines = raw_content.splitlines()
+        parsed_list = []
+        unique_ips = set()
+
+        for line in config_lines:
+            line = line.strip()
+            if not line: continue
+            info = parse_config(line)
+            if info:
+                parsed_list.append(info)
+                unique_ips.add(info['ip'])
+
+        print(f'Found {len(parsed_list)} configs. Unique IPs: {len(unique_ips)}')
+
+        # ۳. دریافت اطلاعات جغرافیایی (Batch)
+        print('Getting GeoIP info...')
+        ip_country_map = {}
+        ips = list(unique_ips)
+        # API محدودیت ۱۰۰ تایی دارد، تکه تکه می‌فرستیم
+        for i in range(0, len(ips), 100):
+            batch = ips[i:i+100]
+            try:
+                resp = requests.post('http://ip-api.com/batch', json=[{'query': ip, 'fields': 'query,country,countryCode'} for ip in batch], timeout=15)
+                for item in resp.json():
+                    if 'country' in item:
+                        ip_country_map[item['query']] = {'name': item['country'], 'code': item['countryCode']}
+            except Exception as e:
+                print(f'GeoIP Error: {e}')
+
+        # ۴. تست سلامت و تغییر نام
+        print('Checking health and renaming...')
+        final_configs = []
+
+        def process_single(info):
+            if check_connection(info):
+                # ساخت نام جدید
+                country_data = ip_country_map.get(info['ip'], {'name': 'Unknown', 'code': 'UN'})
+                flag = get_flag(country_data['code'])
+                new_name = f'smkn-{country_data["name"]}-{flag}'
+                
+                # بازسازی کانفیگ
+                if info['type'] == 'vmess':
+                    info['data']['ps'] = new_name
+                    new_json = json.dumps(info['data'])
+                    new_str = 'vmess://' + base64.b64encode(new_json.encode('utf-8')).decode('utf-8')
+                    return new_str
+                elif info['type'] in ['vless', 'trojan']:
+                    # جایگزینی نام بعد از #
+                    base_uri = info['raw'].split('#')[0]
+                    return f'{base_uri}#{new_name}'
+            return None
+
+        with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+            results = executor.map(process_single, parsed_list)
+            for res in results:
+                if res:
+                    final_configs.append(res)
+
+        # ۵. ذخیره
+        print(f'Alive configs: {len(final_configs)}')
+        with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
+            f.write('\n'.join(final_configs))
+        "
 
     - name: Commit and Push
       run: |
         git config --global user.name "GitHub Action"
         git config --global user.email "action@github.com"
-        git add .
-        git commit -m "Test update" || echo "No changes to commit"
+        git add sub.txt
+        git commit -m "Updated proxies with Country Flags" || echo "No changes to commit"
         git push
