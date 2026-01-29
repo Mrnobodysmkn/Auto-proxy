@@ -1,10 +1,10 @@
-trojan://NISHIKUITAN111@141.101.121.18:443/?type=tcp&security=tls #smkn-FR-2ms
-trojan://NISHIKUITAN222@141.101.123.129:443?security=tls&sni=🔒 [By EbraSha]&type=ws&host=il.ylks.xyz&path=🔒 [By EbraSha] #smkn-FR-2ms
-vless://d80e27b6-1dee-466a-8b18-8f64bfd66a60@141.101.123.238:2052?path=🔒 [By EbraSha]&security=none&encryption=none&host=vxpor.positivsis.website&type=ws #smkn-FR-2ms
-trojan://NISHIKUITAN111@141.101.121.30:443/?type=tcp&security=tls #smkn-FR-2ms
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.121.44:443/?type=ws&encryption=none&host=lj.kpcloud.eu.org&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #smkn-FR-2ms
-trojan://NISHIKUITAN111@141.101.123.61:443/?type=tcp&security=tls #smkn-FR-2ms
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.244:8443/?type=ws&encryption=none&flow=&path=🔒 [By EbraSha]&security=tls&allowInsecure=1 #smkn-FR-101ms
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.133.58:8443/?type=ws&encryption=none&flow=&path=🔒 [By EbraSha]&security=tls&allowInsecure=1 #smkn-FR-105ms
-ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.133.58:443/?type=ws&amp;encryption=none&amp;flow=&amp;path=🔒 [By EbraSha]&amp;security=tls&amp;allowInsecure=1 #smkn-FR-105ms
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.181:80/?type=ws&encryption=none&host=foffmelo.com&path=🔒 [By EbraSha] #smkn-FR-105ms
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.225:8443/?type=ws&encryption=none&host=1750926573911.wk.by.ktff.ssl.com.kokk.cn.cdnktff.pp.ua&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&fp=chrome #smkn-FR-2ms
+vless://f2a72ad0-d23f-4eed-96cb-7d970b1e784d@141.101.121.110:80/?type=ws&encryption=none&host=ov-germany1.09vpn.com&path=🔒 [By EbraSha] #smkn-FR-2ms
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.133.132:443/?type=ws&encryption=none&flow=&path=🔒 [By EbraSha]&security=tls&allowInsecure=1 #smkn-FR-84ms
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.240:8443/?type=ws&encryption=none&flow=&path=🔒 [By EbraSha]&security=tls&allowInsecure=1 #smkn-FR-85ms
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.239:8443/?type=ws&encryption=none&flow=&path=🔒 [By EbraSha]&security=tls&allowInsecure=1 #smkn-FR-85ms
+vless://2d6be8bf-27a6-482b-bc3a-ad385c8999d0@51.91.250.245:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=oj8VxkyFXCZEtJoRc-yjx7MEyRT1QrW17Ca3Rnu3hSE&sid=9b5538a5c337e0a7 #smkn-FR-85ms
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.91:80/?type=ws&encryption=none&host=foffmelo.com&path=🔒 [By EbraSha] #smkn-FR-87ms
+vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80/?type=ws&encryption=none&path=🔒 [By EbraSha] #smkn-FR-87ms
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.112:80/?type=ws&encryption=none&host=foffmelo.com&path=🔒 [By EbraSha] #smkn-FR-87ms
+trojan://364d3aa0-58fc-11ed-b738-225401db9d57@54.36.191.211:443/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&fp=chrome #smkn-FR-89ms

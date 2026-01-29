@@ -1,10 +1,10 @@
-vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@45.131.4.147:8080/?type=xhttp&encryption=none #smkn-IR-1ms
-vless://384193af-acf4-4e3d-a570-5720befa42ee@45.131.4.245:80?security=&type=ws&path=🔒 [By EbraSha]&host=Okhvod.KAshTI.WOrLd&encryption=none #smkn-IR-1ms
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.36:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=🔒 [By EbraSha] #smkn-IR-2ms
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80/?type=ws&encryption=none&host=redfree8.pooriashop.ir&path=🔒 [By EbraSha] #smkn-IR-2ms
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.199:2053?path=🔒 [By EbraSha]&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=🔒 [By EbraSha] #smkn-IR-2ms
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.51:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=🔒 [By EbraSha] #smkn-IR-2ms
-vless://8cf73792-0b3e-8e8b-f833-e86067f7a22c@45.131.4.5:2052/?type=httpupgrade&encryption=none&host=2.v2.www.speedtest.net.blue99shop.ir.&path=🔒 [By EbraSha] #smkn-IR-2ms
-vless://3824fba1-352a-44f6-89c3-66bacce658eb@185.143.235.201:443/?type=ws&encryption=none&host=s2.www.getasa.ir&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1&fp=randomized #smkn-IR-43ms
-vless://99431a1c-670c-4dee-a374-2b5a93c9002f@185.143.233.120:80/?type=ws&encryption=none&path=🔒 [By EbraSha] #smkn-IR-44ms
-vless://914b24f0-ad36-447a-8807-d6fdff103afb@185.143.235.201:2083?path=🔒 [By EbraSha]&security=tls&alpn=http/1.1&encryption=none&host=s1.www.getasa.ir&fp=chrome&type=ws&sni=🔒 [By EbraSha] #smkn-IR-44ms
+vless://a3aff9fa-0e17-4b39-c80d-19fa9c038214@45.131.4.67:2086/?type=httpupgrade&encryption=none&host=cdn44.almass22.ir&path=🔒 [By EbraSha] #smkn-IR-2ms
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.67:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=🔒 [By EbraSha] #smkn-IR-2ms
+vless://99431a1c-670c-4dee-a374-2b5a93c9002f@185.143.234.120:80/?type=ws&encryption=none&path=🔒 [By EbraSha] #smkn-IR-55ms
+vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.5:443?path=🔒 [By EbraSha]&security=tls&encryption=none&host=1001co.com.wnticacenich1.mapircdn.com&fp=chrome&type=ws&sni=🔒 [By EbraSha] #smkn-IR-56ms
+vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.120:443?path=🔒 [By EbraSha]&security=tls&encryption=none&host=irancellapp.ir.turcancowntiv.airasiadl.com&fp=chrome&type=ws&sni=🔒 [By EbraSha] #smkn-IR-57ms
+vless://0ee3d06e-a584-4fd4-bada-1b8fa049df77@185.143.234.46:443?security=tls&type=ws&headerType=&path=🔒 [By EbraSha]&host=marz-vip.nikatel.store&sni=🔒 [By EbraSha]&fp= #smkn-IR-62ms
+vless://646a3f01-59cc-4bb1-81fd-868f17d04b06@2.189.161.106:8009?security=reality&encryption=none&pbk=VvQ1IFnaaVyLavQu_iR_alvAMS6tsVM1RSpu628ceXc&headerType=none&fp=chrome&type=tcp&sni=🔒 [By EbraSha] #smkn-IR-197ms
+vless://2d981224-e967-4dbc-b752-73739a88df01@85.133.237.165:2083/?type=tcp&encryption=none #smkn-IR-198ms
+vless://b019424a-d928-49fb-bd4a-932d6374b432@81.12.46.233:2094?security=&encryption=none&host=myket.ir&headerType=http&type=tcp #smkn-IR-220ms
+trojan://0c1f44f7-c6e5-452b-8603-f84b2556cbd5@109.230.91.202:443?mode=gun&security=tls&insecure=0&type=grpc&serviceName=gr1.grtj.sulindac.top&allowInsecure=0&sni=🔒 [By EbraSha] #smkn-IR-232ms

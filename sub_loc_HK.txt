@@ -1,10 +1,7 @@
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@103.160.204.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #smkn-HK-1ms
-trojan://Aimer@27.50.49.209:2087/?type=ws&host=epccd.ambercc.filegear-sg.me&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #smkn-HK-1ms
-vless://cc6b985d-0362-4129-8763-38564174fb3e@27.50.49.93:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1%2Ch2&fp=chrome #smkn-HK-1ms
-ss://401374e6-df77-41fb-f638-dad8184f175b@103.160.204.145:443?mode=gun&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;type=grpc&amp;sni=🔒 [By EbraSha] #smkn-HK-1ms
-trojan://Aimer@27.50.49.37:2053/?type=tcp&security=tls&sni=🔒 [By EbraSha] #smkn-HK-1ms
-trojan://Aimer@27.50.49.208:443?allowInsecure=1&sni=🔒 [By EbraSha]&type=ws&host=epgc.aimercc.dpdns.org&path=🔒 [By EbraSha] #smkn-HK-1ms
-trojan://Aimer@27.50.48.189:2083/?type=tcp&security=tls&sni=🔒 [By EbraSha] #smkn-HK-2ms
-trojan://Aimer@27.50.49.61:2096/?type=tcp&security=tls&sni=🔒 [By EbraSha] #smkn-HK-2ms
-trojan://blue2024@104.129.167.128:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #smkn-HK-2ms
-vless://c797aa8a-c03d-48da-9ad4-c9774b14bed2@27.50.48.18:2087/?type=ws&encryption=none&host=ssvvl.esslh.filegear-sg.me&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1 #smkn-HK-2ms
+vless://401374e6-df77-41fb-f638-dad8184f175b@27.50.48.192:443/?type=grpc&encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=h2 #smkn-HK-1ms
+vless://401374e6-df77-41fb-f638-dad8184f175b@104.129.167.253:443/?type=grpc&encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=h2 #smkn-HK-2ms
+trojan://Aimer@27.50.49.242:8443/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #smkn-HK-2ms
+trojan://6557bf4a-852b-4a69-ad35-d53293386a13@13.75.126.104:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #smkn-HK-208ms
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@219.76.13.169:443?encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=h3&fp=random&allowInsecure=1&type=ws&host=cv.ylka.dpdns.org&path=🔒 [By EbraSha] #smkn-HK-209ms
+trojan://F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0@219.76.13.180:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #smkn-HK-209ms
+trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #smkn-HK-259ms

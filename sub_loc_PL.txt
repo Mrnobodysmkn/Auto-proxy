@@ -1,7 +1,6 @@
-vless://16224e08-aa02-50b9-bb4b-0c97926a3d6a@141.101.122.211:2052/?type=ws&encryption=none&host=sPeedtest2.sbs.de.v2vless.sitespeedtest.net&path=🔒 [By EbraSha] #smkn-PL-1ms
-vless://6c49485f-843c-4e96-abfe-046bc473c7b0@45.144.51.22:443?security=reality&amp;encryption=none&amp;pbk=euR8poucesDF-UxANxJ7Uqg1t4cfiDtAzAQcTVhRQCE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=🔒 [By EbraSha]&amp;sid=140d8b3989bf5116 #smkn-PL-115ms
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000 #smkn-PL-118ms
-trojan://af6a3685-c423-4579-bfea-784c453d5e23@146.59.3.14:443/?type=tcp&security=tls&allowInsecure=1 #smkn-PL-123ms
-trojan://063bfa6d-c68f-4955-9b33-7555b95988bc@45.144.51.81:443/?type=tcp&security=tls #smkn-PL-123ms
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.110.170:443 #smkn-PL-126ms
-trojan://e4f288433b@54.36.173.159:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #smkn-PL-127ms
+vless://b0a63ba3-6cb0-48de-a19d-12babdb0ba4d@141.101.122.35:2082/?type=ws&encryption=none&host=23tg.fh19yh0z.workers.dev&path=🔒 [By EbraSha] #smkn-PL-2ms
+ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg==@217.30.10.70:9094 #smkn-PL-98ms
+ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044 #smkn-PL-98ms
+ss://be015dd2-30b4-4fcf-a9ee-080c13ac13fb@2.56.125.209:49868?security=reality&amp;encryption=none&amp;pbk=joEKL4Itljxodt1SOe1itSMrAH9bk_udpPtXgIjdu10&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=🔒 [By EbraSha]&amp;sid=6d638e #smkn-PL-98ms
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.110.168:443 #smkn-PL-105ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348 #smkn-PL-112ms
