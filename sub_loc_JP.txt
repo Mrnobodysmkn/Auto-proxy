@@ -1,6 +1,8 @@
-vless://5d110f18-5a37-4db3-8cf6-f0bced38a1ae@154.85.18.233:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=7yeqj7p-b9BqubE629PrgvcYf4MBV593Ssd7v7l8EBg&sid=83a5b6cd #smkn-JP-150ms
-trojan://5c777277-17f2-4272-ae65-7bd00fa4fbaa@18.65.190.65:443?security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&type=tcp #smkn-JP-154ms
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@172.105.199.111:8080 #smkn-JP-156ms
-trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.81.84:5076/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #smkn-JP-157ms
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@168.138.46.67:443/?type=ws&encryption=none&host=pvg.aghabeiki.homes&path=🔒 [By EbraSha] #smkn-JP-163ms
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@64.110.104.30:443/?type=ws&encryption=none #smkn-JP-163ms
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@3.112.21.102:443?encryption=none&security=tls&sni=🔒 [By EbraSha]&type=ws&host=juzibaipiao.5112233.xyz&path=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@168.138.50.249:443?encryption=none&security=tls&sni=🔒 [By EbraSha]&type=ws&host=dp.ylks.xyz&path=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@47.79.92.16:443/?type=ws&encryption=none&host=edccr.ambercc.filegear-sg.me&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.63.16:3901?security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+trojan://869e9086806483ca4744a4cb0f3d6e16@153.121.39.240:5076?security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+vless://62357561-a129-4b9e-9614-ce2578020866@138.2.18.82:8880/?type=ws&encryption=none&host=edg.comorg.us.kg&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@152.70.101.24:16094?encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=h3&fp=random&allowInsecure=1&type=ws&host=edgc.aimercc.dpdns.org&path=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.85.33:5076?security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
