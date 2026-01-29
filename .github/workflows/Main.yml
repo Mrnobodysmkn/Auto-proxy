@@ -40,8 +40,8 @@ jobs:
         # --- تنظیمات ---
         SOURCES = [
             'https://chat.tawana.online/sub/tawanaproxy.txt',
-            'https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/EternityAirports_sub.txt',
-            'https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/all_extracted_configs.txt',
+           # 'https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/EternityAirports_sub.txt',
+           #  'https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/all_extracted_configs.txt',
         ]
         OUTPUT_FILE = 'sub.txt'
         TIMEOUT = 2
