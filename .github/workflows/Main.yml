@@ -1,11 +1,11 @@
-name: Smart Proxy Splitter with Source Tagging
+name: Iran-Optimized Proxy Collector
 
 permissions:
   contents: write
 
 on:
   schedule:
-    - cron: '0 * * * *' # هر ساعت اجرا شود
+    - cron: '0 */2 * * *' # هر 2 ساعت (برای فشار کمتر)
   workflow_dispatch:
 
 jobs:
@@ -25,89 +25,76 @@ jobs:
       run: |
         pip install requests
 
-    - name: Run Intelligent Splitter
+    - name: Run Optimization Script
       run: |
-        # پاک کردن فایل‌های قدیمی
         rm -f sub_*.txt
         
-        cat << 'EOF' > splitter.py
+        cat << 'EOF' > optimizer.py
         import requests
         import base64
         import json
         import re
         import socket
-        import time
         import concurrent.futures
+        import random
 
         # --- تنظیمات ---
-        # تعریف منابع به صورت دیکشنری برای برچسب‌گذاری
         SOURCES = [
-            {
-                'url': 'https://chat.tawana.online/sub/tawanaproxy.txt',
-                'tag': 'skimia'
-            },
-            {
-                'url': 'https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/EternityAirports_sub.txt',
-                'tag': 'public'
-            },
-            {
-                'url': 'https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/all_extracted_configs.txt',
-                'tag': 'public'
-            }
+            {'url': 'https://chat.tawana.online/sub/tawanaproxy.txt', 'tag': 'skimia'},
+            {'url': 'https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/EternityAirports_sub.txt', 'tag': 'public'},
+            {'url': 'https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/all_extracted_configs.txt', 'tag': 'public'},
         ]
         
-        TIMEOUT = 1.5 
+        TIMEOUT = 3 # تایم‌اوت را بالا بردیم تا سرورهای کند حذف نشوند
         MAX_WORKERS = 50
-        TOP_N = 10  # تعداد کانفیگ در فایل‌های عمومی
-        TOP_N_SKIMIA = 20 # تعداد کانفیگ برای فایل اسکیمیا (شاید بخواهید بیشتر باشد)
+        LIMIT_PUBLIC = 50 # تعداد کانفیگ عمومی
+        LIMIT_SKIMIA = 100 # تعداد کانفیگ اسکیمیا (تقریبا همه)
 
-        # --- توابع کمکی ---
         def get_flag(country_code):
             if not country_code: return '🚩'
             return chr(127397 + ord(country_code[0])) + chr(127397 + ord(country_code[1]))
 
         def parse_config(config):
             try:
+                # تشخیص ویژگی‌های امنیتی برای اولویت‌دهی
+                security_score = 0
+                if 'tls' in config or 'reality' in config: security_score += 2
+                if ':443' in config or ':2053' in config or ':2083' in config: security_score += 1
+                if 'vmess://' in config: security_score -= 1 # اولویت کمتر به vmess معمولی
+
                 if config.startswith('vmess://'):
                     b64 = config[8:]
                     padding = len(b64) % 4
                     if padding: b64 += '=' * (4 - padding)
                     decoded = base64.b64decode(b64).decode('utf-8', errors='ignore')
                     data = json.loads(decoded)
-                    return {'type': 'vmess', 'ip': data['add'], 'port': int(data['port']), 'data': data, 'raw': config}
+                    return {'type': 'vmess', 'ip': data['add'], 'port': int(data['port']), 'data': data, 'raw': config, 'score': security_score}
                 
-                elif config.startswith('vless://') or config.startswith('trojan://') or config.startswith('ss://'):
+                elif any(config.startswith(p) for p in ['vless://', 'trojan://', 'ss://']):
                     ptype = config.split('://')[0]
                     match = re.search(r'://(?:.*@)?([\w\.-]+):(\d+)', config)
                     if match:
-                        return {'type': ptype, 'ip': match.group(1), 'port': int(match.group(2)), 'raw': config}
-            except:
-                pass
+                        return {'type': ptype, 'ip': match.group(1), 'port': int(match.group(2)), 'raw': config, 'score': security_score}
+            except: pass
             return None
 
-        def check_speed(proxy_info):
+        # فقط چک میکنیم زنده است یا نه، سرعت مهم نیست
+        def is_alive(proxy_info):
             try:
-                start = time.time()
                 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
                 sock.settimeout(TIMEOUT)
                 result = sock.connect_ex((proxy_info['ip'], proxy_info['port']))
                 sock.close()
-                end = time.time()
-                if result == 0:
-                    return (end - start) * 1000
+                return result == 0
             except:
-                pass
-            return None
+                return False
 
-        # --- ۱. دانلود و برچسب‌گذاری ---
         print('Downloading sources...')
-        unique_configs = {} 
+        unique_configs = {}
         
         for source in SOURCES:
-            url = source['url']
-            tag = source['tag']
             try:
-                resp = requests.get(url, timeout=10)
+                resp = requests.get(source['url'], timeout=15)
                 content = resp.text.strip()
                 try:
                     if not '://' in content[:50]:
@@ -119,115 +106,109 @@ jobs:
                     if not line: continue
                     info = parse_config(line)
                     if info:
-                        # اضافه کردن تگ منبع به اطلاعات کانفیگ
-                        info['source_tag'] = tag
-                        
+                        info['source_tag'] = source['tag']
                         key = f"{info['ip']}:{info['port']}"
-                        if key not in unique_configs:
+                        # اگر تکراری بود ولی از اسکیمیا بود، جایگزین کن
+                        if key not in unique_configs or source['tag'] == 'skimia':
                             unique_configs[key] = info
-                        else:
-                            # اگر کانفیگ قبلا بوده ولی الان از سورس skimia اومده، تگش رو آپدیت کن
-                            if tag == 'skimia':
-                                unique_configs[key]['source_tag'] = 'skimia'
-                                
             except Exception as e:
-                print(f'Error fetching {url}: {e}')
-        
-        config_list = list(unique_configs.values())
-        print(f'Total unique configs: {len(config_list)}')
+                print(f'Error {source["url"]}: {e}')
 
-        # --- ۲. دریافت اطلاعات کشور ---
-        print('Getting GeoIP info...')
+        config_list = list(unique_configs.values())
+        print(f'Total configs: {len(config_list)}')
+
+        # دریافت GeoIP
+        print('Getting GeoIP...')
         ips = list(set([c['ip'] for c in config_list]))
-        ip_country_map = {}
+        ip_map = {}
         for i in range(0, len(ips), 100):
-            batch = ips[i:i+100]
             try:
+                batch = ips[i:i+100]
                 resp = requests.post('http://ip-api.com/batch', json=[{'query': ip, 'fields': 'query,country,countryCode'} for ip in batch], timeout=15)
                 for item in resp.json():
-                    if 'country' in item:
-                        ip_country_map[item['query']] = {'name': item['country'], 'code': item['countryCode']}
+                    if 'country' in item: ip_map[item['query']] = item
             except: pass
 
-        # --- ۳. تست سرعت و نام‌گذاری ---
-        print('Testing speeds...')
+        # تست سلامت (فقط زنده بودن)
+        print('Checking health...')
         valid_configs = []
-
-        def process_one(info):
-            latency = check_speed(info)
-            if latency is not None:
-                c_data = ip_country_map.get(info['ip'], {'name': 'Unknown', 'code': 'UN'})
-                flag = get_flag(c_data['code'])
-                # نام‌گذاری: اضافه کردن نام منبع اگر skimia باشد
-                prefix = "skimia" if info['source_tag'] == 'skimia' else "smkn"
-                new_name = f"{prefix}-{c_data['code']}-{int(latency)}ms"
-                
-                final_uri = ""
-                if info['type'] == 'vmess':
-                    info['data']['ps'] = new_name
-                    new_json = json.dumps(info['data'])
-                    final_uri = 'vmess://' + base64.b64encode(new_json.encode('utf-8')).decode('utf-8')
-                else:
-                    base = info['raw'].split('#')[0]
-                    final_uri = f"{base}#{new_name}"
-                
-                return {
-                    'uri': final_uri,
-                    'latency': latency,
-                    'type': info['type'],
-                    'country_code': c_data['code'],
-                    'source_tag': info['source_tag']
-                }
-            return None
-
+        
         with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-            results = executor.map(process_one, config_list)
-            for res in results:
-                if res: valid_configs.append(res)
+            # دیکشنری برای نگهداری نتیجه فیوچرها
+            future_to_info = {executor.submit(is_alive, info): info for info in config_list}
+            
+            for future in concurrent.futures.as_completed(future_to_info):
+                info = future_to_info[future]
+                if future.result(): # اگر زنده بود
+                    c_data = ip_map.get(info['ip'], {'country': 'Unknown', 'countryCode': 'UN'})
+                    flag = get_flag(c_data['countryCode'])
+                    
+                    # نام‌گذاری بدون پینگ
+                    prefix = "skimia" if info['source_tag'] == 'skimia' else "smkn"
+                    # اضافه کردن ایموجی بر اساس نوع برای تشخیص راحت‌تر
+                    type_emoji = "🔒" if info['score'] > 0 else "🌐"
+                    new_name = f"{type_emoji}{prefix}-{c_data['countryCode']}-{flag}"
+                    
+                    final_uri = ""
+                    if info['type'] == 'vmess':
+                        info['data']['ps'] = new_name
+                        new_json = json.dumps(info['data'])
+                        final_uri = 'vmess://' + base64.b64encode(new_json.encode('utf-8')).decode('utf-8')
+                    else:
+                        base = info['raw'].split('#')[0]
+                        final_uri = f"{base}#{new_name}"
+                    
+                    valid_configs.append({
+                        'uri': final_uri,
+                        'type': info['type'],
+                        'country_code': c_data['countryCode'],
+                        'source_tag': info['source_tag'],
+                        'score': info['score'] # امتیاز امنیتی
+                    })
 
-        valid_configs.sort(key=lambda x: x['latency'])
+        # --- استراتژی مرتب‌سازی جدید ---
+        # اول بر اساس امتیاز امنیت (TLS/443)، بعد تصادفی
+        random.shuffle(valid_configs) # اول مخلوط کن که همیشه تکراری نباشه
+        valid_configs.sort(key=lambda x: x['score'], reverse=True) # حالا خوب‌ها رو بیار بالا
 
-        # --- ۴. دسته‌بندی و ذخیره ---
-        categories = {
-            'sub_best_mixed': valid_configs,
-            'sub_skimia': [], # لیست مخصوص اسکیمیا
-        }
+        print(f'Alive configs: {len(valid_configs)}')
+
+        # دسته‌بندی و ذخیره
+        categories = {'sub_best_mixed': [], 'sub_skimia': []}
         
         for conf in valid_configs:
-            # ۱. اگر تگ اسکیمیا دارد به لیست مخصوصش اضافه شود
             if conf['source_tag'] == 'skimia':
                 categories['sub_skimia'].append(conf)
-
-            # ۲. دسته‌بندی‌های دیگر (پروتکل و کشور)
-            proto_key = f"sub_proto_{conf['type']}"
-            if proto_key not in categories: categories[proto_key] = []
-            categories[proto_key].append(conf)
+            
+            # برای لیست مخلوط و پروتکل‌ها
+            categories['sub_best_mixed'].append(conf)
+            
+            p_key = f"sub_proto_{conf['type']}"
+            if p_key not in categories: categories[p_key] = []
+            categories[p_key].append(conf)
             
             if conf['country_code'] and len(conf['country_code']) == 2:
-                country_key = f"sub_loc_{conf['country_code']}"
-                if country_key not in categories: categories[country_key] = []
-                categories[country_key].append(conf)
+                c_key = f"sub_loc_{conf['country_code']}"
+                if c_key not in categories: categories[c_key] = []
+                categories[c_key].append(conf)
 
         for name, configs in categories.items():
             if not configs: continue
+            limit = LIMIT_SKIMIA if name == 'sub_skimia' else LIMIT_PUBLIC
+            selected = configs[:limit]
             
-            # تعیین سقف تعداد (برای فایل اسکیمیا شاید بیشتر بخواهید)
-            limit = TOP_N_SKIMIA if name == 'sub_skimia' else TOP_N
-            top_selection = configs[:limit]
-            
-            filename = f"{name}.txt"
-            with open(filename, 'w', encoding='utf-8') as f:
-                f.write('\n'.join([c['uri'] for c in top_selection]))
-            print(f'Generated {filename} with {len(top_selection)} configs')
+            with open(f"{name}.txt", 'w', encoding='utf-8') as f:
+                f.write('\n'.join([c['uri'] for c in selected]))
+            print(f'Saved {name}.txt with {len(selected)} proxies')
 
         EOF
         
-        python3 splitter.py
+        python3 optimizer.py
 
     - name: Commit and Push
       run: |
         git config --global user.name "GitHub Action"
         git config --global user.email "action@github.com"
         git add sub_*.txt
-        git commit -m "Added dedicated skimia file" || echo "No changes to commit"
+        git commit -m "Updated optimized proxies" || echo "No changes to commit"
         git push
