@@ -1,4 +1,4 @@
-name: Smart Proxy Splitter
+name: Smart Proxy Splitter with Source Tagging
 
 permissions:
   contents: write
@@ -27,7 +27,7 @@ jobs:
 
     - name: Run Intelligent Splitter
       run: |
-        # پاک کردن فایل‌های سابسکریپشن قدیمی
+        # پاک کردن فایل‌های قدیمی
         rm -f sub_*.txt
         
         cat << 'EOF' > splitter.py
@@ -38,17 +38,28 @@ jobs:
         import socket
         import time
         import concurrent.futures
-        import os
 
         # --- تنظیمات ---
+        # تعریف منابع به صورت دیکشنری برای برچسب‌گذاری
         SOURCES = [
-            'https://chat.tawana.online/sub/tawanaproxy.txt',
-            'https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/EternityAirports_sub.txt',
-            'https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/all_extracted_configs.txt',
+            {
+                'url': 'https://chat.tawana.online/sub/tawanaproxy.txt',
+                'tag': 'skimia'
+            },
+            {
+                'url': 'https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/EternityAirports_sub.txt',
+                'tag': 'public'
+            },
+            {
+                'url': 'https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/all_extracted_configs.txt',
+                'tag': 'public'
+            }
         ]
-        TIMEOUT = 1.5 # سخت‌گیری بیشتر برای سرعت (ثانیه)
+        
+        TIMEOUT = 1.5 
         MAX_WORKERS = 50
-        TOP_N = 10  # تعداد کانفیگ در هر فایل
+        TOP_N = 10  # تعداد کانفیگ در فایل‌های عمومی
+        TOP_N_SKIMIA = 20 # تعداد کانفیگ برای فایل اسکیمیا (شاید بخواهید بیشتر باشد)
 
         # --- توابع کمکی ---
         def get_flag(country_code):
@@ -75,7 +86,6 @@ jobs:
             return None
 
         def check_speed(proxy_info):
-            # بازگرداندن تاخیر (Latency) بر حسب میلی‌ثانیه
             try:
                 start = time.time()
                 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -84,20 +94,21 @@ jobs:
                 sock.close()
                 end = time.time()
                 if result == 0:
-                    return (end - start) * 1000 # Latency in ms
+                    return (end - start) * 1000
             except:
                 pass
             return None
 
-        # --- ۱. دانلود و استخراج ---
+        # --- ۱. دانلود و برچسب‌گذاری ---
         print('Downloading sources...')
-        unique_configs = {} # استفاده از دیکشنری برای حذف تکراری‌ها
+        unique_configs = {} 
         
-        for url in SOURCES:
+        for source in SOURCES:
+            url = source['url']
+            tag = source['tag']
             try:
                 resp = requests.get(url, timeout=10)
                 content = resp.text.strip()
-                # تلاش برای دیکد اگر کل فایل Base64 باشد
                 try:
                     if not '://' in content[:50]:
                         content = base64.b64decode(content).decode('utf-8', errors='ignore')
@@ -108,21 +119,27 @@ jobs:
                     if not line: continue
                     info = parse_config(line)
                     if info:
-                        # کلید یکتا: ترکیب آی‌پی و پورت
+                        # اضافه کردن تگ منبع به اطلاعات کانفیگ
+                        info['source_tag'] = tag
+                        
                         key = f"{info['ip']}:{info['port']}"
                         if key not in unique_configs:
                             unique_configs[key] = info
+                        else:
+                            # اگر کانفیگ قبلا بوده ولی الان از سورس skimia اومده، تگش رو آپدیت کن
+                            if tag == 'skimia':
+                                unique_configs[key]['source_tag'] = 'skimia'
+                                
             except Exception as e:
                 print(f'Error fetching {url}: {e}')
         
         config_list = list(unique_configs.values())
         print(f'Total unique configs: {len(config_list)}')
 
-        # --- ۲. دریافت اطلاعات کشور (Batch) ---
+        # --- ۲. دریافت اطلاعات کشور ---
         print('Getting GeoIP info...')
         ips = list(set([c['ip'] for c in config_list]))
         ip_country_map = {}
-        
         for i in range(0, len(ips), 100):
             batch = ips[i:i+100]
             try:
@@ -139,12 +156,12 @@ jobs:
         def process_one(info):
             latency = check_speed(info)
             if latency is not None:
-                # نام‌گذاری
                 c_data = ip_country_map.get(info['ip'], {'name': 'Unknown', 'code': 'UN'})
                 flag = get_flag(c_data['code'])
-                new_name = f"smkn-{c_data['code']}-{int(latency)}ms" # مثال: smkn-DE-120ms
+                # نام‌گذاری: اضافه کردن نام منبع اگر skimia باشد
+                prefix = "skimia" if info['source_tag'] == 'skimia' else "smkn"
+                new_name = f"{prefix}-{c_data['code']}-{int(latency)}ms"
                 
-                # اعمال نام جدید
                 final_uri = ""
                 if info['type'] == 'vmess':
                     info['data']['ps'] = new_name
@@ -159,7 +176,7 @@ jobs:
                     'latency': latency,
                     'type': info['type'],
                     'country_code': c_data['code'],
-                    'country_name': c_data['name']
+                    'source_tag': info['source_tag']
                 }
             return None
 
@@ -168,41 +185,39 @@ jobs:
             for res in results:
                 if res: valid_configs.append(res)
 
-        # مرتب‌سازی کل لیست بر اساس سرعت (کمترین پینگ اول)
         valid_configs.sort(key=lambda x: x['latency'])
-        print(f'Total Alive & Fast configs: {len(valid_configs)}')
 
         # --- ۴. دسته‌بندی و ذخیره ---
-        
-        # دسته‌بندی‌ها
         categories = {
-            'sub_best_mixed': valid_configs, # همه، ولی مرتب شده
+            'sub_best_mixed': valid_configs,
+            'sub_skimia': [], # لیست مخصوص اسکیمیا
         }
         
-        # تفکیک بر اساس پروتکل
         for conf in valid_configs:
+            # ۱. اگر تگ اسکیمیا دارد به لیست مخصوصش اضافه شود
+            if conf['source_tag'] == 'skimia':
+                categories['sub_skimia'].append(conf)
+
+            # ۲. دسته‌بندی‌های دیگر (پروتکل و کشور)
             proto_key = f"sub_proto_{conf['type']}"
             if proto_key not in categories: categories[proto_key] = []
             categories[proto_key].append(conf)
             
-            # تفکیک بر اساس کشور (فقط اگر کد معتبر باشد)
             if conf['country_code'] and len(conf['country_code']) == 2:
                 country_key = f"sub_loc_{conf['country_code']}"
                 if country_key not in categories: categories[country_key] = []
                 categories[country_key].append(conf)
 
-        # نوشتن فایل‌ها (فقط ۱۰ تای برتر هر دسته)
-        generated_files = []
         for name, configs in categories.items():
             if not configs: continue
             
-            # برداشتن ۱۰ تای اول (چون لیست اصلی قبلاً سورت شده است، این‌ها بهترین‌ها هستند)
-            top_selection = configs[:TOP_N]
+            # تعیین سقف تعداد (برای فایل اسکیمیا شاید بیشتر بخواهید)
+            limit = TOP_N_SKIMIA if name == 'sub_skimia' else TOP_N
+            top_selection = configs[:limit]
             
             filename = f"{name}.txt"
             with open(filename, 'w', encoding='utf-8') as f:
                 f.write('\n'.join([c['uri'] for c in top_selection]))
-            generated_files.append(filename)
             print(f'Generated {filename} with {len(top_selection)} configs')
 
         EOF
@@ -213,7 +228,6 @@ jobs:
       run: |
         git config --global user.name "GitHub Action"
         git config --global user.email "action@github.com"
-        # اضافه کردن تمام فایل‌های متنی که با sub_ شروع می‌شوند
         git add sub_*.txt
-        git commit -m "Update separated best proxies" || echo "No changes to commit"
+        git commit -m "Added dedicated skimia file" || echo "No changes to commit"
         git push
