@@ -1,11 +1,11 @@
-name: Advanced Proxy Collector
+name: Smart Proxy Splitter
 
 permissions:
   contents: write
 
 on:
   schedule:
-    - cron: '0 * * * *' # اجرا سر هر ساعت
+    - cron: '0 * * * *' # هر ساعت اجرا شود
   workflow_dispatch:
 
 jobs:
@@ -25,28 +25,32 @@ jobs:
       run: |
         pip install requests
 
-    - name: Create and Run Script
+    - name: Run Intelligent Splitter
       run: |
-        # نوشتن کد پایتون داخل یک فایل مجزا برای جلوگیری از خطای نگارشی
-        cat << 'EOF' > collector.py
+        # پاک کردن فایل‌های سابسکریپشن قدیمی
+        rm -f sub_*.txt
+        
+        cat << 'EOF' > splitter.py
         import requests
         import base64
         import json
         import re
         import socket
+        import time
         import concurrent.futures
-        from urllib.parse import urlparse
+        import os
 
         # --- تنظیمات ---
         SOURCES = [
             'https://chat.tawana.online/sub/tawanaproxy.txt',
-           # 'https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/EternityAirports_sub.txt',
-           #  'https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/all_extracted_configs.txt',
+            'https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/EternityAirports_sub.txt',
+            'https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/all_extracted_configs.txt',
         ]
-        OUTPUT_FILE = 'sub.txt'
-        TIMEOUT = 2
+        TIMEOUT = 1.5 # سخت‌گیری بیشتر برای سرعت (ثانیه)
         MAX_WORKERS = 50
+        TOP_N = 10  # تعداد کانفیگ در هر فایل
 
+        # --- توابع کمکی ---
         def get_flag(country_code):
             if not country_code: return '🚩'
             return chr(127397 + ord(country_code[0])) + chr(127397 + ord(country_code[1]))
@@ -57,66 +61,68 @@ jobs:
                     b64 = config[8:]
                     padding = len(b64) % 4
                     if padding: b64 += '=' * (4 - padding)
-                    decoded_str = base64.b64decode(b64).decode('utf-8', errors='ignore')
-                    data = json.loads(decoded_str)
-                    return {'type': 'vmess', 'ip': data['add'], 'port': int(data['port']), 'data': data}
+                    decoded = base64.b64decode(b64).decode('utf-8', errors='ignore')
+                    data = json.loads(decoded)
+                    return {'type': 'vmess', 'ip': data['add'], 'port': int(data['port']), 'data': data, 'raw': config}
                 
-                elif config.startswith('vless://') or config.startswith('trojan://'):
+                elif config.startswith('vless://') or config.startswith('trojan://') or config.startswith('ss://'):
+                    ptype = config.split('://')[0]
                     match = re.search(r'://(?:.*@)?([\w\.-]+):(\d+)', config)
                     if match:
-                        return {'type': config.split(':')[0], 'ip': match.group(1), 'port': int(match.group(2)), 'raw': config}
+                        return {'type': ptype, 'ip': match.group(1), 'port': int(match.group(2)), 'raw': config}
             except:
                 pass
             return None
 
-        def check_connection(proxy_info):
+        def check_speed(proxy_info):
+            # بازگرداندن تاخیر (Latency) بر حسب میلی‌ثانیه
             try:
+                start = time.time()
                 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
                 sock.settimeout(TIMEOUT)
                 result = sock.connect_ex((proxy_info['ip'], proxy_info['port']))
                 sock.close()
-                return result == 0
+                end = time.time()
+                if result == 0:
+                    return (end - start) * 1000 # Latency in ms
             except:
-                return False
+                pass
+            return None
 
-        # --- شروع برنامه ---
+        # --- ۱. دانلود و استخراج ---
         print('Downloading sources...')
-        raw_content = ''
+        unique_configs = {} # استفاده از دیکشنری برای حذف تکراری‌ها
+        
         for url in SOURCES:
             try:
                 resp = requests.get(url, timeout=10)
-                if resp.status_code == 200:
-                    content = resp.text.strip()
-                    # دیکد کردن اگر کل فایل بیس۶۴ باشد
-                    try:
-                        if not '://' in content[:20]:
-                            content = base64.b64decode(content).decode('utf-8', errors='ignore')
-                    except:
-                        pass
-                    raw_content += content + '\n'
+                content = resp.text.strip()
+                # تلاش برای دیکد اگر کل فایل Base64 باشد
+                try:
+                    if not '://' in content[:50]:
+                        content = base64.b64decode(content).decode('utf-8', errors='ignore')
+                except: pass
+                
+                for line in content.splitlines():
+                    line = line.strip()
+                    if not line: continue
+                    info = parse_config(line)
+                    if info:
+                        # کلید یکتا: ترکیب آی‌پی و پورت
+                        key = f"{info['ip']}:{info['port']}"
+                        if key not in unique_configs:
+                            unique_configs[key] = info
             except Exception as e:
-                print(f'Error downloading {url}: {e}')
+                print(f'Error fetching {url}: {e}')
+        
+        config_list = list(unique_configs.values())
+        print(f'Total unique configs: {len(config_list)}')
 
-        config_lines = raw_content.splitlines()
-        parsed_list = []
-        unique_ips = set()
-
-        for line in config_lines:
-            line = line.strip()
-            if not line: continue
-            info = parse_config(line)
-            if info:
-                # حذف تکراری‌ها بر اساس IP
-                if info['ip'] not in unique_ips:
-                    parsed_list.append(info)
-                    unique_ips.add(info['ip'])
-
-        print(f'Total Configs Found: {len(parsed_list)}')
-
-        # دریافت اطلاعات کشور
+        # --- ۲. دریافت اطلاعات کشور (Batch) ---
         print('Getting GeoIP info...')
+        ips = list(set([c['ip'] for c in config_list]))
         ip_country_map = {}
-        ips = list(unique_ips)
+        
         for i in range(0, len(ips), 100):
             batch = ips[i:i+100]
             try:
@@ -124,49 +130,90 @@ jobs:
                 for item in resp.json():
                     if 'country' in item:
                         ip_country_map[item['query']] = {'name': item['country'], 'code': item['countryCode']}
-            except Exception as e:
-                print(f'GeoIP Error: {e}')
+            except: pass
 
-        # تست و تغییر نام
-        print('Checking health and renaming...')
-        final_configs = []
+        # --- ۳. تست سرعت و نام‌گذاری ---
+        print('Testing speeds...')
+        valid_configs = []
 
-        def process_single(info):
-            if check_connection(info):
-                country_data = ip_country_map.get(info['ip'], {'name': 'Unknown', 'code': 'UN'})
-                flag = get_flag(country_data['code'])
-                new_name = f"smkn-{country_data['name']}-{flag}"
+        def process_one(info):
+            latency = check_speed(info)
+            if latency is not None:
+                # نام‌گذاری
+                c_data = ip_country_map.get(info['ip'], {'name': 'Unknown', 'code': 'UN'})
+                flag = get_flag(c_data['code'])
+                new_name = f"smkn-{c_data['code']}-{int(latency)}ms" # مثال: smkn-DE-120ms
                 
+                # اعمال نام جدید
+                final_uri = ""
                 if info['type'] == 'vmess':
                     info['data']['ps'] = new_name
                     new_json = json.dumps(info['data'])
-                    new_str = 'vmess://' + base64.b64encode(new_json.encode('utf-8')).decode('utf-8')
-                    return new_str
-                elif info['type'] in ['vless', 'trojan']:
-                    base_uri = info['raw'].split('#')[0]
-                    return f"{base_uri}#{new_name}"
+                    final_uri = 'vmess://' + base64.b64encode(new_json.encode('utf-8')).decode('utf-8')
+                else:
+                    base = info['raw'].split('#')[0]
+                    final_uri = f"{base}#{new_name}"
+                
+                return {
+                    'uri': final_uri,
+                    'latency': latency,
+                    'type': info['type'],
+                    'country_code': c_data['code'],
+                    'country_name': c_data['name']
+                }
             return None
 
         with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-            results = executor.map(process_single, parsed_list)
+            results = executor.map(process_one, config_list)
             for res in results:
-                if res:
-                    final_configs.append(res)
+                if res: valid_configs.append(res)
 
-        print(f'Alive configs: {len(final_configs)}')
+        # مرتب‌سازی کل لیست بر اساس سرعت (کمترین پینگ اول)
+        valid_configs.sort(key=lambda x: x['latency'])
+        print(f'Total Alive & Fast configs: {len(valid_configs)}')
+
+        # --- ۴. دسته‌بندی و ذخیره ---
         
-        # ذخیره نهایی
-        with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
-            f.write('\n'.join(final_configs))
+        # دسته‌بندی‌ها
+        categories = {
+            'sub_best_mixed': valid_configs, # همه، ولی مرتب شده
+        }
+        
+        # تفکیک بر اساس پروتکل
+        for conf in valid_configs:
+            proto_key = f"sub_proto_{conf['type']}"
+            if proto_key not in categories: categories[proto_key] = []
+            categories[proto_key].append(conf)
+            
+            # تفکیک بر اساس کشور (فقط اگر کد معتبر باشد)
+            if conf['country_code'] and len(conf['country_code']) == 2:
+                country_key = f"sub_loc_{conf['country_code']}"
+                if country_key not in categories: categories[country_key] = []
+                categories[country_key].append(conf)
+
+        # نوشتن فایل‌ها (فقط ۱۰ تای برتر هر دسته)
+        generated_files = []
+        for name, configs in categories.items():
+            if not configs: continue
+            
+            # برداشتن ۱۰ تای اول (چون لیست اصلی قبلاً سورت شده است، این‌ها بهترین‌ها هستند)
+            top_selection = configs[:TOP_N]
+            
+            filename = f"{name}.txt"
+            with open(filename, 'w', encoding='utf-8') as f:
+                f.write('\n'.join([c['uri'] for c in top_selection]))
+            generated_files.append(filename)
+            print(f'Generated {filename} with {len(top_selection)} configs')
+
         EOF
         
-        # اجرای اسکریپت ساخته شده
-        python3 collector.py
+        python3 splitter.py
 
     - name: Commit and Push
       run: |
         git config --global user.name "GitHub Action"
         git config --global user.email "action@github.com"
-        git add sub.txt
-        git commit -m "Updated proxies" || echo "No changes to commit"
+        # اضافه کردن تمام فایل‌های متنی که با sub_ شروع می‌شوند
+        git add sub_*.txt
+        git commit -m "Update separated best proxies" || echo "No changes to commit"
         git push
