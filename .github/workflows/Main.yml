@@ -1,0 +1,30 @@
+name: Auto Proxy Updater
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # اجرا هر 6 ساعت یکبار
+  workflow_dispatch: # امکان اجرای دستی
+
+jobs:
+  update-proxies:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Download Proxies
+      run: |
+        # اینجا دستوراتی که پروکسی‌ها را دانلود می‌کند می‌نویسیم
+        # مثلا دانلود از یک لینک و ذخیره در فایل proxy.txt
+        curl -s "LINK_PROXY_SHOMA" > proxy.txt
+        # فعلا یک متن تستی می‌سازیم که فایل خالی نباشد
+        echo "Last update: $(date)" >> update_log.txt
+
+    - name: Commit and Push Changes
+      run: |
+        git config --global user.name "GitHub Action"
+        git config --global user.email "action@github.com"
+        git add .
+        git commit -m "Auto update proxies" || echo "No changes to commit"
+        git push
