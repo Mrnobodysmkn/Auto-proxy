@@ -1,2 +1,6 @@
-trojan://blue2024@14.102.229.63:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CZ-🇨🇿
-trojan://ttfang@14.102.229.216:2096?security=tls&sni=🔒 [By EbraSha]&type=ws&path=🔒 [By EbraSha]&Host=ttfang.fange.me #🔒smkn-CZ-🇨🇿
+vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@45.15.162.85:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d #🔒smkn-CZ-🇨🇿
+trojan://Aimer@37.157.192.61:9902/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-CZ-🇨🇿
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@14.102.228.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #🌐smkn-CZ-🇨🇿
+vless://b49d8a13-12f6-4613-bb0d-3e2f6244f29c@14.102.228.75:80/?type=ws&encryption=none&host=ov-canada1.09vpn.com&path=🔒 [By EbraSha] #🌐smkn-CZ-🇨🇿
+vless://85a15603-7fb2-4c53-967c-4e3c63523a41@14.102.229.179:80/?type=ws&encryption=none&host=Www.speedtest.net.sPeedtest2.sbs.&path=🔒 [By EbraSha] #🌐smkn-CZ-🇨🇿
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@195.85.23.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #🌐smkn-CZ-🇨🇿
