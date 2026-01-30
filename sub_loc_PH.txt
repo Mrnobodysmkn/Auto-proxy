@@ -1,2 +1,4 @@
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@154.83.2.18:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=🔒 [By EbraSha] #🔒smkn-PH-🇵🇭
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.156:8880?path=🔒 [By EbraSha]&security=none&encryption=none&host=redw.pooriam.ir&type=ws #🌐smkn-PH-🇵🇭
+trojan://amclubs@154.83.2.94:2053/?type=ws&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-PH-🇵🇭
+trojan://amclubs@154.83.2.61:8443/?type=ws&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-PH-🇵🇭
+vless://f988794c-cdb2-4842-b604-06e65cf6d040@154.83.2.212:8443/?type=grpc&encryption=none&serviceName=%F0%9F%91%A8%E2%80%8D%F0%9F%9A%80Free%F0%9F%91%A8%E2%80%8D%F0%9F%9A%80&security=tls&sni=🔒 [By EbraSha] #🔒smkn-PH-🇵🇭
