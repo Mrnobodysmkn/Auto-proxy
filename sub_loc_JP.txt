@@ -1,19 +1,21 @@
-trojan://share.mjj-home.com@185.212.56.168:443?security=tls&sni=🔒 [By EbraSha]&type=tcp #🔒smkn-JP-🇯🇵
-trojan://3669023846591373312@35.75.186.204:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@47.79.92.16:443/?type=ws&encryption=none&host=edccr.ambercc.filegear-sg.me&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+trojan://18844%40zxcvbn@49.212.204.123:443/?type=tcp&security=tls #🔒smkn-JP-🇯🇵
+trojan://7d0f1f83-0f2f-4b90-930e-de44ac233fef@20.210.234.145:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
 trojan://9995cc0e-2e9d-4c80-8c81-4fdbb6322a3a@20.89.130.227:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-ss://86b414b6-966e-4f6d-ab16-32049ef732d3@47.245.38.111:443?security=reality&amp;encryption=none&amp;pbk=y167aJhpgWWjltY4UCir_uu8Mj__Hkc1W4etD0QXYH4&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=🔒 [By EbraSha]&amp;sid=860705e716cbe6ed #🔒smkn-JP-🇯🇵
-trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.81.84:5076?security=tls&headerType=none&type=tcp&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.89.176:5076?security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.117.182:491?security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+trojan://a3fa58b581353bb375d2ddad0f327938@184.168.127.50:443/?type=tcp&security=tls #🔒smkn-JP-🇯🇵
+trojan://Aimer@158.101.145.82:443?security=tls&sni=🔒 [By EbraSha]&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epgc.aimercc.dpdns.org&path=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@152.70.101.24:16094?encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=h3&fp=random&allowInsecure=1&type=ws&host=edgc.aimercc.dpdns.org&path=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
 trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.87.174:3901?security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.130.21:5076?security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTE9ydkxXa0NCQkJ4THFTRWU5UzhsbkM1UExzTmZSaA==@103.75.118.125:443 #🔒smkn-JP-🇯🇵
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.207.83.221:443 #🔒smkn-JP-🇯🇵
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.114.82.97:443 #🔒smkn-JP-🇯🇵
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.241:443 #🔒smkn-JP-🇯🇵
+trojan://869e9086806483ca4744a4cb0f3d6e16@153.121.39.240:5076?security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+vless://7a30b7fc-4868-4d1d-84b8-16a3d3df0139@45.89.109.25:18278/?type=tcp&encryption=none&flow=&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=8Fglzc7t2LS4r1vQWlVMNe_EsFdhMawlxeDacbhmiAg&sid=f0 #🔒smkn-JP-🇯🇵
+trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.72.33:3901?security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.117.182:491?security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+trojan://c1d83c0c7d57cead4379ba14a82df69b@153.121.45.139:3423?security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.57.238:1933?security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.204:443 #🔒smkn-JP-🇯🇵
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443 #🔒smkn-JP-🇯🇵
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.181.211.108:443 #🔒smkn-JP-🇯🇵
+trojan://c1d83c0c7d57cead4379ba14a82df69b@43.207.157.137:491?allowInsecure=0&sni=🔒 [By EbraSha] #🌐smkn-JP-🇯🇵
 trojan://BxceQaOe@52.195.175.115:1112?allowInsecure=1&sni=🔒 [By EbraSha] #🌐smkn-JP-🇯🇵
-trojan://BxceQaOe@54.249.137.88:26378?allowInsecure=1&sni=🔒 [By EbraSha] #🌐smkn-JP-🇯🇵
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@172.105.199.111:8080 #🌐smkn-JP-🇯🇵
-trojan://BxceQaOe@54.249.137.88:1867?allowInsecure=1&sni=🔒 [By EbraSha] #🌐smkn-JP-🇯🇵
-trojan://c1d83c0c7d57cead4379ba14a82df69b@153.121.38.213:3901?allowInsecure=0&sni=🔒 [By EbraSha] #🌐smkn-JP-🇯🇵
+trojan://BxceQaOe@43.207.157.137:2826?allowInsecure=0&sni=🔒 [By EbraSha] #🌐smkn-JP-🇯🇵
+trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.138.24:544?allowInsecure=0&sni=🔒 [By EbraSha] #🌐smkn-JP-🇯🇵
+trojan://c1d83c0c7d57cead4379ba14a82df69b@43.207.157.137:4006?allowInsecure=0&sni=🔒 [By EbraSha] #🌐smkn-JP-🇯🇵
