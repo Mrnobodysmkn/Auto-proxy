@@ -1,2 +1,8 @@
-trojan://5y8y3CwxRVYhyfSY@185.253.46.105:443?security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&type=tcp #🔒smkn-CZ-🇨🇿
-trojan://Aimer@37.157.192.61:9902/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-CZ-🇨🇿
+vless://401374e6-df77-41fb-f638-dad8184f175b@14.102.228.18:443/?type=grpc&encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=h2 #🔒smkn-CZ-🇨🇿
+ss://5157f7cf-c1b1-42e1-ab87-b44657feb6a4@78.159.247.107:443?security=reality&amp;encryption=none&amp;pbk=QqfJ_0Vmng4IZVFl9ZeowP--Ro-RksgYIlCnvfVmlEg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=🔒 [By EbraSha]&amp;sid=b6e0deb35f3e #🔒smkn-CZ-🇨🇿
+vless://4795376d-be72-409d-a31d-530e7ad7adbd@195.85.23.248:443/?type=ws&encryption=none&path=🔒 [By EbraSha]&host=abriabri.abriabri.ir&security=tls&fp=chrome&alpn=h2,http/1.1,h3&sni=🔒 [By EbraSha] #🔒smkn-CZ-🇨🇿
+vless://cc6b985d-0362-4129-8763-38564174fb3e@14.102.228.172:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1%2Ch2&fp=chrome #🔒smkn-CZ-🇨🇿
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@143.244.58.102:443 #🔒smkn-CZ-🇨🇿
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990 #🌐smkn-CZ-🇨🇿
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@14.102.229.186:8880?allowInsecure=0&sni=🔒 [By EbraSha]&type=ws&host=ip.langmanshanxi.top&path=🔒 [By EbraSha] #🌐smkn-CZ-🇨🇿
+vless://d11fd54a-8fd4-4886-bad2-8264cb317ead@14.102.228.77:2052/?type=ws&encryption=none&host=sPeedtest2.sbs.se.vless.sitespeedtest.net&path=🔒 [By EbraSha] #🌐smkn-CZ-🇨🇿
