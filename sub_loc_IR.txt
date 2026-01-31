@@ -1,3 +1,8 @@
-trojan://ttfang@45.131.4.216:2096?security=tls&sni=🔒 [By EbraSha]&type=ws&path=🔒 [By EbraSha]&Host=ttfang.fange.me #🔒smkn-IR-🇮🇷
-vless://c058fe92-58fd-18fe-2ce0-53eebbeb2ceb@185.201.49.30:58097?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp #🌐smkn-IR-🇮🇷
-vless://c058fe92-58fd-18fe-2ce0-53eebbeb2ceb@185.201.49.30:58088/?encryption=none&host=myket.ir&type=tcp&headerType=http #🌐smkn-IR-🇮🇷
+trojan://biS(YrwB,3L$@185.143.235.5:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.125:2053?path=🔒 [By EbraSha]&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.36:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.67:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
+vless://aec91a80-c1cc-4393-97d0-1b67bf331172@185.211.57.210:2080/?encryption=none&host=imam-khomeini.ir&type=tcp&headerType=http #🌐smkn-IR-🇮🇷
+vless://8cf73792-0b3e-8e8b-f833-e86067f7a22c@45.131.4.5:2052/?type=httpupgrade&encryption=none&host=2.v2.www.speedtest.net.blue99shop.ir.&path=🔒 [By EbraSha] #🌐smkn-IR-🇮🇷
+vless://a3aff9fa-0e17-4b39-c80d-19fa9c038214@45.131.4.67:2086/?type=httpupgrade&encryption=none&host=cdn44.almass22.ir&path=🔒 [By EbraSha] #🌐smkn-IR-🇮🇷
+vless://185b746e-d687-4ca6-a5f9-78ee34962f7c@193.134.101.190:9999?security=none&encryption=none&headerType=none&type=tcp&note=@freeOnlineVPN #🌐smkn-IR-🇮🇷
