@@ -1,5 +1,1 @@
-ss://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@45.12.143.147:443?security=reality&amp;encryption=none&amp;pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=🔒 [By EbraSha]&amp;sid=8453e5fd9af927 #🔒smkn-TR-🇹🇷
-vless://75fde681-ec64-4654-86fa-30732e8e179c@62.3.12.185:443/?type=ws&encryption=none&host=nginx-z.pages.dev&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=h3 #🔒smkn-TR-🇹🇷
-ss://52a1f20b-e3e2-4280-a953-1c7e940408b6@103.231.75.17:443/?type=ws&amp;encryption=none&amp;flow=&amp;path=🔒 [By EbraSha]&amp;security=tls&amp;allowInsecure=1 #🔒smkn-TR-🇹🇷
-vless://a8fe2e9f-fde7-44c1-9cf6-9a0bdea50d99@185.226.92.106:80/?type=xhttp&encryption=none&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=40P2evGAFzizxEJ7NzAbL9eBCGxJk7YE6d1le-Qij0s&sid=db86aba349ac #🔒smkn-TR-🇹🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ZXpqbzR1alhDbFZoRVgyUUluRzR1@94.131.123.236:5223 #🌐smkn-TR-🇹🇷
+vless://3c36eadb-747a-4166-8db0-23fec9883ea2@185.8.129.187:443/?type=ws&encryption=none&host=turkish.nscl.ir&path=🔒 [By EbraSha]&ed=2560&eh=Sec-WebSocket-Protocol&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1&allowInsecure=1&fp=chrome #🔒smkn-TR-🇹🇷
