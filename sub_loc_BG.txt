@@ -1,5 +1,6 @@
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@147.78.140.242:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=🔒 [By EbraSha] #🔒smkn-BG-🇧🇬
-trojan://bpb-trojan@89.117.112.181:443/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-BG-🇧🇬
-ss://829658bf-03c4-4c28-81e9-dd6ea141b2d0@147.78.140.0:8443?path=🔒 [By EbraSha]&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=🔒 [By EbraSha] #🔒smkn-BG-🇧🇬
-trojan://ttfang@45.142.120.216:2096?security=tls&sni=🔒 [By EbraSha]&type=ws&path=🔒 [By EbraSha]&Host=ttfang.fange.me #🔒smkn-BG-🇧🇬
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@89.117.112.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #🌐smkn-BG-🇧🇬
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.142.120.188:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=🔒 [By EbraSha] #🔒smkn-BG-🇧🇬
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.142.120.157:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=🔒 [By EbraSha] #🔒smkn-BG-🇧🇬
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@45.142.120.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #🌐smkn-BG-🇧🇬
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@147.78.140.168:8880/?type=ws&encryption=none&host=kjgx.laoyoutiao.link&path=🔒 [By EbraSha] #🌐smkn-BG-🇧🇬
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@89.117.112.186:8880?allowInsecure=0&sni=🔒 [By EbraSha]&type=ws&host=ip.langmanshanxi.top&path=🔒 [By EbraSha] #🌐smkn-BG-🇧🇬
