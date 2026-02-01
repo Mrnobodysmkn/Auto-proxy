@@ -1,6 +1,7 @@
-trojan://biS(YrwB,3L$@185.143.235.5:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
 trojan://NISHIKUITAN111@45.131.4.208:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-IR-🇮🇷
-vless://3c674b63-9a37-4f9f-874a-339256e75f40@185.143.233.200:443/?type=ws&encryption=none&host=bama.ir.nl3.mapirabr.com&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&fp=randomized #🔒smkn-IR-🇮🇷
-vless://10481c73-c937-4e9a-9c6c-5eca96d22577@185.60.59.107:4500?security=none&type=tcp&headerType=http&path=🔒 [By EbraSha]&host=myket.ir #🌐smkn-IR-🇮🇷
-vless://10481c73-c937-4e9a-9c6c-5eca96d22577@185.60.59.107:8008?security=none&type=tcp&headerType=http&path=🔒 [By EbraSha]&host=myket.ir #🌐smkn-IR-🇮🇷
-vless://ad12e358-1a5e-4b10-81d6-a37e6a47eac1@85.133.248.150:2080?path=🔒 [By EbraSha]&security=&encryption=none&type=ws #🌐smkn-IR-🇮🇷
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.51:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
+vless://494613dc-2999-4893-a09b-406e088e458d@45.131.4.156:443/?type=ws&encryption=none&host=azarandooz.awebcontent.workers.dev&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&fp=chrome #🔒smkn-IR-🇮🇷
+vless://2d981224-e967-4dbc-b752-73739a88df01@85.133.237.165:2083/?type=tcp&encryption=none #🔒smkn-IR-🇮🇷
+vless://5155ec49-a7ec-4228-b8df-768b4e4c498d@193.151.143.4:2095?security=none&encryption=none&headerType=none&type=tcp #🌐smkn-IR-🇮🇷
+vless://7de5bb8b-a3ce-4cdf-98f5-9e6fc13345e1@193.151.134.39:1000?security=none&encryption=none&headerType=none&type=tcp #🌐smkn-IR-🇮🇷
+vless://cc340cb2-4093-4907-9135-a6599907c504@37.32.6.8:35021?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp #🌐smkn-IR-🇮🇷
