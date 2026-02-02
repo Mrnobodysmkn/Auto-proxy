@@ -1,4 +1,4 @@
-trojan://7a73f1dc97a70905870c0c0484b12145@133.242.55.38:443/?type=tcp&security=tls #🔒smkn-JP-🇯🇵
-trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.124.55:491?security=tls&headerType=none&type=tcp&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.89.176:5076?security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.130.21:5076?security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@121.80.244.179:12333?encryption=none&security=tls&sni=🔒 [By EbraSha]&fp=random&allowInsecure=1&type=ws&host=cv1.ylka.dpdns.org&path=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+trojan://c1d83c0c7d57cead4379ba14a82df69b@153.121.38.213:3423?security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
 trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.105.192:1933?allowInsecure=0&sni=🔒 [By EbraSha] #🌐smkn-JP-🇯🇵
