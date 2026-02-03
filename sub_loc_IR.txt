@@ -1,11 +1,7 @@
-trojan://NISHIKUITAN111@45.131.4.208:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-IR-🇮🇷
-vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.233.5:443?path=🔒 [By EbraSha]&security=tls&encryption=none&host=1001cns.com.wnticacenidk1.abrmahanair.com&fp=chrome&type=ws&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.199:2053?path=🔒 [By EbraSha]&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
-vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.5:443?path=🔒 [By EbraSha]&security=tls&encryption=none&host=1001co.com.wnticacenich1.mapircdn.com&fp=chrome&type=ws&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
-vless://c058fe92-58fd-18fe-2ce0-53eebbeb2ceb@185.201.49.30:58088/?encryption=none&host=myket.ir&type=tcp&headerType=http #🌐smkn-IR-🇮🇷
-vless://cc340cb2-4093-4907-9135-a6599907c504@37.32.6.8:35021?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp #🌐smkn-IR-🇮🇷
-vless://57cbd1f6-f30f-4d84-ec7b-aefa613cd508@185.143.233.5:80/?type=ws&encryption=none&host=bpm.shaparak.ir&path=🔒 [By EbraSha] #🌐smkn-IR-🇮🇷
-vless://73c4fdef-f27b-404f-8776-9fcd3d5d3acf@185.143.233.5:8880/?type=ws&encryption=none&host=getasa.ir&path=🔒 [By EbraSha] #🌐smkn-IR-🇮🇷
-vless://384193af-acf4-4e3d-a570-5720befa42ee@45.131.4.245:80?security=&type=ws&path=🔒 [By EbraSha]&host=Okhvod.KAshTI.WOrLd&encryption=none #🌐smkn-IR-🇮🇷
-vless://aec91a80-c1cc-4393-97d0-1b67bf331172@185.211.57.210:2080/?encryption=none&host=imam-khomeini.ir&type=tcp&headerType=http #🌐smkn-IR-🇮🇷
-vless://c058fe92-58fd-18fe-2ce0-53eebbeb2ceb@185.201.49.30:58097?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp #🌐smkn-IR-🇮🇷
+vless://da45876f-e3be-477e-b513-6a85e470339b@62.60.193.74:443?type=tcp&path=🔒 [By EbraSha]&host=snapp.ir&headerType=http&security=none #🔒smkn-IR-🇮🇷
+vless://acda7cb1-54f5-4852-b296-5dbe49261f19@85.133.200.76:443/?encryption=none&host=speedtest.net&type=tcp&headerType=http #🔒smkn-IR-🇮🇷
+vless://8e4257a8-668c-40fc-9e53-612aec460652@46.38.146.167:9094?security=none&amp%3Bencryption=none&amp%3Bhost=filmnet.ir&amp%3BheaderType=http&amp%3Btype=tcp #🌐smkn-IR-🇮🇷
+vless://088c41c0-3e11-43cf-aa7a-cd565fcc1f84@5.160.198.166:2024?security=none&encryption=none&headerType=none&type=tcp #🌐smkn-IR-🇮🇷
+vless://34dae96c-1a41-434f-94b6-5507c3a6d318@46.38.146.167:9092?security=none&encryption=none&host=filmnet.ir&headerType=http&type=tcp #🌐smkn-IR-🇮🇷
+ss://8e4257a8-668c-40fc-9e53-612aec460652@46.38.146.167:9093?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=filmnet.ir #🌐smkn-IR-🇮🇷
