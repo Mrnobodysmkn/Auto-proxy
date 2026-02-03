@@ -1,12 +1,8 @@
-trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-trojan://Aimer@27.50.49.251:2083/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-HK-🇭🇰
-trojan://amclubs@103.160.204.1:443/?type=ws&host=tran.amclubstest.nyc.mn&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-trojan://72d8e820-7926-4ce3-a87c-b6969f425c79@103.235.46.40:443/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&fp=chrome #🔒smkn-HK-🇭🇰
-trojan://aef2ca33-b162-409f-8f16-4c736c338412@20.205.37.136:443/?type=tcp&security=tls #🔒smkn-HK-🇭🇰
-trojan://c85761bc-5d74-4ae5-b525-0d32443182fa@45.149.92.71:443/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&fp=chrome #🔒smkn-HK-🇭🇰
-trojan://Aimer@27.50.49.177:8443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@185.244.208.225:17701/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
+vless://401374e6-df77-41fb-f638-dad8184f175b@104.129.167.253:443/?type=grpc&encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=h2 #🔒smkn-HK-🇭🇰
+trojan://SSorg@27.50.49.154:2083/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-HK-🇭🇰
+trojan://SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ@219.76.13.181:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
+vless://3ead7294-b782-42e4-968c-f93ce3bfbdd6@1.1.1.0:443?encryption=none&security=tls&type=ws&host=v2rayge2.free3333.xyz&path=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
 trojan://Aimer@27.50.49.41:2096/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@27.50.49.232:8443?encryption=none&security=tls&type=ws&sni=🔒 [By EbraSha]&host=juzibaipiao.5112233.xyz&path=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-trojan://Aimer@27.50.49.208:443?allowInsecure=1&sni=🔒 [By EbraSha]&type=ws&host=epgc.aimercc.dpdns.org&path=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-trojan://Aimer@27.50.49.74:2087?allowInsecure=1&sni=🔒 [By EbraSha]&type=ws&host=epgc.aimercc.dpdns.org&path=🔒 [By EbraSha] #🌐smkn-HK-🇭🇰
+trojan://Aimer@38.22.88.199:18026/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
+vless://a93eacd2-2852-4d84-9355-fd1e6477dccc@47.242.155.183:80?security=&type=ws&path=🔒 [By EbraSha]&host=datafransfer.tunn.free.hr&encryption=none #🌐smkn-HK-🇭🇰
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990 #🌐smkn-HK-🇭🇰

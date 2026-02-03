@@ -1,9 +1,5 @@
-trojan://9995cc0e-2e9d-4c80-8c81-4fdbb6322a3a@20.89.130.227:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-vless://5d110f18-5a37-4db3-8cf6-f0bced38a1ae@154.85.18.233:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=7yeqj7p-b9BqubE629PrgvcYf4MBV593Ssd7v7l8EBg&sid=83a5b6cd #🔒smkn-JP-🇯🇵
-trojan://a3fa58b581353bb375d2ddad0f327938@184.168.127.50:443/?type=tcp&security=tls #🔒smkn-JP-🇯🇵
-trojan://c1d83c0c7d57cead4379ba14a82df69b@153.121.38.213:3423?security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.68.250:3423?security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.105.192:1933?security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@141.147.161.58:443/?type=ws&encryption=none&host=pvg.aghabeiki.homes #🔒smkn-JP-🇯🇵
+trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.138.24:544?security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@168.138.46.67:443/?type=ws&encryption=none&host=pvg.aghabeiki.homes&path=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@132.226.7.222:443/?type=ws&encryption=none&host=pvg.aghabeiki.homes #🔒smkn-JP-🇯🇵
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@64.110.104.30:443/?type=ws&encryption=none #🔒smkn-JP-🇯🇵
 trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.87.174:3901?allowInsecure=1&sni=🔒 [By EbraSha] #🌐smkn-JP-🇯🇵
-trojan://c1d83c0c7d57cead4379ba14a82df69b@160.16.57.238:1933?allowInsecure=1&sni=🔒 [By EbraSha] #🌐smkn-JP-🇯🇵
