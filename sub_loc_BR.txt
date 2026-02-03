@@ -1,2 +1,3 @@
-vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.238:443/?type=ws&encryption=none&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-BR-🇧🇷
-vless://e4c18050-3e61-42e3-9345-77d4179541c4@185.133.35.21:2087?encryption=none&flow=&type=ws&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=h3,h2,http/1.1&allowInsecure=false #🔒smkn-BR-🇧🇷
+trojan://02926f9e-153a-42c8-8ecd-8fade7009ad1@144.22.250.122:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-BR-🇧🇷
+trojan://trojan@185.133.35.46:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-BR-🇧🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990 #🌐smkn-BR-🇧🇷
