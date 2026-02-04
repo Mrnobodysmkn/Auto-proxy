@@ -1,6 +1,8 @@
-trojan://Aimer@77.232.140.7:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-AE-🇦🇪
-vless://30dd5974-780c-4743-b88a-12a4450bd2a3@144.31.128.129:443?type=tcp&security=reality&headerType=none&fp=chrome&sni=🔒 [By EbraSha]&flow=xtls-rprx-vision&pbk=xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w&sid=c283df7522545f31 #🔒smkn-AE-🇦🇪
-vless://eb5f5964-1b12-457b-b8a6-bca5332e0494@138.128.224.100:443/?type=ws&encryption=none&host=s6.design-mobo.ir&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&fp=chrome #🔒smkn-AE-🇦🇪
+trojan://Aimer@77.232.140.101:2053/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-AE-🇦🇪
+vless://3dc86e4c-331f-4d8e-8408-d035d51f877c@146.75.65.194:443?encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=http/1.1&fp=chrome&allowInsecure=1&type=ws&host=mitivpndozd.global.ssl.fastly.net&path=🔒 [By EbraSha] #🔒smkn-AE-🇦🇪
 vless://b278c7b5-73fa-476a-b546-993be5d0073f@94.183.164.33:8080?security=none&encryption=none&host=myket.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp #🌐smkn-AE-🇦🇪
-ss://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?security=&amp;type=ws&amp;path=🔒 [By EbraSha]&amp;host=iriknet.ir&amp;encryption=none #🌐smkn-AE-🇦🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990 #🌐smkn-AE-🇦🇪
+vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@94.140.0.22:2052/?type=ws&encryption=none&host=register.tunnelbreaking.shop&path=🔒 [By EbraSha] #🌐smkn-AE-🇦🇪
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@94.140.0.186:8880?allowInsecure=0&sni=🔒 [By EbraSha]&type=ws&host=ip.langmanshanxi.top&path=🔒 [By EbraSha] #🌐smkn-AE-🇦🇪
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@77.232.140.177:8880/?type=ws&encryption=none&host=ip.langmanshanxi.top&path=🔒 [By EbraSha] #🌐smkn-AE-🇦🇪
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@77.232.140.20:8880/?type=ws&encryption=none&host=us.laoyoutiao.link&path=🔒 [By EbraSha] #🌐smkn-AE-🇦🇪
+vless://1eba8f10-8e16-484b-be7a-613327727d4d@109.61.18.10:42539?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp #🌐smkn-AE-🇦🇪
