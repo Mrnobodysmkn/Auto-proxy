@@ -1,1 +1,2 @@
-trojan://ttfang@45.130.125.216:2096?security=tls&sni=🔒 [By EbraSha]&type=ws&path=🔒 [By EbraSha]&Host=ttfang.fange.me #🔒smkn-SC-🇸🇨
+vless://51e132c8-5148-49e3-a5ea-9bebb48c0e51@45.130.125.161:443?path=🔒 [By EbraSha]&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=🔒 [By EbraSha] #🔒smkn-SC-🇸🇨
+vless://065c5dfa-cb19-4eb5-89ab-53893a7672dc@45.130.125.162:8443?path=🔒 [By EbraSha]&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=1&sni=🔒 [By EbraSha] #🔒smkn-SC-🇸🇨
