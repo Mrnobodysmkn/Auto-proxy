@@ -1,2 +1,5 @@
+trojan://d2698cf9-c47e-455c-8384-12e642cbba15@89.116.180.179:443?security=tls&sni=🔒 [By EbraSha]&type=ws&path=🔒 [By EbraSha]&host=p6us4.pqjc.buzz #🔒smkn-UA-🇺🇦
 trojan://2e7d3f13-be1b-479c-94ff-0e95c2bd565d@89.116.180.158:443?security=tls&sni=🔒 [By EbraSha]&type=tcp #🔒smkn-UA-🇺🇦
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.180.161:443?encryption=none&security=tls&sni=🔒 [By EbraSha]&type=ws&host=juzibaipiao.5112233.xyz&path=🔒 [By EbraSha] #🔒smkn-UA-🇺🇦
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.180.130:2053?encryption=none&security=tls&sni=🔒 [By EbraSha]&type=ws&host=juzibaipiao.5112233.xyz&path=🔒 [By EbraSha] #🔒smkn-UA-🇺🇦
+vless://401374e6-df77-41fb-f638-dad8184f175b@89.116.180.248:443/?type=grpc&encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=h2 #🔒smkn-UA-🇺🇦
+vless://333c9768-1ce8-4008-990e-ad1a22c6ee27@93.185.165.50:55211?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=5D6U_DRxkNF9I6Sa87j6jvHD_HvhZ9j53rAbZE8Y7lQ&security=reality&sid=1885&sni=🔒 [By EbraSha]&spx=/&type=tcp #🔒smkn-UA-🇺🇦
