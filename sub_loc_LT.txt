@@ -1,5 +1,4 @@
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@89.116.250.49:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=🔒 [By EbraSha] #🔒smkn-LT-🇱🇹
-vless://2ad2e13c-8cb1-4666-8bfb-c42b51df2f1d@86.38.214.18:443?security=tls&sni=🔒 [By EbraSha]&type=grpc&serviceName=/custom_config?ed=2048&fp=chrome&alpn=http/1.1 #🔒smkn-LT-🇱🇹
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@86.38.214.53:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=🔒 [By EbraSha]&security=none #🌐smkn-LT-🇱🇹
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@86.38.214.168:8880/?type=ws&encryption=none&host=kjgx.laoyoutiao.link&path=🔒 [By EbraSha] #🌐smkn-LT-🇱🇹
+trojan://Aimer@86.38.214.186:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-LT-🇱🇹
+trojan://bpb-trojan@89.116.250.94:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-LT-🇱🇹
+vless://51d22c42-5342-4715-a927-1b76226dd4cf@89.116.250.75:8443?security=tls&sni=🔒 [By EbraSha]&type=grpc&serviceName=@vipv2rey@vipv2rey@vipv2rey&encryption=none #🔒smkn-LT-🇱🇹
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@86.38.214.29:8880/?type=ws&encryption=none&host=hk.laoyoutiao.link&path=🔒 [By EbraSha] #🌐smkn-LT-🇱🇹
