@@ -1,2 +1,4 @@
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@195.85.59.101:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=🔒 [By EbraSha] #🔒smkn-CY-🇨🇾
-trojan://NISHIKUITAN111@154.92.9.71:443/?type=tcp&security=tls #🔒smkn-CY-🇨🇾
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@195.85.59.230:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=🔒 [By EbraSha] #🔒smkn-CY-🇨🇾
+vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.151:443?path=🔒 [By EbraSha]&security=tls&alpn=h2,http/1.1&encryption=none&host=simorgh.hpcode.ir&fp=chrome&type=ws&sni=🔒 [By EbraSha] #🔒smkn-CY-🇨🇾
+trojan://4d706727-996f-4427-930d-60f3bd414cf9@203.23.106.193:443?security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&type=tcp #🔒smkn-CY-🇨🇾
+vless://1149be91-5a4f-47de-995f-66f8d7d64498@77.75.199.167:2096?security=tls&sni=🔒 [By EbraSha]&type=ws&host=De13.SiMaNsAnAt.Ir.&fp=chrome&alpn=h2 #🔒smkn-CY-🇨🇾
