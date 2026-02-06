@@ -1,4 +1,4 @@
-vless://401374e6-df77-41fb-f638-dad8184f175b@14.102.228.18:443/?type=grpc&encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=h2 #🔒smkn-CZ-🇨🇿
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@195.85.23.54:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=🔒 [By EbraSha] #🔒smkn-CZ-🇨🇿
-trojan://Aimer@37.157.192.61:9902/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-CZ-🇨🇿
+trojan://NISHIKUITAN111@14.102.228.61:443/?type=ws&host=zb.ylks.xyz&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CZ-🇨🇿
+vless://cc6b985d-0362-4129-8763-38564174fb3e@14.102.228.209:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1%2Ch2&fp=chrome #🔒smkn-CZ-🇨🇿
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@14.102.228.210:2096?encryption=none&security=tls&type=ws&sni=🔒 [By EbraSha]&host=juzibaipiao.5112233.xyz&path=🔒 [By EbraSha] #🔒smkn-CZ-🇨🇿
 vless://b49d8a13-12f6-4613-bb0d-3e2f6244f29c@14.102.228.75:80/?type=ws&encryption=none&host=ov-canada1.09vpn.com&path=🔒 [By EbraSha] #🌐smkn-CZ-🇨🇿
