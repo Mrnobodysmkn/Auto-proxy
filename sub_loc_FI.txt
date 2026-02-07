@@ -1,6 +1,12 @@
-ss://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality&amp;encryption=none&amp;pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=🔒 [By EbraSha]&amp;sid=365c07ed #🔒smkn-FI-🇫🇮
-ss://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=🔒 [By EbraSha]&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=🔒 [By EbraSha] #🔒smkn-FI-🇫🇮
+ss://e11e467c-415c-4545-8973-f7d4cae6bccf@213.176.65.192:443?path=🔒 [By EbraSha]&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;fp=chrome&amp;type=httpupgrade&amp;sni=🔒 [By EbraSha] #🔒smkn-FI-🇫🇮
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.112.82.28:443?path=🔒 [By EbraSha]&Telegram@AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=🔒 [By EbraSha] #🔒smkn-FI-🇫🇮
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.240:443?path=🔒 [By EbraSha]&security=tls&encryption=none&type=ws #🔒smkn-FI-🇫🇮
 vless://3d617588-ae06-4379-bed9-60b6bac8dbdc@141.98.169.100:443?path=🔒 [By EbraSha]&security=tls&encryption=none&type=ws&sni=🔒 [By EbraSha] #🔒smkn-FI-🇫🇮
-trojan://Aimer@95.216.143.166:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-FI-🇫🇮
-vless://0df23c07-b289-4d65-822a-228478ca73bd@5.61.89.225:32061/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&fp=random&security=reality&pbk=e2yc3QjJ1spCe1eLR9cMd_2-TieGJKs2sLKlfW2L-xo&sid= #🔒smkn-FI-🇫🇮
+vless://c7150d62-8775-44ef-9bfa-d4755961427a@45.12.135.111:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&sid=19aa22f681923dc8 #🔒smkn-FI-🇫🇮
+vless://1e9f5961-a660-46ed-c8ad-98461fea739c@95.217.243.42:443?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp #🔒smkn-FI-🇫🇮
+vless://16c0a741-9e93-4fc0-8479-ce582203860f@65.21.181.218:8880/?type=tcp&encryption=none #🌐smkn-FI-🇫🇮
+ss://d6637de9-6df6-4e14-b6c2-9f32df6d5c79@151.101.244.81:80?mode=auto&amp;path=🔒 [By EbraSha]&amp;security=&amp;encryption=none&amp;host=goraz.global.ssl.fastly.net&amp;type=xhttp #🌐smkn-FI-🇫🇮
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo%3D@141.98.4.67:52952 #🌐smkn-FI-🇫🇮
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@37.143.129.98:990 #🌐smkn-FI-🇫🇮
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0M2ZYZjF1TUtiSUtreG9OWUdRTXR0@38.244.137.202:45380 #🌐smkn-FI-🇫🇮
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyV2tSR2g2dEF2OFVtc0hoNGkzRjZ6b3NqMmR6QTZzQ3pYYndxNFRkWHRlenRNZnlBNWFaY0x5NWpZNVo3RlozUVFNY1RWd003VHZpYmR2ellpcmNDN2lEWmFmcDJVNno=@107.181.147.235:40521 #🌐smkn-FI-🇫🇮
