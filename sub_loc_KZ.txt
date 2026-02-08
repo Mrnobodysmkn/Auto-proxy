@@ -1,7 +1,7 @@
-trojan://NISHIKUITAN111@185.176.26.131:443/?type=tcp&security=tls #🔒smkn-KZ-🇰🇿
-trojan://NISHIKUITAN111@195.245.221.107:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-KZ-🇰🇿
-vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339/?type=tcp&encryption=none&flow=&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&sid=e16883e511 #🔒smkn-KZ-🇰🇿
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.176.26.61:2087?encryption=none&security=tls&type=ws&sni=🔒 [By EbraSha]&host=juzibaipiao.5112233.xyz&path=🔒 [By EbraSha] #🔒smkn-KZ-🇰🇿
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.176.26.159:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #🌐smkn-KZ-🇰🇿
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@31.43.179.251:8880?allowInsecure=0&sni=🔒 [By EbraSha]&type=ws&host=cf.d3z.net&path=🔒 [By EbraSha] #🌐smkn-KZ-🇰🇿
-vless://19be7308-1f67-4f47-a09a-48543a741f12@194.76.18.109:2082/?type=httpupgrade&encryption=none&host=Join-bede-CONFIGT.wordperessweb.ir&path=🔒 [By EbraSha] #🌐smkn-KZ-🇰🇿
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@194.76.18.189:443/?security=tls&sni=🔒 [By EbraSha]&type=ws&path=🔒 [By EbraSha] #🔒smkn-KZ-🇰🇿
+trojan://Aimer@31.43.179.27:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-KZ-🇰🇿
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@31.43.179.34:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=🔒 [By EbraSha] #🔒smkn-KZ-🇰🇿
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@31.43.179.213:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=🔒 [By EbraSha] #🔒smkn-KZ-🇰🇿
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@31.43.179.16:2053?path=🔒 [By EbraSha]&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=🔒 [By EbraSha] #🔒smkn-KZ-🇰🇿
+vless://401374e6-df77-41fb-f638-dad8184f175b@31.43.179.38:443?security=tls&sni=🔒 [By EbraSha]&alpn=h2&type=grpc&encryption=none #🔒smkn-KZ-🇰🇿
+ss://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?security=reality&amp;encryption=none&amp;pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=🔒 [By EbraSha]&amp;sid=2001 #🔒smkn-KZ-🇰🇿
