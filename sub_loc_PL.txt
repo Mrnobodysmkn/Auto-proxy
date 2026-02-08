@@ -1,3 +1,8 @@
-trojan://af6a3685-c423-4579-bfea-784c453d5e23@146.59.3.14:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-PL-🇵🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE=@89.223.93.176:41348 #🌐smkn-PL-🇵🇱
+vless://219d848d-60f2-4321-8275-72b9b575b37e@141.101.122.50:443/?type=ws&encryption=none&host=qaa.zhuk.us.kg&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1 #🔒smkn-PL-🇵🇱
+vless://157448af-8ecf-4075-a9e9-b23a6a94899b@84.17.55.151:8443/?type=tcp&encryption=none&security=tls&sni=🔒 [By EbraSha] #🔒smkn-PL-🇵🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@54.36.174.140:443 #🔒smkn-PL-🇵🇱
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.110.168:443 #🔒smkn-PL-🇵🇱
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.110.171:443 #🔒smkn-PL-🇵🇱
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.111.181:443 #🔒smkn-PL-🇵🇱
+ss://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.122.107:80?security=&amp;sni=🔒 [By EbraSha]&amp;type=ws&amp;path=🔒 [By EbraSha]&amp;host=a.mifeng.us.kg&amp;encryption=none #🌐smkn-PL-🇵🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNzkyZmY0YjUxN2ZkZjFj@51.68.146.248:10011 #🌐smkn-PL-🇵🇱
