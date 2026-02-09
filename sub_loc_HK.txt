@@ -1,9 +1,7 @@
-vless://62357561-a129-4b9e-9614-ce2578020866@27.50.48.61:2083/?type=ws&encryption=none&host=edg.comorg.us.kg&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-vless://-----v2ray_fark-----@103.160.204.92:2053?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-ss://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?path=🔒 [By EbraSha]&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;host=vless8-ekh.pages.dev&amp;fp=random&amp;type=ws&amp;sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-vless://-----v2ray_fark-----@103.160.204.92:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-vless://-----v2ray_fark-----@103.160.204.92:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@185.244.208.225:17701/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-trojan://BxceQaOe@112.120.31.36:443?allowInsecure=1&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-vless://a93eacd2-2852-4d84-9355-fd1e6477dccc@47.242.155.183:80?security=&type=ws&path=🔒 [By EbraSha]&host=datafransfer.tunn.free.hr&encryption=none #🌐smkn-HK-🇭🇰
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.183.200:8388 #🌐smkn-HK-🇭🇰
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@43.198.53.11:443?encryption=none&security=tls&sni=🔒 [By EbraSha]&fp=random&type=ws&host=cfed.tgzdyz2.top&path=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
+trojan://72d8e820-7926-4ce3-a87c-b6969f425c79@103.235.46.40:443/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&fp=chrome #🔒smkn-HK-🇭🇰
+vless://fe422413-ef38-4455-8afa-0128e08e8e4e@45.40.59.248:443/?type=ws&encryption=none&host=vn.qhahd.shop&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.49.234:8443/?type=ws&encryption=none&host=edccq.aimercc.filegear-sg.me&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
+trojan://BxceQaOe@43.199.47.199:3292?allowInsecure=1&sni=🔒 [By EbraSha] #🌐smkn-HK-🇭🇰
+trojan://BxceQaOe@43.199.47.199:2569?allowInsecure=1&sni=🔒 [By EbraSha] #🌐smkn-HK-🇭🇰
+trojan://BxceQaOe@43.199.47.199:4183?allowInsecure=1&sni=🔒 [By EbraSha] #🌐smkn-HK-🇭🇰
