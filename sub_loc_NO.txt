@@ -1,1 +1,2 @@
-vless://c310c80c-1e60-42a7-8b01-ca1123df0c16@217.170.206.157:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid= #🔒smkn-NO-🇳🇴
+vless://c310c80c-1e60-42a7-8b01-ca1123df0c16@217.170.206.157:443?security=reality&encryption=none&alpn=h2&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒 [By EbraSha] #🔒smkn-NO-🇳🇴
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=🔒 [By EbraSha] #🔒smkn-NO-🇳🇴
