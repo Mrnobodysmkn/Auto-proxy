@@ -1,1 +1,11 @@
+trojan://7a73f1dc97a70905870c0c0484b12145@133.242.55.38:443/?type=tcp&security=tls #🔒smkn-JP-🇯🇵
+trojan://share.mjj-home.com@185.212.56.168:443?security=tls&sni=🔒 [By EbraSha]&type=tcp #🔒smkn-JP-🇯🇵
 trojan://5c777277-17f2-4272-ae65-7bd00fa4fbaa@18.65.190.65:443/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-JP-🇯🇵
+trojan://5fb072e0ddd631cf66cf752b09210480@202.181.103.246:3076?security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+vless://d706bf16-124a-417b-aaa0-0d6d5efd58fd@38.60.212.251:29059?security=reality&encryption=none&pbk=V_eMkcHXf237wGyfggMHHRvQqw51rW1UJPEIw_T2IE4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&sid=6ba85179e30d4fc2 #🔒smkn-JP-🇯🇵
+trojan://5fb072e0ddd631cf66cf752b09210480@160.16.70.180:3901?security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+trojan://5fb072e0ddd631cf66cf752b09210480@202.181.103.246:3423?security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+trojan://5fb072e0ddd631cf66cf752b09210480@160.16.89.176:3076?security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+trojan://5fb072e0ddd631cf66cf752b09210480@153.121.38.213:276?security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.241:443 #🔒smkn-JP-🇯🇵
+trojan://5fb072e0ddd631cf66cf752b09210480@160.16.85.33:127?allowInsecure=0&sni=🔒 [By EbraSha] #🌐smkn-JP-🇯🇵

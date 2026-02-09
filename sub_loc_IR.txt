@@ -1,6 +1,8 @@
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.158:2053?path=🔒 [By EbraSha]&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
-vless://53a58a9f-204a-4351-b093-16b9ada44071@185.143.233.120:2053/?type=ws&encryption=none&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&fp=chrome #🔒smkn-IR-🇮🇷
-vless://0ff72ab1-88e5-49b2-84f8-5d8734fd6525@185.143.233.120:443/?type=ws&encryption=none&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.51:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
-vless://99431a1c-670c-4dee-a374-2b5a93c9002f@185.143.233.120:80/?type=ws&encryption=none&path=🔒 [By EbraSha] #🌐smkn-IR-🇮🇷
-vless://985acae9-b627-417c-95a8-36b3e3677be2@185.143.233.120:2086/?type=ws&encryption=none&host=getasa.ir&path=🔒 [By EbraSha] #🌐smkn-IR-🇮🇷
+trojan://NISHIKUITAN111@45.131.4.208:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-IR-🇮🇷
+vless://da45876f-e3be-477e-b513-6a85e470339b@62.60.193.74:443?type=tcp&path=🔒 [By EbraSha]&host=snapp.ir&headerType=http&security=none #🔒smkn-IR-🇮🇷
+ss://6fe32852-5f46-4090-8306-f5b419d6a469@85.133.197.236:9828?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=pro30afzar.com #🌐smkn-IR-🇮🇷
+vless://87f6b346-af39-487e-bf4b-5ed9fe3fc75e@5.202.5.140:51444/?type=tcp&encryption=none&security=none #🌐smkn-IR-🇮🇷
+ss://6fe32852-5f46-4090-8306-f5b419d6a469@85.133.197.60:9831?security=none&amp;encryption=none&amp;host=pro30afzar.com&amp;headerType=http&amp;type=tcp #🌐smkn-IR-🇮🇷
+ss://4a107e65-3f98-db72-9739-09f0f27803f2@2.189.255.23:8080/?encryption=none&security=none&fp=chrome&type=ws&path=🔒 [By EbraSha] #🌐smkn-IR-🇮🇷
+vless://93c5e8cb-ed13-42d6-f7af-d80a6fba0f05@94.183.149.230:8080?security=none&encryption=none&headerType=none&type=tcp #🌐smkn-IR-🇮🇷
+ss://eb9a043b-4c36-48e1-8a0a-8d4831b639e4@188.121.124.17:698?path=🔒 [By EbraSha]&amp;security=none&amp;encryption=none&amp;host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com&amp;type=ws #🌐smkn-IR-🇮🇷
