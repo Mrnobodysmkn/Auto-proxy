@@ -1,6 +1,7 @@
-trojan://NISHIKUITAN111@45.131.4.208:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-IR-🇮🇷
-ss://56ac1b8b-fc37-4208-8205-83555d1cc590@81.12.34.247:1010?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp #🌐smkn-IR-🇮🇷
-ss://3591d9e2-edbf-43f1-98dc-00eb607b8c46@85.133.197.236:9828?security=none&amp;encryption=none&amp;host=pro30afzar.com&amp;headerType=http&amp;type=tcp #🌐smkn-IR-🇮🇷
-ss://3591d9e2-edbf-43f1-98dc-00eb607b8c46@85.133.197.56:9830?security=none&amp;encryption=none&amp;host=pro30afzar.com&amp;headerType=http&amp;type=tcp #🌐smkn-IR-🇮🇷
-vless://b010e788-7e9f-48a0-97d9-b3250129eb15@5.160.35.244:7225?security=none&encryption=none&headerType=none&type=tcp #🌐smkn-IR-🇮🇷
-ss://56ac1b8b-fc37-4208-8205-83555d1cc590@81.12.34.247:3650?security=none&amp;encryption=none&amp;host=varzesh3.com&amp;headerType=http&amp;type=tcp #🌐smkn-IR-🇮🇷
+vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.200:443?path=🔒 [By EbraSha]&security=tls&encryption=none&host=aiomovie.ir.wnticaceninl10.mahanmapcdn.com&fp=chrome&type=ws&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
+vless://2d981224-e967-4dbc-b752-73739a88df01@85.133.237.165:2083/?type=tcp&encryption=none #🔒smkn-IR-🇮🇷
+ss://1f1aca59-3be0-43b3-bcc1-c653c6aaa922@95.38.242.203:8443?security=none&amp;encryption=none&amp;host=tgju.org&amp;headerType=http&amp;type=tcp #🌐smkn-IR-🇮🇷
+ss://57fb5cb6-b547-4ee2-90a2-77bd609a29f6@46.38.143.212:3020/?security=none&encryption=none&headerType=none&type=tcp #🌐smkn-IR-🇮🇷
+ss://ffba891f-1e57-4f5f-9325-340e8cc3204c@78.157.42.130:25085?path=🔒 [By EbraSha]&amp;security=&amp;encryption=none&amp;type=ws #🌐smkn-IR-🇮🇷
+vless://8502d622-d449-42bf-9a89-c94b673c829f@77.104.94.20:1012/?type=tcp&encryption=none&path=🔒 [By EbraSha]&host=zula.ir&headerType=http&security=none #🌐smkn-IR-🇮🇷
+vless://026d3137-54d8-4d7b-90d8-a006b60f717e@178.173.148.142:55057?encryption=none&type=tcp&headerType=none&security=none #🌐smkn-IR-🇮🇷
