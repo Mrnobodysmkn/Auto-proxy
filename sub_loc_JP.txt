@@ -1,7 +1,9 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@168.138.50.249:443?encryption=none&security=tls&sni=🔒 [By EbraSha]&type=ws&host=dp.ylks.xyz&path=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-trojan://Aimer@158.101.145.82:443?security=tls&sni=🔒 [By EbraSha]&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epgc.aimercc.dpdns.org&path=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-trojan://5fb072e0ddd631cf66cf752b09210480@160.16.63.16:3423?security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-trojan://5fb072e0ddd631cf66cf752b09210480@153.121.45.139:3901?security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@8.216.121.234:51922/?type=ws&encryption=none&flow=&host=edcck.ambercc.filegear-sg.me&path=🔒 [By EbraSha]&proxyip=ts.hpc.tw&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&packetEncoding=xudp #🔒smkn-JP-🇯🇵
-trojan://5fb072e0ddd631cf66cf752b09210480@160.16.150.76:3423?allowInsecure=0&sni=🔒 [By EbraSha] #🌐smkn-JP-🇯🇵
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@47.79.92.16:443/?type=ws&encryption=none&host=edccr.ambercc.filegear-sg.me&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@52.198.130.69:443?encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=h3&fp=random&allowInsecure=1&type=ws&host=edgc.aimercc.dpdns.org&path=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+trojan://5fb072e0ddd631cf66cf752b09210480@160.16.138.24:3901?security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+vless://d706bf16-124a-417b-aaa0-0d6d5efd58fd@38.60.212.251:29059?security=reality&encryption=none&pbk=V_eMkcHXf237wGyfggMHHRvQqw51rW1UJPEIw_T2IE4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&sid=6ba85179e30d4fc2 #🔒smkn-JP-🇯🇵
+trojan://5fb072e0ddd631cf66cf752b09210480@160.16.138.24:4006?security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
 trojan://5fb072e0ddd631cf66cf752b09210480@160.16.150.76:3901?allowInsecure=0&sni=🔒 [By EbraSha] #🌐smkn-JP-🇯🇵
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8313 #🌐smkn-JP-🇯🇵
+trojan://5fb072e0ddd631cf66cf752b09210480@160.16.150.76:3423?allowInsecure=0&sni=🔒 [By EbraSha] #🌐smkn-JP-🇯🇵
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8316 #🌐smkn-JP-🇯🇵
