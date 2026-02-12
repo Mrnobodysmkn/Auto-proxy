@@ -1,7 +1,8 @@
-vless://6b10e086-7d43-46fa-954a-ad303d7cc37f@185.176.26.195:443?security=tls&sni=🔒 [By EbraSha]&type=grpc&serviceName=grizzlyvpn%2F%3Fed%3D2056 #🔒smkn-KZ-🇰🇿
-vless://401374e6-df77-41fb-f638-dad8184f175b@31.43.179.43:443/?type=grpc&encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=h2 #🔒smkn-KZ-🇰🇿
-vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339/?type=tcp&encryption=none&flow=&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&sid=e16883e511 #🔒smkn-KZ-🇰🇿
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@31.43.179.251:8880?allowInsecure=0&sni=🔒 [By EbraSha]&type=ws&host=cf.d3z.net&path=🔒 [By EbraSha] #🌐smkn-KZ-🇰🇿
-vless://ae564d93-0a3f-40b6-9137-4b73da4432c5@194.76.18.46:2052/?type=httpupgrade&encryption=none&host=ch-configt1.nipytee.info #🌐smkn-KZ-🇰🇿
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.176.26.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #🌐smkn-KZ-🇰🇿
-vless://19be7308-1f67-4f47-a09a-48543a741f12@194.76.18.109:2082/?type=httpupgrade&encryption=none&host=Join-bede-CONFIGT.wordperessweb.ir&path=🔒 [By EbraSha] #🌐smkn-KZ-🇰🇿
+trojan://NISHIKUITAN111@31.43.179.32:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-KZ-🇰🇿
+trojan://Aimer@31.43.179.27:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-KZ-🇰🇿
+vless://01970283-51b9-4ad4-96ef-9dfc8ee3dd74@194.76.18.253:2087/?type=grpc&encryption=none&serviceName=%F0%9F%91%A8%E2%80%8D%F0%9F%9A%80Free%F0%9F%91%A8%E2%80%8D%F0%9F%9A%80&security=tls&sni=🔒 [By EbraSha]&fp=chrome #🔒smkn-KZ-🇰🇿
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzOExiSkNnVWlHWGVDS1ZjNjN0SEpQ@94.198.220.183:64674 #🌐smkn-KZ-🇰🇿
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659 #🌐smkn-KZ-🇰🇿
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@31.43.179.29:8880/?type=ws&encryption=none&host=hk.laoyoutiao.link&path=🔒 [By EbraSha] #🌐smkn-KZ-🇰🇿
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43662 #🌐smkn-KZ-🇰🇿
+vless://19be7308-1f67-4f47-a09a-48543a741f12@194.76.18.253:2082/?type=httpupgrade&encryption=none&host=Join-bede-CONFIGT.wordperessweb.ir&path=🔒 [By EbraSha] #🌐smkn-KZ-🇰🇿
