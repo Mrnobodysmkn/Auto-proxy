@@ -1,8 +1,7 @@
-trojan://Aimer@27.50.49.251:2083/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-HK-🇭🇰
-trojan://Aimer@27.50.49.179:2096/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-trojan://trojan@45.192.222.112:8443/?type=ws&host=store.timimi.dpdns.org&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&fp=chrome #🔒smkn-HK-🇭🇰
-trojan://Aimer@103.30.76.210:444/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@27.50.49.232:8443?encryption=none&security=tls&type=ws&sni=🔒 [By EbraSha]&host=juzibaipiao.5112233.xyz&path=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-trojan://Aimer@27.50.49.61:2096/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-trojan://Aimer@27.50.49.208:443?allowInsecure=1&sni=🔒 [By EbraSha]&type=ws&host=epgc.aimercc.dpdns.org&path=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@47.76.218.163:443/?type=ws&encryption=none&flow=&host=sni.111000.dynv6.net&path=🔒 [By EbraSha]&Telegram #🔒smkn-HK-🇭🇰
+trojan://aef2ca33-b162-409f-8f16-4c736c338412@20.205.37.136:443/?type=tcp&security=tls #🔒smkn-HK-🇭🇰
+trojan://c85761bc-5d74-4ae5-b525-0d32443182fa@45.149.92.71:443/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&fp=chrome #🔒smkn-HK-🇭🇰
+vless://c797aa8a-c03d-48da-9ad4-c9774b14bed2@27.50.48.18:2087/?type=ws&encryption=none&host=ssvvl.esslh.filegear-sg.me&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1 #🔒smkn-HK-🇭🇰
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@27.50.49.238:2096?encryption=none&security=tls&sni=🔒 [By EbraSha]&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=🔒 [By EbraSha]&Telegram #🔒smkn-HK-🇭🇰
+trojan://2f653ecd-c290-451e-a848-f8f525bc5a21@103.188.235.3:321/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&fp=chrome #🔒smkn-HK-🇭🇰
+trojan://Aimer@27.50.49.177:8443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
+trojan://Aimer@27.50.48.21:443?allowInsecure=1&sni=🔒 [By EbraSha]&type=ws&host=epgc.aimercc.dpdns.org&path=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
