@@ -1,7 +1,4 @@
-vless://75fde681-ec64-4654-86fa-30732e8e179c@62.3.12.185:443/?type=ws&encryption=none&host=nginx-z.pages.dev&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=h3 #🔒smkn-TR-🇹🇷
-vless://40a7f95c-f861-4f04-9a6e-55d624c7582c@77.83.245.193:11777?security=reality&encryption=none&pbk=Yx7qVnlZif4zOda3OjieAZm352SaGzy0bNT67xNKGxQ&headerType=none&fp=chrome&spx=/&allowinsecure=0&type=tcp&sni=🔒 [By EbraSha]&sid=a6f7168a7c3e2f77 #🔒smkn-TR-🇹🇷
-vless://40842354-ecd2-47ce-9ac0-dd3fc4e0a614@31.14.10.214:8610?security=reality&encryption=none&pbk=xvrJtraQBog6sqh_40k7ByMg_OpDded6cuGKnWcajC0&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&sid=720f6d88130c4f5b #🔒smkn-TR-🇹🇷
-vless://b7921b64-e415-44a4-a0ea-62bc634346c3@77.83.245.188:34574?security=reality&encryption=none&pbk=jHheKC9Sq9ma4qmDE6nT0Sin4256U9BTuCbdi_WTiys&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=🔒 [By EbraSha]&sid=820988f321c21e98 #🔒smkn-TR-🇹🇷
-vless://4dbc9705-e9d6-53c5-818d-ea62e57bd784@86.38.214.30:2095/?type=httpupgrade&encryption=none&host=Ge.PcStorEaRsOft.iR.&path=🔒 [By EbraSha] #🌐smkn-TR-🇹🇷
-vless://762e148f-39f7-4ef3-a348-c3584bf436d2@86.38.214.30:8080/?type=ws&encryption=none&host=sNaPp.MaStErSrV.ir.&path=🔒 [By EbraSha] #🌐smkn-TR-🇹🇷
-vless://5b97592b-1e9c-7747-e571-b4291f98c6ab@86.38.214.30:8880/?type=httpupgrade&encryption=none&host=LondoN-Ar-25.pcsTorearsOft.iR.&path=🔒 [By EbraSha] #🌐smkn-TR-🇹🇷
+vless://3c36eadb-747a-4166-8db0-23fec9883ea2@185.8.129.187:443/?type=ws&encryption=none&host=turkish.nscl.ir&path=🔒 [By EbraSha]&ed=2560&eh=Sec-WebSocket-Protocol&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1&allowInsecure=1&fp=chrome #🔒smkn-TR-🇹🇷
+vless://19f3b302-fc7c-4fb9-9d35-e55083e97a03@154.53.164.213:443?security=reality&sni=🔒 [By EbraSha]&fp=chrome&pbk=jqrTHDmU7xOCdGGUNZ_orv2GvVHDoCCttUucmaCAH3M&sid=cc&type=grpc&serviceName=@SobyV2ray&encryption=none #🔒smkn-TR-🇹🇷
+vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@86.38.214.53:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=🔒 [By EbraSha]&security=none #🌐smkn-TR-🇹🇷
+vless://1bacbe3f-fa7b-493b-9187-fd3e23153980@88.209.249.38:2626?type=xhttp&encryption=none&path=🔒 [By EbraSha]&host=bitnetvpn.com&mode=auto&security=none #🌐smkn-TR-🇹🇷

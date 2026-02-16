@@ -1,2 +1,8 @@
 trojan://NISHIKUITAN111@190.93.245.32:443/?type=tcp&security=tls #🔒smkn-CR-🇨🇷
-vless://f47ac10b-58cc-4372-a567-0e02b2c3d479@190.93.245.245:80/?type=ws&encryption=none&host=edgetunnelworker.xlz.workers.dev&path=🔒 [By EbraSha] #🌐smkn-CR-🇨🇷
+vless://ba996b5a-855c-4dc0-9e0d-950215c4f0fd@190.93.245.187:2083?path=🔒 [By EbraSha]&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
+vless://31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1@190.93.246.128:443/?type=ws&encryption=none&host=lhxt.xiaomi.win&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&fp=random #🔒smkn-CR-🇨🇷
+trojan://NISHIKUITAN111@190.93.244.223:443/?type=tcp&security=tls #🔒smkn-CR-🇨🇷
+trojan://blue2024@190.93.247.122:443/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-CR-🇨🇷
+trojan://NISHIKUITAN111@190.93.247.81:443/?type=tcp&security=tls #🔒smkn-CR-🇨🇷
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?encryption=none&security=tls&sni=🔒 [By EbraSha]&type=ws&host=sni.111000.indevs.in&path=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@190.93.247.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=🔒 [By EbraSha] #🌐smkn-CR-🇨🇷
