@@ -1,3 +1,3 @@
-vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.26:443?path=🔒 [By EbraSha]&security=tls&alpn=http%2F1.1&encryption=none&host=crolindd.dearcarlotta.cloudns.org&fp=random&type=ws&sni=🔒 [By EbraSha] #🔒smkn-BR-🇧🇷
-vless://cc6b985d-0362-4129-8763-38564174fb3e@45.194.53.212:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1%2Ch2&fp=chrome #🔒smkn-BR-🇧🇷
-vless://cc6b985d-0362-4129-8763-38564174fb3e@45.194.53.216:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1%2Ch2&fp=chrome #🔒smkn-BR-🇧🇷
+vless://fca01448-d84a-436e-9aec-3be1ebdfb350@45.194.53.13:2053?encryption=none&security=tls&sni=🔒 [By EbraSha]&type=ws&host=SB-1U6.PAgEs.dev&path=🔒 [By EbraSha] #🔒smkn-BR-🇧🇷
+trojan://trojan@185.133.35.46:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-BR-🇧🇷
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989 #🌐smkn-BR-🇧🇷
