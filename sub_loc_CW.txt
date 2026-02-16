@@ -1,2 +1,4 @@
-trojan://bpb-trojan@92.60.74.143:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CW-🇨🇼
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@62.72.166.143:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=🔒 [By EbraSha] #🌐smkn-CW-🇨🇼
+trojan://NISHIKUITAN111@5.10.244.100:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-CW-🇨🇼
+trojan://NISHIKUITAN111@5.10.244.182:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-CW-🇨🇼
+vless://401374e6-df77-41fb-f638-dad8184f175b@62.72.166.15:443/?type=grpc&encryption=none&flow=&security=tls&sni=🔒 [By EbraSha]&alpn=h2 #🔒smkn-CW-🇨🇼
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@5.10.245.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #🌐smkn-CW-🇨🇼
