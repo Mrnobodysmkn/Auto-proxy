@@ -1,5 +1,5 @@
-trojan://063bfa6d-c68f-4955-9b33-7555b95988bc@45.144.51.81:443/?type=tcp&security=tls #🔒smkn-PL-🇵🇱
-vless://219d848d-60f2-4321-8275-72b9b575b37e@141.101.122.50:443/?type=ws&encryption=none&host=qaa.zhuk.us.kg&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1 #🔒smkn-PL-🇵🇱
-vless://94a03e9a-74d5-4036-95e9-563cc19355de@144.31.2.20:443/?type=tcp&encryption=none&flow=&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.110.168:443 #🔒smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.111.209:443 #🔒smkn-PL-🇵🇱
+vless://94a03e9a-74d5-4036-95e9-563cc19355de@144.31.4.67:443/?type=tcp&encryption=none&flow=&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-PL-🇵🇱
+vless://211bbb0b-70a7-4792-ad04-cb6e599d2b9e@176.105.253.98:443/?type=ws&encryption=none&host=v.aivpn.filegear-sg.me&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=h3&fp=random #🔒smkn-PL-🇵🇱
+vless://91cc050c-2866-4760-b72f-510f1a8a0165@95.214.55.16:443?security=reality&encryption=none&pbk=L-7MZ5IB5uSmLn34BQsBOF8XaDN3B2as4ye-nWkJEzI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&sid=4a6c2577ce53af9e #🔒smkn-PL-🇵🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@54.36.174.134:443 #🔒smkn-PL-🇵🇱
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.111.195:443 #🔒smkn-PL-🇵🇱
