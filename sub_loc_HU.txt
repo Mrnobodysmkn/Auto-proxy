@@ -1,4 +1,6 @@
-vless://cc6b985d-0362-4129-8763-38564174fb3e@141.11.203.171:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1%2Ch2&fp=chrome #🔒smkn-HU-🇭🇺
+vless://eb071647-72a6-46be-8e89-ff3d228d52f6@217.13.104.154:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=d17bd238f23fba92 #🔒smkn-HU-🇭🇺
 trojan://Aimer@141.11.203.168:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HU-🇭🇺
+vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.202.193:443/?type=grpc&encryption=none&flow=&security=tls&sni=🔒 [By EbraSha]&alpn=h2 #🔒smkn-HU-🇭🇺
 vless://6255a223-325c-4809-960e-ff072156735c@217.13.104.174:1443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=🔒 [By EbraSha]&fp=chrome&pbk=L6JmMq7D45s3pLCMas0Ukf3TWmCgYNEqo8ar8hFkfxY&sid=a2ab4b90e001c0b9&type=tcp&headerType=none #🔒smkn-HU-🇭🇺
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@74.49.214.186:8880?allowInsecure=0&sni=🔒 [By EbraSha]&type=ws&host=ip.langmanshanxi.top&path=🔒 [By EbraSha] #🌐smkn-HU-🇭🇺
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.203.238:2096?encryption=none&security=tls&sni=🔒 [By EbraSha]&fp=chrome&insecure=1&type=ws&host=sni.jpmj.dev&path=🔒 [By EbraSha] #🔒smkn-HU-🇭🇺
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@141.11.203.177:8880?allowInsecure=0&sni=🔒 [By EbraSha]&type=ws&host=ip.langmanshanxi.top&path=🔒 [By EbraSha] #🌐smkn-HU-🇭🇺

@@ -1,5 +1,10 @@
-trojan://NISHIKUITAN111@5.10.244.182:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-CW-🇨🇼
-trojan://ttfang@5.10.244.216:2096?security=tls&sni=🔒 [By EbraSha]&type=ws&path=🔒 [By EbraSha]&Host=ttfang.fange.me #🔒smkn-CW-🇨🇼
+trojan://bpb-trojan@92.60.74.143:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CW-🇨🇼
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@88.216.66.38:443?encryption=none&security=tls&sni=🔒 [By EbraSha]&type=ws&host=juzibaipiao.5112233.xyz&path=🔒 [By EbraSha] #🔒smkn-CW-🇨🇼
+trojan://NISHIKUITAN111@5.10.246.119:443/?type=tcp&security=tls #🔒smkn-CW-🇨🇼
+trojan://NISHIKUITAN111@62.72.166.140:443/?type=ws&host=zb.ylks.xyz&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CW-🇨🇼
+vless://cc6b985d-0362-4129-8763-38564174fb3e@5.10.246.163:443/?type=grpc&encryption=none&serviceName=%F0%9F%91%A8%E2%80%8D%F0%9F%9A%80Free%F0%9F%91%A8%E2%80%8D%F0%9F%9A%80&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1%2Ch2 #🔒smkn-CW-🇨🇼
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.246.238:2096?path=🔒 [By EbraSha]&Telegram+@WangCai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=🔒 [By EbraSha] #🔒smkn-CW-🇨🇼
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@62.72.166.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #🌐smkn-CW-🇨🇼
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@62.72.166.168:8880/?type=ws&encryption=none&host=kjgx.laoyoutiao.link&path=🔒 [By EbraSha] #🌐smkn-CW-🇨🇼
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@5.10.245.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #🌐smkn-CW-🇨🇼
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@62.72.166.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #🌐smkn-CW-🇨🇼
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@5.10.246.224:8880/?type=httpupgrade&encryption=none&host=nufillter.jtip.sbs.&path=🔒 [By EbraSha] #🌐smkn-CW-🇨🇼
