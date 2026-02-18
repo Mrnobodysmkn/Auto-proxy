@@ -1,8 +1,4 @@
-vless://fc7d5074-cf6d-42bc-9cf4-a76811aca6c0@95.38.135.155:8443/?type=ws&encryption=none&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
-vless://44bb30a9-d89e-4b92-c78f-b68e4eedc99c@46.38.138.221:2020?security=none&encryption=none&headerType=none&type=tcp #🌐smkn-IR-🇮🇷
-vless://c92bc4cf-0db4-4662-9e4f-b9592e8e8692@95.38.54.114:35869?security=none&amp%3Bencryption=none&amp%3Bhost=speedtest.net&amp%3BheaderType=http&amp%3Btype=tcp #🌐smkn-IR-🇮🇷
+trojan://dTaXAtuoQF@185.143.235.200:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.125:2053?path=🔒 [By EbraSha]&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
 vless://1ebb8cb2-b474-426b-ad6d-c2b50dfcf7f6@45.84.157.54:5051/?security=none&encryption=none&headerType=http&type=tcp #🌐smkn-IR-🇮🇷
-vless://e6056cc5-1ec5-4dad-a5c1-ffe4ccde51b8@94.183.150.57:2323?encryption=none&security=none&type=tcp&headerType=none #🌐smkn-IR-🇮🇷
-vless://6d5179d9-434e-40a7-9a10-f46564ea0289@85.133.237.230:6556?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&type=tcp&security=none&encryption=none #🌐smkn-IR-🇮🇷
-vless://f2aa5a39-ca4b-4bbf-b056-3db4ce8268f6@109.95.67.214:2096?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp #🌐smkn-IR-🇮🇷
-ss://ac1f0cd3-9550-4227-f88a-2def83b2f79c@46.38.138.221:9090?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp #🌐smkn-IR-🇮🇷
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.126:80/?type=ws&encryption=none&host=gozargah.validbv7996.ir&path=🔒 [By EbraSha] #🌐smkn-IR-🇮🇷
