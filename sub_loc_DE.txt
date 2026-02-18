@@ -1,43 +1,26 @@
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443?path=🔒 [By EbraSha]&amp;security=tls&amp;encryption=none&amp;host=sni.111000.indevs.in&amp;type=ws&amp;sni=🔒 [By EbraSha] #🔒smkn-DE-🇩🇪
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.80.111.195:2053?path=🔒 [By EbraSha]&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=🔒 [By EbraSha] #🔒smkn-DE-🇩🇪
-vless://74707bb8-e23e-4227-b6ed-a8233b1f5fa9@5.182.87.141:443?security=reality&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&type=tcp&fp=random&pbk=LoNYZgZ6WvqA2qkrVwkz4RHWnjoFTzw4h59F0GeAqh0&sid=a7c159&alpn=http%2F1.1 #🔒smkn-DE-🇩🇪
-vless://b8bd42a9-551f-419d-b70d-4aefdd2cb074@204.10.194.78:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=🔒 [By EbraSha]&fp=safari #🔒smkn-DE-🇩🇪
-ss://fa-397456379-1771011336319933@50.7.157.212:443?security=reality&amp;encryption=none&amp;pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&amp;headerType=none&amp;fp=random&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=🔒 [By EbraSha]&amp;sid=d1d42381ba35 #🔒smkn-DE-🇩🇪
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.63.154:2053?path=🔒 [By EbraSha]&Telegram&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&fp=chrome&type=ws&allowInsecure=0&sni=🔒 [By EbraSha] #🔒smkn-DE-🇩🇪
-trojan://665c944d-047d-4659-80d5-3eaac70241a9@139.162.158.172:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-DE-🇩🇪
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.247.23.140:443?encryption=none&security=tls&sni=🔒 [By EbraSha]&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=🔒 [By EbraSha] #🔒smkn-DE-🇩🇪
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.12:443/?type=ws&encryption=none&flow=&path=🔒 [By EbraSha]&security=tls&allowInsecure=1 #🔒smkn-DE-🇩🇪
+vless://c8898cfd-9927-4f36-b7bc-40de76076b80@45.150.174.80:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=lyLhdojpACv6B3tHViJvPjNGATedXYRMnpAt4n4Siyo&sid=f203719d3ff9a5f5 #🔒smkn-DE-🇩🇪
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.80.111.67:2053?path=🔒 [By EbraSha]&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=🔒 [By EbraSha] #🔒smkn-DE-🇩🇪
+vless://0ecc93f5-f30d-47a2-a763-3efeb2a00cc8@94.130.132.223:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=XwmblvweauAJK87G-he0C5OQ-S4Czs1X5BXnbJ7UkiU&sid=661ee8b0696b45 #🔒smkn-DE-🇩🇪
+vless://14eba471-4623-4ed1-b937-f5b2206749bf@91.99.168.213:443?mode=gun&security=reality&encryption=none&pbk=UrGT7bAn2UND3kx81QHACf_6qReN8V6_o70kZerONk4&fp=chrome&type=grpc&serviceName=Telegram-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers-%40HELIX_Servers&sni=🔒 [By EbraSha]&sid=1c547814 #🔒smkn-DE-🇩🇪
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.80.111.32:443/?type=grpc&encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=h2 #🔒smkn-DE-🇩🇪
+vless://jina@20.218.137.249:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=🔒 [By EbraSha]&alpn=http/1.1&allowInsecure=1&fp=chrome #🔒smkn-DE-🇩🇪
+vless://jina@4.185.113.10:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒 [By EbraSha] #🔒smkn-DE-🇩🇪
+vless://1b6ae0f5-01dc-4b96-bca9-31c672dcf0aa@50.7.85.221:443?security=tls&sni=🔒 [By EbraSha]&type=ws&path=🔒 [By EbraSha]&host=mohsenfitshr.wibibin259.workers.dev&encryption=none #🔒smkn-DE-🇩🇪
 ss://9bc48566-76f9-44d7-8ad0-af41336b4004@87.120.165.214:443?security=reality&amp;encryption=none&amp;pbk=7tgf5o3AfrE-TWqB3CpBuuZyt7S9tJq6TZ26gPWNyzY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=🔒 [By EbraSha]&amp;sid=3549df188940fe #🔒smkn-DE-🇩🇪
-vless://f0b15f64-db59-438c-b1b6-f1b83db52240@217.154.194.55:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid= #🔒smkn-DE-🇩🇪
-vless://c8898cfd-9927-4f36-b7bc-40de76076b80@91.238.82.242:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=🔒 [By EbraSha]&fp=chrome #🔒smkn-DE-🇩🇪
-ss://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.5:443/?type=ws&amp;encryption=none&amp;flow=&amp;path=🔒 [By EbraSha]&amp;security=tls&amp;allowInsecure=1 #🔒smkn-DE-🇩🇪
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.247.158:443/?type=ws&encryption=none&flow=&path=🔒 [By EbraSha]&security=tls&allowInsecure=1 #🔒smkn-DE-🇩🇪
-vless://f74d98a4-9198-4f78-b921-47d4f4950953@185.236.26.58:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-DE-🇩🇪
-vless://50190347-9a85-4386-bd33-98bc5bc238cd@5.75.194.13:80?security=reality&encryption=none&pbk=n0ZEgbjhlEmpHtlX0khZNVZV3qsGYYXwPztkgyG2xAA&headerType=none&fp=chrome&spx=/&type=tcp&sni=🔒 [By EbraSha]&sid=53162280ce86 #🔒smkn-DE-🇩🇪
-vless://651de6cb-df22-45cd-8842-438fdbef87fb@2.59.135.137:7022/?type=tcp&encryption=none&sni=🔒 [By EbraSha]&fp=firefox&security=reality&pbk=vj5pvcr-2G1kK7hKp937WrwAPtVg4p94HpqeCAuauD4&sid= #🔒smkn-DE-🇩🇪
-vless://91a5d5b3-4b88-4359-aeec-e1532f535fd6@91.99.195.6:80?mode=gun&security=reality&encryption=none&pbk=ZO276Z5WXIqCmNLXT8Lewzjhhgm365JUJXAKyKq8Rz4&fp=chrome&type=grpc&serviceName=refersion.com&sni=🔒 [By EbraSha]&sid=bc063769cb #🔒smkn-DE-🇩🇪
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.9.6.32:48484?encryption=none&security=tls&sni=🔒 [By EbraSha]&fp=chrome&type=ws&host=sni.111000.indevs.in&path=🔒 [By EbraSha] #🔒smkn-DE-🇩🇪
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@181.214.1.234:2087?encryption=none&security=tls&sni=🔒 [By EbraSha]&type=ws&host=juzibaipiao.5112233.xyz&path=🔒 [By EbraSha] #🔒smkn-DE-🇩🇪
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@209.250.236.123:8443?path=🔒 [By EbraSha]&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=1&sni=🔒 [By EbraSha] #🔒smkn-DE-🇩🇪
+vless://03764d9b-0b74-4734-8507-43fab103f3e2@49.13.117.194:443/?type=grpc&encryption=none&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=FQ91JdFD-slVwUfqbs_zkQ9uSGfJ6EOmlsEey1nx2XU&sid=7f91df #🔒smkn-DE-🇩🇪
+vless://31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1@141.147.18.66:443/?type=ws&encryption=none&host=lhxt.xiaomi.win&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-DE-🇩🇪
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@116.203.58.165:443?path=🔒 [By EbraSha]&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=🔒 [By EbraSha] #🔒smkn-DE-🇩🇪
 vless://edac7ec0-c409-4262-a4a1-0d4d39342b0c@172.105.65.246:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp #🔒smkn-DE-🇩🇪
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@141.95.126.108:443 #🔒smkn-DE-🇩🇪
-vless://c4335777-e8c8-438b-9364-4bbae410b262@91.99.144.152:443?flow=&type=tcp&headerType=http&host=zula.ir&path=🔒 [By EbraSha]&security=none #🔒smkn-DE-🇩🇪
+vless://82aa1f3f-29d4-42ab-a5d5-66b13ba13545@91.98.41.36:443?mode=stream-one&path=🔒 [By EbraSha]&security=none&encryption=none&type=xhttp #🔒smkn-DE-🇩🇪
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.210:443/?encryption=none&host=zula.ir&type=tcp&headerType=http #🔒smkn-DE-🇩🇪
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.145.219:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp #🔒smkn-DE-🇩🇪
-vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.195.73:443/?encryption=none&host=zula.ir&type=tcp&headerType=http #🔒smkn-DE-🇩🇪
-trojan://NISHIKUITAN111@154.197.75.171:443?allowInsecure=1 #🔒smkn-DE-🇩🇪
-vless://aa4f5b15-cc52-4ff7-988e-69da1d3c3f31@188.245.215.248:443/?type=ws&encryption=none&host=4h4.ghalikermaniz.info&path=🔒 [By EbraSha] #🔒smkn-DE-🇩🇪
-vless://04bb5055-bc44-4d21-85c7-42317dd5fd37@91.99.182.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp #🔒smkn-DE-🇩🇪
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.169.128:443 #🔒smkn-DE-🇩🇪
+vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443/?encryption=none&host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&type=tcp&headerType=http #🔒smkn-DE-🇩🇪
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.95.127.132:2053?path=🔒 [By EbraSha]&Telegram #🔒smkn-DE-🇩🇪
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.83.138:443?security=&encryption=none&host=zula.ir/?TELEGRAM@VPN66&headerType=http&type=tcp #🔒smkn-DE-🇩🇪
+vless://e77fbe65-01fe-48d0-8069-f6fa8f7a6d81@104.248.142.176:443?allowInsecure=0&sni=🔒 [By EbraSha] #🔒smkn-DE-🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNmIwOTczNDAxODU4YjI5@57.129.95.198:11201 #🌐smkn-DE-🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NWQzZDhjY2JhMjg3ZDNl@135.125.245.131:20939 #🌐smkn-DE-🇩🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZWpTUnlxYTAzM09FUG1FUXN2UnNs@194.59.183.134:46114 #🌐smkn-DE-🇩🇪
-ss://YWVzLTI1Ni1nY206OWRRUzNnZWV5bHlyUnRoOQ@2.58.81.221:80 #🌐smkn-DE-🇩🇪
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.75.70.204:8443?path=🔒 [By EbraSha]&Telegram #🌐smkn-DE-🇩🇪
-vless://30daf8cd-1b3a-455c-af2b-14ec6b21dcb3@91.98.228.205:14560?security=none&encryption=none&headerType=none&type=tcp #🌐smkn-DE-🇩🇪
-vless://91ffc858-0f92-4214-831d-2c27a207547f@91.98.43.14:24663?path=🔒 [By EbraSha]&security=none&encryption=none&type=ws #🌐smkn-DE-🇩🇪
-ss://e73f6908-d248-4c22-86f3-2a299db04ea8@188.245.108.31:80?path=🔒 [By EbraSha]&amp;security=none&amp;encryption=none&amp;host=de1.mmad.news&amp;type=httpupgrade #🌐smkn-DE-🇩🇪
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.80.111.147:80/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #🌐smkn-DE-🇩🇪
-vless://bb7b030f-fd37-488a-be1f-1a26d874cb26@91.99.220.150:8443?mode=stream-one&path=🔒 [By EbraSha]&security=&encryption=none&type=xhttp #🌐smkn-DE-🇩🇪
+vless://13585423-5690-4f4f-837d-b9fab7872846@135.125.207.34:80?encryption=none&security=none&type=ws&host=de1.v2vless.xyz&path=🔒 [By EbraSha] #🌐smkn-DE-🇩🇪
+vless://1d547b7b-1dce-4c3c-ab62-c23235b383e2@146.75.119.82:80?mode=auto&path=🔒 [By EbraSha]&security=none&encryption=none&extra=%7B%22xPaddingBytes%22%3A%2210-100%22%2C%22noSSEHeader%22%3Atrue%2C%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%2C%22downloadSettings%22%3A%7B%22address%22%3A%22146.75.119.82%22%2C%22port%22%3A80%2C%22network%22%3A%22xhttp%22%2C%22security%22%3A%22none%22%2C%22xhttpSettings%22%3A%7B%22host%22%3A%22e1.ir%22%2C%22path%22%3A%22%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048%22%2C%22xPaddingBytes%22%3A%2210-100%22%2C%22noSSEHeader%22%3Atrue%2C%22noGRPCHeader%22%3Atrue%7D%7D%7D&host=e1.ir&type=xhttp #🌐smkn-DE-🇩🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NTY4ZTRkOTQ2YjYyMjQ1@135.125.245.131:19700 #🌐smkn-DE-🇩🇪
-vless://04ba133d-1f99-4f5c-b942-bed79cddd0a0@146.75.123.82:80/?type=xhttp&encryption=none #🌐smkn-DE-🇩🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGM0NTVjOWYxOWFhM2E1@57.129.94.79:11206 #🌐smkn-DE-🇩🇪
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@140.99.233.188:8880?allowInsecure=0&sni=🔒 [By EbraSha]&type=ws&host=ip.langmanshanxi.top&path=🔒 [By EbraSha] #🌐smkn-DE-🇩🇪
+vless://30daf8cd-1b3a-455c-af2b-14ec6b21dcb3@91.98.228.205:14560?security=none&encryption=none&headerType=none&type=tcp #🌐smkn-DE-🇩🇪
