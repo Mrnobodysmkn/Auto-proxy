@@ -1,8 +1,11 @@
-trojan://NISHIKUITAN111@190.93.246.107:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-CR-🇨🇷
-trojan://bpb-trojan@190.93.244.202:443/?type=ws&host=fcspring.ggff.net&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
+trojan://blue2024@190.93.245.114:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
+trojan://NISHIKUITAN111@190.93.245.80:443/?type=tcp&security=tls #🔒smkn-CR-🇨🇷
+trojan://NISHIKUITAN111@190.93.244.223:443/?type=tcp&security=tls #🔒smkn-CR-🇨🇷
+vless://8ce6e2fe-23f5-4478-80b7-745779c52577@190.93.246.29:443?path=🔒 [By EbraSha]&security=tls&encryption=none&host=lv.2138937.xyz&type=ws&sni=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
+trojan://NISHIKUITAN111@190.93.247.81:443/?type=tcp&security=tls #🔒smkn-CR-🇨🇷
 trojan://NISHIKUITAN111@190.93.245.75:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-CR-🇨🇷
+trojan://blue2024@190.93.247.68:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
+trojan://bpb-trojan@190.93.245.14:443/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-CR-🇨🇷
+trojan://blue2024@190.93.244.198:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
 trojan://NISHIKUITAN111@190.93.246.45:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-CR-🇨🇷
-vless://dd6af632-e4bb-400a-922f-43f75ec89d64@190.93.245.94:443?mode=auto&path=🔒 [By EbraSha]&security=tls&alpn=h2&encryption=none&insecure=0&host=api-ws-de.nxping.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?security=tls&amp;encryption=none&amp;type=ws&amp;sni=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@190.93.245.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #🌐smkn-CR-🇨🇷
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@190.93.246.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #🌐smkn-CR-🇨🇷
+trojan://bpb-trojan@190.93.245.69:443/?type=ws&host=fcspring.ggff.net&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷

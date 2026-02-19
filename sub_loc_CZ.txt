@@ -1,2 +1,4 @@
-trojan://NISHIKUITAN111@14.102.228.61:443/?type=ws&host=zb.ylks.xyz&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CZ-🇨🇿
+vless://401374e6-df77-41fb-f638-dad8184f175b@14.102.228.18:443/?type=grpc&encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=h2 #🔒smkn-CZ-🇨🇿
 trojan://ttfang@14.102.228.216:2096?security=tls&sni=🔒 [By EbraSha]&type=ws&path=🔒 [By EbraSha]&Host=ttfang.fange.me #🔒smkn-CZ-🇨🇿
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.238:2096?path=🔒 [By EbraSha]&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=🔒 [By EbraSha] #🔒smkn-CZ-🇨🇿
+vless://85a15603-7fb2-4c53-967c-4e3c63523a41@14.102.229.179:80/?type=ws&encryption=none&host=Www.speedtest.net.sPeedtest2.sbs.&path=🔒 [By EbraSha] #🌐smkn-CZ-🇨🇿
