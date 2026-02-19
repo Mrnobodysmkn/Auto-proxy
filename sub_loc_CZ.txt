@@ -1,1 +1,2 @@
-trojan://blue2024@14.102.229.63:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CZ-🇨🇿
+vless://6ab80df3-5f07-4aa7-9aed-44d6db54aa3f@194.182.64.209:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒 [By EbraSha] #🔒smkn-CZ-🇨🇿
+vless://cc6b985d-0362-4129-8763-38564174fb3e@14.102.228.172:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1%2Ch2&fp=chrome #🔒smkn-CZ-🇨🇿
