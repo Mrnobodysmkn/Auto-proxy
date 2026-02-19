@@ -1,7 +1,4 @@
-trojan://biS(YrwB,3L$@185.143.235.5:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
-vless://fc7d5074-cf6d-42bc-9cf4-a76811aca6c0@95.38.135.155:8443/?type=ws&encryption=none&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.249:2053?path=🔒 [By EbraSha]&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
 vless://da45876f-e3be-477e-b513-6a85e470339b@62.60.193.74:443?type=tcp&path=🔒 [By EbraSha]&host=snapp.ir&headerType=http&security=none #🔒smkn-IR-🇮🇷
-vless://f3db0ad5-ea47-41b6-be3d-d0d188c0de1b@193.151.139.212:8268/?security=none&encryption=none&headerType=none&type=tcp #🌐smkn-IR-🇮🇷
-vless://57b0a155-7f03-4baa-b6aa-70cd87cf5d39@213.176.121.214:2002?security=none&encryption=none&host=skyroom.online%2C%20gharar.ir%2C%20igap.net&headerType=http&type=tcp #🌐smkn-IR-🇮🇷
+vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?security=&encryption=none&headerType=none&type=tcp #🌐smkn-IR-🇮🇷
 vless://e6056cc5-1ec5-4dad-a5c1-ffe4ccde51b8@94.183.150.57:2323?security=none&encryption=none&headerType=none&type=tcp #🌐smkn-IR-🇮🇷
-vless://99bc0db7-c3ae-0452-8007-4952a172081c@193.151.153.213:3300?security=none&encryption=none&host=fararu.com&headerType=http&type=tcp #🌐smkn-IR-🇮🇷
