@@ -1,3 +1,1 @@
-trojan://2e7d3f13-be1b-479c-94ff-0e95c2bd565d@89.116.180.158:443?security=tls&sni=🔒 [By EbraSha]&type=tcp #🔒smkn-UA-🇺🇦
-trojan://NISHIKUITAN111@194.152.44.218:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-UA-🇺🇦
-ss://c10999b4-7f93-5a50-3908-1467b1e52ae2@91.218.122.10:8443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=VxlbLM9ypmP8KyH65M6nPgArl19XOyREm9oNUlCN2yA&amp;fp=chrome&amp;type=grpc&amp;serviceName=TunService&amp;sni=🔒 [By EbraSha] #🔒smkn-UA-🇺🇦
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@89.116.180.186:8880?allowInsecure=0&sni=🔒 [By EbraSha]&type=ws&host=ip.langmanshanxi.top&path=🔒 [By EbraSha] #🌐smkn-UA-🇺🇦
