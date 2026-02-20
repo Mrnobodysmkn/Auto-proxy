@@ -1,10 +1,16 @@
-vless://627712cf-d0e1-4545-81fb-241e7fda0284@141.253.124.138:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒 [By EbraSha] #🔒smkn-FR-🇫🇷
-vless://73092316-2dd8-4892-8cf2-f06fb911fba8@163.172.191.161:443?security=reality&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&type=tcp&fp=random&pbk=ruDAOYfBIii4SkoBKa7PZ4VgiG9OBHxrUEEvs0ubJ2o&sid=42 #🔒smkn-FR-🇫🇷
-vless://17a6e953-8fac-428c-b86c-8585722b0b52@157.173.127.233:443/?type=tcp&encryption=none&flow=&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=MbTwpwMFXu8duJgVMb_jFpqEuopSWJW1FPH_D6fZAEM&sid=1f #🔒smkn-FR-🇫🇷
-vless://1f9671ee-59bf-4e26-be35-28b396e18635@94.131.118.4:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒 [By EbraSha] #🔒smkn-FR-🇫🇷
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@141.101.120.0:443?path=🔒 [By EbraSha]&security=tls&encryption=none&insecure=0&host=divine-term-f5b2.olav95.workers.dev&type=ws&allowInsecure=0&sni=🔒 [By EbraSha] #🔒smkn-FR-🇫🇷
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.2:8443/?type=ws&encryption=none&host=1750926573911.wk.by.ktff.ssl.com.kokk.cn.cdnktff.pp.ua&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&fp=chrome #🔒smkn-FR-🇫🇷
-ss://fa-397456379-1771019066252887@67.159.24.166:8443?security=reality&amp;encryption=none&amp;pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&amp;headerType=none&amp;fp=random&amp;spx=%2F&amp;allowinsecure=0&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=🔒 [By EbraSha]&amp;sid=d1d42381ba35 #🔒smkn-FR-🇫🇷
-vless://3e5e8070-39b4-4a25-94cf-43c629b54eea@151.101.120.1:80?mode=auto&path=🔒 [By EbraSha]&security=none&encryption=none&host=Cloudshopservis.global.ssl.fastly.net&type=xhttp #🌐smkn-FR-🇫🇷
+trojan://4b040268-f3a5-4136-b1a9-506012e8e3d9@141.101.120.10:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-FR-🇫🇷
+trojan://NISHIKUITAN111@185.193.30.187:443/?type=tcp&security=tls #🔒smkn-FR-🇫🇷
+ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.230:443/?type=ws&amp;encryption=none&amp;flow=&amp;path=🔒 [By EbraSha]&amp;security=tls&amp;allowInsecure=1 #🔒smkn-FR-🇫🇷
+ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.133.58:443/?type=ws&amp;encryption=none&amp;flow=&amp;path=🔒 [By EbraSha]&amp;security=tls&amp;allowInsecure=1 #🔒smkn-FR-🇫🇷
+vless://6bc29783-3ff6-4379-8650-611a7095307b@144.24.206.147:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=🔒 [By EbraSha]&fp=chrome #🔒smkn-FR-🇫🇷
+vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@185.171.202.55:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3 #🔒smkn-FR-🇫🇷
+vless://70b49349-9c87-497e-818c-46006e1c3ce0@193.160.130.112:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid= #🔒smkn-FR-🇫🇷
+trojan://598c19f3-a48e-47cd-8451-1ba04ea094d0@51.91.11.29:80?security=tls&headerType=none&type=tcp&sni=🔒 [By EbraSha] #🔒smkn-FR-🇫🇷
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.244:8443/?type=ws&encryption=none&flow=&path=🔒 [By EbraSha]&security=tls&allowInsecure=1 #🔒smkn-FR-🇫🇷
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.31.238:2096?encryption=none&security=tls&sni=🔒 [By EbraSha]&type=ws&host=sni.jpmj.dev&path=🔒 [By EbraSha] #🔒smkn-FR-🇫🇷
+ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.230:2096/?type=ws&amp;encryption=none&amp;flow=&amp;path=🔒 [By EbraSha]&amp;security=tls&amp;allowInsecure=1 #🔒smkn-FR-🇫🇷
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@129.151.225.228:8443/?type=ws&encryption=none&host=kb.lii2010.us.kg&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1 #🔒smkn-FR-🇫🇷
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.133.58:8443/?type=ws&encryption=none&flow=&path=🔒 [By EbraSha]&security=tls&allowInsecure=1 #🔒smkn-FR-🇫🇷
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.231:80/?type=ws&encryption=none&host=foffmelo.com&path=🔒 [By EbraSha] #🌐smkn-FR-🇫🇷
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.159.106.175:989 #🌐smkn-FR-🇫🇷
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.40:80/?type=ws&encryption=none&host=foffmelo.com&path=🔒 [By EbraSha] #🌐smkn-FR-🇫🇷
-vless://2b7c27b9-dfba-430b-9ee7-88eb1c85af27@51.38.237.113:80?path=🔒 [By EbraSha]&security=&encryption=none&host=---%40ShadowProxy66&type=ws #🌐smkn-FR-🇫🇷
