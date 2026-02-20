@@ -1,3 +1,4 @@
-vless://401374e6-df77-41fb-f638-dad8184f175b@94.140.0.141:443/?type=grpc&encryption=none&flow=&security=tls&sni=🔒 [By EbraSha] #🔒smkn-AE-🇦🇪
-vless://dca945d2-6d9b-434f-8754-3626a6a75e21@94.140.0.74:2087?path=🔒 [By EbraSha]&security=tls&encryption=none&insecure=1&host=aza002.vaslbash.site&type=ws&allowInsecure=1&sni=🔒 [By EbraSha] #🔒smkn-AE-🇦🇪
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@77.232.140.20:8880/?type=ws&encryption=none&host=us.laoyoutiao.link&path=🔒 [By EbraSha] #🌐smkn-AE-🇦🇪
+trojan://Aimer@77.232.140.114:2053/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-AE-🇦🇪
+trojan://Aimer@77.232.140.101:2053/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-AE-🇦🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.139.40:443 #🔒smkn-AE-🇦🇪
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@94.140.0.156:8880?allowInsecure=0&sni=🔒 [By EbraSha]&type=ws&host=kjgx.laoyoutiao.link&path=🔒 [By EbraSha] #🌐smkn-AE-🇦🇪
