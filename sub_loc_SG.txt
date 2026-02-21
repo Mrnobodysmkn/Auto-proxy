@@ -1,15 +1,15 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@164.52.2.100:443/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&fp=chrome #🔒smkn-SG-🇸🇬
-trojan://b7bc6b1c-610d-4d39-ad29-18a0d6902348@13.250.150.119:443/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-SG-🇸🇬
-trojan://Aimer@206.238.236.198:2083/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-SG-🇸🇬
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.86:443/?type=grpc&encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=h2 #🔒smkn-SG-🇸🇬
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@206.238.237.133:443?encryption=none&security=tls&sni=🔒 [By EbraSha]&type=ws&host=cp.ylks.xyz&path=🔒 [By EbraSha] #🔒smkn-SG-🇸🇬
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@206.238.236.101:443/?type=ws&encryption=none&host=vb.zhuk.us.kg&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&packetEncoding=xudp #🔒smkn-SG-🇸🇬
-ss://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.71:443?mode=gun&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;type=grpc&amp;sni=🔒 [By EbraSha] #🔒smkn-SG-🇸🇬
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.8.211.166:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=🔒 [By EbraSha] #🔒smkn-SG-🇸🇬
-trojan://253bc477d4e43c209f2d427272968280@165.22.55.206:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-SG-🇸🇬
-trojan://dns68@206.238.237.1:2087/?type=ws&host=trojan.putata.us.kg&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-SG-🇸🇬
-trojan://c443be95-725d-4da3-a60f-d35af5bfbff8@146.19.196.90:17711/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-SG-🇸🇬
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@194.53.53.156:8880?allowInsecure=0&sni=🔒 [By EbraSha]&type=ws&host=kjgx.laoyoutiao.link&path=🔒 [By EbraSha] #🌐smkn-SG-🇸🇬
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@45.8.211.177:8880?allowInsecure=0&sni=🔒 [By EbraSha]&type=ws&host=ip.langmanshanxi.top&path=🔒 [By EbraSha] #🌐smkn-SG-🇸🇬
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8313 #🌐smkn-SG-🇸🇬
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@45.8.211.184:443/?type=ws&encryption=none&host=rAyAn-12.LeIlA.DpDnS.OrG&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-SG-🇸🇬
+vless://6f995056-7802-4a1d-bff7-61678e626c3f@52.187.36.104:443/?type=ws&encryption=none&host=werrr.azurewebsites.net&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-SG-🇸🇬
+trojan://SSorg@206.238.236.219:2083/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-SG-🇸🇬
+vless://531bf100-1477-487c-a979-6adebf8f105f@206.238.236.65:443/?type=ws&encryption=none&host=vdc.bgm2024.us.kg&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1 #🔒smkn-SG-🇸🇬
+trojan://Aimer@124.156.202.172:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-SG-🇸🇬
+vless://0ee351f5-b9e7-482b-bf1e-873507f09fdc@68.183.178.241:443/?type=tcp&encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=h3%2Ch2%2Chttp%2F1.1 #🔒smkn-SG-🇸🇬
+vless://5a11a29f-59c6-41eb-81d5-855d43822ad0@5.199.166.210:443?security=reality&encryption=none&pbk=VUiT7LrDSuUoPwDTrvpw6U7PeHUNfnFxPqH985EgRFc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&sid=0b827cef #🔒smkn-SG-🇸🇬
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@206.238.237.106:443/?type=ws&encryption=none&host=vb.zhuk.us.kg&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&packetEncoding=xudp #🔒smkn-SG-🇸🇬
+vless://cfd27aaa-5c63-4dee-a629-a386c46c4e2f@51.79.147.28:8081?security=reality&encryption=none&pbk=uYOSeOLxIzI7gnBRnH6-zou0TC4s7vKn0xHbQrXaAg4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&sid=5e78b1a93d #🔒smkn-SG-🇸🇬
+trojan://Aimer@104.234.233.57:35911/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-SG-🇸🇬
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.8.211.220:80/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #🌐smkn-SG-🇸🇬
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg%3D%3D@3.1.195.148:8319 #🌐smkn-SG-🇸🇬
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8313 #🌐smkn-SG-🇸🇬
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpITGs3QWxXM2E4eVkyZVNyYWtKdEVD@31.192.234.199:5223 #🌐smkn-SG-🇸🇬
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@47.245.95.160:1443/?type=ws&encryption=none #🌐smkn-SG-🇸🇬

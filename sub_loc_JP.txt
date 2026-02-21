@@ -1,8 +1,8 @@
+trojan://7a73f1dc97a70905870c0c0484b12145@133.242.55.38:443/?type=tcp&security=tls #🔒smkn-JP-🇯🇵
+trojan://7d0f1f83-0f2f-4b90-930e-de44ac233fef@20.210.234.145:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
 trojan://Aimer@158.101.145.82:443?security=tls&sni=🔒 [By EbraSha]&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epgc.aimercc.dpdns.org&path=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@18.183.158.211:443/?encryption=none&security=tls&sni=🔒 [By EbraSha]&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@47.79.92.16:443/?type=ws&encryption=none&host=edccr.ambercc.filegear-sg.me&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-trojan://18844%40zxcvbn@49.212.204.123:443/?type=tcp&security=tls #🔒smkn-JP-🇯🇵
-trojan://64a59181551b5773e390bd717a7b7c06@160.16.116.227:1281?security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@210.231.178.90:443/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=🔒 [By EbraSha]&Telegram #🔒smkn-JP-🇯🇵
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@132.226.7.222:443/?type=ws&encryption=none&host=pvg.aghabeiki.homes #🔒smkn-JP-🇯🇵
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@103.106.228.175:8009 #🌐smkn-JP-🇯🇵
+trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-JP-🇯🇵
+trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443 #🔒smkn-JP-🇯🇵
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@141.147.161.58:443/?type=ws&encryption=none&host=pvg.aghabeiki.homes #🔒smkn-JP-🇯🇵
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@168.138.46.67:443/?type=ws&encryption=none&host=pvg.aghabeiki.homes&path=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
