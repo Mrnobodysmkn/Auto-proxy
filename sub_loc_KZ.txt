@@ -1,8 +1,5 @@
-trojan://Aimer@31.43.179.27:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-KZ-🇰🇿
-vless://401374e6-df77-41fb-f638-dad8184f175b@31.43.179.38:443?security=tls&sni=🔒 [By EbraSha]&alpn=h2&type=grpc&encryption=none #🔒smkn-KZ-🇰🇿
-vless://9a8a52d6-f24b-4f03-bf6f-f4854717f54e@83.222.23.113:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=Jwam5OBjXf4bffZzA3IqzfcNONIMhYMgjysXPU44XFU&sid=c4da507c203b545a #🔒smkn-KZ-🇰🇿
-trojan://NISHIKUITAN111@195.245.221.107:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-KZ-🇰🇿
-trojan://blue2024@31.43.179.118:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-KZ-🇰🇿
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.176.26.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=🔒 [By EbraSha] #🌐smkn-KZ-🇰🇿
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659 #🌐smkn-KZ-🇰🇿
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660 #🌐smkn-KZ-🇰🇿
+trojan://NISHIKUITAN111@185.176.26.131:443/?type=tcp&security=tls #🔒smkn-KZ-🇰🇿
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@31.43.179.29:8880/?type=ws&encryption=none&host=hk.laoyoutiao.link&path=🔒 [By EbraSha] #🌐smkn-KZ-🇰🇿
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990 #🌐smkn-KZ-🇰🇿
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@31.43.179.188:8880?allowInsecure=0&sni=🔒 [By EbraSha]&type=ws&host=ip.langmanshanxi.top&path=🔒 [By EbraSha] #🌐smkn-KZ-🇰🇿
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@194.76.18.213:8880?allowInsecure=0&sni=🔒 [By EbraSha]&type=ws&host=jp.laoyoutiao.link&path=🔒 [By EbraSha] #🌐smkn-KZ-🇰🇿

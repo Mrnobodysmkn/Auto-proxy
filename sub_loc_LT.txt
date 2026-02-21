@@ -1,3 +1,2 @@
-trojan://bpb-trojan@89.116.250.94:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-LT-🇱🇹
-vless://108940ab-48de-4bee-a018-f9b9a36dd851@181.214.147.79:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=🔒 [By EbraSha]&type=tcp #🔒smkn-LT-🇱🇹
-vless://ff6fb512-147d-419a-9672-e131133f7189@5.199.163.42:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&sid=e0ef3d5c0aacb615 #🔒smkn-LT-🇱🇹
+vless://a2fde2a2-4c79-40fa-b556-a8668e65cca8@84.32.84.33:443?security=tls&sni=🔒 [By EbraSha]&type=ws&path=🔒 [By EbraSha] #🔒smkn-LT-🇱🇹
+vless://51d22c42-5342-4715-a927-1b76226dd4cf@89.116.250.75:8443?security=tls&sni=🔒 [By EbraSha]&type=grpc&serviceName=@vipv2rey@vipv2rey@vipv2rey&encryption=none #🔒smkn-LT-🇱🇹

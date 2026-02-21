@@ -1,7 +1,1 @@
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@185.8.129.187:443/?type=ws&encryption=none&host=turkish.nscl.ir&path=🔒 [By EbraSha]&ed=2560&eh=Sec-WebSocket-Protocol&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1&allowInsecure=1&fp=chrome #🔒smkn-TR-🇹🇷
-vless://010c8bf7-0a43-404f-a6c5-2427acb4d476@38.180.112.88:8443/?type=tcp&encryption=none&flow=&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196 #🔒smkn-TR-🇹🇷
-vless://c10999b4-7f93-5a50-3908-1467b1e52ae2@155.212.110.2:993?security=reality&encryption=none&pbk=GfTzhy59k9CXlAdF819OUVeBdrqIILaDIWa1bddjGnA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒 [By EbraSha] #🔒smkn-TR-🇹🇷
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@86.38.214.213:8880/?type=httpupgrade&encryption=none&host=nufillter.jtip.sbs.&path=🔒 [By EbraSha] #🌐smkn-TR-🇹🇷
-ss://ed29a0e3-5a32-4a7f-8863-277e9f653629@193.31.117.25:8080?security=&amp;type=grpc&amp;encryption=none #🌐smkn-TR-🇹🇷
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@86.38.214.168:8880/?type=ws&encryption=none&host=kjgx.laoyoutiao.link&path=🔒 [By EbraSha] #🌐smkn-TR-🇹🇷
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@86.38.214.20:8880/?type=ws&encryption=none&host=us.laoyoutiao.link&path=🔒 [By EbraSha] #🌐smkn-TR-🇹🇷
+vless://fed05faf-401f-3412-b658-5c96f3095dd0@91.132.51.160:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=qzm3WJz3wvusnMdBDNbj-XboJZWGqClcXOOcM-LexkQ&sid=e164b85aec8a7422 #🔒smkn-TR-🇹🇷
