@@ -1,11 +1,5 @@
-trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@23.102.238.146:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-vless://-----v2ray_fark-----@103.160.204.92:2053?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-trojan://amclubs@103.160.204.1:443/?type=ws&host=tran.amclubstest.nyc.mn&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-vless://401374e6-df77-41fb-f638-dad8184f175b@104.129.167.253:443/?type=grpc&encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=h2 #🔒smkn-HK-🇭🇰
-trojan://Aimer@27.50.49.37:2053/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-vless://-----v2ray_fark-----@103.160.204.92:2087?type=grpc&serviceName=@v2ray_fark@v2ray_fark&security=tls&fp=chrome&alpn=http/1.1&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-trojan://Aimer@156.251.180.181:21698/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-vless://-----v2ray_fark-----@103.160.204.92:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-trojan://Aimer@27.50.49.230:8443/?type=ws&host=epcca.ambercc.filegear-sg.me&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-trojan://Aimer@43.154.34.74:1935/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.218.15.26:8880/?type=httpupgrade&encryption=none&host=nufillter.jtip.sbs.&path=🔒 [By EbraSha] #🌐smkn-HK-🇭🇰
+vless://ab321a49-bc9c-4bb6-915b-a1fcbc7de49c@27.50.48.155:443?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=grpc&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
+trojan://Aimer@27.50.49.166:8443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
+trojan://Aimer@27.50.49.179:2096/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg%3D%3D@216.250.97.118:443 #🔒smkn-HK-🇭🇰
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.149.183.200:8388 #🌐smkn-HK-🇭🇰
