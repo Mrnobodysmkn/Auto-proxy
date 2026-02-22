@@ -1,5 +1,2 @@
-trojan://3723507166611775488@195.133.93.135:443/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&fp=chrome #🔒smkn-CY-🇨🇾
-trojan://4d706727-996f-4427-930d-60f3bd414cf9@203.28.8.28:443?security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&type=tcp #🔒smkn-CY-🇨🇾
-trojan://blue2024@195.85.59.95:443/?type=ws&host=hb.lii2010.us.kg&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CY-🇨🇾
-vless://fd80f56e-93f3-4c85-b2a8-c77216c509a7@195.85.59.95:2052?security=&type=ws&path=🔒 [By EbraSha]&host=asia.tunn.free.hr&encryption=none #🌐smkn-CY-🇨🇾
-vless://a3f9d9b6-3ae4-4c47-9dbf-33b0a5c7f1a5@195.85.59.95:2082/?type=ws&encryption=none&host=0210.uous1wog.workers.dev&path=🔒 [By EbraSha] #🌐smkn-CY-🇨🇾
+trojan://4d706727-996f-4427-930d-60f3bd414cf9@203.23.106.193:443?security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&type=tcp #🔒smkn-CY-🇨🇾
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@195.85.59.101:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=🔒 [By EbraSha] #🔒smkn-CY-🇨🇾

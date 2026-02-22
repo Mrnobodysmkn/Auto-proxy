@@ -1,9 +1,2 @@
-vless://fa-6065669680-1771739566537608@62.3.12.148:443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&sid=d1d42381ba35 #🔒smkn-TR-🇹🇷
-trojan://bpb-trojan@86.38.214.132:443/?type=ws&host=bpb.my79801.com&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-TR-🇹🇷
-vless://3c36eadb-747a-4166-8db0-23fec9883ea2@185.8.129.187:443/?type=ws&encryption=none&host=turkish.nscl.ir&path=🔒 [By EbraSha]&ed=2560&eh=Sec-WebSocket-Protocol&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1&allowInsecure=1&fp=chrome #🔒smkn-TR-🇹🇷
-trojan://tunnel-telegram-ibahad@193.124.46.134:8441?security=tls&alpn=http%2F1.1&host=tr-1.stunnel.cc&headerType=none&type=tcp&sni=🔒 [By EbraSha] #🔒smkn-TR-🇹🇷
-vless://b14403db-b3e6-4b8f-b360-02b51f741abf@86.38.214.27:8443?security=tls&sni=🔒 [By EbraSha]&type=grpc&serviceName=telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER&fp=chrome&alpn=h2,http/1.1 #🔒smkn-TR-🇹🇷
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@86.38.214.177:8880?allowInsecure=0&sni=🔒 [By EbraSha]&type=ws&host=ip.langmanshanxi.top&path=🔒 [By EbraSha] #🌐smkn-TR-🇹🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtdGVsZWdyYW0taWJhaGFk@193.124.46.134:8444 #🌐smkn-TR-🇹🇷
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@86.38.214.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=🔒 [By EbraSha] #🌐smkn-TR-🇹🇷
-vless://1bacbe3f-fa7b-493b-9187-fd3e23153980@88.209.249.38:2626?type=xhttp&encryption=none&path=🔒 [By EbraSha]&host=bitnetvpn.com&mode=auto&security=none #🌐smkn-TR-🇹🇷
+ss://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@45.12.143.147:443?security=reality&amp;encryption=none&amp;pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=🔒 [By EbraSha]&amp;sid=8453e5fd9af927 #🔒smkn-TR-🇹🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYnJZcEpzUmZGdGxLdU8ySHlnQm9E@62.133.63.154:20255 #🌐smkn-TR-🇹🇷
