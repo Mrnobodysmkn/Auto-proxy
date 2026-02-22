@@ -1,8 +1,32 @@
-trojan://NISHIKUITAN111@185.193.30.187:443/?type=tcp&security=tls #🔒smkn-FR-🇫🇷
-trojan://d2adff89-5143-4d67-921f-3478464de5bb@38.180.240.150:443/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&fp=chrome #🔒smkn-FR-🇫🇷
+ss://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.94:443?security=tls&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=🔒 [By EbraSha] #🔒smkn-FR-🇫🇷
 trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.121.206:2053/?type=grpc&security=tls&sni=🔒 [By EbraSha] #🔒smkn-FR-🇫🇷
-ss://0e90f352-e9bc-4834-8ff6-49ba887eded4@109.172.55.122:443?security=tls&amp;encryption=none&amp;type=tcp&amp;sni=🔒 [By EbraSha]&amp;fp=chrome&amp;headerType=none&amp;alpn=h2 #🔒smkn-FR-🇫🇷
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.2:8443/?type=ws&encryption=none&host=1750926573911.wk.by.ktff.ssl.com.kokk.cn.cdnktff.pp.ua&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&fp=chrome #🔒smkn-FR-🇫🇷
-vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.70:80/?type=ws&encryption=none&host=foffmelo.com&path=🔒 [By EbraSha] #🌐smkn-FR-🇫🇷
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.102:2053/?type=ws&encryption=none&host=1749734195126.wk.by.ktff.ssl.com.kokk.cn.aliyun.cdnktff.pp.ua&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&fp=randomized #🔒smkn-FR-🇫🇷
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@141.101.120.127:2053/?type=ws&encryption=none&flow=&host=ir1.airpanel.top&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-FR-🇫🇷
+trojan://NISHIKUITAN222@141.101.120.152:443/?type=ws&host=in.ylks.xyz&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-FR-🇫🇷
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@152.228.134.80:2053/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-FR-🇫🇷
+trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.197:2053/?type=grpc&security=tls&sni=🔒 [By EbraSha] #🔒smkn-FR-🇫🇷
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.75.16.73:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&host=sni.111000.v6.navy&type=ws&sni=🔒 [By EbraSha] #🔒smkn-FR-🇫🇷
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@37.59.97.136:443?encryption=none&security=tls&sni=🔒 [By EbraSha]&insecure=1&type=ws&host=sni.111000.indevs.in&path=🔒 [By EbraSha]&telegram@alixtso #🔒smkn-FR-🇫🇷
+trojan://telegram-id-privatevpns@35.181.35.59:22222?alpn=http/1.1&headerType=none&security=tls&sni=🔒 [By EbraSha]&type=tcp #🔒smkn-FR-🇫🇷
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.35.59:22224?path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&type=ws #🔒smkn-FR-🇫🇷
+vless://Telegram = @digi_config@185.171.202.30:33514?mode=auto&path=🔒 [By EbraSha]&security=reality&encryption=none&pbk=umtoktgt8fKZ76DQbtut49eGGrfGZ7231IdblIvCPmQ&host=mikrotik.com&fp=chrome&spx=/&type=xhttp&sni=🔒 [By EbraSha]&sid=6f8de2cd56eb8ce9 #🔒smkn-FR-🇫🇷
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:2096?encryption=none&security=tls&sni=🔒 [By EbraSha]&insecure=1&type=ws&host=sni.jpmj.dev&path=🔒 [By EbraSha]&telegram+@wangcai2 #🔒smkn-FR-🇫🇷
+vless://5fad3ad2-1a94-40d0-85bb-51eb83f5c7df@109.172.55.232:13760/?type=tcp&encryption=none&flow=&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=ktZ1lxOpDoIq3mk39kNAi1uK0z3qTA6f-6u2KbQmICg&sid=58a8787420b6a153 #🔒smkn-FR-🇫🇷
+trojan://telegram-id-directvpn@35.181.35.59:22223?alpn=http/1.1&headerType=none&security=tls&sni=🔒 [By EbraSha]&type=tcp #🔒smkn-FR-🇫🇷
+ss://fa-397456379-1771019066252887@67.159.24.166:8443?security=reality&amp;encryption=none&amp;pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&amp;headerType=none&amp;fp=random&amp;spx=%2F&amp;allowinsecure=0&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=🔒 [By EbraSha]&amp;sid=d1d42381ba35 #🔒smkn-FR-🇫🇷
+vless://e16a35ea-6715-4e75-9845-d20358bd0876@94.232.247.168:41360?security=reality&encryption=none&pbk=TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU&headerType=&fp=chrome&type=tcp&sni=🔒 [By EbraSha]&sid=1aab45 #🔒smkn-FR-🇫🇷
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.225:8443/?type=ws&encryption=none&host=1750926573911.wk.by.ktff.ssl.com.kokk.cn.cdnktff.pp.ua&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&fp=chrome #🔒smkn-FR-🇫🇷
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.240:8443/?type=ws&encryption=none&flow=&path=🔒 [By EbraSha]&security=tls&allowInsecure=1 #🔒smkn-FR-🇫🇷
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@37.59.21.131:443 #🔒smkn-FR-🇫🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NGR2b1cwVGRLUnE=@161.97.68.139:443 #🔒smkn-FR-🇫🇷
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@149.202.82.172:8080 #🌐smkn-FR-🇫🇷
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:3306 #🌐smkn-FR-🇫🇷
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.54:80/?type=ws&encryption=none&host=foffmelo.com&path=🔒 [By EbraSha] #🌐smkn-FR-🇫🇷
+vless://e4cc893a-09df-4437-9546-4db3e7ab9a0d@185.16.110.30:2052/?type=httpupgrade&encryption=none&host=WWW.tehrANSiman.coM.&path=🔒 [By EbraSha] #🌐smkn-FR-🇫🇷
 vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.0:80/?type=ws&encryption=none&host=foffmelo.com&path=🔒 [By EbraSha] #🌐smkn-FR-🇫🇷
-vless://40510d0f-d4d1-4c86-9c8e-9d584da9710d@51.38.232.101:80?path=🔒 [By EbraSha]&security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws #🌐smkn-FR-🇫🇷
+vless://dea6986e-f445-48cc-be0b-a39b5296485f@151.101.121.163:80?mode=packet-up&path=🔒 [By EbraSha]&security=none&encryption=none&host=kingrezapahlaviiscoming.global.ssl.fastly.net&type=xhttp #🌐smkn-FR-🇫🇷
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.118:80/?type=ws&encryption=none&host=foffmelo.com&path=🔒 [By EbraSha] #🌐smkn-FR-🇫🇷
+ss://YWVzLTI1Ni1nY206QmJPVWdOTFV5VDZyZHJ4RQ@95.111.250.4:80 #🌐smkn-FR-🇫🇷
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.16.110.63:8880?allowInsecure=0&sni=🔒 [By EbraSha]&type=ws&host=sg.laoyoutiao.link&path=🔒 [By EbraSha] #🌐smkn-FR-🇫🇷
+vless://568279ce-dd78-4f33-9e5c-64b18c5505db@151.101.123.233:80/?type=ws&encryption=none&host=foffmelo.com&path=🔒 [By EbraSha] #🌐smkn-FR-🇫🇷
+ss://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.108:8080?path=🔒 [By EbraSha]&amp;security=none&amp;encryption=none&amp;host=1750293123492.china.baidu.bilibili.china.aeko.cn&amp;type=ws #🌐smkn-FR-🇫🇷
