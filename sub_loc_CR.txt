@@ -1,13 +1,11 @@
-trojan://NISHIKUITAN111@190.93.246.8:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-CR-🇨🇷
-trojan://NISHIKUITAN111@190.93.245.75:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-CR-🇨🇷
-trojan://blue2024@190.93.246.21:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
-trojan://blue2024@190.93.247.128:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
-trojan://bpb-trojan@190.93.245.14:443/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-CR-🇨🇷
+trojan://NISHIKUITAN111@190.93.246.45:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-CR-🇨🇷
+vless://dd6af632-e4bb-400a-922f-43f75ec89d64@190.93.245.94:443?mode=auto&path=🔒 [By EbraSha]&security=tls&alpn=h2&encryption=none&insecure=0&host=api-ws-de.nxping.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
+trojan://blue2024@190.93.247.65:443/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-CR-🇨🇷
 trojan://NISHIKUITAN111@190.93.245.32:443/?type=tcp&security=tls #🔒smkn-CR-🇨🇷
-vless://8ce6e2fe-23f5-4478-80b7-745779c52577@190.93.246.29:443?path=🔒 [By EbraSha]&security=tls&encryption=none&host=lv.2138937.xyz&type=ws&sni=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
-vless://42f36835-730c-4ecc-9daf-20121ae7ba47@190.93.244.221:443/?type=ws&encryption=none&host=gozargah.validbv7996.ir&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&fp=random #🔒smkn-CR-🇨🇷
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.247.74:443/?type=ws&encryption=none&host=lv.kpcloud.eu.org&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
-trojan://bpb-trojan@190.93.246.80:443?allowInsecure=1&sni=🔒 [By EbraSha]&type=ws&host=zeming13.us.kg&path=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
+trojan://blue2024@190.93.245.154:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
+trojan://bpb-trojan@190.93.244.66:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
+trojan://7743e1b5-d301-4a66-b765-17094890fae2@190.93.244.105:443/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-CR-🇨🇷
+trojan://blue2024@190.93.245.234:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?security=tls&amp;encryption=none&amp;type=ws&amp;sni=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@190.93.245.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #🌐smkn-CR-🇨🇷
 vless://f47ac10b-58cc-4372-a567-0e02b2c3d479@190.93.245.245:80/?type=ws&encryption=none&host=edgetunnelworker.xlz.workers.dev&path=🔒 [By EbraSha] #🌐smkn-CR-🇨🇷
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@190.93.247.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #🌐smkn-CR-🇨🇷
-vless://781a8eb4-c4f7-4f99-9dee-e80369dbf1ec@190.93.247.121:80/?type=ws&encryption=none&host=us1.rtacg.com&path=🔒 [By EbraSha] #🌐smkn-CR-🇨🇷
