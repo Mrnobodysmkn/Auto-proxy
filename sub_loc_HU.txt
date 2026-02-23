@@ -1,3 +1,5 @@
-vless://cc6b985d-0362-4129-8763-38564174fb3e@141.11.203.171:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1%2Ch2&fp=chrome #🔒smkn-HU-🇭🇺
-vless://0adc7c2b-a11b-4470-964e-e79d256dd1d0@217.13.104.128:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=-cDQPpiRCwOtfQ22cdCd3NkDlqpubdklZXaFGhwUfS8&sid=a20d3ed244c76426 #🔒smkn-HU-🇭🇺
-vless://bb0f3b3d-a3d1-429a-9b75-263bd9200b6f@92.61.70.38:443?security=reality&encryption=none&pbk=jqOwroc2Ua1reEEybEQHxbPt4-Yyo3I5h9M4eZLZ2n0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&sid=9e0d1218f82e3630 #🔒smkn-HU-🇭🇺
+vless://0adc7c2b-a11b-4470-964e-e79d256dd1d0@217.13.104.15:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=dcO8bQEVUFCdwPBpe7o1Dh7wjEryVtEV_dteYVm8LWw&sid=a20d3ed244c76426 #🔒smkn-HU-🇭🇺
+trojan://NISHIKUITAN111@141.11.203.203:443/?type=ws&host=za.ylks.xyz&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-HU-🇭🇺
+trojan://Aimer@141.11.203.168:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HU-🇭🇺
+vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.202.193:443/?type=grpc&encryption=none&flow=&security=tls&sni=🔒 [By EbraSha]&alpn=h2 #🔒smkn-HU-🇭🇺
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.203.238:2096?encryption=none&security=tls&sni=🔒 [By EbraSha]&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=🔒 [By EbraSha]&Telegram@WangCai2 #🔒smkn-HU-🇭🇺

@@ -1,4 +1,14 @@
-trojan://biS(YrwB,3L$@185.143.235.5:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
-vless://6d5179d9-434e-40a7-9a10-f46564ea0289@85.133.237.230:6556?security=none&encryption=none&headerType=none&type=tcp #🌐smkn-IR-🇮🇷
-vless://f8d3b3c4-678d-4a23-a4de-f8613a310a44@78.110.123.32:2095?security=none&encryption=none&headerType=none&type=tcp #🌐smkn-IR-🇮🇷
-vless://74146f74-47fe-4ebb-93fe-c5324852c8c3@81.12.33.167:10010?security=none&type=ws&path=🔒 [By EbraSha]&host=myket.ir&encryption=none #🌐smkn-IR-🇮🇷
+vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.4.173:8443?encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=h3%2Ch2&fp=chrome&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
+vless://2d981224-e967-4dbc-b752-73739a88df01@85.133.237.165:2083/?type=tcp&encryption=none #🔒smkn-IR-🇮🇷
+vless://8cf73792-0b3e-8e8b-f833-e86067f7a22c@45.131.4.5:2052/?type=httpupgrade&encryption=none&host=2.v2.www.speedtest.net.blue99shop.ir.&path=🔒 [By EbraSha] #🌐smkn-IR-🇮🇷
+vless://21cd3b2b-002c-4bfe-b4b5-caaff9e3bb51@37.152.191.195:8989?encryption=none&security=none&type=tcp&headerType=http&host=google.com #🌐smkn-IR-🇮🇷
+vless://4e392aec-fd42-48aa-bc52-a7f927dd7da0@45.84.157.14:9091?security=none&encryption=none&headerType=http&type=tcp #🌐smkn-IR-🇮🇷
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80/?type=ws&encryption=none&host=redfree8.pooriashop.ir&path=🔒 [By EbraSha] #🌐smkn-IR-🇮🇷
+vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@45.131.4.147:8080/?type=xhttp&encryption=none #🌐smkn-IR-🇮🇷
+vless://4e392aec-fd42-48aa-bc52-a7f927dd7da0@45.84.157.14:9092?security=none&encryption=none&headerType=http&type=tcp #🌐smkn-IR-🇮🇷
+vless://4e392aec-fd42-48aa-bc52-a7f927dd7da0@45.84.157.14:9093?security=none&encryption=none&headerType=http&type=tcp #🌐smkn-IR-🇮🇷
+vless://c058fe92-58fd-18fe-2ce0-53eebbeb2ceb@185.201.49.30:58088/?encryption=none&host=myket.ir&type=tcp&headerType=http #🌐smkn-IR-🇮🇷
+vless://4e392aec-fd42-48aa-bc52-a7f927dd7da0@94.184.18.230:5055?security=none&encryption=none&headerType=http&type=tcp #🌐smkn-IR-🇮🇷
+vless://af747c64-0549-a38b-69d0-67dd326eb6a3@91.108.151.11:2087?encryption=none&security=none&type=tcp&headerType=http&host=skyroom.online #🌐smkn-IR-🇮🇷
+vless://4e392aec-fd42-48aa-bc52-a7f927dd7da0@94.184.18.230:5053?security=none&encryption=none&headerType=http&type=tcp #🌐smkn-IR-🇮🇷
+vless://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.133:9000?security=&encryption=none&headerType=http&type=tcp #🌐smkn-IR-🇮🇷
