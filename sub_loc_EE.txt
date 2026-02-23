@@ -1,2 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.159.247.138:2096?type=ws&security=tls&encryption=none&sni=🔒 [By EbraSha]&path=🔒 [By EbraSha]&host=sni.111000.indevs.in&ed=2560&eh=Sec-WebSocket-Protocol #🔒smkn-EE-🇪🇪
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.159.247.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #🌐smkn-EE-🇪🇪
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.80.110.128:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=🔒 [By EbraSha] #🔒smkn-EE-🇪🇪
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.161:2083?security=tls&sni=🔒 [By EbraSha]&type=ws&path=🔒 [By EbraSha] #🔒smkn-EE-🇪🇪
