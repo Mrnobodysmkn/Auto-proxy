@@ -1,2 +1,8 @@
-trojan://NISHIKUITAN111@192.65.217.110:443/?type=tcp&security=tls #🔒smkn-AU-🇦🇺
-trojan://63779501-4c22-4a03-83d3-9f611b227e7b@103.11.214.214:443?security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&type=tcp #🔒smkn-AU-🇦🇺
+ss://e4598260-fb5e-4d0a-f0c2-64259f5c38e7@38.48.124.146:443?security=reality&amp;encryption=none&amp;pbk=Anr46KtqOMc-YF76WafAAMT-0JBv85RtgSTHRvHxwUg&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=🔒 [By EbraSha] #🔒smkn-AU-🇦🇺
+trojan://63779501-4c22-4a03-83d3-9f611b227e7b@103.11.214.137:443?security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&type=tcp #🔒smkn-AU-🇦🇺
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.65.217.138:2096?type=ws&security=tls&encryption=none&fp=chrome&sni=🔒 [By EbraSha]&host=sni.111000.indevs.in&alpn=h2,http/1.1 #🔒smkn-AU-🇦🇺
+ss://YWVzLTI1Ni1nY206U0w0dnpjdmhCSGhUV2l2RA@154.26.155.172:443 #🔒smkn-AU-🇦🇺
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.207.199.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #🌐smkn-AU-🇦🇺
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@103.169.142.188:8880?allowInsecure=0&sni=🔒 [By EbraSha]&type=ws&host=ip.langmanshanxi.top&path=🔒 [By EbraSha] #🌐smkn-AU-🇦🇺
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@103.169.142.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #🌐smkn-AU-🇦🇺
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@103.169.142.186:8880?allowInsecure=0&sni=🔒 [By EbraSha]&type=ws&host=ip.langmanshanxi.top&path=🔒 [By EbraSha] #🌐smkn-AU-🇦🇺
