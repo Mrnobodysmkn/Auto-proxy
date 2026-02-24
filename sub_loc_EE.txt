@@ -1,2 +1,5 @@
-trojan://NISHIKUITAN111@185.159.247.167:443/?type=ws&host=za.ylks.xyz&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-EE-🇪🇪
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.80.110.128:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=🔒 [By EbraSha] #🔒smkn-EE-🇪🇪
+trojan://NISHIKUITAN111@185.159.247.248:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-EE-🇪🇪
+trojan://ttfang@45.80.108.216:2096?security=tls&sni=🔒 [By EbraSha]&type=ws&path=🔒 [By EbraSha]&Host=ttfang.fange.me #🔒smkn-EE-🇪🇪
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.159.247.138:2096?type=ws&security=tls&encryption=none&sni=🔒 [By EbraSha]&path=🔒 [By EbraSha]&host=sni.111000.indevs.in&ed=2560&eh=Sec-WebSocket-Protocol #🔒smkn-EE-🇪🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.36.155:990 #🌐smkn-EE-🇪🇪
