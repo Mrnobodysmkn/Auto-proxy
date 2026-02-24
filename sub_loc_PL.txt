@@ -1,34 +1,7 @@
-vless://94a03e9a-74d5-4036-95e9-563cc19355de@144.31.4.67:443/?type=tcp&encryption=none&flow=&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-PL-🇵🇱
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.153.7.133:443/?type=grpc&encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=h2 #🔒smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.110.170:443 #🔒smkn-PL-🇵🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@54.36.174.134:443 #🔒smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6ZjhucEtnTnpka3NzMnl0bg@217.30.10.18:9088 #🌐smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@217.30.10.18:9011 #🌐smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA@217.30.10.18:9014 #🌐smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg@217.30.10.18:9094 #🌐smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg@217.30.10.18:9041 #🌐smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ@217.30.10.18:9042 #🌐smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@217.30.10.18:9003 #🌐smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6ZkcyYXJ0VW1IZk5UMmNYNw@217.30.10.18:9018 #🌐smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA==@217.30.10.18:9045 #🌐smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ==@217.30.10.18:9060 #🌐smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ==@217.30.10.18:9001 #🌐smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6QmVqclF2dHU5c3FVZU51Wg@217.30.10.18:9024 #🌐smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6VFBxWDhlZGdiQVVSY0FNYg@217.30.10.18:9079 #🌐smkn-PL-🇵🇱
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.153.7.213:8880/?type=ws&encryption=none&host=jp.laoyoutiao.link #🌐smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ@217.30.10.18:9020 #🌐smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WQ@217.30.10.18:9059 #🌐smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw@217.30.10.18:9025 #🌐smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ@217.30.10.18:9038 #🌐smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6Rkc1ZGRMc01QYlY1Q3V0RQ==@217.30.10.18:9050 #🌐smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA@217.30.10.18:9027 #🌐smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag@217.30.10.18:9084 #🌐smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ@217.30.10.18:9006 #🌐smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg@217.30.10.18:9031 #🌐smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg@217.30.10.18:9040 #🌐smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6UVdERHZWRTlucE51clFmQQ@217.30.10.18:9026 #🌐smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6ck5CZk51dUFORkNBazdLQg@217.30.10.18:9056 #🌐smkn-PL-🇵🇱
-vless://c72ad53d-02e9-45a8-bb28-cee88f384fdd@95.135.60.13:4646?type=xhttp&encryption=none&path=🔒 [By EbraSha]&host=bitnetvpn.com&mode=auto&security=none #🌐smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@217.30.10.18:9005 #🌐smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA@217.30.10.18:9064 #🌐smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA@217.30.10.18:9093 #🌐smkn-PL-🇵🇱
+trojan://af6a3685-c423-4579-bfea-784c453d5e23@146.59.3.14:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-PL-🇵🇱
+vless://219d848d-60f2-4321-8275-72b9b575b37e@141.101.122.50:443/?type=ws&encryption=none&host=qaa.zhuk.us.kg&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1 #🔒smkn-PL-🇵🇱
+vless://cc6b985d-0362-4129-8763-38564174fb3e@45.153.7.216:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1%2Ch2&fp=chrome #🔒smkn-PL-🇵🇱
+trojan://Aimer@45.153.7.216:2053/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-PL-🇵🇱
+ss://Y2hhY2hhMjAtcG9seTEzMDU6cHZnejlwcQ@54.36.174.140:443 #🔒smkn-PL-🇵🇱
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.110.169:443 #🔒smkn-PL-🇵🇱
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.111.195:443 #🔒smkn-PL-🇵🇱

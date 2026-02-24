@@ -1,9 +1,4 @@
-trojan://biS(YrwB,3L$@185.143.235.5:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.36:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
-vless://116980b3-d4dc-49cc-acae-30c08766b060@85.133.197.114:2083?encryption=none&security=none&type=tcp&headerType=none #🔒smkn-IR-🇮🇷
-vless://384193af-acf4-4e3d-a570-5720befa42ee@45.131.4.245:80?security=&type=ws&path=🔒 [By EbraSha]&host=Okhvod.KAshTI.WOrLd&encryption=none #🌐smkn-IR-🇮🇷
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.126:80/?type=ws&encryption=none&host=gozargah.validbv7996.ir&path=🔒 [By EbraSha] #🌐smkn-IR-🇮🇷
-vless://589bf544-d1c8-48f1-837b-ac919b757bd8@5.160.198.120:8001?security=&encryption=none&headerType=none&type=tcp #🌐smkn-IR-🇮🇷
-vless://4e392aec-fd42-48aa-bc52-a7f927dd7da0@94.184.18.230:5053?security=none&encryption=none&headerType=http&type=tcp #🌐smkn-IR-🇮🇷
-vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.195.193:26480/?type=tcp&encryption=none&flow= #🌐smkn-IR-🇮🇷
-vless://4e392aec-fd42-48aa-bc52-a7f927dd7da0@94.184.18.230:5055?security=none&encryption=none&headerType=http&type=tcp #🌐smkn-IR-🇮🇷
+vless://c963ea66-7107-4351-8ded-f54a2658bb84@185.232.152.150:8081?security=none&encryption=none&headerType=http&type=tcp #🌐smkn-IR-🇮🇷
+ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=🔒 [By EbraSha]&amp;security=&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws #🌐smkn-IR-🇮🇷
+ss://a98dfd2a-b021-607c-af2d-362ae38c9478@85.133.249.38:58128?security=none&amp;encryption=none&amp;host=myket.ir&amp;headerType=http&amp;type=tcp #🌐smkn-IR-🇮🇷
+ss://fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc@193.151.158.91:9000?security=&amp;encryption=none&amp;headerType=http&amp;type=tcp #🌐smkn-IR-🇮🇷

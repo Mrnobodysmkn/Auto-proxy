@@ -1,4 +1,5 @@
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@54.249.135.43:443?security=tls&amp%3Bsni=🔒 [By EbraSha]&amp%3Btype=ws&amp%3Bpath=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-trojan://3669023846591373312@35.75.186.204:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-trojan://9995cc0e-2e9d-4c80-8c81-4fdbb6322a3a@20.89.130.227:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@172.105.199.111:8080 #🌐smkn-JP-🇯🇵
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@155.248.181.189:443?encryption=none&security=tls&sni=🔒 [By EbraSha]&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=🔒 [By EbraSha]&telegram+@wangcai2 #🔒smkn-JP-🇯🇵
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@139.162.108.5:443?encryption=none&security=tls&sni=🔒 [By EbraSha]&type=ws&host=jp.laoyoutiao.link&path=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+trojan://5c777277-17f2-4272-ae65-7bd00fa4fbaa@18.65.190.65:443/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-JP-🇯🇵
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@64.110.104.30:443/?type=ws&encryption=none #🔒smkn-JP-🇯🇵
+trojan://64a59181551b5773e390bd717a7b7c06@153.121.45.139:3423?allowInsecure=0&sni=🔒 [By EbraSha] #🌐smkn-JP-🇯🇵
