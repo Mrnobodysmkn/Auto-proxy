@@ -1,8 +1,7 @@
 vless://c501c66b-c6c2-456b-b604-80393b83d67f@144.31.232.229:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16 #🔒smkn-FI-🇫🇮
 vless://9a6f3933-590c-4fa6-8957-298a8b8a94bd@142.111.162.39:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=4SvSS7EqHyV_LDW4vB2f7UIj6x_GXsR3vMnqnaxspHo&sid=42237f32aba8 #🔒smkn-FI-🇫🇮
-trojan://Aimer@95.216.143.166:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-FI-🇫🇮
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.240:443?path=🔒 [By EbraSha]&security=tls&encryption=none&type=ws #🔒smkn-FI-🇫🇮
-vless://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&encryption=none&pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&headerType=none&fp=chrome&type=tcp&sni=🔒 [By EbraSha]&sid=cbfe #🔒smkn-FI-🇫🇮
-vless://1e9f5961-a660-46ed-c8ad-98461fea739c@95.217.243.42:443?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp #🔒smkn-FI-🇫🇮
-vless://63d4be35-a762-4bad-9185-d501fe5db7b4@65.109.185.170:8080?path=🔒 [By EbraSha]&security=none&encryption=none&host=188.114.96.7&type=ws #🌐smkn-FI-🇫🇮
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaOTRGb00xeHBXM0NKeml4TUU4Q2pKRUZCaUNGaEtTV2ZMelQ2RTkyUGpoN3k3M1lmTnJ3UGp1NDZHZDRIRTg1ZVhTak5pVHRpQVljNldUc2t1aHhaWkZlYmQ0cmNYZnA=@107.181.147.235:40521 #🌐smkn-FI-🇫🇮
+vless://bd3649eb-1f72-4629-8d20-ee640b03f0e1@45.12.135.99:443?security=reality&allowInsecure=0&encryption=none&type=tcp&path=🔒 [By EbraSha] #🔒smkn-FI-🇫🇮
+vless://escovpn_69551ragul@94.177.13.135:442?security=reality&encryption=none&pbk=Cu05aaBasClv0QGPrbqbMoRmGqanTvIq-oXsmUbFUEo&headerType=none&fp=chrome&spx=/&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&sid=60 #🔒smkn-FI-🇫🇮
+vless://fd8972d7-cf5e-11f0-9970-45e1d80c4039@78.153.139.68:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=pekfYPV5U8EjfQ4_zS5c6I2NnOZ2jUlyMGAWa4FWPF4&sid=58c512b4422e2517 #🔒smkn-FI-🇫🇮
+vless://19773cc6-89a3-47c6-bc10-885460cd2b7b@89.167.17.75:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp #🔒smkn-FI-🇫🇮
+vless://7e6b66dc-6dbc-4d01-a13e-13d0be4f38ef@65.109.208.248:21235/?type=tcp&encryption=none&flow= #🌐smkn-FI-🇫🇮
