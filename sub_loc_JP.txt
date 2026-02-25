@@ -1,5 +1,11 @@
-vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@47.74.6.60:443/?type=tcp&encryption=none&flow=&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&sid=6ba85179e30d4fc2 #🔒smkn-JP-🇯🇵
-trojan://9995cc0e-2e9d-4c80-8c81-4fdbb6322a3a@20.89.130.227:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-trojan://3669023846591373312@35.75.186.204:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-trojan://7d0f1f83-0f2f-4b90-930e-de44ac233fef@20.210.234.145:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@64.110.104.30:443/?type=ws&encryption=none #🔒smkn-JP-🇯🇵
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@47.79.92.16:443/?type=ws&encryption=none&host=edccr.ambercc.filegear-sg.me&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+trojan://share.mjj-home.com@185.212.56.168:443?security=tls&sni=🔒 [By EbraSha]&type=tcp #🔒smkn-JP-🇯🇵
+trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+trojan://262f1d150049457ac1d6e66b020fa980@160.16.138.24:193/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+trojan://64a59181551b5773e390bd717a7b7c06@160.16.132.38:3419?security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+trojan://64a59181551b5773e390bd717a7b7c06@160.16.144.208:3423?security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.142.230.253:587?encryption=none&security=tls&sni=🔒 [By EbraSha]&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=🔒 [By EbraSha]&telegram+@wangcai2 #🔒smkn-JP-🇯🇵
+trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-JP-🇯🇵
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@168.138.197.147:12345?encryption=none&security=tls&sni=🔒 [By EbraSha]&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=🔒 [By EbraSha]&telegram+@wangcai2 #🔒smkn-JP-🇯🇵
+trojan://64a59181551b5773e390bd717a7b7c06@160.16.72.205:1281?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+trojan://64a59181551b5773e390bd717a7b7c06@160.16.214.104:3423?allowInsecure=0&sni=🔒 [By EbraSha] #🌐smkn-JP-🇯🇵
