@@ -1,4 +1,1 @@
-trojan://5y8y3CwxRVYhyfSY@185.253.46.105:443?security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&type=tcp #🔒smkn-CZ-🇨🇿
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.229.138:2096/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&fp=chrome #🔒smkn-CZ-🇨🇿
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.238:2096?path=🔒 [By EbraSha]&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=🔒 [By EbraSha] #🔒smkn-CZ-🇨🇿
-vless://d11fd54a-8fd4-4886-bad2-8264cb317ead@14.102.228.77:2052/?type=ws&encryption=none&host=sPeedtest2.sbs.se.vless.sitespeedtest.net&path=🔒 [By EbraSha] #🌐smkn-CZ-🇨🇿
+vless://401374e6-df77-41fb-f638-dad8184f175b@14.102.228.18:443/?type=grpc&encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=h2 #🔒smkn-CZ-🇨🇿
