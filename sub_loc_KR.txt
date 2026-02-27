@@ -1,5 +1,2 @@
-trojan://81d93f62-15a2-4994-adb9-0b5d906aac7e@138.2.114.255:443?security=tls&allowInsecure=1&type=tcp #🔒smkn-KR-🇰🇷
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.13.85:443?encryption=none&security=reality&sni=🔒 [By EbraSha]&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&type=tcp&headerType=none&host=api.company-target.com #🔒smkn-KR-🇰🇷
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@129.154.198.48:443?encryption=none&security=tls&sni=🔒 [By EbraSha]&fp=random&type=ws&host=cfed.tgzdyz2.top&path=🔒 [By EbraSha] #🔒smkn-KR-🇰🇷
-vless://62357561-a129-4b9e-9614-ce2578020866@185.214.103.86:57569?security=tls&sni=🔒 [By EbraSha]&type=ws&host=edg.comorg.us.kg&path=🔒 [By EbraSha] #🔒smkn-KR-🇰🇷
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001 #🌐smkn-KR-🇰🇷
+vless://be385a85-92af-41cc-cb40-db0deac2e5f8@165.154.230.13:30001/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&alpn=channel@.irmeliy-channel@.irmeliy-channel@.irmeliy-channel@.irmeliy-&fp=chrome&security=reality&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&sid= #🔒smkn-KR-🇰🇷
