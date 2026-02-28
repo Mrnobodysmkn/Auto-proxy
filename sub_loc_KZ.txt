@@ -1,3 +1,6 @@
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@194.76.18.122:443/?type=ws&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-KZ-🇰🇿
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@31.43.179.16:2053?path=🔒 [By EbraSha]&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=🔒 [By EbraSha] #🔒smkn-KZ-🇰🇿
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@194.76.18.83:443/?type=ws&encryption=none&host=in.youlingkais.filegear-sg.me&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&packetEncoding=xudp #🔒smkn-KZ-🇰🇿
 vless://e65a5cbc-5663-4f7d-ad7d-800e86ba487d@194.76.18.25:443?security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&fp=chrome&type=ws&path=🔒 [By EbraSha]&host=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&encryption=none #🔒smkn-KZ-🇰🇿
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@31.43.179.234:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=🔒 [By EbraSha] #🔒smkn-KZ-🇰🇿
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.59.5.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&type=ws #🔒smkn-KZ-🇰🇿
+vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747/?type=tcp&encryption=none&flow=&sni=🔒 [By EbraSha]&allowInsecure=1&fp=chrome&security=reality&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&sid=2001&packetEncoding=xudp #🔒smkn-KZ-🇰🇿
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@185.176.26.186:8880?allowInsecure=0&sni=🔒 [By EbraSha]&type=ws&host=ip.langmanshanxi.top&path=🔒 [By EbraSha] #🌐smkn-KZ-🇰🇿
