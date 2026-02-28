@@ -1,3 +1,19 @@
-vless://cc6b985d-0362-4129-8763-38564174fb3e@45.153.7.224:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1%2Ch2&fp=chrome #🔒smkn-PL-🇵🇱
-vless://e384913f-8863-47b4-8858-a84b68abb4a6@82.22.40.129:23335/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&sid=67b1e94e4dd1ef90 #🔒smkn-PL-🇵🇱
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.153.7.213:8880/?type=ws&encryption=none&host=jp.laoyoutiao.link #🌐smkn-PL-🇵🇱
+vless://211bbb0b-70a7-4792-ad04-cb6e599d2b9e@176.105.253.98:443/?type=ws&encryption=none&host=v.aivpn.filegear-sg.me&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=h3&fp=random #🔒smkn-PL-🇵🇱
+vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@141.101.122.244:443?security=tls&sni=🔒 [By EbraSha]&type=ws&host=mmdv2.pages.dev #🔒smkn-PL-🇵🇱
+ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WQ@217.30.10.70:9059 #🌐smkn-PL-🇵🇱
+ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@217.30.10.70:9064 #🌐smkn-PL-🇵🇱
+ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ@217.30.10.70:9060 #🌐smkn-PL-🇵🇱
+ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw@217.30.10.70:9025 #🌐smkn-PL-🇵🇱
+ss://YWVzLTI1Ni1jZmI6VVdaUWVMUldua3Fna3NlcQ@217.30.10.70:9032 #🌐smkn-PL-🇵🇱
+ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ@217.30.10.70:9042 #🌐smkn-PL-🇵🇱
+ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA@217.30.10.70:9014 #🌐smkn-PL-🇵🇱
+ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag@217.30.10.70:9084 #🌐smkn-PL-🇵🇱
+ss://YWVzLTI1Ni1jZmI6U0JNN1I4ODNqQm1ucWU2Qw@217.30.10.70:9053 #🌐smkn-PL-🇵🇱
+ss://YWVzLTI1Ni1jZmI6VFBxWDhlZGdiQVVSY0FNYg@217.30.10.70:9079 #🌐smkn-PL-🇵🇱
+ss://YWVzLTI1Ni1jZmI6ZkcyYXJ0VW1IZk5UMmNYNw@217.30.10.70:9018 #🌐smkn-PL-🇵🇱
+ss://YWVzLTI1Ni1jZmI6VWtYUnNYdlI2YnVETUcyWQ@217.30.10.70:9001 #🌐smkn-PL-🇵🇱
+ss://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.122.107:80?security=&amp;sni=🔒 [By EbraSha]&amp;type=ws&amp;path=🔒 [By EbraSha]&amp;host=a.mifeng.us.kg&amp;encryption=none #🌐smkn-PL-🇵🇱
+ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA@217.30.10.70:9005 #🌐smkn-PL-🇵🇱
+ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ@217.30.10.70:9033 #🌐smkn-PL-🇵🇱
+ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ@217.30.10.70:9011 #🌐smkn-PL-🇵🇱
+ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA@217.30.10.70:9003 #🌐smkn-PL-🇵🇱
