@@ -1,1 +1,2 @@
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@167.234.255.2:34045/?type=tcp&encryption=none&sni=🔒 [By EbraSha]&security=reality&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0 #🔒smkn-BR-🇧🇷
+vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.52:443/?type=ws&encryption=none&host=crolindd.dearcarlotta.cloudns.org&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1&fp=random #🔒smkn-BR-🇧🇷
+vless://cc6b985d-0362-4129-8763-38564174fb3e@45.194.53.212:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1%2Ch2&fp=chrome #🔒smkn-BR-🇧🇷

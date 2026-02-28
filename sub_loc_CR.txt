@@ -1,3 +1,8 @@
-trojan://blue2024@190.93.244.198:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
-trojan://NISHIKUITAN111@190.93.247.175:443/?type=tcp&security=tls #🔒smkn-CR-🇨🇷
+trojan://NISHIKUITAN111@190.93.247.139:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-CR-🇨🇷
+trojan://NISHIKUITAN111@190.93.246.0:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-CR-🇨🇷
+trojan://blue2024@190.93.245.154:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
+trojan://blue2024@190.93.245.62:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@190.93.246.237:443?path=🔒 [By EbraSha]&security=tls&encryption=none&type=ws&sni=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
+vless://4eec3909-c52f-4148-bf2a-5f800ecad7b8@190.93.244.103:443?security=tls&sni=🔒 [By EbraSha]&type=grpc&serviceName=@Vpn_Mikey%D8%8C@Vpn_Mikey&encryption=none #🔒smkn-CR-🇨🇷
 vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@190.93.247.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=🔒 [By EbraSha] #🌐smkn-CR-🇨🇷
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@190.93.245.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #🌐smkn-CR-🇨🇷
