@@ -1,3 +1,9 @@
-trojan://NISHIKUITAN111@192.65.217.110:443/?type=tcp&security=tls #🔒smkn-AU-🇦🇺
+vless://8e68e16a-096e-4485-9efb-21cb2989c296@185.207.198.254:443?path=🔒 [By EbraSha]&security=tls&encryption=none&host=Kk40.motorphrotan.ir&fp=chrome&type=ws&sni=🔒 [By EbraSha] #🔒smkn-AU-🇦🇺
+vless://c07fef7d-e8d2-42fe-b977-50e368f18293@1.0.0.0:443?flow=xtls-rprx-direct-udp443&encryption=none&security=tls&sni=🔒 [By EbraSha]&type=ws&host=vincent-jackson2021.ga&path=🔒 [By EbraSha] #🔒smkn-AU-🇦🇺
+trojan://63779501-4c22-4a03-83d3-9f611b227e7b@103.11.214.137:443?security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&type=tcp #🔒smkn-AU-🇦🇺
 trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@103.224.212.211:443/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&fp=chrome #🔒smkn-AU-🇦🇺
-vless://e4598260-fb5e-4d0a-f0c2-64259f5c38e7@38.48.124.146:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=Anr46KtqOMc-YF76WafAAMT-0JBv85RtgSTHRvHxwUg&sid= #🔒smkn-AU-🇦🇺
+vless://3ead7294-b782-42e4-968c-f93ce3bfbdd6@1.1.1.0:443?encryption=none&security=tls&type=ws&host=v2rayge2.free3333.xyz&path=🔒 [By EbraSha] #🔒smkn-AU-🇦🇺
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVVdYNkNPTFpZbWFIbFVHaUt3RGFO@45.79.238.129:443 #🔒smkn-AU-🇦🇺
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.207.197.63:8880/?type=ws&encryption=none&host=jp.laoyoutiao.link&path=🔒 [By EbraSha] #🌐smkn-AU-🇦🇺
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@103.169.142.186:8880?allowInsecure=0&sni=🔒 [By EbraSha]&type=ws&host=ip.langmanshanxi.top&path=🔒 [By EbraSha] #🌐smkn-AU-🇦🇺
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.207.198.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=🔒 [By EbraSha] #🌐smkn-AU-🇦🇺
