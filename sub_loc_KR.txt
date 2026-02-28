@@ -1,4 +1,4 @@
-trojan://81d93f62-15a2-4994-adb9-0b5d906aac7e@138.2.114.255:443?security=tls&allowInsecure=1&type=tcp #🔒smkn-KR-🇰🇷
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.13.85:443?encryption=none&security=reality&sni=🔒 [By EbraSha]&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&type=tcp&headerType=none&host=api.company-target.com #🔒smkn-KR-🇰🇷
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@129.154.198.48:443?encryption=none&security=tls&sni=🔒 [By EbraSha]&fp=random&type=ws&host=cfed.tgzdyz2.top&path=🔒 [By EbraSha] #🔒smkn-KR-🇰🇷
-vless://237120d4-6f8e-47de-b50c-2c8218a720df@45.88.182.24:25380?security=reality&encryption=none&sni=🔒 [By EbraSha]&fp=chrome&pbk=G7LvWyxJWO4f-YKZM-Nf7n3hd3AHfThLX3aOIC2qKXg&sid=d6cd&type=tcp&headerType=none&path=🔒 [By EbraSha] #🔒smkn-KR-🇰🇷
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.48.212:443 #🔒smkn-KR-🇰🇷
+trojan://Aimer@125.138.28.68:21268?security=tls&sni=🔒 [By EbraSha]&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epgc.aimercc.dpdns.org&path=🔒 [By EbraSha] #🔒smkn-KR-🇰🇷
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@193.122.115.67:4434/?type=ws&encryption=none #🔒smkn-KR-🇰🇷
