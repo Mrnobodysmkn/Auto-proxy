@@ -1,7 +1,8 @@
-trojan://Aimer@86.38.214.186:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-TR-🇹🇷
 vless://1c4aceb6-bff7-4737-8c5d-43afb3dc350b@77.92.145.192:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=🔒 [By EbraSha]&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=48720c&spx=/ #🔒smkn-TR-🇹🇷
-vless://30dc00c9-16c5-4573-b5b2-532940febfd6@89.35.73.250:443?security=reality&encryption=none&pbk=8VOdGYUHBgp6ICiOIRo0pjCiCbqO7c6e3MQlXprzjjY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&sid=57b127e1 #🔒smkn-TR-🇹🇷
-vless://a8fe2e9f-fde7-44c1-9cf6-9a0bdea50d99@185.226.92.106:80/?type=xhttp&encryption=none&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=40P2evGAFzizxEJ7NzAbL9eBCGxJk7YE6d1le-Qij0s&sid=db86aba349ac #🔒smkn-TR-🇹🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11202 #🌐smkn-TR-🇹🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201 #🌐smkn-TR-🇹🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYnJZcEpzUmZGdGxLdU8ySHlnQm9E@62.133.63.154:20255 #🌐smkn-TR-🇹🇷
+vless://fed05faf-401f-3412-b658-5c96f3095dd0@91.132.51.160:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=qzm3WJz3wvusnMdBDNbj-XboJZWGqClcXOOcM-LexkQ&sid=e164b85aec8a7422 #🔒smkn-TR-🇹🇷
+vless://5b97592b-1e9c-7747-e571-b4291f98c6ab@86.38.214.30:8880/?type=httpupgrade&encryption=none&host=LondoN-Ar-25.pcsTorearsOft.iR.&path=🔒 [By EbraSha] #🌐smkn-TR-🇹🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBVkxiRVVFdEJENTlGc1JxY055RWli@203.202.232.78:60299 #🌐smkn-TR-🇹🇷
+vless://4dbc9705-e9d6-53c5-818d-ea62e57bd784@86.38.214.30:2095/?type=httpupgrade&encryption=none&host=Ge.PcStorEaRsOft.iR.&path=🔒 [By EbraSha] #🌐smkn-TR-🇹🇷
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@86.38.214.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=🔒 [By EbraSha] #🌐smkn-TR-🇹🇷
+ss://ed29a0e3-5a32-4a7f-8863-277e9f653629@193.31.117.25:8080?security=&amp;type=grpc&amp;encryption=none #🌐smkn-TR-🇹🇷
+vless://762e148f-39f7-4ef3-a348-c3584bf436d2@86.38.214.30:8080/?type=ws&encryption=none&host=sNaPp.MaStErSrV.ir.&path=🔒 [By EbraSha] #🌐smkn-TR-🇹🇷

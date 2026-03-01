@@ -1,2 +1,5 @@
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.124.223.238:2096?encryption=none&security=tls&sni=🔒 [By EbraSha]&type=ws&host=sni.jpmj.dev&path=🔒 [By EbraSha] #🔒smkn-CN-🇨🇳
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@176.124.223.213:8880?allowInsecure=0&sni=🔒 [By EbraSha]&type=ws&host=jp.laoyoutiao.link&path=🔒 [By EbraSha] #🌐smkn-CN-🇨🇳
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.151.251.36:30534/?type=tcp&security=tls #🔒smkn-CN-🇨🇳
+vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@77.105.163.13:8880/?type=ws&encryption=none&host=c.82313369.xyz&path=🔒 [By EbraSha] #🌐smkn-CN-🇨🇳
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@176.124.223.94:8880/?type=httpupgrade&encryption=none&host=nufillter.jtip.sbs.&path=🔒 [By EbraSha] #🌐smkn-CN-🇨🇳
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@176.124.223.29:8880/?type=ws&encryption=none&host=hk.laoyoutiao.link&path=🔒 [By EbraSha] #🌐smkn-CN-🇨🇳
