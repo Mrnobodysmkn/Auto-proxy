@@ -1,6 +1,3 @@
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.180.161:443?encryption=none&security=tls&sni=🔒 [By EbraSha]&type=ws&host=juzibaipiao.5112233.xyz&path=🔒 [By EbraSha] #🔒smkn-UA-🇺🇦
-trojan://NISHIKUITAN111@45.135.235.196:443/?type=tcp&security=tls #🔒smkn-UA-🇺🇦
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@194.152.44.71:2053?path=🔒 [By EbraSha]&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=🔒 [By EbraSha] #🔒smkn-UA-🇺🇦
 vless://a384c715-aeb5-45e8-859b-f687ca6c083f@5.180.97.139:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=wBrGfTI9PaFf966aN6KaCY0cL6QRLlop4nzNa6bJsiQ&sid=9f35da6c9412b832 #🔒smkn-UA-🇺🇦
-vless://e384913f-8863-47b4-8858-a84b68abb4a6@185.147.26.21:23335?encryption=none&flow=xtls-rprx-vision&security=reality&sni=🔒 [By EbraSha]&fp=chrome&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&allowInsecure=1&type=tcp&headerType=none #🔒smkn-UA-🇺🇦
 vless://e384913f-8863-47b4-8858-a84b68abb4a6@185.147.26.26:23335?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=🔒 [By EbraSha]&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik #🔒smkn-UA-🇺🇦
+vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@89.116.180.7:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=🔒 [By EbraSha]&security=none #🌐smkn-UA-🇺🇦
