@@ -1,2 +1,7 @@
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@45.130.125.107:443/?type=ws&encryption=none&flow=&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=h2%2Chttp%2F1.1&fp=chrome #🔒smkn-SC-🇸🇨
-vless://02a8c937-e24a-435c-8ea9-5a11c72fff99@45.130.125.96:8443?encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=ir.hollowspot.ir&path=🔒 [By EbraSha] #🔒smkn-SC-🇸🇨
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053?encryption=none&security=tls&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=kaja.thisiswe.uno&path=🔒 [By EbraSha] #🔒smkn-SC-🇸🇨
+vless://29fa0634-fc9a-4a5a-9104-b7e36e8a9b61@45.130.125.160:443?path=🔒 [By EbraSha]&security=tls&alpn=h2,http/1.1&encryption=none&insecure=1&host=gozar1.i2fed.com&fp=chrome&type=ws&allowInsecure=1&sni=🔒 [By EbraSha] #🔒smkn-SC-🇸🇨
+vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@45.130.125.160:2083/?type=ws&encryption=none&flow=&host=ipv4.yasharteam.com&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&fp=chrome #🔒smkn-SC-🇸🇨
+trojan://ttfang@45.130.125.216:2096?security=tls&sni=🔒 [By EbraSha]&type=ws&path=🔒 [By EbraSha]&Host=ttfang.fange.me #🔒smkn-SC-🇸🇨
+vless://aab1a536-7a2c-4357-a0e0-8cdde41845c6@45.130.125.198:8443?path=🔒 [By EbraSha]&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=nobitex.sylu.net&type=ws&allowInsecure=0&sni=🔒 [By EbraSha] #🔒smkn-SC-🇸🇨
+ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?encryption=none&type=xhttp&mode=auto&host=atus.pabloping.pro&path=🔒 [By EbraSha]&security=none #🌐smkn-SC-🇸🇨
+vless://213426db-afb7-48d1-ae51-5093317212df@45.130.125.160:2095?path=🔒 [By EbraSha]&security=&encryption=none&host=aza002.vaslbash.site&type=httpupgrade #🌐smkn-SC-🇸🇨
