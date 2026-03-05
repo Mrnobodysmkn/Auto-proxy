@@ -1,9 +1,7 @@
-trojan://NISHIKUITAN111@190.93.247.81:443/?type=tcp&security=tls #🔒smkn-CR-🇨🇷
-trojan://NISHIKUITAN111@190.93.246.217:443/?type=tcp&security=tls #🔒smkn-CR-🇨🇷
-trojan://NISHIKUITAN111@190.93.247.175:443/?type=tcp&security=tls #🔒smkn-CR-🇨🇷
-trojan://NISHIKUITAN111@190.93.245.75:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-CR-🇨🇷
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.247.74:443/?type=ws&encryption=none&host=lv.kpcloud.eu.org&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
-vless://8ce6e2fe-23f5-4478-80b7-745779c52577@190.93.246.29:443?path=🔒 [By EbraSha]&security=tls&encryption=none&host=lv.2138937.xyz&type=ws&sni=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
-trojan://blue2024@190.93.246.191:443/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-CR-🇨🇷
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@190.93.245.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #🌐smkn-CR-🇨🇷
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@190.93.245.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #🌐smkn-CR-🇨🇷
+trojan://blue2024@190.93.245.58:443/?type=ws&host=hb.lii2010.us.kg&security=tls&sni=ЁЯФТ [By EbraSha] #🔒smkn-CR-🇨🇷
+vless://42f36835-730c-4ecc-9daf-20121ae7ba47@190.93.244.221:443/?type=ws&encryption=none&host=gozargah.validbv7996.ir&path=ЁЯФТ [By EbraSha]&security=tls&sni=ЁЯФТ [By EbraSha]&fp=random #🔒smkn-CR-🇨🇷
+trojan://blue2024@190.93.245.154:443/?type=tcp&security=tls&sni=ЁЯФТ [By EbraSha] #🔒smkn-CR-🇨🇷
+trojan://bpb-trojan@190.93.245.14:443/?type=tcp&security=tls&sni=ЁЯФТ [By EbraSha]&allowInsecure=1 #🔒smkn-CR-🇨🇷
+vless://31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1@190.93.246.128:443/?type=ws&encryption=none&host=lhxt.xiaomi.win&path=ЁЯФТ [By EbraSha]&security=tls&sni=ЁЯФТ [By EbraSha]&fp=random #🔒smkn-CR-🇨🇷
+trojan://NISHIKUITAN111@190.93.246.8:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-CR-🇨🇷
+trojan://Nova-Proxy@190.93.244.43:8443?path=ЁЯФТ [By EbraSha]&security=tls&host=small-morning-2668.drusavm.workers.dev&type=ws&sni=ЁЯФТ [By EbraSha] #🔒smkn-CR-🇨🇷
