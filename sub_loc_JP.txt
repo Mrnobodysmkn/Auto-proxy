@@ -1,8 +1,6 @@
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@168.138.50.249:443?encryption=none&security=tls&sni=🔒 [By EbraSha]&type=ws&host=dp.ylks.xyz&path=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-trojan://9995cc0e-2e9d-4c80-8c81-4fdbb6322a3a@20.89.130.227:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@139.162.108.5:443?encryption=none&security=tls&sni=🔒 [By EbraSha]&type=ws&host=jp.laoyoutiao.link&path=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-vless://9f9f5d92-c61f-45f2-a017-babd28b91888@103.213.249.63:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=🔒 [By EbraSha]&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2 #🔒smkn-JP-🇯🇵
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.112.225.4:443 #🔒smkn-JP-🇯🇵
-trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.65.107:4937?allowInsecure=0&sni=🔒 [By EbraSha] #🌐smkn-JP-🇯🇵
-trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.65.107:3419?allowInsecure=0&sni=🔒 [By EbraSha] #🌐smkn-JP-🇯🇵
-trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.65.107:34818?allowInsecure=0&sni=🔒 [By EbraSha] #🌐smkn-JP-🇯🇵
+trojan://Aimer@158.101.145.82:443?security=tls&sni=🔒 [By EbraSha]&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epgc.aimercc.dpdns.org&path=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@154.197.88.97:2053?encryption=none&security=tls&type=ws&sni=🔒 [By EbraSha]&host=juzibaipiao.5112233.xyz&path=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@47.79.92.16:443/?type=ws&encryption=none&host=edccr.ambercc.filegear-sg.me&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+vless://62357561-a129-4b9e-9614-ce2578020866@138.2.18.82:8880/?type=ws&encryption=none&host=edg.comorg.us.kg&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+vless://6ec42587-d79b-479e-984a-a2533eb457b2@8.216.21.75:20443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wIlDoplsuyFT7hzmd7y-gnRAlYTys99OU11k4v_Co0s&security=reality&sid=abcd1234&sni=🔒 [By EbraSha]&type=tcp #🔒smkn-JP-🇯🇵
