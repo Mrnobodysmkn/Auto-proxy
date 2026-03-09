@@ -1,5 +1,2 @@
-vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@144.31.3.35:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3 #🔒smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.111.209:443 #🔒smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.110.170:443 #🔒smkn-PL-🇵🇱
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.153.7.213:8880/?type=ws&encryption=none&host=jp.laoyoutiao.link #🌐smkn-PL-🇵🇱
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.153.7.63:8880/?type=ws&encryption=none&host=jp.laoyoutiao.link&path=🔒 [By EbraSha] #🌐smkn-PL-🇵🇱
+vless://cc6b985d-0362-4129-8763-38564174fb3e@45.153.7.224:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1%2Ch2&fp=chrome #🔒smkn-PL-🇵🇱
+trojan://063bfa6d-c68f-4955-9b33-7555b95988bc@45.144.51.81:443/?type=tcp&security=tls #🔒smkn-PL-🇵🇱
