@@ -1,3 +1,7 @@
-trojan://7d0f1f83-0f2f-4b90-930e-de44ac233fef@20.210.234.145:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@140.83.57.183:22735/?type=ws&encryption=none&host=steep.skyfigure.top&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@168.138.46.67:443/?type=ws&encryption=none&host=pvg.aghabeiki.homes&path=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+trojan://share.mjj-home.com@185.212.56.168:443?security=tls&sni=🔒 [By EbraSha]&type=tcp #🔒smkn-JP-🇯🇵
+vless://6ec42587-d79b-479e-984a-a2533eb457b2@8.216.21.75:20443?&security=reality&flow=xtls-rprx-vision&pbk=wIlDoplsuyFT7hzmd7y-gnRAlYTys99OU11k4v_Co0s&sid=abcd1234&fp=chrome&sni=🔒 [By EbraSha]&type=tcp&headerType=none&path=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.214.104:2001?security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@141.147.161.58:443/?type=ws&encryption=none&host=pvg.aghabeiki.homes #🔒smkn-JP-🇯🇵
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.114.82.97:443 #🔒smkn-JP-🇯🇵
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.204:443 #🔒smkn-JP-🇯🇵
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@3.112.225.4:443 #🔒smkn-JP-🇯🇵
