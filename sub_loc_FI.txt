@@ -1,1 +1,11 @@
+vless://711f56b0-0d4c-4516-bea6-0e963749928c@85.192.48.110:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg&security=reality&sni=🔒 [By EbraSha]&type=tcp #🔒smkn-FI-🇫🇮
+vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=🔒 [By EbraSha] #🔒smkn-FI-🇫🇮
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.187:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒 [By EbraSha] #🔒smkn-FI-🇫🇮
+vless://46b86ca9-0144-46a7-ac5c-26e8c384c067@65.109.193.233:443?security=reality&encryption=none&pbk=beY-mNQ38zK5HZ4qjcW0cnTmt45Mei1LjnsXWw6bbgw&host=/JKVPN_BYA_CHANEL_JKVPN&headerType=none&fp=chrome&spx=/JKVPN_BYA_CHANEL_JKVPN&type=tcp&sni=🔒 [By EbraSha]&sid=4a2c #🔒smkn-FI-🇫🇮
+trojan://88939272-790a-441f-b12b-8ce531aca810@65.108.205.61:443/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-FI-🇫🇮
 vless://711f56b0-0d4c-4516-bea6-0e963749928c@85.192.49.176:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5vZadQxvsBfPR1hKN3TFOYsGLBBPDvd4sLVNnPzddRg&security=reality&sni=🔒 [By EbraSha]&type=tcp #🔒smkn-FI-🇫🇮
+vless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=🔒 [By EbraSha]&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&sid=365c07ed&spx=/ #🔒smkn-FI-🇫🇮
+vless://d4de1f64-bf3c-4d97-9663-0091f8c07359@62.60.237.240:443/?type=tcp&encryption=none&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=RravQN06gzsNsm5ojEhZGrxBgLGEpqEThtHEltdjpBk&sid=b3d76d #🔒smkn-FI-🇫🇮
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.188:2096?encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒 [By EbraSha] #🔒smkn-FI-🇫🇮
+vless://fd8972d7-cf5e-11f0-9970-45e1d80c4039@78.153.139.68:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pekfYPV5U8EjfQ4_zS5c6I2NnOZ2jUlyMGAWa4FWPF4&security=reality&sid=58c512b4422e2517&sni=🔒 [By EbraSha]&type=tcp #🔒smkn-FI-🇫🇮
+vless://1e9f5961-a660-46ed-c8ad-98461fea739c@95.217.243.42:443?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp #🔒smkn-FI-🇫🇮
