@@ -1,1 +1,2 @@
-trojan://Aimer@77.232.140.114:2053/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-AE-🇦🇪
+vless://401374e6-df77-41fb-f638-dad8184f175b@94.140.0.141:443/?type=grpc&encryption=none&flow=&security=tls&sni=🔒 [By EbraSha] #🔒smkn-AE-🇦🇪
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@94.140.0.186:8880?allowInsecure=0&sni=🔒 [By EbraSha]&type=ws&host=ip.langmanshanxi.top&path=🔒 [By EbraSha] #🌐smkn-AE-🇦🇪
