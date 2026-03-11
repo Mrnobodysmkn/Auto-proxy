@@ -1,2 +1,1 @@
-trojan://Aimer@141.11.203.168:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HU-🇭🇺
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@5.182.38.168:81?security=tls&type=ws&path=🔒 [By EbraSha]&host=snippet.sh21.eu.org&sni=🔒 [By EbraSha]&fp=chrome #🔒smkn-HU-🇭🇺
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.203.238:2096?path=🔒 [By EbraSha]&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=🔒 [By EbraSha] #🔒smkn-HU-🇭🇺

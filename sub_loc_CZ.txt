@@ -1,4 +1,2 @@
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@195.85.23.54:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=🔒 [By EbraSha] #🔒smkn-CZ-🇨🇿
-vless://401374e6-df77-41fb-f638-dad8184f175b@14.102.228.18:443/?type=grpc&encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=h2 #🔒smkn-CZ-🇨🇿
-trojan://Aimer@37.157.192.61:9902/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-CZ-🇨🇿
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.238:2096?path=🔒 [By EbraSha]&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=🔒 [By EbraSha] #🔒smkn-CZ-🇨🇿
+trojan://bpb-trojan@195.85.23.232:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CZ-🇨🇿
+trojan://blue2024@14.102.229.63:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CZ-🇨🇿
