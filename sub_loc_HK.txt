@@ -1,10 +1,6 @@
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@43.198.53.11:443?encryption=none&security=tls&sni=🔒 [By EbraSha]&fp=random&type=ws&host=cfed.tgzdyz2.top&path=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-ss://c98a16e4-0dc5-42f0-b3db-30f04525c123@103.160.204.50:443?path=🔒 [By EbraSha]&amp;security=tls&amp;alpn=h3&amp;encryption=none&amp;host=vless8-ekh.pages.dev&amp;fp=random&amp;type=ws&amp;sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-trojan://Aimer@27.50.48.189:2083/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?path=🔒 [By EbraSha]&security=tls&insecure=0&host=xo.e0f.cx&type=ws&allowInsecure=0&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-trojan://trojan@45.192.222.112:8443/?type=ws&host=store.timimi.dpdns.org&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&fp=chrome #🔒smkn-HK-🇭🇰
-trojan://SSorg@156.255.90.175:8443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@27.50.49.232:8443?encryption=none&security=tls&type=ws&sni=🔒 [By EbraSha]&host=juzibaipiao.5112233.xyz&path=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-trojan://Aimer@27.50.49.156:2096/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-trojan://Aimer@27.50.49.61:2096/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-trojan://f389ed926e512e15f382dc3804029474@58.152.18.2:443?allowInsecure=0&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
+trojan://c85761bc-5d74-4ae5-b525-0d32443182fa@45.149.92.71:443/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&fp=chrome #🔒smkn-HK-🇭🇰
+vless://ab321a49-bc9c-4bb6-915b-a1fcbc7de49c@27.50.48.155:443?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&fp=chrome&type=grpc&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
+trojan://Aimer@43.154.34.74:1935/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
+vless://-----v2ray_fark-----@103.160.204.88:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
+trojan://Aimer@27.50.49.179:2096/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@103.160.204.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #🌐smkn-HK-🇭🇰
