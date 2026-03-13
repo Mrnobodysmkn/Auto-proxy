@@ -1,3 +1,1 @@
-trojan://81d93f62-15a2-4994-adb9-0b5d906aac7e@138.2.114.255:443?security=tls&allowInsecure=1&type=tcp #🔒smkn-KR-🇰🇷
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@152.70.249.67:443?encryption=none&security=tls&sni=🔒 [By EbraSha]&type=ws&host=dp.ylks.xyz&path=🔒 [By EbraSha] #🔒smkn-KR-🇰🇷
-trojan://Aimer@125.138.28.68:21268?security=tls&sni=🔒 [By EbraSha]&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epgc.aimercc.dpdns.org&path=🔒 [By EbraSha] #🔒smkn-KR-🇰🇷
+trojan://trojan@118.34.36.61:10003?allowInsecure=0&sni=🔒 [By EbraSha]&ws=1&wspath=🔒 [By EbraSha] #🌐smkn-KR-🇰🇷
