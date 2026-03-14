@@ -1,7 +1,2 @@
-trojan://63779501-4c22-4a03-83d3-9f611b227e7b@103.11.214.137:443?security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&type=tcp #🔒smkn-AU-🇦🇺
-vless://c07fef7d-e8d2-42fe-b977-50e368f18293@1.0.0.0:443?flow=xtls-rprx-direct-udp443&encryption=none&security=tls&sni=🔒 [By EbraSha]&type=ws&host=vincent-jackson2021.ga&path=🔒 [By EbraSha] #🔒smkn-AU-🇦🇺
-vless://3ead7294-b782-42e4-968c-f93ce3bfbdd6@1.1.1.0:443?encryption=none&security=tls&type=ws&host=v2rayge2.free3333.xyz&path=🔒 [By EbraSha] #🔒smkn-AU-🇦🇺
-vless://8e68e16a-096e-4485-9efb-21cb2989c296@185.207.198.254:443?path=🔒 [By EbraSha]&security=tls&encryption=none&host=Kk40.motorphrotan.ir&fp=chrome&type=ws&sni=🔒 [By EbraSha] #🔒smkn-AU-🇦🇺
-trojan://NISHIKUITAN111@192.65.217.254:443/?type=tcp&security=tls #🔒smkn-AU-🇦🇺
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjOTBkNjNkYzdhNjIwM2Fm@46.250.241.55:45720 #🌐smkn-AU-🇦🇺
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.207.198.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=🔒 [By EbraSha] #🌐smkn-AU-🇦🇺
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@103.169.142.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=🔒 [By EbraSha] #🌐smkn-AU-🇦🇺
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.207.199.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #🌐smkn-AU-🇦🇺
