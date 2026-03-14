@@ -1,10 +1,8 @@
-trojan://oZAugtgF5T@146.190.87.238:443/?type=ws&host=aka.ms&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-SG-🇸🇬
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@206.238.236.116:443/?type=ws&encryption=none&host=ka.lii2010.us.kg&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1 #🔒smkn-SG-🇸🇬
-trojan://b7bc6b1c-610d-4d39-ad29-18a0d6902348@13.250.150.119:443/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-SG-🇸🇬
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.86:443/?type=grpc&encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=h2 #🔒smkn-SG-🇸🇬
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.8.211.24:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=🔒 [By EbraSha] #🔒smkn-SG-🇸🇬
-vless://211bbb0b-70a7-4792-ad04-cb6e599d2b9e@206.238.236.187:2096/?type=ws&encryption=none&host=v.aivpn.filegear-sg.me&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=h3&fp=random #🔒smkn-SG-🇸🇬
-trojan://Aimer@206.238.237.118:8443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-SG-🇸🇬
-trojan://Aimer@206.238.236.192:2087/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-SG-🇸🇬
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.8.211.220:80/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #🌐smkn-SG-🇸🇬
-vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@194.53.53.13:8880/?type=ws&encryption=none&host=c.82313369.xyz&path=🔒 [By EbraSha] #🌐smkn-SG-🇸🇬
+trojan://Aimer@43.156.116.194:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-SG-🇸🇬
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.8.211.22:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=🔒 [By EbraSha] #🔒smkn-SG-🇸🇬
+ss://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.71:443?mode=gun&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;type=grpc&amp;sni=🔒 [By EbraSha] #🔒smkn-SG-🇸🇬
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@43.156.181.203:443/?type=ws&encryption=none&host=edccy.ambercc.filegear-sg.me&security=tls&sni=🔒 [By EbraSha] #🔒smkn-SG-🇸🇬
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@178.128.114.123:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-SG-🇸🇬
+trojan://NISHIKUITAN111@45.8.211.242:443/?type=tcp&security=tls #🔒smkn-SG-🇸🇬
+trojan://Aimer@206.238.236.8:2096/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-SG-🇸🇬
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.235.122:8080 #🌐smkn-SG-🇸🇬
