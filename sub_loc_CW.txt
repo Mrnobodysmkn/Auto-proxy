@@ -1,1 +1,4 @@
+trojan://NISHIKUITAN111@5.10.245.142:443/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-CW-🇨🇼
 trojan://NISHIKUITAN111@5.10.246.119:443/?type=tcp&security=tls #🔒smkn-CW-🇨🇼
+vless://401374e6-df77-41fb-f638-dad8184f175b@5.10.245.70:443/?type=grpc&encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=h2 #🔒smkn-CW-🇨🇼
+vless://43158d39-8066-4df4-b74e-2ab29f207e0a@92.60.74.56:80?type=ws&host=29.alij47649.workers.dev&path=🔒 [By EbraSha]&security=none #🌐smkn-CW-🇨🇼
