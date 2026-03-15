@@ -1,1 +1,5 @@
-trojan://bpb-trojan@89.116.250.94:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-LT-🇱🇹
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.250.6:2083?encryption=none&security=tls&sni=🔒 [By EbraSha]&type=ws&host=juzibaipiao.5112233.xyz&path=🔒 [By EbraSha] #🔒smkn-LT-🇱🇹
+vless://a04c351d-3efc-43de-99db-b5188cd04531@93.115.26.150:22230?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=🔒 [By EbraSha]&pbk=ajNtNrFThLn2_WyWnv1Zkf676_i95nCABb2gX7OlHEI&sid=a9725715bf4c62ff #🔒smkn-LT-🇱🇹
+vless://a04c351d-3efc-43de-99db-b5188cd04531@93.115.26.127:22230?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=🔒 [By EbraSha]&pbk=ajNtNrFThLn2_WyWnv1Zkf676_i95nCABb2gX7OlHEI&sid=a9725715bf4c62ff #🔒smkn-LT-🇱🇹
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?allowInsecure=1&sni=🔒 [By EbraSha] #🔒smkn-LT-🇱🇹
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@89.116.250.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #🌐smkn-LT-🇱🇹
