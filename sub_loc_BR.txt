@@ -1,1 +1,2 @@
-trojan://bpb-trojan@45.194.53.231:443/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-BR-🇧🇷
+vless://26fc1d92-2188-42fa-b36e-91caa13df437@151.101.186.133:443/?type=ws&encryption=none&host=mashti.com&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=h2%2Chttp%2F1.1&fp=chrome #🔒smkn-BR-🇧🇷
+vless://03517ec0-976e-4cac-b84b-146fc4c7b023@199.232.13.32:80?path=🔒 [By EbraSha]&security=&encryption=none&host=Apple-SIB.ir&type=ws #🌐smkn-BR-🇧🇷
