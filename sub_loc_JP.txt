@@ -1,2 +1,5 @@
-trojan://share.mjj-home.com@185.212.56.168:443?security=tls&sni=🔒 [By EbraSha]&type=tcp #🔒smkn-JP-🇯🇵
-vless://d706bf16-124a-417b-aaa0-0d6d5efd58fd@38.60.212.251:29059?security=reality&encryption=none&pbk=V_eMkcHXf237wGyfggMHHRvQqw51rW1UJPEIw_T2IE4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&sid=6ba85179e30d4fc2 #🔒smkn-JP-🇯🇵
+trojan://9995cc0e-2e9d-4c80-8c81-4fdbb6322a3a@20.89.130.227:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+vless://7300363f-c18f-4bcf-a5a9-2ad35220505e@3.115.82.155:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=gkeUZppVQzutjGsRcsGMW8OrPHboJ3qRFpIvj8lcUj4&sid=c174618d #🔒smkn-JP-🇯🇵
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@8.216.121.234:51922/?type=ws&encryption=none&flow=&host=edcck.ambercc.filegear-sg.me&path=🔒 [By EbraSha]&proxyip=ts.hpc.tw&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&packetEncoding=xudp #🔒smkn-JP-🇯🇵
+vless://62357561-a129-4b9e-9614-ce2578020866@138.2.18.82:8880/?type=ws&encryption=none&host=edg.comorg.us.kg&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@132.226.7.222:443/?type=ws&encryption=none&host=pvg.aghabeiki.homes #🔒smkn-JP-🇯🇵
