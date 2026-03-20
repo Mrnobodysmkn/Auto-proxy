@@ -1,3 +1,5 @@
-vless://0509acee-63e3-4364-95cc-21c601f059be@82.41.30.190:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&security=reality&sni=🔒 [By EbraSha]&type=tcp #🔒smkn-KZ-🇰🇿
+vless://401374e6-df77-41fb-f638-dad8184f175b@31.43.179.38:443?security=tls&sni=🔒 [By EbraSha]&alpn=h2&type=grpc&encryption=none #🔒smkn-KZ-🇰🇿
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@31.43.179.83:2053?path=🔒 [By EbraSha]&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=🔒 [By EbraSha] #🔒smkn-KZ-🇰🇿
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@31.43.179.16:2053?path=🔒 [By EbraSha]&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=🔒 [By EbraSha] #🔒smkn-KZ-🇰🇿
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@31.43.179.34:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=🔒 [By EbraSha] #🔒smkn-KZ-🇰🇿
+vless://3fce3b0d-0b92-4e92-9a78-18051dd648b4@45.136.59.44:13344?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&type=tcp&fp=chrome&pbk=DC71RjKr16drr8gqK8QhEuCVLpkbBfUfPb9Far8Jkzo&sid=e2bd9802e29deb #🔒smkn-KZ-🇰🇿
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@195.245.221.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #🌐smkn-KZ-🇰🇿
