@@ -1,2 +1,3 @@
 vless://fe962226-fe1c-4391-a5ba-7b7c62adda19@154.83.2.200:443?encryption=none&security=tls&sni=🔒 [By EbraSha]&type=ws&host=am-tunnel-6fs.pages.dev&path=🔒 [By EbraSha] #🔒smkn-PH-🇵🇭
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.156:8880?path=🔒 [By EbraSha]&security=none&encryption=none&host=redw.pooriam.ir&type=ws #🌐smkn-PH-🇵🇭
+trojan://amclubs@154.83.2.94:2053/?type=ws&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-PH-🇵🇭
+trojan://amclubs@154.83.2.61:8443/?type=ws&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-PH-🇵🇭
