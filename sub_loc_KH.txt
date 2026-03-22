@@ -1,2 +1,2 @@
-trojan://bpb-trojan@92.243.74.60:443/?type=ws&host=bpb.my79801.com&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-KH-🇰🇭
-vless://cc6b985d-0362-4129-8763-38564174fb3e@92.243.75.44:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1%2Ch2&fp=chrome #🔒smkn-KH-🇰🇭
+trojan://Aimer@92.243.74.239:8443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-KH-🇰🇭
+trojan://Aimer@92.243.74.180:8443/?type=ws&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-KH-🇰🇭
