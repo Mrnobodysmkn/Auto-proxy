@@ -1,1 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.203.238:2096?path=🔒 [By EbraSha] #🌐smkn-HU-🇭🇺
+trojan://bpb-trojan@141.11.202.133:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HU-🇭🇺
+vless://a87cea64-42d8-46c3-b617-e02ec175fe98@141.11.202.250:2096?path=🔒 [By EbraSha]&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=arm1.dollardoon.com&fp=chrome&type=ws&sni=🔒 [By EbraSha] #🔒smkn-HU-🇭🇺
