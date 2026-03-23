@@ -1,7 +1,6 @@
-trojan://NISHIKUITAN111@190.93.245.10:443/?type=tcp&security=tls #🔒smkn-CR-🇨🇷
-vless://dd6af632-e4bb-400a-922f-43f75ec89d64@190.93.245.94:443?mode=auto&path=🔒 [By EbraSha]&security=tls&alpn=h2&encryption=none&insecure=0&host=api-ws-de.nxping.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
-vless://31f81de4-c0c3-4aa0-9b1d-dea8906a2ed1@190.93.246.128:443/?type=ws&encryption=none&host=lhxt.xiaomi.win&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&fp=random #🔒smkn-CR-🇨🇷
-trojan://NISHIKUITAN111@190.93.246.45:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-CR-🇨🇷
-vless://4eec3909-c52f-4148-bf2a-5f800ecad7b8@190.93.244.103:443?security=tls&sni=🔒 [By EbraSha]&type=grpc&serviceName=@Vpn_Mikey%D8%8C@Vpn_Mikey&encryption=none #🔒smkn-CR-🇨🇷
-trojan://blue2024@190.93.246.191:443/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-CR-🇨🇷
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?security=tls&amp;encryption=none&amp;type=ws&amp;sni=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
+trojan://NISHIKUITAN111@190.93.246.107:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-CR-🇨🇷
+vless://219d848d-60f2-4321-8275-72b9b575b37e@190.93.244.199:443/?type=ws&encryption=none&host=qaa.zhuk.us.kg&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
+trojan://NISHIKUITAN111@190.93.245.75:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-CR-🇨🇷
+trojan://blue2024@190.93.245.114:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
+trojan://bpb-trojan@190.93.246.80:443?allowInsecure=1&sni=🔒 [By EbraSha]&type=ws&host=zeming13.us.kg&path=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@190.93.247.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #🌐smkn-CR-🇨🇷
