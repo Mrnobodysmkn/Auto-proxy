@@ -1,2 +1,2 @@
-trojan://64a59181551b5773e390bd717a7b7c06@160.16.72.33:3423/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-vless://aead6961-8924-417b-85af-b6ddc8bcdc0e@217.60.12.103:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=🔒 [By EbraSha]&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&sid=8bcfe256cf216fd8 #🔒smkn-JP-🇯🇵
+trojan://7a73f1dc97a70905870c0c0484b12145@133.242.55.38:443/?type=tcp&security=tls #🔒smkn-JP-🇯🇵
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@140.83.57.183:22735/?type=ws&encryption=none&host=steep.skyfigure.top&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
