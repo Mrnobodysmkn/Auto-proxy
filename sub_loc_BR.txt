@@ -1,4 +1,3 @@
-vless://26fc1d92-2188-42fa-b36e-91caa13df437@151.101.186.133:443/?type=ws&encryption=none&host=mashti.com&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=h2%2Chttp%2F1.1&fp=chrome #🔒smkn-BR-🇧🇷
-vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.52:443/?type=ws&encryption=none&host=crolindd.dearcarlotta.cloudns.org&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1&fp=random #🔒smkn-BR-🇧🇷
-vless://263497fb-9ae2-4f7b-94c6-b0179e480448@199.232.15.225:443/?type=ws&encryption=none&host=azadnet.ir&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=h2%2Chttp%2F1.1&fp=randomized #🔒smkn-BR-🇧🇷
+vless://cc6b985d-0362-4129-8763-38564174fb3e@45.194.53.212:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1%2Ch2&fp=chrome #🔒smkn-BR-🇧🇷
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.26:443/?type=ws&encryption=none&host=vc.ylka.dpdns.org #🔒smkn-BR-🇧🇷
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.133.35.251:8880?path=🔒 [By EbraSha]&security=none&encryption=none&host=cf.d3z.net&type=ws&sni=🔒 [By EbraSha] #🌐smkn-BR-🇧🇷
