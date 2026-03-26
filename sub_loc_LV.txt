@@ -1,3 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.135.253.47:2053?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&type=ws #🔒smkn-LV-🇱🇻
-vless://a487adab-0644-4f80-9643-d3036b9f17c6@169.40.3.171:465?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=k5VAU_3EaQMgR9FB7cqIu-lp35aZttOvAYNZW0TOki0&security=reality&sid=336f5d66c86BcED2&sni=🔒 [By EbraSha]&type=tcp #🔒smkn-LV-🇱🇻
-vless://f2a806c6-f36b-4cd9-8bb6-7addb218ad2d@94.158.218.63:443?security=none&type=ws&headerType=&path=🔒 [By EbraSha]&host= #🔒smkn-LV-🇱🇻
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@46.32.184.75:443/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&fp=chrome #🔒smkn-LV-🇱🇻
