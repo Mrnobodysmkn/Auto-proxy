@@ -1,12 +1,2 @@
-trojan://4d706727-996f-4427-930d-60f3bd414cf9@203.28.8.28:443?security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&type=tcp #🔒smkn-CY-🇨🇾
-trojan://blue2024@195.85.59.95:443/?type=ws&host=hb.lii2010.us.kg&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CY-🇨🇾
-trojan://blue2024@195.85.59.161:443/?type=ws&host=hb.lii2010.us.kg&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CY-🇨🇾
-trojan://NISHIKUITAN111@77.75.199.86:443/?type=ws&host=za.ylks.xyz&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-CY-🇨🇾
-vless://fd37be2f-f8d1-47de-97e8-13c28107d31e@45.15.152.226:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w&security=reality&sid=be91008fd0a4&sni=🔒 [By EbraSha]&type=tcp #🔒smkn-CY-🇨🇾
-vless://dbf403f4-b871-4446-8712-675562dbbb7b@195.85.59.161:2095/?type=ws&encryption=none&host=0221.enedrehd.workers.dev&path=🔒 [By EbraSha] #🌐smkn-CY-🇨🇾
-vless://fd80f56e-93f3-4c85-b2a8-c77216c509a7@195.85.59.95:2052?security=&type=ws&path=🔒 [By EbraSha]&host=asia.tunn.free.hr&encryption=none #🌐smkn-CY-🇨🇾
-vless://fd80f56e-93f3-4c85-b2a8-c77216c509a7@195.85.59.161:2052?security=&type=ws&path=🔒 [By EbraSha]&host=asia.tunn.free.hr&encryption=none #🌐smkn-CY-🇨🇾
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@134.255.210.49:989 #🌐smkn-CY-🇨🇾
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.255.210.49:990 #🌐smkn-CY-🇨🇾
-vless://dbf403f4-b871-4446-8712-675562dbbb7b@195.85.59.161:8080?encryption=none&security=none&type=ws&host=0221.enedrehd.workers.dev&path=🔒 [By EbraSha] #🌐smkn-CY-🇨🇾
-vless://a3f9d9b6-3ae4-4c47-9dbf-33b0a5c7f1a5@195.85.59.95:2082/?type=ws&encryption=none&host=0210.uous1wog.workers.dev&path=🔒 [By EbraSha] #🌐smkn-CY-🇨🇾
+trojan://NISHIKUITAN111@154.92.9.71:443/?type=tcp&security=tls #🔒smkn-CY-🇨🇾
+trojan://NISHIKUITAN111@195.85.59.158:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-CY-🇨🇾
