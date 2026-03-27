@@ -1,7 +1,2 @@
-vless://219d848d-60f2-4321-8275-72b9b575b37e@141.101.122.50:443/?type=ws&encryption=none&host=qaa.zhuk.us.kg&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1 #🔒smkn-PL-🇵🇱
-vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@144.31.3.30:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3 #🔒smkn-PL-🇵🇱
 trojan://NISHIKUITAN111@141.101.122.171:443/?type=tcp&security=tls #🔒smkn-PL-🇵🇱
-ss://e72bb322-00dc-4206-95bc-b9e9f041c905@57.128.219.105:443?path=🔒 [By EbraSha]&amp;security=tls&amp;encryption=none&amp;host=57.128.219.105&amp;fp=chrome&amp;type=ws&amp;sni=🔒 [By EbraSha] #🔒smkn-PL-🇵🇱
-vless://fad2b7e0-d80c-4b7b-a84f-d86e0e49f627@45.15.128.75:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk&security=reality&sid=e473bbc75224b9df&sni=🔒 [By EbraSha]&type=tcp #🔒smkn-PL-🇵🇱
-trojan://WF42809561@62.112.222.54:443?allowInsecure=1&sni=🔒 [By EbraSha] #🔒smkn-PL-🇵🇱
-ss://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.122.107:80?security=&amp;sni=🔒 [By EbraSha]&amp;type=ws&amp;path=🔒 [By EbraSha]&amp;host=a.mifeng.us.kg&amp;encryption=none #🌐smkn-PL-🇵🇱
+vless://b0a63ba3-6cb0-48de-a19d-12babdb0ba4d@141.101.122.35:2082/?type=ws&encryption=none&host=23tg.fh19yh0z.workers.dev&path=🔒 [By EbraSha] #🌐smkn-PL-🇵🇱
