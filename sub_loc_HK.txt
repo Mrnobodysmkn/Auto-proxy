@@ -1,12 +1,8 @@
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@156.230.12.71:443/?type=ws&encryption=none&host=vb.zhuk.us.kg&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-trojan://F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0@219.76.13.180:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-trojan://Aimer@27.50.49.37:2053/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
 trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@8.210.96.197:12902?encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=h3&fp=random&allowInsecure=1&type=ws&host=edgc.aimercc.dpdns.org&path=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-trojan://Aimer@27.50.49.166:8443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@43.132.244.52:21415/?type=ws&encryption=none&host=tw.laoyoutiao.link&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-trojan://BxceQaOe@58.152.25.253:443?allowInsecure=0&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.218.15.26:8880/?type=httpupgrade&encryption=none&host=nufillter.jtip.sbs.&path=🔒 [By EbraSha] #🌐smkn-HK-🇭🇰
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@203.23.128.33:989 #🌐smkn-HK-🇭🇰
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@203.23.128.92:990 #🌐smkn-HK-🇭🇰
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990 #🌐smkn-HK-🇭🇰
+trojan://Aimer@27.50.49.136:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
+ss://401374e6-df77-41fb-f638-dad8184f175b@104.129.167.161:443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
+vless://401374e6-df77-41fb-f638-dad8184f175b@27.50.48.192:443/?type=grpc&encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=h2 #🔒smkn-HK-🇭🇰
+trojan://Aimer@27.50.49.188:2096/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-HK-🇭🇰
+vless://-----v2ray_fark-----@103.160.204.88:2096?type=grpc&serviceName=@v2ray_fark@v2ray_fark&mode=multi&security=tls&fp=chrome&alpn=http/1.1,h2&sni=🔒 [By EbraSha] #🔒smkn-HK-🇭🇰
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@27.50.48.138:2096/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&fp=chrome #🔒smkn-HK-🇭🇰
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@216.250.97.82:38388 #🌐smkn-HK-🇭🇰
