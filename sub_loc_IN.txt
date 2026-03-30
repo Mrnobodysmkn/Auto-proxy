@@ -1,8 +1,5 @@
-vless://1027b850-de79-4a94-b337-eccdac28e141@144.24.126.26:443?allowInsecure=1&encryption=none&host=g.sandesh.qzz.io&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&type=ws #🔒smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.241:2053/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-IN-🇮🇳
-vless://1f431db3-1918-4e7b-a855-c93485e11694@108.165.152.82:443?path=🔒 [By EbraSha]&security=tls&alpn=h2,http/1.1&encryption=none&host=pari.parinazz.dpdns.org&fp=chrome&type=ws&sni=🔒 [By EbraSha] #🔒smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.80:2083?security=tls&sni=🔒 [By EbraSha]&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epgc.aimercc.dpdns.org&path=🔒 [By EbraSha] #🔒smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.82:8443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-IN-🇮🇳
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.227.174.213:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=🔒 [By EbraSha] #🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.225:2083/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-IN-🇮🇳
 trojan://Aimer@108.165.152.163:2087/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-IN-🇮🇳
 trojan://SSorg@108.165.152.76:2096/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.55:2096/?type=ws&host=epml.ambercc.filegear-sg.me&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.143:2087?allowInsecure=1&sni=🔒 [By EbraSha]&type=ws&host=epgc.aimercc.dpdns.org&path=🔒 [By EbraSha] #🌐smkn-IN-🇮🇳
