@@ -1,2 +1,4 @@
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.194:443/?type=ws&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-AT-🇦🇹
-vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@212.183.88.51:443/?type=ws&encryption=none&host=0229.patterdeng.pp.ua #🔒smkn-AT-🇦🇹
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@212.183.88.29:443/?type=ws&encryption=none&host=kb.lii2010.us.kg&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1 #🔒smkn-AT-🇦🇹
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.172:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-AT-🇦🇹
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@212.183.88.188:8880?allowInsecure=0&sni=🔒 [By EbraSha]&type=ws&host=ip.langmanshanxi.top&path=🔒 [By EbraSha] #🌐smkn-AT-🇦🇹
