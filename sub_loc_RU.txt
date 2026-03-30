@@ -1,8 +1,5 @@
-trojan://SSorg@89.248.207.37:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-RU-🇷🇺
-vless://306139eb-7fe5-414f-8446-3f0d3aa59df7@109.73.192.184:443/?type=tcp&encryption=none&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&sid= #🔒smkn-RU-🇷🇺
-trojan://Aimer@5.182.85.28:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-RU-🇷🇺
-trojan://Aimer@213.241.198.59:2083/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-RU-🇷🇺
-vless://4c67a3fa-65bd-482b-b13b-820122ea0048@51.250.24.94:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=Pj4M8dTJY9qWcvW4WwtC8yljO6rAKAcoy8KMamZ2c1M&sid=13c4b2 #🔒smkn-RU-🇷🇺
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.106.214:80/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #🌐smkn-RU-🇷🇺
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.148.104.168:8880/?type=ws&encryption=none&host=kjgx.laoyoutiao.link&path=🔒 [By EbraSha] #🌐smkn-RU-🇷🇺
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.148.104.245:80/?type=ws&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&path=🔒 [By EbraSha] #🌐smkn-RU-🇷🇺
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@185.148.106.161:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=🔒 [By EbraSha] #🔒smkn-RU-🇷🇺
+vless://20e295db-a6af-4006-bfd6-91453f169968@45.67.215.233:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=057.electrocellco-cf-057.workers.dev&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&type=ws #🔒smkn-RU-🇷🇺
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@31.129.49.103:443?encryption=none&security=tls&sni=🔒 [By EbraSha]&type=ws&host=lp.ylks.us.kg&path=🔒 [By EbraSha] #🔒smkn-RU-🇷🇺
+trojan://Aimer@45.67.215.217:2087/?type=ws&host=epmk.ambercc.filegear-sg.me&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-RU-🇷🇺
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.60.223.8:989 #🌐smkn-RU-🇷🇺
