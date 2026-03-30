@@ -1,1 +1,2 @@
-trojan://Aimer@92.243.74.3:8443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-KH-🇰🇭
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@92.243.74.2:443/?type=ws&encryption=none&host=carlotta.shorekeeper.cloudns.org&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1&fp=randomized #🔒smkn-KH-🇰🇭
+trojan://Aimer@92.243.74.2:8443/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-KH-🇰🇭
