@@ -1,6 +1,4 @@
-trojan://NISHIKUITAN111@190.93.245.32:443/?type=tcp&security=tls #🔒smkn-CR-🇨🇷
-trojan://NISHIKUITAN111@190.93.246.0:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-CR-🇨🇷
-trojan://blue2024@190.93.244.208:443/?type=ws&host=hb.lii2010.us.kg&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
-trojan://blue2024@190.93.247.128:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
-trojan://bpb-trojan@190.93.244.66:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
-vless://f47ac10b-58cc-4372-a567-0e02b2c3d479@190.93.245.245:80/?type=ws&encryption=none&host=edgetunnelworker.xlz.workers.dev&path=🔒 [By EbraSha] #🌐smkn-CR-🇨🇷
+trojan://NISHIKUITAN111@190.93.245.75:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-CR-🇨🇷
+trojan://bpb-trojan@190.93.245.14:443/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-CR-🇨🇷
+trojan://blue2024@190.93.245.58:443/?type=ws&host=hb.lii2010.us.kg&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
+trojan://NISHIKUITAN111@190.93.247.81:443/?type=tcp&security=tls #🔒smkn-CR-🇨🇷
