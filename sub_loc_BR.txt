@@ -1,3 +1,3 @@
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@185.133.35.98:443/?type=ws&encryption=none&host=kb.lii2010.us.kg&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1 #🔒smkn-BR-🇧🇷
-vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.52:443/?type=ws&encryption=none&host=crolindd.dearcarlotta.cloudns.org&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1&fp=random #🔒smkn-BR-🇧🇷
-trojan://02926f9e-153a-42c8-8ecd-8fade7009ad1@144.22.250.122:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-BR-🇧🇷
+vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.238:443/?type=ws&encryption=none&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-BR-🇧🇷
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.194.53.238:2096/?type=ws&encryption=none&flow=&host=sni.jpmj.dev&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&fp=chrome #🔒smkn-BR-🇧🇷
+trojan://BvzUvt45hON9We5X9wM6I9ZrxHRcYd46QK@216.238.102.254:26593?allowInsecure=1&sni=🔒 [By EbraSha] #🌐smkn-BR-🇧🇷
