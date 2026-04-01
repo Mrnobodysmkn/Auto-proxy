@@ -1,2 +1,1 @@
-trojan://7a73f1dc97a70905870c0c0484b12145@133.242.55.38:443/?type=tcp&security=tls #🔒smkn-JP-🇯🇵
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@64.110.104.30:443/?type=ws&encryption=none #🔒smkn-JP-🇯🇵
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@139.162.108.5:443?encryption=none&security=tls&sni=🔒 [By EbraSha]&type=ws&host=jp.laoyoutiao.link&path=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
