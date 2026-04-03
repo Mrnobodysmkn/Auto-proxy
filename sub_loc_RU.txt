@@ -1,7 +1,8 @@
-trojan://bpb-trojan@193.9.49.23:443/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-RU-🇷🇺
-vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@138.124.186.201:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&sid= #🔒smkn-RU-🇷🇺
-vless://2f54d358-bc38-4cbc-a1b3-336e52895f6f@178.250.246.103:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=🔒 [By EbraSha]&pbk=D5ttWzeUeEo0oKchjhHGY7Z8jFrAB-BOz6kdQpCrZg0 #🔒smkn-RU-🇷🇺
-vless://633f424e-2b11-48da-a6b3-a849dd71456f@45.12.75.242:26424/?type=tcp&encryption=none&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=l8AubqcxQO-HRFJy4pZL1vbLOo-eXit69s-XulSELE0&sid=23103e1e #🔒smkn-RU-🇷🇺
-trojan://ttfang@31.12.75.216:2096?security=tls&sni=🔒 [By EbraSha]&type=ws&path=🔒 [By EbraSha]&Host=ttfang.fange.me #🔒smkn-RU-🇷🇺
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@193.9.49.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #🌐smkn-RU-🇷🇺
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.148.106.214:80/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #🌐smkn-RU-🇷🇺
+vless://mega1698@5.129.249.134:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=🔒 [By EbraSha]&fp=chrome&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&sid=ab1cd2&type=tcp&headerType=none #🔒smkn-RU-🇷🇺
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@185.148.105.190:2053?path=🔒 [By EbraSha]&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=🔒 [By EbraSha] #🔒smkn-RU-🇷🇺
+trojan://NISHIKUITAN111@185.148.105.154:443/?type=tcp&security=tls #🔒smkn-RU-🇷🇺
+vless://35b5accb-6830-4b99-a041-929de8714a3e@178.154.223.113:443?security=reality&sni=🔒 [By EbraSha]&fp=chrome&pbk=66kZLshj9fxAIQA7NsABohNwgiOcY71enc6as_Frqw0&sid=3c1523da43287ec4&type=tcp&flow=xtls-rprx-vision&encryption=none #🔒smkn-RU-🇷🇺
+vless://4c67a3fa-65bd-482b-b13b-820122ea0048@51.250.24.94:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=Pj4M8dTJY9qWcvW4WwtC8yljO6rAKAcoy8KMamZ2c1M&sid=13c4b2 #🔒smkn-RU-🇷🇺
+vless://801ddf0d-5b03-4a1d-a7b0-211458015187@188.225.34.41:49169?encryption=none&security=none&type=ws #🌐smkn-RU-🇷🇺
+ss://YWVzLTI1Ni1nY206UHFKYzg5YkVKbllKLTNtRmV0a1pSUQ@62.109.21.178:20 #🌐smkn-RU-🇷🇺
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@45.67.215.177:8880?allowInsecure=0&sni=🔒 [By EbraSha]&type=ws&host=ip.langmanshanxi.top&path=🔒 [By EbraSha] #🌐smkn-RU-🇷🇺
