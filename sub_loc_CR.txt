@@ -1,21 +1,7 @@
-trojan://NISHIKUITAN111@190.93.245.32:443/?type=tcp&security=tls #🔒smkn-CR-🇨🇷
-trojan://NISHIKUITAN111@190.93.246.107:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-CR-🇨🇷
-trojan://NISHIKUITAN111@190.93.245.80:443/?type=tcp&security=tls #🔒smkn-CR-🇨🇷
-trojan://blue2024@190.93.247.68:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
-trojan://bpb-trojan@190.93.245.14:443/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-CR-🇨🇷
-trojan://45d5c2fa-58f7-4f2a-811b-c44cc51e8668@190.93.247.155:443/?type=ws&host=is2.trojanvpn.xyz&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
-trojan://blue2024@190.93.246.21:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
-vless://4eec3909-c52f-4148-bf2a-5f800ecad7b8@190.93.244.103:443?security=tls&sni=🔒 [By EbraSha]&type=grpc&serviceName=@Vpn_Mikey%D8%8C@Vpn_Mikey&encryption=none #🔒smkn-CR-🇨🇷
-trojan://NISHIKUITAN111@190.93.245.75:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-CR-🇨🇷
-trojan://NISHIKUITAN111@190.93.244.223:443/?type=tcp&security=tls #🔒smkn-CR-🇨🇷
-vless://29f00915-4107-491d-ba71-c9328e845a43@190.93.247.155:80?encryption=none&security=tls&type=ws&sni=🔒 [By EbraSha]&host=V2rayng.自己不去看啥事情基本没啥事.website&path=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.244.138:2096?path=🔒 [By EbraSha]&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=sni.111000.indevs.in&amp;type=ws&amp;allowInsecure=1&amp;sni=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
-ss://459447f6-3440-48f5-a0fa-de9c22d8d613@190.93.247.56:2082?path=🔒 [By EbraSha]&amp;security=none&amp;encryption=none&amp;host=us1.LemOeX.blog&amp;type=httpupgrade #🌐smkn-CR-🇨🇷
+trojan://NISHIKUITAN111@190.93.246.0:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-CR-🇨🇷
+vless://219d848d-60f2-4321-8275-72b9b575b37e@190.93.244.199:443/?type=ws&encryption=none&host=qaa.zhuk.us.kg&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
+vless://4eec3909-c52f-4148-bf2a-5f800ecad7b8@190.93.245.101:443?security=tls&sni=🔒 [By EbraSha]&type=grpc&serviceName=@Vpn_Mikey%D8%8C@Vpn_Mikey&encryption=none #🔒smkn-CR-🇨🇷
+vless://ee8f7279-b370-4dfb-9f90-3ea13264c1e5@190.93.245.101:8443?security=tls&sni=🔒 [By EbraSha]&type=grpc&serviceName=@Vpn_Mikey%D8%8C@Vpn_Mikey&encryption=none #🔒smkn-CR-🇨🇷
+vless://1ad22152-5e1d-4f26-b059-d19420dd74db@190.93.245.101:80?encryption=none&security=tls&type=ws&sni=🔒 [By EbraSha]&host=new-V2ray.斯涅過濾器69.website&path=🔒 [By EbraSha] #🔒smkn-CR-🇨🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@145.14.131.37:990 #🌐smkn-CR-🇨🇷
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@190.93.245.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #🌐smkn-CR-🇨🇷
-ss://%56%50%4E%43%55%53%54%4F%4D%49%5A%45@190.93.247.155:8080?path=🔒 [By EbraSha]&amp;security=none&amp;encryption=none&amp;host=%56%50%4E%43%55%53%54%4F%4D%49%5A%45-V2ray.%E5%88%97%E5%88%97%E7%94%B7%E4%BA%8B%E7%9A%84%E4%BA%8B%E5%88%97%E4%B8%8A%E8%B5%9B%E7%94%B778.tech&amp;type=ws #🌐smkn-CR-🇨🇷
-vless://f54c1c56-d3b2-41b3-9974-78bdd8807939@190.93.247.155:8880?path=🔒 [By EbraSha]&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=liV2raya.%E5%96%84%E8%89%AF%E7%9A%84%E9%97%AA%E7%94%B5.monster&amp%3Btype=ws #🌐smkn-CR-🇨🇷
-ss://7aa34c86-83e4-46ad-a857-3828764585e9@190.93.247.56:8080?security=none&amp;type=ws&amp;host=legendaryking.ir.www.speedtest.net.www.zula.ir.cloudflare.com.mozdozari.bUzz.&amp;path=🔒 [By EbraSha] #🌐smkn-CR-🇨🇷
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@190.93.245.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #🌐smkn-CR-🇨🇷
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@190.93.246.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #🌐smkn-CR-🇨🇷
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@190.93.247.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=🔒 [By EbraSha] #🌐smkn-CR-🇨🇷
-vless://dac621b1-ea49-494a-b4c1-3675b271f23a@190.93.247.155:2082?security=&type=ws&path=🔒 [By EbraSha]&host=mat4.totfaranghi.sbs&encryption=none #🌐smkn-CR-🇨🇷
