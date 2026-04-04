@@ -1,2 +1,4 @@
 vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@212.183.88.29:443/?type=ws&encryption=none&host=kb.lii2010.us.kg&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1 #🔒smkn-AT-🇦🇹
-vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.51.24:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2 #🔒smkn-AT-🇦🇹
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@212.183.88.238:2096?path=🔒 [By EbraSha]&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=sni.jpmj.dev&amp;type=ws&amp;allowInsecure=1&amp;sni=🔒 [By EbraSha] #🔒smkn-AT-🇦🇹
+vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.48.224:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2 #🔒smkn-AT-🇦🇹
+ss://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.48.237:22955?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&amp;fp=chrome&amp;type=grpc&amp;serviceName=grpc&amp;sni=🔒 [By EbraSha]&amp;sid=6ba85179e30d4fc2 #🔒smkn-AT-🇦🇹
