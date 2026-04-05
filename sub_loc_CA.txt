@@ -1,50 +1,50 @@
-vless://49d598ee-4dfc-4001-95ca-99a5b6002e3c@172.67.137.154:443/?type=ws&encryption=none&flow=&host=tiny-leaf-f59f.my-lla-s-a-njo-s-e.workers.dev&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&fp=chrome #🔒smkn-CA-🇨🇦
-trojan://NISHIKUITAN111@104.27.105.8:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-CA-🇨🇦
-vless://8e7269cd-e5c0-48fa-970e-bc0e63c35d19@104.16.133.220:443?allowInsecure=1&encryption=none&host=fornewiranvpn6.fornewiranvpn6.workers.dev&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&type=ws #🔒smkn-CA-🇨🇦
-trojan://ae7214ed-f476-4407-befa-63b46ea2eb06@23.227.38.26:443?security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&type=tcp #🔒smkn-CA-🇨🇦
-trojan://Pooria@104.17.148.22:443/?type=tcp&security=tls #🔒smkn-CA-🇨🇦
-trojan://bpb-trojan@162.159.152.227:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
-trojan://blue2024@104.16.45.220:443/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-CA-🇨🇦
-trojan://auto@104.20.22.241:443/?type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
-trojan://auto@104.21.21.129:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
-vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@172.67.145.189:443/?type=ws&encryption=none&host=rayan-08.parastoo.dpdns.org&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&fp=chrome #🔒smkn-CA-🇨🇦
-vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@172.67.174.190:443?security=tls&encryption=none&type=ws&host=w1.sylar8.eu.org&path=🔒 [By EbraSha]&sni=🔒 [By EbraSha]&fp=chrome #🔒smkn-CA-🇨🇦
-vless://ff072857-d08f-4fc9-a52e-30946d0926cd@104.19.199.48:443/?type=ws&encryption=none&host=venom90.pages.dev&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
-vless://f915817a-8b39-49da-85de-63d99fca3db0@172.67.69.236:443/?type=ws&encryption=none&host=redzone.miracleheartbit.icu&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome #🔒smkn-CA-🇨🇦
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.26.13.31:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=sany.tara132.workers.dev&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&type=ws #🔒smkn-CA-🇨🇦
-trojan://NISHIKUITAN111@104.25.0.36:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-CA-🇨🇦
-vless://932f5b07-e1c8-4f6b-9f32-44c07ae1df8b@104.18.24.92:2053?security=tls&sni=🔒 [By EbraSha]&type=grpc&serviceName=@global_net_vpn&encryption=none #🔒smkn-CA-🇨🇦
-vless://060a8fe8-7175-4ded-94a5-d9808bc645b6@104.18.35.85:443?path=🔒 [By EbraSha]&security=tls&encryption=none&host=cf.vless.sandesh.fr&fp=chrome&type=ws&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@104.17.163.219:443?path=🔒 [By EbraSha]&security=tls&encryption=none&type=ws&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
-ss://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.0.108:443?path=🔒 [By EbraSha]&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=afrcloud22.mmv.kr&amp;type=ws&amp;allowInsecure=1&amp;sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
-trojan://e4cbe8b8-37db-4aaa-8469-b84f34c51ebc@172.67.157.220:443/?type=ws&host=6666yhju.777159.xyz&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1&fp=chrome #🔒smkn-CA-🇨🇦
-vless://a739ad80-0aab-40b2-9b0e-8192c74287ef@104.21.16.5:443?security=tls&sni=🔒 [By EbraSha]&alpn=http/1.1&fp=randomized&type=ws&path=🔒 [By EbraSha]&host=faruzan.changli.ddns-ip.net&encryption=none #🔒smkn-CA-🇨🇦
-vless://8209c871-c02c-4a6f-86f9-9aaae3b36c9d@104.21.58.178:443/?type=ws&encryption=none&host=proxy.cafevpn.sbs&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&fp=random #🔒smkn-CA-🇨🇦
-vless://a91e1b4f-09f0-48af-a0c8-cd389bd3223c@104.21.6.124:443?allowInsecure=1&encryption=none&host=nnet.online&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&type=ws #🔒smkn-CA-🇨🇦
-vless://291c2abe-716a-4691-acd0-3b13dc2f7b12@104.26.12.19:443/?type=ws&encryption=none&host=WORKEr-frOSTY-BuTTeRFly-b0E9.4158fb3524.wORKeRs.deV&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=h2%2Chttp%2F1.1&fp=randomized #🔒smkn-CA-🇨🇦
-vless://9cbdc595-1d8d-4443-af07-99149153d025@172.64.150.28:443?security=tls&sni=🔒 [By EbraSha]&type=ws&host=9c4dfa21c63e4f3e8090.bazar-jalebtg.rest&path=🔒 [By EbraSha]&fp=chrome #🔒smkn-CA-🇨🇦
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@151.101.65.122:443/?type=ws&encryption=none&host=metrix.ir&security=tls&sni=🔒 [By EbraSha]&alpn=h2%2Chttp%2F1.1&fp=chrome #🔒smkn-CA-🇨🇦
+trojan://blue2024@104.16.110.37:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
+trojan://q5r6s7t8-9012-3bcd-4abc-5678abcdef90@104.21.25.190:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
+vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.74.19:443/?type=ws&encryption=none&flow=&host=ems.arc-time.workers.dev&path=🔒 [By EbraSha]&ed=2560&eh=Sec-WebSocket-Protocol&security=tls&sni=🔒 [By EbraSha]&alpn=h3&allowInsecure=1&fp=chrome #🔒smkn-CA-🇨🇦
+trojan://amclubs@162.159.129.11:2053/?type=ws&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
+trojan://NISHIKUITAN111@104.17.70.161:443/?type=tcp&security=tls #🔒smkn-CA-🇨🇦
+vless://5874ce17-1e4a-4cf5-b67e-c88da6194616@172.67.181.144:443?path=🔒 [By EbraSha]&security=tls&alpn=http/1.1&encryption=none&host=royal-limit-4b1c.rosomo9596.workers.dev&fp=chrome&type=ws&sni=🔒 [By EbraSha]  🇩🇪 @V2ngFast #🔒smkn-CA-🇨🇦
+trojan://blue2024@162.159.197.109:443/?type=ws&host=hb.lii2010.us.kg&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.10.197:443/?type=ws&encryption=none&host=a.xn--i-sx6a60i.us.kg&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
+trojan://WOeXShhJpL@104.18.183.139:443/?type=ws&host=08jzus.zdzdzd.xyz&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
+trojan://NISHIKUITAN111@104.24.180.183:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-CA-🇨🇦
+trojan://4732adfa16c6450bbef87264e41332db@104.17.61.7:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
+vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@198.41.198.242:443/?type=ws&encryption=none&host=rayan-07.parastoo.dpdns.org&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&fp=chrome #🔒smkn-CA-🇨🇦
+ss://bf4c614f-c46d-4db9-b031-62f7e4b85c2c@104.24.39.51:443?path=🔒 [By EbraSha]&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hex.1tb.workers.dev&amp;type=ws&amp;allowInsecure=0&amp;sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
+trojan://auto@172.66.45.2:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
+trojan://your_password@104.21.7.241:443?security=tls&sni=🔒 [By EbraSha]&fp=chrome&type=ws&path=🔒 [By EbraSha]&host=aws-sg-1.f1cflineb.com #🔒smkn-CA-🇨🇦
+vless://ffcf7ec1-3e09-4821-b3d9-b426a107b73b@172.67.206.152:443/?type=ws&encryption=none&host=EDfrT.frEEvPNatm2025.DPdNS.oRG&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1&fp=chrome #🔒smkn-CA-🇨🇦
+trojan://bpb-trojan@172.64.150.145:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
+trojan://NISHIKUITAN111@172.67.251.112:443/?type=tcp&security=tls #🔒smkn-CA-🇨🇦
+trojan://Aimer@104.16.246.132:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
+vless://fac5bd45-2183-40d0-981a-d22d2166fd4f@104.17.214.235:443/?type=ws&encryption=none&host=dalinceshi.icu&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&fp=random #🔒smkn-CA-🇨🇦
+vless://38715482-05f5-4ea0-aebf-60d3b8c71f30@104.21.0.128:443/?type=ws&encryption=none&flow=&host=myserviran.serviran.workers.dev&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
+trojan://blue2024@104.18.160.63:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
+trojan://NISHIKUITAN111@104.20.8.252:443/?type=tcp&security=tls #🔒smkn-CA-🇨🇦
+trojan://8437d6e8-8492-4ef2-8eb3-0e9ee281882f@172.66.42.228:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
+ss://0f0c8014-6c01-46b6-b0cc-2f76d6bae7f6@104.21.112.1:443?encryption=none&amp;security=tls&amp;sni=🔒 [By EbraSha]&amp;alpn=http%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=fqjedaza7b2vofj9ihemx319rmo41l7b.pages.dev&amp;path=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
+trojan://ttfang@172.64.156.106:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
+trojan://blue2024@172.67.75.248:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
+trojan://4732adfa16c6450bbef87264e41332db@104.16.159.7:443/?type=tcp&security=tls #🔒smkn-CA-🇨🇦
+vless://36e69e79-6e58-433c-b79b-e2d00b1f2b06@151.101.2.228:443/?type=ws&encryption=none&host=joinshhproxybedeeeeeee.ir&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
+trojan://Aimer@104.19.44.91:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
+trojan://blue2024@104.25.91.212:443/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-CA-🇨🇦
+trojan://auto@172.67.223.178:443/?type=ws&host=abbas.ab841vpn.workers.dev&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
 trojan://4b040268-f3a5-4136-b1a9-506012e8e3d9@104.21.3.60:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
-vless://e9f0a1b2-c3d4-9012-5678-89abcdef0123@104.19.45.192:443?type=ws&encryption=none&host=aslivpn.pages.dev&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&fp=chrome #🔒smkn-CA-🇨🇦
-trojan://NISHIKUITAN222@104.19.212.73:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-CA-🇨🇦
-trojan://1111@173.245.59.64:2083?path=🔒 [By EbraSha]&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jegoka6436.workers.dev&fp=chrome&type=ws&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
-vless://55167515-d9da-48be-a314-851cf4302440@104.18.24.92:2083?security=tls&sni=🔒 [By EbraSha]&type=ws&path=🔒 [By EbraSha]&host=global.globalnetvpn.site&encryption=none #🔒smkn-CA-🇨🇦
-trojan://a64f0cea-ca89-40e6-b316-b3badff1eb90@104.18.5.250:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
-trojan://POORIARED@172.67.134.185:443?path=🔒 [By EbraSha]&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
-ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443?encryption=none&amp;security=tls&amp;sni=🔒 [By EbraSha]&amp;fp=random&amp;type=ws&amp;host=carlotta.shoorekeeper.cloudns.org&amp;path=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
-vless://d9eb0df3-3190-4447-86b6-656fe5ff1119@172.67.100.114:443/?type=ws&encryption=none&host=mmdv2.pages.dev&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
-vless://4a7baca1-8048-4a91-8316-595b36657a54@172.67.140.108:443/?type=ws&encryption=none&flow=&host=eEEEfrt5.7777198.XYZ&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&fp=chrome #🔒smkn-CA-🇨🇦
-trojan://NISHIKUITAN111@104.24.71.245:443/?type=tcp&security=tls #🔒smkn-CA-🇨🇦
-vless://075b9690-f1cc-4d0c-aa1e-f80f07f09815@104.21.69.50:443/?type=ws&encryption=none&host=4o.191292.xyz&security=tls&sni=🔒 [By EbraSha]&fp=chrome #🔒smkn-CA-🇨🇦
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.4:443/?type=ws&encryption=none&host=aaa.zhuk.us.kg&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
-trojan://blue2024@172.67.142.60:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
-trojan://NISHIKUITAN111@173.245.59.30:443/?type=tcp&security=tls #🔒smkn-CA-🇨🇦
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.26.4.157:2083/?type=ws&encryption=none&host=2-212sdf.hc2021.cfd&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&fp=random #🔒smkn-CA-🇨🇦
-vless://a114d067-b900-4f60-87a5-50d4d63972b8@104.18.3.150:443?allowInsecure=1&encryption=none&host=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&type=ws #🔒smkn-CA-🇨🇦
-vless://ce035748-9913-40c9-9fb6-c8389f7cdcf3@104.17.148.22:2083?allowInsecure=1&encryption=none&host=yousef.varzesh.dpdns.org&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&type=ws #🔒smkn-CA-🇨🇦
-vless://b59a150a-7096-49fd-8081-368c518e83d0@172.67.192.145:443/?type=grpc&encryption=none&serviceName=v2rayfree1_v2rayfree1_v2rayfree1_v2rayfree1_v2rayfree1_v2rayfree1_v2rayfree1_v2rayfree1&security=tls&sni=🔒 [By EbraSha]&alpn=h3%2Ch2%2Chttp%2F1.1 #🔒smkn-CA-🇨🇦
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@162.159.153.48:443/?type=ws&encryption=none&host=aaa.zhuk.us.kg&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
-trojan://s8xwZ%5D%7C%3FV%3EcH@104.21.88.9:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
-vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@172.66.45.32:443/?type=ws&encryption=none&host=t-netplus-4vx.pages.dev&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
-trojan://bpb-trojan@104.17.27.106:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
-vless://de537efd-4d7c-4f3c-aea5-19d3f36c7b1b@104.16.12.247:2053/?type=ws&encryption=none&host=txmt.conetcdata.dpdns.org&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
-vless://c07fef7d-e8d2-42fe-b977-50e368f18293@104.16.16.255:443?flow=xtls-rprx-direct-udp443&encryption=none&security=tls&sni=🔒 [By EbraSha]&type=ws&host=vincent-jackson2021.ga&path=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
+trojan://blue2024@104.18.99.145:443/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-CA-🇨🇦
+vless://e62d084a-b9de-4486-a776-a54d200f89c1@172.67.134.91:443?allowInsecure=1&encryption=none&host=square-sea-36d2.sendconfig.workers.dev&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&type=ws #🔒smkn-CA-🇨🇦
+trojan://NISHIKUITAN111@104.27.63.104:443/?type=tcp&security=tls #🔒smkn-CA-🇨🇦
+trojan://blue2024@173.245.49.104:443/?type=ws&host=hb.lii2010.us.kg&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
+trojan://NISHIKUITAN111@104.19.44.160:443/?type=tcp&security=tls #🔒smkn-CA-🇨🇦
+vless://9a9a8e07-2735-46cb-9a94-686d030ca654@104.21.44.35:443/?type=ws&encryption=none&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
+trojan://a4291a2a-d62c-4eb9-ac7a-ac7355d1eda2@104.21.88.37:443/?type=ws&host=xxcdvfghyuiop.999165.xyz&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1&fp=chrome #🔒smkn-CA-🇨🇦
+vless://112858f5-760f-4886-95c1-c87b3b6b298e@104.24.35.106:443/?type=ws&encryption=none&host=sbs666.jjjj2024.sbs&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
+trojan://NISHIKUITAN222@188.114.96.96:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-CA-🇨🇦
+vless://d0298536-d670-4045-bbb1-ddd5ea68683e@104.16.144.63:443/?type=ws&encryption=none&flow=&host=a.azadnet003.ddns-ip.net&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&fp=chrome #🔒smkn-CA-🇨🇦
+trojan://NISHIKUITAN111@104.16.37.91:443/?type=tcp&security=tls #🔒smkn-CA-🇨🇦
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@104.16.54.197:443/?type=ws&encryption=none&host=edccj.ambercc.filegear-sg.me&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
+trojan://blue2024@104.17.236.240:443/?type=ws&host=ha.lii2010.us.kg&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
+trojan://blue2024@162.159.22.138:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
+trojan://blue2024@104.19.156.145:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CA-🇨🇦
+vless://4e60aba1-5ea1-4b70-a4ad-705ee0a0e598@104.18.189.218:443/?type=ws&encryption=none&host=bia-daily-configs.pages.dev&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=h2%2Chttp%2F1.1&fp=randomized #🔒smkn-CA-🇨🇦
