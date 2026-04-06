@@ -1,8 +1,8 @@
-vless://cc6b985d-0362-4129-8763-38564174fb3e@141.11.203.4:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1%2Ch2&fp=chrome #🔒smkn-HU-🇭🇺
-trojan://Aimer@162.159.44.82:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HU-🇭🇺
-vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@162.159.38.99:443?allowInsecure=1&encryption=none&host=639073677259599430.civic-perma.info&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&type=ws #🔒smkn-HU-🇭🇺
-trojan://Aimer@162.159.44.199:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HU-🇭🇺
-trojan://Aimer@162.159.44.231:2053/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HU-🇭🇺
-ss://3f0f36f5-f091-45c5-88c9-4bcc545b922c@162.159.38.99:2096?path=🔒 [By EbraSha]&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hetz.x-smm.com&amp;type=ws&amp;allowInsecure=0&amp;sni=🔒 [By EbraSha] #🔒smkn-HU-🇭🇺
+trojan://Aimer@141.11.203.168:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HU-🇭🇺
+vless://02be5968-d5c1-41f9-9515-3ea043b7aac3@162.159.44.88:443/?type=ws&encryption=none&host=server19.aibox.tv&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=h2%2Chttp%2F1.1&fp=chrome #🔒smkn-HU-🇭🇺
+trojan://blue2024@162.159.44.203:443/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-HU-🇭🇺
+vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443/?type=grpc&encryption=none&flow=&security=tls&sni=🔒 [By EbraSha]&alpn=h2 #🔒smkn-HU-🇭🇺
+ss://3f0f36f5-f091-45c5-88c9-4bcc545b922c@162.159.38.176:2096?path=🔒 [By EbraSha]&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hetz.x-smm.com&amp;type=ws&amp;allowInsecure=0&amp;sni=🔒 [By EbraSha] #🔒smkn-HU-🇭🇺
+trojan://Aimer@162.159.44.78:2096/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HU-🇭🇺
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@162.159.44.45:2096/?type=ws&encryption=none&flow=&host=hetz.x-smm.com&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&fp=chrome #🔒smkn-HU-🇭🇺
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.45.207:80?encryption=none&host=vip.yaml7.ggff.net&security=none&type=ws #🌐smkn-HU-🇭🇺
+vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@162.159.38.129:80?encryption=none&host=leecher56.matinheydri.workers.dev&path=🔒 [By EbraSha]&security=none&type=ws #🌐smkn-HU-🇭🇺
