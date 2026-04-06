@@ -1,5 +1,6 @@
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@31.43.179.34:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=🔒 [By EbraSha] #🔒smkn-KZ-🇰🇿
-trojan://NISHIKUITAN111@31.43.179.32:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-KZ-🇰🇿
-vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@195.245.221.13:8880/?type=ws&encryption=none&host=c.82313369.xyz&path=🔒 [By EbraSha] #🌐smkn-KZ-🇰🇿
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.76.18.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #🌐smkn-KZ-🇰🇿
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@31.43.179.155:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #🌐smkn-KZ-🇰🇿
+vless://401374e6-df77-41fb-f638-dad8184f175b@31.43.179.43:443/?type=grpc&encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=h2 #🔒smkn-KZ-🇰🇿
+trojan://blue2024@31.43.179.118:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-KZ-🇰🇿
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.243:443/?type=ws&encryption=none&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-KZ-🇰🇿
+trojan://ttfang@31.43.179.216:2096?security=tls&sni=🔒 [By EbraSha]&type=ws&path=🔒 [By EbraSha]&Host=ttfang.fange.me #🔒smkn-KZ-🇰🇿
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.176.26.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #🌐smkn-KZ-🇰🇿
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@31.43.179.168:8880/?type=ws&encryption=none&host=kjgx.laoyoutiao.link&path=🔒 [By EbraSha] #🌐smkn-KZ-🇰🇿
