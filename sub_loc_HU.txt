@@ -1,5 +1,14 @@
 trojan://Aimer@162.159.38.105:2083/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HU-🇭🇺
-vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@162.159.44.235:443?allowInsecure=1&encryption=none&host=powered-by-surena.user68f797c2f3e1b.workers.dev&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&type=ws #🔒smkn-HU-🇭🇺
-trojan://Aimer@162.159.44.127:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HU-🇭🇺
+vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@162.159.45.153:443?allowInsecure=1&encryption=none&host=powered-by-surena.user68f797c2f3e1b.workers.dev&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&type=ws #🔒smkn-HU-🇭🇺
+trojan://Aimer@162.159.44.199:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HU-🇭🇺
+vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.202.193:443/?type=grpc&encryption=none&flow=&security=tls&sni=🔒 [By EbraSha]&alpn=h2 #🔒smkn-HU-🇭🇺
+trojan://auto@162.159.44.159:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HU-🇭🇺
+trojan://NISHIKUITAN111@141.11.203.203:443/?type=ws&host=za.ylks.xyz&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-HU-🇭🇺
+trojan://Aimer@141.11.203.168:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HU-🇭🇺
+trojan://Aimer@162.159.44.233:8443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-HU-🇭🇺
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@74.49.214.168:8880/?type=ws&encryption=none&host=kjgx.laoyoutiao.link&path=🔒 [By EbraSha] #🌐smkn-HU-🇭🇺
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@141.11.202.188:8880?allowInsecure=0&sni=🔒 [By EbraSha]&type=ws&host=ip.langmanshanxi.top&path=🔒 [By EbraSha] #🌐smkn-HU-🇭🇺
 vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@162.159.38.129:80?encryption=none&host=leecher56.matinheydri.workers.dev&path=🔒 [By EbraSha]&security=none&type=ws #🌐smkn-HU-🇭🇺
+trojan://Aimer@162.159.38.101:2096/?type=tcp&security=... #🌐smkn-HU-🇭🇺
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@141.11.203.177:8880?allowInsecure=0&sni=🔒 [By EbraSha]&type=ws&host=ip.langmanshanxi.top&path=🔒 [By EbraSha] #🌐smkn-HU-🇭🇺
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@74.49.214.186:8880?allowInsecure=0&sni=🔒 [By EbraSha]&type=ws&host=ip.langmanshanxi.top&path=🔒 [By EbraSha] #🌐smkn-HU-🇭🇺
