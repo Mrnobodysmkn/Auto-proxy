@@ -1,6 +1,7 @@
-vless://V2RET---V2RET---V2RET@5.144.179.107:443?mode=auto&path=🔒 [By EbraSha]&security=reality&encryption=none&pbk=CPFjH9_GmlaifyrgFf6JZ1vRwUTrC5q3wdCzShydZQs&fp=chrome&spx=/&type=xhttp&sni=🔒 [By EbraSha]&sid=18c28e8cad154419 #🔒smkn-FI-🇫🇮
-vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=🔒 [By EbraSha] #🔒smkn-FI-🇫🇮
-vless://b67ddb53-9e46-492a-84be-0f5b752d7e83@31.56.206.70:443/?type=tcp&encryption=none&sni=🔒 [By EbraSha]&fp=firefox&security=reality&pbk=s7Ai9wZFZdDEA3ox2FSjMAqaugUFKja-7TMNCu2GYmo&sid=c6d0465acae1 #🔒smkn-FI-🇫🇮
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.187:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒 [By EbraSha] #🔒smkn-FI-🇫🇮
+trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@185.231.206.12:443?security=tls&type=tcp&sni=🔒 [By EbraSha] #🔒smkn-FI-🇫🇮
+vless://7f97131b-0d9d-4be9-b7b4-3fa21403cffa@94.156.116.5:443?security=reality&encryption=none&pbk=b2wRFAmT2Mm6a_EXPfWBu4BYw-wNGlXHWoO3lPqGoXw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&sid=86 #🔒smkn-FI-🇫🇮
+vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@65.109.118.175:443/?type=tcp&encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=h3%2Ch2%2Chttp%2F1.1 #🔒smkn-FI-🇫🇮
+vless://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&encryption=none&pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&headerType=none&fp=chrome&type=tcp&sni=🔒 [By EbraSha]&sid=cbfe #🔒smkn-FI-🇫🇮
 vless://ed7a7629-09b5-4e9a-c56b-d418f1a1388e@37.27.254.247:80/?type=tcp&security=reality&pbk=BuoQdx6Rpxdhn58FNJ5PtW4TqsVZQtcZ9Zj7J_1aaFY&fp=chrome&sni=🔒 [By EbraSha]&sid=&spx=/HAJIMAMADVPN #🔒smkn-FI-🇫🇮
-vless://16c0a741-9e93-4fc0-8479-ce582203860f@65.21.181.218:8880/?type=tcp&encryption=none #🌐smkn-FI-🇫🇮
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRW1XUlMxVGtTM1RreEtBcG5yaWhiM2FIakRTWFJ2VDFUMUs5VTJCcnV4cm5wNUE4em1wVHh3d1ROamU2QmtWcW1uOUJnUkY2cHE4cW9SSENmWmRjYWg3QkxianJwVDE=@185.5.38.111:55988 #🌐smkn-FI-🇫🇮
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWMjlCcGJ0a2hXWnI@185.204.1.253:443 #🔒smkn-FI-🇫🇮
