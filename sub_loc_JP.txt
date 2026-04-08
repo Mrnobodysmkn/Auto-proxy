@@ -1,9 +1,2 @@
-trojan://Aimer@158.101.145.82:443?security=tls&sni=🔒 [By EbraSha]&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epgc.aimercc.dpdns.org&path=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-trojan://9995cc0e-2e9d-4c80-8c81-4fdbb6322a3a@20.89.130.227:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-trojan://253bc477d4e43c209f2d427272968280@157.120.32.122:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@47.74.6.60:443/?type=tcp&encryption=none&flow=&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&sid=6ba85179e30d4fc2 #🔒smkn-JP-🇯🇵
-trojan://9f7d5cb76d1645101994d9b25891e3b7@13.231.153.129:4674?allowInsecure=0&sni=🔒 [By EbraSha] #🌐smkn-JP-🇯🇵
-trojan://BxceQaOe@13.231.153.129:5823?allowInsecure=1&sni=🔒 [By EbraSha] #🌐smkn-JP-🇯🇵
-trojan://BxceQaOe@13.231.153.129:3357?allowInsecure=1&sni=🔒 [By EbraSha] #🌐smkn-JP-🇯🇵
-trojan://9f7d5cb76d1645101994d9b25891e3b7@13.231.153.129:34818?allowInsecure=0&sni=🔒 [By EbraSha] #🌐smkn-JP-🇯🇵
-trojan://9f7d5cb76d1645101994d9b25891e3b7@13.231.153.129:29370?allowInsecure=0&sni=🔒 [By EbraSha] #🌐smkn-JP-🇯🇵
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@154.197.88.97:2053?encryption=none&security=tls&type=ws&sni=🔒 [By EbraSha]&host=juzibaipiao.5112233.xyz&path=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.197.108.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #🌐smkn-JP-🇯🇵
