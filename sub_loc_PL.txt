@@ -1,6 +1,6 @@
-trojan://063bfa6d-c68f-4955-9b33-7555b95988bc@45.144.51.81:443/?type=tcp&security=tls #🔒smkn-PL-🇵🇱
-ss://e72bb322-00dc-4206-95bc-b9e9f041c905@57.128.219.105:443?path=🔒 [By EbraSha]&amp;security=tls&amp;encryption=none&amp;host=57.128.219.105&amp;fp=chrome&amp;type=ws&amp;sni=🔒 [By EbraSha] #🔒smkn-PL-🇵🇱
 vless://211bbb0b-70a7-4792-ad04-cb6e599d2b9e@176.105.253.98:443/?type=ws&encryption=none&host=v.aivpn.filegear-sg.me&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=h3&fp=random #🔒smkn-PL-🇵🇱
-vless://fad2b7e0-d80c-4b7b-a84f-d86e0e49f627@45.15.128.75:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=🔒 [By EbraSha]&pbk=BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk&sid=e473bbc75224b9df&spx=/ #🔒smkn-PL-🇵🇱
+vless://157448af-8ecf-4075-a9e9-b23a6a94899b@84.17.55.151:8443/?type=tcp&encryption=none&security=tls&sni=🔒 [By EbraSha] #🔒smkn-PL-🇵🇱
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.110.171:443 #🔒smkn-PL-🇵🇱
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.110.167:443 #🔒smkn-PL-🇵🇱
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.111.211:443 #🔒smkn-PL-🇵🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@2.59.163.104:2222 #🌐smkn-PL-🇵🇱
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000 #🌐smkn-PL-🇵🇱
