@@ -1,11 +1,8 @@
-trojan://Bw5Mz7QkVp@139.84.172.132:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.92:2053/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-IN-🇮🇳
-trojan://ttfang@20.235.105.146:443/?type=ws&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.93:2083/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-IN-🇮🇳
-vless://1f431db3-1918-4e7b-a855-c93485e11694@108.165.152.82:443?path=🔒 [By EbraSha]&security=tls&alpn=h2,http/1.1&encryption=none&host=pari.parinazz.dpdns.org&fp=chrome&type=ws&sni=🔒 [By EbraSha] #🔒smkn-IN-🇮🇳
+vless://6564b639-8857-4fec-a45b-ada20d4bd315@139.59.75.181:443?security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&fp=chrome&type=ws&path=🔒 [By EbraSha]&host=139.59.75.181&encryption=none #🔒smkn-IN-🇮🇳
 trojan://Aimer@108.165.152.71:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.241:2053/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.66:2083/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.82:8443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.143:2087?allowInsecure=1&sni=🔒 [By EbraSha]&type=ws&host=epgc.aimercc.dpdns.org&path=🔒 [By EbraSha] #🌐smkn-IN-🇮🇳
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZDk3NDMzNjg4ZTdlZmQ1@163.171.206.24:44233 #🌐smkn-IN-🇮🇳
+trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443/?type=tcp&security=tls #🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.202:2083/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-IN-🇮🇳
+trojan://ttfang@20.235.105.146:443/?type=ws&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.59:2087/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-IN-🇮🇳
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@134.209.147.198:989 #🌐smkn-IN-🇮🇳
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990 #🌐smkn-IN-🇮🇳
