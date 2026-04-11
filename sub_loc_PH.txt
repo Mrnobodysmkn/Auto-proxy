@@ -1,2 +1,1 @@
-trojan://amclubs@154.83.2.94:2053/?type=ws&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-PH-🇵🇭
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.156:8880?path=🔒 [By EbraSha]&security=none&encryption=none&host=redw.pooriam.ir&type=ws #🌐smkn-PH-🇵🇭
+vless://401374e6-df77-41fb-f638-dad8184f175b@154.83.2.167:443/?type=grpc&encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=h2 #🔒smkn-PH-🇵🇭
