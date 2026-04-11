@@ -1,9 +1,6 @@
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.187:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒 [By EbraSha] #🔒smkn-FI-🇫🇮
-vless://V2RET---V2RET---V2RET@5.144.179.107:443?mode=auto&path=🔒 [By EbraSha]&security=reality&encryption=none&pbk=CPFjH9_GmlaifyrgFf6JZ1vRwUTrC5q3wdCzShydZQs&fp=chrome&spx=/&type=xhttp&sni=🔒 [By EbraSha]&sid=18c28e8cad154419 #🔒smkn-FI-🇫🇮
-vless://b67ddb53-9e46-492a-84be-0f5b752d7e83@31.56.206.70:443/?type=tcp&encryption=none&sni=🔒 [By EbraSha]&fp=firefox&security=reality&pbk=s7Ai9wZFZdDEA3ox2FSjMAqaugUFKja-7TMNCu2GYmo&sid=c6d0465acae1 #🔒smkn-FI-🇫🇮
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.240:443?path=🔒 [By EbraSha]&security=tls&encryption=none&type=ws #🔒smkn-FI-🇫🇮
+trojan://88939272-790a-441f-b12b-8ce531aca810@65.108.205.61:443/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-FI-🇫🇮
+vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=🔒 [By EbraSha] #🔒smkn-FI-🇫🇮
 ss://309fa273-6579-4cb2-9143-7cad50401eba@46.62.128.207:443?security=reality&amp;encryption=none&amp;pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=🔒 [By EbraSha]&amp;sid=7cad5040 #🔒smkn-FI-🇫🇮
-vless://46b86ca9-0144-46a7-ac5c-26e8c384c067@65.109.193.233:443?security=reality&encryption=none&pbk=beY-mNQ38zK5HZ4qjcW0cnTmt45Mei1LjnsXWw6bbgw&host=/JKVPN_BYA_CHANEL_JKVPN&headerType=none&fp=chrome&spx=/JKVPN_BYA_CHANEL_JKVPN&type=tcp&sni=🔒 [By EbraSha]&sid=4a2c #🔒smkn-FI-🇫🇮
-vless://ed7a7629-09b5-4e9a-c56b-d418f1a1388e@37.27.254.247:80/?type=tcp&security=reality&pbk=BuoQdx6Rpxdhn58FNJ5PtW4TqsVZQtcZ9Zj7J_1aaFY&fp=chrome&sni=🔒 [By EbraSha]&sid=&spx=/HAJIMAMADVPN #🔒smkn-FI-🇫🇮
-vless://1e9f5961-a660-46ed-c8ad-98461fea739c@95.217.243.42:443?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp #🔒smkn-FI-🇫🇮
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWMjlCcGJ0a2hXWnI@185.204.1.253:443 #🔒smkn-FI-🇫🇮
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRW1XUlMxVGtTM1RreEtBcG5yaWhiM2FIakRTWFJ2VDFUMUs5VTJCcnV4cm5wNUE4em1wVHh3d1ROamU2QmtWcW1uOUJnUkY2cHE4cW9SSENmWmRjYWg3QkxianJwVDE=@185.5.38.111:55988 #🌐smkn-FI-🇫🇮
+vless://6897c181-24b1-4880-8660-e6c5c7ee13c7@92.60.78.221:443?security=reality&amp%3Bencryption=none&amp%3Bpbk=pkIWxbuPAasjatPaHnAaTnCxVj1RkDFsJEWpLUTOcWY&amp%3Bfp=chrome&amp%3Btype=tcp&amp%3Bflow=xtls-rprx-vision&amp%3Bsni=🔒 [By EbraSha]&amp%3Bsid=9917d2350096 #🔒smkn-FI-🇫🇮
