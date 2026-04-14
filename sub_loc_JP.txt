@@ -1,7 +1,4 @@
-trojan://9995cc0e-2e9d-4c80-8c81-4fdbb6322a3a@20.89.130.227:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@139.162.108.5:443?encryption=none&security=tls&sni=🔒 [By EbraSha]&type=ws&host=jp.laoyoutiao.link&path=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.132.38:3057?security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-vless://d706bf16-124a-417b-aaa0-0d6d5efd58fd@38.60.212.251:29059?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=V_eMkcHXf237wGyfggMHHRvQqw51rW1UJPEIw_T2IE4&security=reality&sid=6ba85179e30d4fc2&sni=🔒 [By EbraSha]&type=tcp #🔒smkn-JP-🇯🇵
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@47.79.92.16:443/?type=ws&encryption=none&host=edccr.ambercc.filegear-sg.me&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+vless://62357561-a129-4b9e-9614-ce2578020866@138.2.18.82:8880/?type=ws&encryption=none&host=edg.comorg.us.kg&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@8.216.121.234:51922/?type=ws&encryption=none&flow=&host=edcck.ambercc.filegear-sg.me&path=🔒 [By EbraSha]&proxyip=ts.hpc.tw&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&packetEncoding=xudp #🔒smkn-JP-🇯🇵
 vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@140.83.57.183:22735/?type=ws&encryption=none&host=steep.skyfigure.top&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-trojan://9f7d5cb76d1645101994d9b25891e3b7@160.16.132.38:4937?security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@168.138.46.67:443/?type=ws&encryption=none&host=pvg.aghabeiki.homes&path=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
