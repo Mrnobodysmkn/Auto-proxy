@@ -1,2 +1,3 @@
-trojan://Aimer@92.243.74.180:8443/?type=ws&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-KH-🇰🇭
-trojan://Aimer@92.243.74.239:8443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-KH-🇰🇭
+vless://cc6b985d-0362-4129-8763-38564174fb3e@92.243.75.72:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1%2Ch2&fp=chrome #🔒smkn-KH-🇰🇭
+trojan://Aimer@92.243.74.23:2096/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-KH-🇰🇭
+trojan://Aimer@92.243.75.49:2087?allowInsecure=1&sni=🔒 [By EbraSha]&type=ws&host=epgc.aimercc.dpdns.org&path=🔒 [By EbraSha] #🌐smkn-KH-🇰🇭
