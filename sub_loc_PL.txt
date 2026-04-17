@@ -1,3 +1,5 @@
-vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@144.31.3.35:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3 #🔒smkn-PL-🇵🇱
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@141.101.123.51:443?path=🔒 [By EbraSha]&security=tls&encryption=none&type=ws&sni=🔒 [By EbraSha] #🔒smkn-PL-🇵🇱
-trojan://063bfa6d-c68f-4955-9b33-7555b95988bc@45.144.51.81:443/?type=tcp&security=tls #🔒smkn-PL-🇵🇱
+trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-PL-🇵🇱
+vless://94a03e9a-74d5-4036-95e9-563cc19355de@144.31.2.20:443/?type=tcp&encryption=none&flow=&security=tls&sni=🔒 [By EbraSha]&fp=chrome #🔒smkn-PL-🇵🇱
+vless://c14b2731-7db6-49ee-9271-b1efc56c2630@146.59.15.81:443/?type=tcp&encryption=none&flow=&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=l8HS4g_h8xPWlhQm8hmj5ohKNMrMCBcoHSNBFij79Sk&sid=5bb805 #🔒smkn-PL-🇵🇱
+trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-PL-🇵🇱
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.55.84:443 #🔒smkn-PL-🇵🇱
