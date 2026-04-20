@@ -1,8 +1,5 @@
-vless://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒 [By EbraSha] #🔒smkn-TR-🇹🇷
+vless://75fde681-ec64-4654-86fa-30732e8e179c@62.3.12.185:443/?type=ws&encryption=none&host=nginx-z.pages.dev&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=h3 #🔒smkn-TR-🇹🇷
 vless://e7d08833-b87f-4e9f-9f48-38485e58155e@185.234.66.93:443/?type=ws&encryption=none&flow=&path=🔒 [By EbraSha]&security=tls #🔒smkn-TR-🇹🇷
-trojan://tunnel-telegram-ibahad@193.124.46.134:8441?security=tls&alpn=http%2F1.1&host=tr-1.stunnel.cc&headerType=none&type=tcp&sni=🔒 [By EbraSha] #🔒smkn-TR-🇹🇷
-vless://5b97592b-1e9c-7747-e571-b4291f98c6ab@86.38.214.30:8880/?type=httpupgrade&encryption=none&host=LondoN-Ar-25.pcsTorearsOft.iR.&path=🔒 [By EbraSha] #🌐smkn-TR-🇹🇷
-vless://762e148f-39f7-4ef3-a348-c3584bf436d2@86.38.214.30:8080/?type=ws&encryption=none&host=sNaPp.MaStErSrV.ir.&path=🔒 [By EbraSha] #🌐smkn-TR-🇹🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtdGVsZWdyYW0taWJhaGFk@193.124.46.134:8444 #🌐smkn-TR-🇹🇷
-vless://4dbc9705-e9d6-53c5-818d-ea62e57bd784@86.38.214.30:2095/?type=httpupgrade&encryption=none&host=Ge.PcStorEaRsOft.iR.&path=🔒 [By EbraSha] #🌐smkn-TR-🇹🇷
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@86.38.214.20:8880/?type=ws&encryption=none&host=us.laoyoutiao.link&path=🔒 [By EbraSha] #🌐smkn-TR-🇹🇷
+trojan://Aimer@86.38.214.186:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-TR-🇹🇷
+vless://215d71a9-0047-4600-9240-7c3b86b62313@46.31.76.3:80?mode=auto&path=🔒 [By EbraSha]&security=reality&encryption=none&pbk=oTX6mQJYxkmmdF7Rq_stAKX_hYoOMXGaWmoblFl2zgo&host=bleep.global.ssl.fastly.net&fp=chrome&spx=/&type=xhttp&sni=🔒 [By EbraSha]&sid=5942e2 #🔒smkn-TR-🇹🇷
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@86.38.214.3:8880/?type=ws&encryption=none&host=bitget1.asdasd.click&path=🔒 [By EbraSha] #🌐smkn-TR-🇹🇷
