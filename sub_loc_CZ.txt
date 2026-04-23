@@ -1,2 +1,6 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.23.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=🔒 [By EbraSha]&type=ws #🔒smkn-CZ-🇨🇿
-vless://b49d8a13-12f6-4613-bb0d-3e2f6244f29c@14.102.228.75:80/?type=ws&encryption=none&host=ov-canada1.09vpn.com&path=🔒 [By EbraSha] #🌐smkn-CZ-🇨🇿
+trojan://NISHIKUITAN111@14.102.228.61:443/?type=ws&host=zb.ylks.xyz&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CZ-🇨🇿
+trojan://5y8y3CwxRVYhyfSY@185.253.46.105:443?security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&type=tcp #🔒smkn-CZ-🇨🇿
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@195.85.23.54:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=🔒 [By EbraSha] #🔒smkn-CZ-🇨🇿
+trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls #🔒smkn-CZ-🇨🇿
+vless://401374e6-df77-41fb-f638-dad8184f175b@14.102.228.18:443/?type=grpc&encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=h2 #🔒smkn-CZ-🇨🇿
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@143.244.58.102:443 #🔒smkn-CZ-🇨🇿
