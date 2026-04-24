@@ -1,8 +1,6 @@
-vless://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒 [By EbraSha] #🔒smkn-TR-🇹🇷
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.164.11.48:443/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-TR-🇹🇷
-trojan://Aimer@86.38.214.186:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-TR-🇹🇷
-vless://215d71a9-0047-4600-9240-7c3b86b62313@46.31.76.3:80?mode=auto&path=🔒 [By EbraSha]&security=reality&encryption=none&pbk=oTX6mQJYxkmmdF7Rq_stAKX_hYoOMXGaWmoblFl2zgo&host=bleep.global.ssl.fastly.net&fp=chrome&spx=/&type=xhttp&sni=🔒 [By EbraSha]&sid=5942e2 #🔒smkn-TR-🇹🇷
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@86.38.214.177:8880?allowInsecure=0&sni=🔒 [By EbraSha]&type=ws&host=ip.langmanshanxi.top&path=🔒 [By EbraSha] #🌐smkn-TR-🇹🇷
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@86.38.214.53:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=🔒 [By EbraSha]&security=none #🌐smkn-TR-🇹🇷
-vless://b04a24aa-394e-5278-8202-dc480ae6f49b@86.38.214.22:2052/?type=ws&encryption=none&host=sPeedtest2.sbs.sg.vless.sitespeedtest.net&path=🔒 [By EbraSha] #🌐smkn-TR-🇹🇷
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@86.38.214.29:8880/?type=ws&encryption=none&host=hk.laoyoutiao.link&path=🔒 [By EbraSha] #🌐smkn-TR-🇹🇷
+vless://0af0090b-4223-4e21-84a6-46b192ff2a60@212.64.199.79:443?security=reality&sni=🔒 [By EbraSha]&fp=chrome&pbk=6JqJJ-wIZpy62AitE3hxzdv1DiosZ3UCPwaJQhuq4Qg&sid=de&type=grpc&serviceName=@Catvpns&encryption=none #🔒smkn-TR-🇹🇷
+vless://6d60c0fc-ec20-4c8c-9f43-a6750c6096f2@103.231.75.49:443/?type=ws&encryption=none&path=🔒 [By EbraSha]&security=tls&fp=chrome #🔒smkn-TR-🇹🇷
+trojan://tunnel-telegram-ibahad@193.124.46.134:8441?security=tls&alpn=http%2F1.1&host=tr-1.stunnel.cc&headerType=none&type=tcp&sni=🔒 [By EbraSha] #🔒smkn-TR-🇹🇷
+ss://YWVzLTI1Ni1nY206QVliRkwzOWJuNEVmRFhmRGJ1ZWFtTg==@62.60.233.72:33155 #🌐smkn-TR-🇹🇷
+ss://ed29a0e3-5a32-4a7f-8863-277e9f653629@193.31.117.25:8080?security=&amp;type=grpc&amp;encryption=none #🌐smkn-TR-🇹🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtdGVsZWdyYW0taWJhaGFk@193.124.46.134:8444 #🌐smkn-TR-🇹🇷
