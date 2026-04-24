@@ -1,5 +1,3 @@
-trojan://bpb-trojan@195.85.23.232:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CZ-🇨🇿
-trojan://Aimer@37.157.192.61:9902/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-CZ-🇨🇿
-trojan://ttfang@14.102.228.216:2096?security=tls&sni=🔒 [By EbraSha]&type=ws&path=🔒 [By EbraSha]&Host=ttfang.fange.me #🔒smkn-CZ-🇨🇿
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@143.244.58.102:443 #🔒smkn-CZ-🇨🇿
+vless://cc6b985d-0362-4129-8763-38564174fb3e@14.102.228.172:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1%2Ch2&fp=chrome #🔒smkn-CZ-🇨🇿
+trojan://ttfang@14.102.229.216:2096?security=tls&sni=🔒 [By EbraSha]&type=ws&path=🔒 [By EbraSha]&Host=ttfang.fange.me #🔒smkn-CZ-🇨🇿
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@14.102.228.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #🌐smkn-CZ-🇨🇿
