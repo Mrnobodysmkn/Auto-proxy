@@ -1,2 +1,4 @@
-trojan://bpb-trojan@45.194.53.231:443/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-BR-🇧🇷
-vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.242:443/?type=ws&encryption=none&host=uu.vs2024.us.kg #🔒smkn-BR-🇧🇷
+vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.26:443?path=🔒 [By EbraSha]&security=tls&alpn=http%2F1.1&encryption=none&host=crolindd.dearcarlotta.cloudns.org&fp=random&type=ws&sni=🔒 [By EbraSha] #🔒smkn-BR-🇧🇷
+vless://cc6b985d-0362-4129-8763-38564174fb3e@45.194.53.216:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1%2Ch2&fp=chrome #🔒smkn-BR-🇧🇷
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@185.133.35.98:443/?type=ws&encryption=none&host=kb.lii2010.us.kg&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1 #🔒smkn-BR-🇧🇷
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.26:443/?type=ws&encryption=none&host=vc.ylka.dpdns.org #🔒smkn-BR-🇧🇷
