@@ -1,4 +1,5 @@
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@212.183.88.112:443?encryption=none&security=tls&sni=🔒 [By EbraSha]&type=ws&host=ap.ylks.xyz&path=🔒 [By EbraSha] #🔒smkn-AT-🇦🇹
 trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.194:443/?type=ws&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-AT-🇦🇹
-vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.48.224:22955/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2 #🔒smkn-AT-🇦🇹
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5bGNDdnpOeHBOc25JTnlhWWZ6Yzhl@212.113.106.76:29149 #🌐smkn-AT-🇦🇹
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.172:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-AT-🇦🇹
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@212.183.88.77:443/?type=ws&encryption=none&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-AT-🇦🇹
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@212.183.88.254:8880?allowInsecure=0&sni=🔒 [By EbraSha]&type=ws&host=yg.bantony199.top&path=🔒 [By EbraSha] #🌐smkn-AT-🇦🇹
+trojan://trojan@152.53.45.251:8888?allowInsecure=0&sni=🔒 [By EbraSha]&ws=1&wspath=🔒 [By EbraSha] #🌐smkn-AT-🇦🇹
