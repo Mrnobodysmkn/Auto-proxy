@@ -1,5 +1,4 @@
-vless://cc6b985d-0362-4129-8763-38564174fb3e@14.102.228.172:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1%2Ch2&fp=chrome #🔒smkn-CZ-🇨🇿
-trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls #🔒smkn-CZ-🇨🇿
-trojan://ttfang@14.102.228.216:2096?security=tls&sni=🔒 [By EbraSha]&type=ws&path=🔒 [By EbraSha]&Host=ttfang.fange.me #🔒smkn-CZ-🇨🇿
-vless://b49d8a13-12f6-4613-bb0d-3e2f6244f29c@14.102.228.75:80/?type=ws&encryption=none&host=ov-canada1.09vpn.com&path=🔒 [By EbraSha] #🌐smkn-CZ-🇨🇿
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@14.102.229.186:8880?allowInsecure=0&sni=🔒 [By EbraSha]&type=ws&host=ip.langmanshanxi.top&path=🔒 [By EbraSha] #🌐smkn-CZ-🇨🇿
+vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@87.236.146.32:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=🔒 [By EbraSha]&type=tcp #🔒smkn-CZ-🇨🇿
+trojan://5y8y3CwxRVYhyfSY@185.253.46.105:443?security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&type=tcp #🔒smkn-CZ-🇨🇿
+vless://401374e6-df77-41fb-f638-dad8184f175b@14.102.228.18:443/?type=grpc&encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=h2 #🔒smkn-CZ-🇨🇿
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@87.236.146.32:2083?allowInsecure=1&host=xo.e0f.cx&path=🔒 [By EbraSha]&sni=🔒 [By EbraSha]&type=ws #🔒smkn-CZ-🇨🇿
