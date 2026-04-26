@@ -1,5 +1,7 @@
-trojan://Aimer@95.216.143.166:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-FI-🇫🇮
-vless://a87387cc-7a9f-4e8c-c653-d422425897b0@95.217.243.4:443?security=reality&sni=🔒 [By EbraSha]&fp=safari&pbk=QcDX3RiYqqDQE7Pfnt_MzB2e7D4RcaVhb8sgGhZ5Oho&sid=49a0&type=tcp&encryption=none #🔒smkn-FI-🇫🇮
-vless://d71357cc-638a-0b8a-ac7d-dd580e294281@178.20.215.10:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=GfTzhy59k9CXlAdF819OUVeBdrqIILaDIWa1bddjGnA&sid= #🔒smkn-FI-🇫🇮
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.240:443?path=🔒 [By EbraSha]&security=tls&encryption=none&type=ws #🔒smkn-FI-🇫🇮
-vless://4180cade-7ec7-4da7-8d0e-3c04636a514b@91.108.241.188:8443?path=🔒 [By EbraSha]&security=tls&encryption=none&insecure=1&host=joss.gvpn2.web.id&fp=chrome&type=ws&allowInsecure=1&sni=🔒 [By EbraSha] #🔒smkn-FI-🇫🇮
+vless://7f97131b-0d9d-4be9-b7b4-3fa21403cffa@94.156.116.5:443?security=reality&encryption=none&pbk=b2wRFAmT2Mm6a_EXPfWBu4BYw-wNGlXHWoO3lPqGoXw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&sid=86 #🔒smkn-FI-🇫🇮
+vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@65.109.118.175:443/?type=tcp&encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=h3%2Ch2%2Chttp%2F1.1 #🔒smkn-FI-🇫🇮
+vless://19ef3d02-1c55-4fec-9794-6def8cbac396@150.241.103.74:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=NOhuaiHfc8Tv7VrFKnNgr-VN594kxtUCslNEBhySvXQ&security=reality&sid=aa69f619e4414362&sni=🔒 [By EbraSha]&type=tcp #🔒smkn-FI-🇫🇮
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.144.52.69:443?&security=tls&sni=🔒 [By EbraSha]&type=ws&headerType=none&host=sni.111000.v6.rocks&path=🔒 [By EbraSha] #🔒smkn-FI-🇫🇮
+vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=🔒 [By EbraSha] #🔒smkn-FI-🇫🇮
+vless://19773cc6-89a3-47c6-bc10-885460cd2b7b@89.167.17.75:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp #🔒smkn-FI-🇫🇮
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRVoyYmZGYlZpQzl1c04xV0I0eHF2eXpFdVVoUEEydXVVWVptaktBV1RRYzNtRXJoQ2FWSG1aYmJXZ1ZHOW9pMVZIaHoxMktQMmdBV0M4TFpKNGltV2h5cEFEOVBHM3U=@185.5.38.111:55988 #🌐smkn-FI-🇫🇮
