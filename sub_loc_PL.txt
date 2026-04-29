@@ -1,9 +1,5 @@
-trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-PL-🇵🇱
-trojan://NISHIKUITAN111@141.101.123.249:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-PL-🇵🇱
-trojan://e4f288433b@54.36.173.159:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-PL-🇵🇱
+trojan://063bfa6d-c68f-4955-9b33-7555b95988bc@45.144.51.81:443/?type=tcp&security=tls #🔒smkn-PL-🇵🇱
+vless://211bbb0b-70a7-4792-ad04-cb6e599d2b9e@176.105.253.98:443/?type=ws&encryption=none&host=v.aivpn.filegear-sg.me&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=h3&fp=random #🔒smkn-PL-🇵🇱
 ss://e72bb322-00dc-4206-95bc-b9e9f041c905@57.128.219.105:443?path=🔒 [By EbraSha]&amp;security=tls&amp;encryption=none&amp;host=57.128.219.105&amp;fp=chrome&amp;type=ws&amp;sni=🔒 [By EbraSha] #🔒smkn-PL-🇵🇱
-ss://be015dd2-30b4-4fcf-a9ee-080c13ac13fb@2.56.125.209:49868?security=reality&amp;encryption=none&amp;pbk=joEKL4Itljxodt1SOe1itSMrAH9bk_udpPtXgIjdu10&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=🔒 [By EbraSha]&amp;sid=6d638e #🔒smkn-PL-🇵🇱
-vless://859b7d71-a9fc-4234-8e03-42eb876a170a@151.115.96.243:7242/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&fp=firefox&security=reality&pbk=jGmjU0vrRXCnIwn0rVatYKf5ihWZhMvqidp2ceY1QAM&sid=8c01e365 #🔒smkn-PL-🇵🇱
-trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.110.171:443 #🔒smkn-PL-🇵🇱
-vless://595ae3f9-5a91-4eaa-82a3-28a221cf8f7f@45.138.16.58:30086?encryption=none&security=none&serviceName=gprc&type=grpc #🌐smkn-PL-🇵🇱
+trojan://NISHIKUITAN111@141.101.123.249:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-PL-🇵🇱
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.111.209:443 #🔒smkn-PL-🇵🇱
