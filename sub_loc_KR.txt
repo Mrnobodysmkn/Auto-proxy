@@ -1,6 +1,6 @@
-trojan://81d93f62-15a2-4994-adb9-0b5d906aac7e@138.2.114.255:443?security=tls&allowInsecure=1&type=tcp #🔒smkn-KR-🇰🇷
-trojan://8r%3C%5B9%27l6hAO%238ZQi@146.56.113.221:7778?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 627 #🔒smkn-KR-🇰🇷
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@146.56.41.215:443/?type=ws&encryption=none&host=pvg.aghabeiki.homes #🔒smkn-KR-🇰🇷
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.57.87:443 #🔒smkn-KR-🇰🇷
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652 #🌐smkn-KR-🇰🇷
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@146.56.161.138:443/?type=ws&encryption=none&host=pvg.aghabeiki.homes&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-KR-🇰🇷
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@121.149.124.119:11434?&security=tls&fp=chrome&sni=🔒 [By EbraSha]&type=ws&headerType=none&host=czvjaheuiweghruiwegfbldsafsdgaryreygnxvbhsfgretgreyhthsfgj.pages.dev&path=🔒 [By EbraSha] #🔒smkn-KR-🇰🇷
+trojan://8r%3C%5B9%27l6hAO%238ZQi@146.56.113.221:7778?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 291 #🔒smkn-KR-🇰🇷
+trojan://8r%3C%5B9%27l6hAO%238ZQi@220.118.83.101:60004?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 938 #🔒smkn-KR-🇰🇷
+trojan://8r%3C%5B9%27l6hAO%238ZQi@210.99.119.3:30019?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 73 #🔒smkn-KR-🇰🇷
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.62.168:989 #🌐smkn-KR-🇰🇷
