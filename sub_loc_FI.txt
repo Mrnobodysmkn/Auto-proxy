@@ -1,11 +1,10 @@
-vless://b67ddb53-9e46-492a-84be-0f5b752d7e83@31.56.206.70:443/?type=tcp&encryption=none&sni=🔒 [By EbraSha]&fp=firefox&security=reality&pbk=s7Ai9wZFZdDEA3ox2FSjMAqaugUFKja-7TMNCu2GYmo&sid=c6d0465acae1 #🔒smkn-FI-🇫🇮
-trojan://88939272-790a-441f-b12b-8ce531aca810@65.108.205.61:443/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-FI-🇫🇮
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.187:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒 [By EbraSha] #🔒smkn-FI-🇫🇮
-vless://7f97131b-0d9d-4be9-b7b4-3fa21403cffa@94.156.116.5:443?security=reality&encryption=none&pbk=b2wRFAmT2Mm6a_EXPfWBu4BYw-wNGlXHWoO3lPqGoXw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&sid=86 #🔒smkn-FI-🇫🇮
+trojan://8r%3C%5B9%27l6hAO%238ZQi@89.167.100.106:443?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 615 #🔒smkn-FI-🇫🇮
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.240:443?path=🔒 [By EbraSha]&security=tls&encryption=none&type=ws #🔒smkn-FI-🇫🇮
+vless://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&encryption=none&pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&headerType=none&fp=chrome&type=tcp&sni=🔒 [By EbraSha]&sid=cbfe #🔒smkn-FI-🇫🇮
 ss://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=🔒 [By EbraSha]&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=🔒 [By EbraSha] #🔒smkn-FI-🇫🇮
-vless://d71357cc-638a-0b8a-ac7d-dd580e294281@178.20.215.10:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=GfTzhy59k9CXlAdF819OUVeBdrqIILaDIWa1bddjGnA&sid= #🔒smkn-FI-🇫🇮
-vless://ff40696b-06d6-443b-9481-8d01eddd13e1@107.181.151.39:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&security=reality&sid=d659da01fb94&sni=🔒 [By EbraSha]&type=tcp #🔒smkn-FI-🇫🇮
-trojan://8r%3C%5B9%27l6hAO%238ZQi@65.109.186.249:2053?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 940 #🔒smkn-FI-🇫🇮
-vless://ed7a7629-09b5-4e9a-c56b-d418f1a1388e@37.27.254.247:80/?type=tcp&security=reality&pbk=BuoQdx6Rpxdhn58FNJ5PtW4TqsVZQtcZ9Zj7J_1aaFY&fp=chrome&sni=🔒 [By EbraSha]&sid=&spx=/HAJIMAMADVPN #🔒smkn-FI-🇫🇮
-vless://4180cade-7ec7-4da7-8d0e-3c04636a514b@91.108.241.188:8443?path=🔒 [By EbraSha]&security=tls&encryption=none&insecure=1&host=joss.gvpn2.web.id&fp=chrome&type=ws&allowInsecure=1&sni=🔒 [By EbraSha] #🔒smkn-FI-🇫🇮
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687 #🌐smkn-FI-🇫🇮
+trojan://88939272-790a-441f-b12b-8ce531aca810@65.108.205.61:443/?type=tcp&security=tls&sni=🔒 [By EbraSha]&allowInsecure=1 #🔒smkn-FI-🇫🇮
+trojan://8r%3C%5B9%27l6hAO%238ZQi@92.118.233.25:443?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 818 #🔒smkn-FI-🇫🇮
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@144.31.19.131:443?&security=tls&sni=🔒 [By EbraSha]&type=ws&headerType=none&host=sni.111000.v6.rocks&path=🔒 [By EbraSha] #🔒smkn-FI-🇫🇮
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.41:2096?encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒 [By EbraSha] #🔒smkn-FI-🇫🇮
+trojan://b65cbe72-59e2-4011-a22b-760621b5921f@65.109.129.120:80?security=tls&headerType=none&type=tcp&sni=🔒 [By EbraSha] #🔒smkn-FI-🇫🇮
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWMjlCcGJ0a2hXWnI@185.204.1.253:443 #🔒smkn-FI-🇫🇮
