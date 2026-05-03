@@ -1,10 +1,6 @@
 trojan://NISHIKUITAN111@45.131.4.208:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-IR-🇮🇷
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.67:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.225:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
-ss://1a83df32-42f2-4395-97bb-1fb91822c630@185.143.233.5:443?security=tls&amp;allowInsecure=0&amp;encryption=none&amp;type=ws&amp;host=hn.8lack.ir&amp;path=🔒 [By EbraSha]&amp;sni=🔒 [By EbraSha]&amp;fp=firefox&amp;alpn=h2,http/1.1 #🔒smkn-IR-🇮🇷
-ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=🔒 [By EbraSha]&amp;security=&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws #🌐smkn-IR-🇮🇷
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.4.30:8880?type=ws&security=none&encryption=none&host=vms.lifetime59.workers.dev #🌐smkn-IR-🇮🇷
-vless://a3aff9fa-0e17-4b39-c80d-19fa9c038214@45.131.4.67:2086/?type=httpupgrade&encryption=none&host=cdn44.almass22.ir&path=🔒 [By EbraSha] #🌐smkn-IR-🇮🇷
-vless://a4f188a0-ae2c-4f02-b646-8de9c4e57fea@185.143.233.5:2082?encryption=none&host=cdn.sesrsa.com&path=🔒 [By EbraSha]&security=none&type=ws #🌐smkn-IR-🇮🇷
-vless://6aa105eb-d30e-40a5-9cea-96b3a3ff1bb3@185.143.233.5:8880?encryption=none&amp%3Bhost=cdn.sesrsa.com&amp%3Bpath=🔒 [By EbraSha]&amp%3Bsecurity=none&amp%3Btype=ws #🌐smkn-IR-🇮🇷
-vless://57cbd1f6-f30f-4d84-ec7b-aefa613cd508@185.143.233.5:80/?type=ws&encryption=none&host=bpm.shaparak.ir&path=🔒 [By EbraSha] #🌐smkn-IR-🇮🇷
+vless://5f4845b4-11dc-41d6-9508-4ff6a02e36c1@45.131.4.192:80?&security=false&fp=chrome&type=ws&headerType=none&host=silent-paper-fa57.fipiyag989.workers.dev&path=🔒 [By EbraSha] #🌐smkn-IR-🇮🇷
+vless://384193af-acf4-4e3d-a570-5720befa42ee@45.131.4.245:80?security=&type=ws&path=🔒 [By EbraSha]&host=Okhvod.KAshTI.WOrLd&encryption=none #🌐smkn-IR-🇮🇷
+vless://5b019814-bbd0-4ec1-889e-f1c8c6ee6f9c@185.143.233.122:8080?path=🔒 [By EbraSha]&security=none&encryption=none&host=tp.teamlifez.ir&type=ws #🌐smkn-IR-🇮🇷
+ss://a353c427-0a55-43b9-a9cb-63885c82eea8@185.143.234.122:80?path=🔒 [By EbraSha]&amp;security=none&amp;encryption=none&amp;host=w2.mazandaranmusic.ir&amp;type=ws #🌐smkn-IR-🇮🇷
+vless://5eb2b49f-2657-4d90-ac8a-050a384c5547@185.143.235.253:80?path=🔒 [By EbraSha]&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=ss.oppobot.ir&amp%3Btype=ws #🌐smkn-IR-🇮🇷
