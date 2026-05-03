@@ -1,14 +1,19 @@
-trojan://NISHIKUITAN111@45.131.4.208:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-IR-🇮🇷
-vless://3824fba1-352a-44f6-89c3-66bacce658eb@185.143.235.201:443/?type=ws&encryption=none&host=s2.www.getasa.ir&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1&fp=randomized #🔒smkn-IR-🇮🇷
-vless://914b24f0-ad36-447a-8807-d6fdff103afb@185.143.235.201:2083?path=🔒 [By EbraSha]&security=tls&alpn=http/1.1&encryption=none&host=s1.www.getasa.ir&fp=chrome&type=ws&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
-vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.120:443?path=🔒 [By EbraSha]&security=tls&encryption=none&host=irancellapp.ir.turcancowntiv.airasiadl.com&fp=chrome&type=ws&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.225:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
 vless://494613dc-2999-4893-a09b-406e088e458d@45.131.4.156:443/?type=ws&encryption=none&host=azarandooz.awebcontent.workers.dev&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&fp=chrome #🔒smkn-IR-🇮🇷
-trojan://$Iu_sL4k*u,9@185.143.235.201:2096/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
+vless://914b24f0-ad36-447a-8807-d6fdff103afb@185.143.235.201:2083?path=🔒 [By EbraSha]&security=tls&alpn=http/1.1&encryption=none&host=s1.www.getasa.ir&fp=chrome&type=ws&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
+vless://3824fba1-352a-44f6-89c3-66bacce658eb@185.143.235.201:443/?type=ws&encryption=none&host=s2.www.getasa.ir&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&alpn=http%2F1.1&fp=randomized #🔒smkn-IR-🇮🇷
+vless://53a58a9f-204a-4351-b093-16b9ada44071@185.143.233.120:2053/?type=ws&encryption=none&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&fp=chrome #🔒smkn-IR-🇮🇷
+vless://0ff72ab1-88e5-49b2-84f8-5d8734fd6525@185.143.233.120:443/?type=ws&encryption=none&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
+vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.120:443?path=🔒 [By EbraSha]&security=tls&encryption=none&host=irancellapp.ir.turcancowntiv.airasiadl.com&fp=chrome&type=ws&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
+vless://3c674b63-9a37-4f9f-874a-339256e75f40@185.143.233.200:443/?type=ws&encryption=none&host=bama.ir.nl3.mapirabr.com&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&fp=randomized #🔒smkn-IR-🇮🇷
+vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.200:443?path=🔒 [By EbraSha]&security=tls&encryption=none&host=aiomovie.ir.wnticaceninl10.mahanmapcdn.com&fp=chrome&type=ws&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
+trojan://biS(YrwB,3L$@185.143.235.5:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
 vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.4.173:8443?encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=h3%2Ch2&fp=chrome&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
+trojan://ttfang@45.131.4.216:2096?security=tls&sni=🔒 [By EbraSha]&type=ws&path=🔒 [By EbraSha]&Host=ttfang.fange.me #🔒smkn-IR-🇮🇷
+trojan://$Iu_sL4k*u,9@185.143.235.201:2096/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
+vless://985acae9-b627-417c-95a8-36b3e3677be2@185.143.233.120:2086/?type=ws&encryption=none&host=getasa.ir&path=🔒 [By EbraSha] #🌐smkn-IR-🇮🇷
+vless://8cf73792-0b3e-8e8b-f833-e86067f7a22c@45.131.4.5:2052/?type=httpupgrade&encryption=none&host=2.v2.www.speedtest.net.blue99shop.ir.&path=🔒 [By EbraSha] #🌐smkn-IR-🇮🇷
+vless://3f6aa3e1-5465-4361-915a-1b971c04c3e5@185.143.234.200:8880?path=🔒 [By EbraSha]&security=none&encryption=none&host=tr.sapax-cloud.ir&type=ws #🌐smkn-IR-🇮🇷
+vless://99431a1c-670c-4dee-a374-2b5a93c9002f@185.143.233.120:80/?type=ws&encryption=none&path=🔒 [By EbraSha] #🌐smkn-IR-🇮🇷
+vless://a647ea0c-326b-4483-9a4a-99dd2381b424@185.143.234.200:8080?encryption=none&security=none&type=ws&headerType=none&path=🔒 [By EbraSha]&host=de.sapax-cloud.ir #🌐smkn-IR-🇮🇷
 vless://99431a1c-670c-4dee-a374-2b5a93c9002f@185.143.234.120:80/?type=ws&encryption=none&path=🔒 [By EbraSha] #🌐smkn-IR-🇮🇷
-vless://02efd3c4-4ac1-48dc-b20f-b63cf2eb9ace@185.143.233.43:2052?encryption=none&type=ws&path=🔒 [By EbraSha]&host= #🌐smkn-IR-🇮🇷
-vless://621c3631-ed9b-453a-b486-4068212bf483@185.143.233.233:2082?path=🔒 [By EbraSha]&security=none&encryption=none&host=meli.hoorakan-cloud.ir&type=ws #🌐smkn-IR-🇮🇷
-vless://66148a2f-fa6a-433c-84cb-670e3ac7d179@185.143.233.43:8880?encryption=none&type=ws&path=🔒 [By EbraSha]&host=motabarim3.service-panelbaz.ir #🌐smkn-IR-🇮🇷
-vless://5eb2b49f-2657-4d90-ac8a-050a384c5547@185.143.235.253:80?path=🔒 [By EbraSha]&amp%3Bsecurity=none&amp%3Bencryption=none&amp%3Bhost=ss.oppobot.ir&amp%3Btype=ws #🌐smkn-IR-🇮🇷
-vless://bc2c9bea-93f6-448a-9162-0077b4c0dd6f@185.143.233.217:80/?type=ws&encryption=none&flow=&host=me.chehre-negar.ir&path=🔒 [By EbraSha] #🌐smkn-IR-🇮🇷
+vless://5eb2b49f-2657-4d90-ac8a-050a384c5547@185.143.235.253:80?path=🔒 [By EbraSha]&;security=none&;encryption=none&;host=ss.oppobot.ir&;type=ws #🌐smkn-IR-🇮🇷
