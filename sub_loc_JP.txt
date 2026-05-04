@@ -1,17 +1,10 @@
-trojan://8r%3C%5B9%27l6hAO%238ZQi@64.176.36.61:443?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 280 #🔒smkn-JP-🇯🇵
-ss://ce069292-c8bf-40dd-a6b1-87818a1e64e9@126.220.82.161:443?&security=tls&fp=chrome&sni=🔒 [By EbraSha]&type=ws&headerType=none&host=gsgsdgreyrehjsrteargsfhtrhsrwrhtruiekghmg.pages.dev&path=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-trojan://9995cc0e-2e9d-4c80-8c81-4fdbb6322a3a@20.89.130.227:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-trojan://8r%3C%5B9%27l6hAO%238ZQi@154.197.88.253:443?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 504 #🔒smkn-JP-🇯🇵
-trojan://share.mjj-home.com@185.212.56.168:443?security=tls&sni=🔒 [By EbraSha]&type=tcp #🔒smkn-JP-🇯🇵
-trojan://7a73f1dc97a70905870c0c0484b12145@133.242.55.38:443/?type=tcp&security=tls #🔒smkn-JP-🇯🇵
-trojan://8r%3C%5B9%27l6hAO%238ZQi@142.91.108.54:443?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 582 #🔒smkn-JP-🇯🇵
-trojan://8r%3C%5B9%27l6hAO%238ZQi@43.165.190.11:42841?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 940 #🔒smkn-JP-🇯🇵
-trojan://8r%3C%5B9%27l6hAO%238ZQi@38.47.104.140:7438?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 659 #🔒smkn-JP-🇯🇵
-trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@140.238.43.40:24534?security=tls&sni=🔒 [By EbraSha]&type=tcp&headerType=none&path=🔒 [By EbraSha]&allow_insecure=0 #🔒smkn-JP-🇯🇵
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.206.219.140:443 #🔒smkn-JP-🇯🇵
-trojan://BxceQaOe@116.80.80.121:443?allowInsecure=1&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.204:443 #🔒smkn-JP-🇯🇵
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443 #🔒smkn-JP-🇯🇵
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@64.110.104.30:443/?type=ws&encryption=none #🔒smkn-JP-🇯🇵
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@168.138.46.67:443/?type=ws&encryption=none&host=pvg.aghabeiki.homes&path=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+trojan://8r%3C%5B9%27l6hAO%238ZQi@140.238.50.134:443?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 54 #🔒smkn-JP-🇯🇵
+trojan://8r%3C%5B9%27l6hAO%238ZQi@43.165.190.11:42841?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 274 #🔒smkn-JP-🇯🇵
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@140.83.57.183:22735/?type=ws&encryption=none&host=steep.skyfigure.top&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-JP-🇯🇵
+trojan://8r%3C%5B9%27l6hAO%238ZQi@38.47.96.220:11424?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 319 #🔒smkn-JP-🇯🇵
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@141.147.161.58:443/?type=ws&encryption=none&host=pvg.aghabeiki.homes #🔒smkn-JP-🇯🇵
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.181.211.108:443 #🔒smkn-JP-🇯🇵
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.204:443 #🔒smkn-JP-🇯🇵
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.206.219.140:443 #🔒smkn-JP-🇯🇵
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.114.82.97:443 #🔒smkn-JP-🇯🇵
+vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.216.21.135:10026?type=tcp&security=none #🌐smkn-JP-🇯🇵
