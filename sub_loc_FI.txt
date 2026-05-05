@@ -1,4 +1,9 @@
-vless://d71357cc-638a-0b8a-ac7d-dd580e294281@178.20.215.10:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=GfTzhy59k9CXlAdF819OUVeBdrqIILaDIWa1bddjGnA&sid= #🔒smkn-FI-🇫🇮
-vless://19ef3d02-1c55-4fec-9794-6def8cbac396@150.241.103.74:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=🔒 [By EbraSha]&fp=chrome&pbk=NOhuaiHfc8Tv7VrFKnNgr-VN594kxtUCslNEBhySvXQ&sid=aa69f619e4414362&type=tcp&headerType=none #🔒smkn-FI-🇫🇮
+trojan://Aimer@95.216.143.166:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-FI-🇫🇮
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@144.31.19.131:443?&security=tls&sni=🔒 [By EbraSha]&type=ws&headerType=none&host=sni.111000.v6.rocks&path=🔒 [By EbraSha] #🔒smkn-FI-🇫🇮
-vless://19773cc6-89a3-47c6-bc10-885460cd2b7b@89.167.17.75:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp #🔒smkn-FI-🇫🇮
+trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@185.231.206.12:443?security=tls&type=tcp&sni=🔒 [By EbraSha] #🔒smkn-FI-🇫🇮
+vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.12.146.179:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&security=reality&sni=🔒 [By EbraSha]&type=tcp #🔒smkn-FI-🇫🇮
+vless://4180cade-7ec7-4da7-8d0e-3c04636a514b@91.108.241.188:8443?path=🔒 [By EbraSha]&security=tls&encryption=none&insecure=1&host=joss.gvpn2.web.id&fp=chrome&type=ws&allowInsecure=1&sni=🔒 [By EbraSha] #🔒smkn-FI-🇫🇮
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.41:2096?encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒 [By EbraSha] #🔒smkn-FI-🇫🇮
+vless://11348c0f-b646-446a-bad7-b2b39c6de767@138.124.9.190:16558?encryption=none&flow=xtls-rprx-vision&security=reality&sni=🔒 [By EbraSha]&fp=chrome&pbk=vDKgmefC_2JaSrrvQSsb7DU3KBeKUlXG1V0vgdjv_i4&sid=0a856e071790b1&type=tcp&headerType=none #🔒smkn-FI-🇫🇮
+vless://1e9f5961-a660-46ed-c8ad-98461fea739c@95.217.243.42:443?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp #🔒smkn-FI-🇫🇮
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687 #🌐smkn-FI-🇫🇮
