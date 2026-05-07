@@ -1,10 +1,5 @@
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@194.76.18.122:443/?type=ws&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-KZ-🇰🇿
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@185.176.26.134:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=🔒 [By EbraSha] #🔒smkn-KZ-🇰🇿
-trojan://NISHIKUITAN111@31.43.179.32:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-KZ-🇰🇿
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@31.43.179.234:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=🔒 [By EbraSha] #🔒smkn-KZ-🇰🇿
-vless://401374e6-df77-41fb-f638-dad8184f175b@31.43.179.43:443/?type=grpc&encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=h2 #🔒smkn-KZ-🇰🇿
-vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747/?type=tcp&encryption=none&flow=&sni=🔒 [By EbraSha]&allowInsecure=1&fp=chrome&security=reality&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&sid=2001&packetEncoding=xudp #🔒smkn-KZ-🇰🇿
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@194.76.18.130:443?encryption=none&security=tls&sni=🔒 [By EbraSha]&type=ws&host=ap.ylks.xyz&path=🔒 [By EbraSha] #🔒smkn-KZ-🇰🇿
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.176.26.61:2087?encryption=none&security=tls&type=ws&sni=🔒 [By EbraSha]&host=juzibaipiao.5112233.xyz&path=🔒 [By EbraSha] #🔒smkn-KZ-🇰🇿
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@31.43.179.188:8880?allowInsecure=0&sni=🔒 [By EbraSha]&type=ws&host=ip.langmanshanxi.top&path=🔒 [By EbraSha] #🌐smkn-KZ-🇰🇿
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@31.43.179.177:8880/?type=ws&encryption=none&host=ip.langmanshanxi.top&path=🔒 [By EbraSha] #🌐smkn-KZ-🇰🇿
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@31.43.179.155:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=🔒 [By EbraSha] #🌐smkn-KZ-🇰🇿
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@194.76.18.213:8880?allowInsecure=0&sni=🔒 [By EbraSha]&type=ws&host=jp.laoyoutiao.link&path=🔒 [By EbraSha] #🌐smkn-KZ-🇰🇿
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@31.43.179.251:8880?allowInsecure=0&sni=🔒 [By EbraSha]&type=ws&host=cf.d3z.net&path=🔒 [By EbraSha] #🌐smkn-KZ-🇰🇿
+vmess://eyJhZGQiOiAiMTk0Ljc2LjE4LjExMyIsICJhaWQiOiAwLCAiaG9zdCI6ICIyMDIyNTg1YS04NmE3LTQyMzEtYjNhMC1lZWRhMTRmNzdmNGQuOGYxODIzN2MtOGU1Zi00ZmZiLWE0MzQtMWIyOTQ4Yzg3YmUzLmRkbnNmcmVlLmNvbSIsICJpZCI6ICIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL29iZGlpLmNmZDo0NDMvbGlua3dzIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUtaLVx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmZiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICIyMDIyNTg1YS04NmE3LTQyMzEtYjNhMC1lZWRhMTRmNzdmNGQuOGYxODIzN2MtOGU1Zi00ZmZiLWE0MzQtMWIyOTQ4Yzg3YmUzLmRkbnNmcmVlLmNvbSJ9
