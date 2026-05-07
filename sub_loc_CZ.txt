@@ -1,6 +1,2 @@
-trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls #🔒smkn-CZ-🇨🇿
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@45.151.183.111:443?alpn=http%2F1.1%2Ch2&encryption=none&flow=xtls-rprx-vision&security=tls&sni=🔒 [By EbraSha]&type=tcp #🔒smkn-CZ-🇨🇿
-trojan://bpb-trojan@195.85.23.232:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-CZ-🇨🇿
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.23.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&type=ws #🔒smkn-CZ-🇨🇿
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&type=ws #🔒smkn-CZ-🇨🇿
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.229.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&type=ws #🔒smkn-CZ-🇨🇿
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.229.138:2096/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&fp=chrome #🔒smkn-CZ-🇨🇿
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@195.85.23.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=🔒 [By EbraSha] #🌐smkn-CZ-🇨🇿
