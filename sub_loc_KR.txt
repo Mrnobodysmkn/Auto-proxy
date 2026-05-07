@@ -1,7 +1,8 @@
-trojan://8r%3C%5B9%27l6hAO%238ZQi@183.107.78.213:20880?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 446 #🔒smkn-KR-🇰🇷
-trojan://8r%3C%5B9%27l6hAO%238ZQi@211.114.209.83:18080?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 654 #🔒smkn-KR-🇰🇷
-trojan://8r%3C%5B9%27l6hAO%238ZQi@59.11.232.216:28017?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 356 #🔒smkn-KR-🇰🇷
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@158.247.205.87:443 #🔒smkn-KR-🇰🇷
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679 #🌐smkn-KR-🇰🇷
-trojan://8r%3C%5B9%27l6hAO%238ZQi@183.102.55.197:10003?sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 671 #🌐smkn-KR-🇰🇷
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001 #🌐smkn-KR-🇰🇷
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@152.70.249.67:443?encryption=none&security=tls&sni=🔒 [By EbraSha]&type=ws&host=dp.ylks.xyz&path=🔒 [By EbraSha] #🔒smkn-KR-🇰🇷
+trojan://81d93f62-15a2-4994-adb9-0b5d906aac7e@138.2.114.255:443?security=tls&allowInsecure=1&type=tcp #🔒smkn-KR-🇰🇷
+vless://96a05ae4-d4fe-448e-9b20-07da6c7ae482@52.141.25.42:443/?type=ws&encryption=none&host=dciargo.lzj520hxw.dpdns.org&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-KR-🇰🇷
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@146.56.161.138:443/?type=ws&encryption=none&host=pvg.aghabeiki.homes&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-KR-🇰🇷
+trojan://8r%3C%5B9%27l6hAO%238ZQi@61.72.208.162:32768?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 656 #🔒smkn-KR-🇰🇷
+trojan://8r%3C%5B9%27l6hAO%238ZQi@59.12.232.18:12345?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 901 #🔒smkn-KR-🇰🇷
+vmess://eyJhZGQiOiAiMjAyLjc5LjE3MS4xNTciLCAiYWlkIjogNjQsICJob3N0IjogIiIsICJpZCI6ICJmYjM1ODNhMy03NzE3LTRmZTUtOTE0Ni0zMzAxODYxZjlmNDEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3BhdGgvMjQzNTM1MzIyOTA2IiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUtSLVx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmNyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+vmess://eyJhZGQiOiAiMy4zNi43Mi4xNSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJjZDk5MDRlZS00NzI5LTRmNmUtZjNmYi0yNmIzMzQzOWM1ZWMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2FyaWVzIiwgInBvcnQiOiAiODAiLCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1LUi1cdWQ4M2NcdWRkZjBcdWQ4M2NcdWRkZjciLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
