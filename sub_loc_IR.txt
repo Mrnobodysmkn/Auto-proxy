@@ -1,13 +1,7 @@
-trojan://NISHIKUITAN111@45.131.4.208:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-IR-🇮🇷
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.51:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
-vless://3c674b63-9a37-4f9f-874a-339256e75f40@185.143.233.200:443/?type=ws&encryption=none&host=bama.ir.nl3.mapirabr.com&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&fp=randomized #🔒smkn-IR-🇮🇷
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.125:2053?path=🔒 [By EbraSha]&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
 vless://494613dc-2999-4893-a09b-406e088e458d@45.131.4.156:443/?type=ws&encryption=none&host=azarandooz.awebcontent.workers.dev&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&fp=chrome #🔒smkn-IR-🇮🇷
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.199:2053?path=🔒 [By EbraSha]&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
-trojan://biS(YrwB,3L$@185.143.235.5:443/?type=tcp&security=tls&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.67:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
-vless://ded3d307-c6cc-4f7c-afda-13f12c80b371@185.143.233.200:8080?path=🔒 [By EbraSha]&security=none&encryption=none&host=m.supreme-xfast.ir&type=ws #🌐smkn-IR-🇮🇷
-ss://7cd11ffb-1ebe-4ec8-ae1d-08b36f17e87d@185.143.233.200:2086?path=🔒 [By EbraSha]&amp;security=none&amp;encryption=none&amp;host=nima.hayalco.ir&amp;type=ws #🌐smkn-IR-🇮🇷
-vless://1691eb05-2fce-4ee1-b32b-c9b4e1647992@185.143.233.200:2082?type=ws&encryption=none&path=🔒 [By EbraSha]&host=nima.hayalco.ir&security=none #🌐smkn-IR-🇮🇷
-ss://0b6705dc-157e-46a1-8872-2fa6923e8d83@185.143.233.200:80?path=🔒 [By EbraSha]&security=none&encryption=none&host=final.idbedam.ir&type=ws #🌐smkn-IR-🇮🇷
-vless://a3aff9fa-0e17-4b39-c80d-19fa9c038214@45.131.4.67:2086/?type=httpupgrade&encryption=none&host=cdn44.almass22.ir&path=🔒 [By EbraSha] #🌐smkn-IR-🇮🇷
-vless://5f4845b4-11dc-41d6-9508-4ff6a02e36c1@45.131.4.192:80?encryption=none&host=silent-paper-fa57.fipiyag989.workers.dev&path=🔒 [By EbraSha]&security=none&type=ws #🌐smkn-IR-🇮🇷
+trojan://NISHIKUITAN111@45.131.4.208:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-IR-🇮🇷
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.158:2053?path=🔒 [By EbraSha]&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=🔒 [By EbraSha] #🔒smkn-IR-🇮🇷
+vless://059a8176-5b56-4917-afe0-b0034e65d244@185.143.234.122:80?path=🔒 [By EbraSha]&security=none&encryption=none&host=js.oppobot.ir&type=ws #🌐smkn-IR-🇮🇷
+vless://79c66fb2-9716-47ca-9177-c1009b354808@185.143.233.177:8880?path=🔒 [By EbraSha]&security=none&encryption=none&host=hpavash1.digikalajets.ir&type=httpupgrade #🌐smkn-IR-🇮🇷
+vmess://eyJhZGQiOiAiMTg1LjE0My4yMzMuMTE0IiwgImFpZCI6IDAsICJob3N0IjogIjIxNC56aXJvZ2FtZS03OS5zaXRlIiwgImlkIjogImNmN2YyZDdjLWQ0ZjgtNDY5YS1iZmQ1LTk3NDg0YmI5OGQyYyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4MCwgInBzIjogIlx1ZDgzY1x1ZGYxMHNta24tSVItXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
