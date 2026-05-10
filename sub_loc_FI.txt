@@ -1,6 +1,9 @@
-vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@65.109.118.175:443/?type=tcp&encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=h3%2Ch2%2Chttp%2F1.1 #🔒smkn-FI-🇫🇮
-vless://7f97131b-0d9d-4be9-b7b4-3fa21403cffa@94.156.116.5:443?security=reality&encryption=none&pbk=b2wRFAmT2Mm6a_EXPfWBu4BYw-wNGlXHWoO3lPqGoXw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&sid=86 #🔒smkn-FI-🇫🇮
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.144.52.69:443?&security=tls&sni=🔒 [By EbraSha]&type=ws&headerType=none&host=sni.111000.v6.rocks&path=🔒 [By EbraSha] #🔒smkn-FI-🇫🇮
-trojan://8r%3C%5B9%27l6hAO%238ZQi@81.19.139.197:8443?security=tls&sni=🔒 [By EbraSha] b2n.ir/v2ray-configs | 639 #🔒smkn-FI-🇫🇮
-vless://1e9f5961-a660-46ed-c8ad-98461fea739c@95.217.243.42:443?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp #🔒smkn-FI-🇫🇮
-vmess://eyJhZGQiOiAiNjUuMjEuMjQwLjEwOCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiNmI3Y2JjNDEtZmI4MC00MWE4LThlYjYtYjViZGIwZTg2MTQ3IiwgIm5ldCI6ICJodHRwIiwgInBhdGgiOiAiIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUZJLVx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRlZSIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+ss://19ae54a4-716b-4b08-914f-c9c1556c4380@94.131.100.163:443?path=🔒 [By EbraSha]&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=🔒 [By EbraSha] #🔒smkn-FI-🇫🇮
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@46.243.1.164:443?path=🔒 [By EbraSha]&https://t.me/WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.rocks&type=ws&allowInsecure=0&sni=🔒 [By EbraSha] #🔒smkn-FI-🇫🇮
+vless://a87387cc-7a9f-4e8c-c653-d422425897b0@95.217.243.4:443?security=reality&sni=🔒 [By EbraSha]&fp=safari&pbk=QcDX3RiYqqDQE7Pfnt_MzB2e7D4RcaVhb8sgGhZ5Oho&sid=49a0&type=tcp&encryption=none #🔒smkn-FI-🇫🇮
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.240:443?path=🔒 [By EbraSha]&security=tls&encryption=none&type=ws #🔒smkn-FI-🇫🇮
+vless://ed7a7629-09b5-4e9a-c56b-d418f1a1388e@37.27.254.247:80/?type=tcp&security=reality&pbk=BuoQdx6Rpxdhn58FNJ5PtW4TqsVZQtcZ9Zj7J_1aaFY&fp=chrome&sni=🔒 [By EbraSha]&sid=&spx=/HAJIMAMADVPN #🔒smkn-FI-🇫🇮
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.41:2096?encryption=none&security=tls&allowInsecure=1&type=ws&path=🔒 [By EbraSha] #🔒smkn-FI-🇫🇮
+trojan://b65cbe72-59e2-4011-a22b-760621b5921f@65.109.129.120:80?security=tls&headerType=none&type=tcp&sni=🔒 [By EbraSha] #🔒smkn-FI-🇫🇮
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRVoyYmZGYlZpQzl1c04xV0I0eHF2eXpFdVVoUEEydXVVWVptaktBV1RRYzNtRXJoQ2FWSG1aYmJXZ1ZHOW9pMVZIaHoxMktQMmdBV0M4TFpKNGltV2h5cEFEOVBHM3U@185.5.38.111:55988 #🌐smkn-FI-🇫🇮
+vmess://eyJhZGQiOiAiNjUuMTA5LjEzNC4xOTEiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjkxNjk4NzQ3LTkyYjMtNGEwNy1iNWRhLTIyNjk0ZWRiZWE4MiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvZ3JhcGhxbCIsICJwb3J0IjogODAsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUZJLVx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRlZSIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
