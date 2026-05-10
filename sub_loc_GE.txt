@@ -1,1 +1,2 @@
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.62.253:22231?encryption=none&flow=xtls-rprx-vision&security=tls&sni=🔒 [By EbraSha]&type=tcp #🔒smkn-GE-🇬🇪
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.101.228:443?path=🔒 [By EbraSha]&security=tls&encryption=none&type=ws #🔒smkn-GE-🇬🇪
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@72.56.62.253:22231?allowInsecure=0&sni=🔒 [By EbraSha]&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls #🔒smkn-GE-🇬🇪
