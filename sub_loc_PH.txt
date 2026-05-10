@@ -1,4 +1,4 @@
+vless://401374e6-df77-41fb-f638-dad8184f175b@154.83.2.167:443/?type=grpc&encryption=none&security=tls&sni=🔒 [By EbraSha]&alpn=h2 #🔒smkn-PH-🇵🇭
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@154.83.2.231:443?allowInsecure=1&encryption=none&host=babayaga-6i7.pages.dev&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha]&type=ws #🔒smkn-PH-🇵🇭
 vless://fe962226-fe1c-4391-a5ba-7b7c62adda19@154.83.2.200:443?encryption=none&security=tls&sni=🔒 [By EbraSha]&type=ws&host=am-tunnel-6fs.pages.dev&path=🔒 [By EbraSha] #🔒smkn-PH-🇵🇭
-trojan://NISHIKUITAN111@154.83.2.121:443/?type=tcp&security=tls #🔒smkn-PH-🇵🇭
-trojan://amclubs@154.83.2.94:2053/?type=ws&path=🔒 [By EbraSha]&security=tls&sni=🔒 [By EbraSha] #🔒smkn-PH-🇵🇭
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@154.83.2.47:2053?path=🔒 [By EbraSha]&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=🔒 [By EbraSha] #🔒smkn-PH-🇵🇭
+vmess://eyJhZGQiOiAiMTU0LjgzLjIuOTAiLCAiYWlkIjogMCwgImhvc3QiOiAic25hUFBmb29kMS5lU01hSWxrb3JFYS5zSG9QIiwgImlkIjogIjcxMjc3MmMyLWY3ZDctNGQzMy1iZjAyLWI3YTdlNWY3MjljNCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAyMDg3LCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1QSC1cdWQ4M2NcdWRkZjVcdWQ4M2NcdWRkZWQiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAic25hUFBmb29kMS5lU01hSWxrb3JFYS5zSG9QIn0=
