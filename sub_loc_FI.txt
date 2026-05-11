@@ -1,8 +1,8 @@
-trojan://Aimer@95.216.143.166:443/?type=tcp&security=tls&sni=ngepy.ambercc.filegear-sg.me #🔒smkn-FI-🇫🇮
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.240:443?path=/&security=tls&encryption=none&type=ws #🔒smkn-FI-🇫🇮
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.188.93.158:443?encryption=none&security=tls&sni=sni.111000.v6.rocks&type=ws&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3 #🔒smkn-FI-🇫🇮
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@46.243.1.164:443?path=/?ed=2560&https://t.me/WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.rocks&type=ws&allowInsecure=0&sni=sni.111000.v6.rocks #🔒smkn-FI-🇫🇮
-vless://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&encryption=none&pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net&sid=cbfe #🔒smkn-FI-🇫🇮
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.187:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=%2F #🔒smkn-FI-🇫🇮
+vless://896efe15-7363-4d6c-97aa-cb0bb5499228@95.217.240.156:443?security=reality&sni=www.speedtest.net&fp=chrome&pbk=gB2mHBv8PQXA0HSxOlOcB91nq5luio58GPdkjAgmk2M&sid=10ff054b&type=tcp&flow=xtls-rprx-vision&encryption=none #🔒smkn-FI-🇫🇮
+vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&alpn=h3,h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cdn.chandplus.com #🔒smkn-FI-🇫🇮
+vless://d71357cc-638a-0b8a-ac7d-dd580e294281@178.20.215.10:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&fp=chrome&security=reality&pbk=GfTzhy59k9CXlAdF819OUVeBdrqIILaDIWa1bddjGnA&sid= #🔒smkn-FI-🇫🇮
 vless://322ffd77-9adc-4e10-8302-a8bcc14555a0@138.124.97.153:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=-ZIDWF9CykNoZYNpO6Vi7BdDyZl_hJUYxuIRmPnuxBk&security=reality&sid=c6118398&sni=gateway.icloud.com&type=tcp #🔒smkn-FI-🇫🇮
-vless://19773cc6-89a3-47c6-bc10-885460cd2b7b@89.167.17.75:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp #🔒smkn-FI-🇫🇮
+vless://11348c0f-b646-446a-bad7-b2b39c6de767@138.124.9.190:16558?encryption=none&flow=xtls-rprx-vision&security=reality&sni=gpuopen.com&fp=chrome&pbk=vDKgmefC_2JaSrrvQSsb7DU3KBeKUlXG1V0vgdjv_i4&sid=0a856e071790b1&type=tcp&headerType=none #🔒smkn-FI-🇫🇮
+vless://1e9f5961-a660-46ed-c8ad-98461fea739c@95.217.243.42:443?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp #🔒smkn-FI-🇫🇮
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWMjlCcGJ0a2hXWnI@185.204.1.253:443 #🔒smkn-FI-🇫🇮
+vmess://eyJhZGQiOiAiMTM1LjE4MS4yNDguMTI5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjZiN2NiYzQxLWZiODAtNDFhOC04ZWI2LWI1YmRiMGU4NjE0NyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUZJLVx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRlZSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJodHRwIiwgInYiOiAiMiJ9
