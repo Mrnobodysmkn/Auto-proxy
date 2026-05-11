@@ -1,4 +1,7 @@
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@45.80.110.231:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=babayaga-6i7.pages.dev&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=babayaga-6i7.pages.dev&type=ws #🔒smkn-EE-🇪🇪
+trojan://NISHIKUITAN111@185.159.247.167:443/?type=ws&host=za.ylks.xyz&path=%2F%2F&security=tls&sni=za.ylks.xyz #🔒smkn-EE-🇪🇪
+vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@95.85.243.216:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.google.com&type=tcp #🔒smkn-EE-🇪🇪
 vless://c7150d62-8775-44ef-9bfa-d4755961427a@93.123.39.31:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnjs.com&fp=chrome&security=reality&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&sid=19aa22f681923dc8 #🔒smkn-EE-🇪🇪
-trojan://ttfang@45.80.108.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me #🔒smkn-EE-🇪🇪
-trojan://ttfang@45.80.110.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me #🔒smkn-EE-🇪🇪
+trojan://bpb-trojan@45.80.110.224:443/?type=tcp&security=tls&sni=bpb.my79801.com #🔒smkn-EE-🇪🇪
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.80.110.128:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh36v4.hiddendom.shop #🔒smkn-EE-🇪🇪
+vless://4350fd8e-9f5d-47e7-a5f6-6161e0f7db9b@77.239.126.152:7443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&security=reality&sid=be0ce047&sni=chat.deepseek.com&type=tcp #🔒smkn-EE-🇪🇪
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.159.247.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560 #🌐smkn-EE-🇪🇪
