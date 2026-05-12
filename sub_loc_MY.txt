@@ -1,2 +1,1 @@
-vless://0226ff6d-b500-430f-8291-96b56d677660@45.89.107.227:443/?type=ws&encryption=none&path=%2Fhqqprlws&security=tls #🔒smkn-MY-🇲🇾
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@20.17.97.232:443?sni=gogo.vks.dpdns.org&type=ws&host=gogo.vks.dpdns.org&path=/fp=chrome&security=tls #🔒smkn-MY-🇲🇾
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@202.43.102.57:443/?type=tcp&security=tls&sni=45.32.28.232&allowInsecure=1&fp=chrome #🔒smkn-MY-🇲🇾
