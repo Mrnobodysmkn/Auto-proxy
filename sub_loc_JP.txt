@@ -1,9 +1,9 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@168.138.50.249:443?encryption=none&security=tls&sni=dp.ylks.xyz&type=ws&host=dp.ylks.xyz&path=%2Fblue #🔒smkn-JP-🇯🇵
-trojan://5c777277-17f2-4272-ae65-7bd00fa4fbaa@18.65.190.65:443/?type=tcp&security=tls&sni=wel-jp.optage.moe&allowInsecure=1 #🔒smkn-JP-🇯🇵
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@103.13.19.227:443?host=1-aym.pages.dev&amp;path=%2Ffp%3Dchrome&amp;security=tls&amp;sni=1-aym.pages.dev&amp;type=ws #🔒smkn-JP-🇯🇵
 vless://48eccebc-1e36-4c60-b088-55fb793f6688@47.79.34.47:443/?type=ws&encryption=none&host=ngx.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=ngx.ambercc.filegear-sg.me&alpn=http%2F1.1 #🔒smkn-JP-🇯🇵
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@43.207.197.79:443?&security=tls&fp=chrome&sni=gogo8.kmj.qzz.io&type=ws&headerType=none&host=gogo8.kmj.qzz.io&path=%2F #🔒smkn-JP-🇯🇵
+trojan://5c777277-17f2-4272-ae65-7bd00fa4fbaa@18.65.190.65:443/?type=tcp&security=tls&sni=wel-jp.optage.moe&allowInsecure=1 #🔒smkn-JP-🇯🇵
+trojan://9995cc0e-2e9d-4c80-8c81-4fdbb6322a3a@20.89.130.227:443/?type=tcp&security=tls&sni=fscus.fscloud123456789.com #🔒smkn-JP-🇯🇵
+ss://43488128-319e-f480-64ea-0acdc712e2a8@64.176.57.250:443?security=reality&encryption=none&pbk=wLkaWLYNGirBj1ggKZsnmlZiWnwZd99cIShBHVm7BQo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.muji.com&sid=c906f73d3ba8211f #🔒smkn-JP-🇯🇵
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@168.138.192.16:54584?encryption=none&amp%3Bsecurity=tls&amp%3Bsni=sni.111000.indevs.in&amp%3Binsecure=0&amp%3BallowInsecure=0&amp%3Btype=ws&amp%3Bhost=sni.111000.indevs.in&amp%3Bpath=/%3Fed%3D2560 #🔒smkn-JP-🇯🇵
 vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@8.216.121.234:51922/?type=ws&encryption=none&flow=&host=edcck.ambercc.filegear-sg.me&path=/?ed=2560&proxyip=ts.hpc.tw&security=tls&sni=edcck.ambercc.filegear-sg.me&allowInsecure=1&packetEncoding=xudp #🔒smkn-JP-🇯🇵
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.241:443 #🔒smkn-JP-🇯🇵
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@64.110.104.30:443/?type=ws&encryption=none #🔒smkn-JP-🇯🇵
-vmess://eyJhZGQiOiAiMTYxLjEyOS4zNC4xMDIiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogImVjNzM2NDgyLTE3M2UtM2VmZi05MTE0LWI0OWRmODA1NmU3ZCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUpQLVx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.216.21.135:10026?type=tcp&amp;security=none #🌐smkn-JP-🇯🇵
+vmess://eyJhZGQiOiAiMTYxLjEyOS4zNC4xMjYiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogImEwYjFmYjY2LWVkNDEtNDA3Ny04NmE5LWE2MWMxNDNkMzc3NyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYTBiMWZiNjYtZWQ0MS00MDc3LTg2YTktYTYxYzE0M2QzNzc3IiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUpQLVx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICJwaWNzLnF1aWNrbHlmYXN0Lnh5eiJ9
+vmess://eyJhZGQiOiAiMTcyLjExMS4xNDYuNjQiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDViOGM3ODMtN2Y1OS00N2Y5LTk5MjMtMDZhNDY1Njc5ZjZhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzcy8iLCAicG9ydCI6ICI4MCIsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUpQLVx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZX0=
