@@ -1,11 +1,13 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@168.138.50.249:443?encryption=none&security=tls&sni=dp.ylks.xyz&type=ws&host=dp.ylks.xyz&path=%2Fblue #🔒smkn-JP-🇯🇵
-trojan://7a73f1dc97a70905870c0c0484b12145@133.242.55.38:443/?type=tcp&security=tls #🔒smkn-JP-🇯🇵
-trojan://share.mjj-home.com@185.212.56.168:443?security=tls&sni=tw.softbank.mjj-home.com&type=tcp #🔒smkn-JP-🇯🇵
-vless://7300363f-c18f-4bcf-a5a9-2ad35220505e@3.115.82.155:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tv.apple.com&fp=chrome&security=reality&pbk=gkeUZppVQzutjGsRcsGMW8OrPHboJ3qRFpIvj8lcUj4&sid=c174618d #🔒smkn-JP-🇯🇵
-vless://62357561-a129-4b9e-9614-ce2578020866@138.2.18.82:8880/?type=ws&encryption=none&host=edg.comorg.us.kg&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2048&security=tls&sni=edg.comorg.us.kg #🔒smkn-JP-🇯🇵
-trojan://162534@43.165.190.11:42841?security=tls&sni=cchh2.pages.dev&type=ws&host=cchh2.pages.dev&path=/ #🔒smkn-JP-🇯🇵
+vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@151.245.104.182:443?encryption=none&security=tls&sni=dongjing4.zqjsqapi.com&type=ws&path=/proxy #🔒smkn-JP-🇯🇵
+trojan://8r%3C%5B9%27l6hAO%238ZQi@64.176.38.23:2083?security=tls&sni=Koma-YT.PAGeS.Dev #🔒smkn-JP-🇯🇵
+trojan://8r%3C%5B9%27l6hAO%238ZQi@153.121.45.101:443?security=tls&sni=Koma-YT.PAGeS.Dev #🔒smkn-JP-🇯🇵
+trojan://8r%3C%5B9%27l6hAO%238ZQi@91.200.242.118:16847?security=tls&sni=Koma-YT.PAGeS.Dev #🔒smkn-JP-🇯🇵
+trojan://8r%3C%5B9%27l6hAO%238ZQi@45.11.1.118:44004?security=tls&sni=Koma-YT.PAGeS.Dev #🔒smkn-JP-🇯🇵
+trojan://8r%3C%5B9%27l6hAO%238ZQi@103.125.216.22:8443?security=tls&sni=Koma-YT.PAGeS.Dev #🔒smkn-JP-🇯🇵
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@168.138.192.16:54584?encryption=none&amp%3Bsecurity=tls&amp%3Bsni=sni.111000.indevs.in&amp%3Binsecure=0&amp%3BallowInsecure=0&amp%3Btype=ws&amp%3Bhost=sni.111000.indevs.in&amp%3Bpath=/%3Fed%3D2560 #🔒smkn-JP-🇯🇵
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443 #🔒smkn-JP-🇯🇵
+trojan://8r%3C%5B9%27l6hAO%238ZQi@88.214.22.165:10563?security=tls&sni=Koma-YT.PAGeS.Dev #🔒smkn-JP-🇯🇵
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.204:443 #🔒smkn-JP-🇯🇵
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@64.110.104.30:443/?type=ws&encryption=none #🔒smkn-JP-🇯🇵
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1KUC1cdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUiLCAiYWRkIjogIjEwMy4xMjcuMjQzLjQ5IiwgInBvcnQiOiAiNTMyMjQiLCAidHlwZSI6ICJodHRwIiwgImlkIjogIjRmNDdlNmNjLTY1OWQtNDU4OC04MTU1LTIxZDI3ODJmMWI5MSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiL0FCQ0RFIiwgImhvc3QiOiAiIiwgInRscyI6ICIifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTE9ydkxXa0NCQkJ4THFTRWU5UzhsbkM1UExzTmZSaA==@103.75.118.125:443 #🔒smkn-JP-🇯🇵
+vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.216.21.135:10026?type=tcp&security=none #🌐smkn-JP-🇯🇵
+vmess://eyJhZGQiOiAiMTYxLjEyOS4zNC4xMDIiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogImVjNzM2NDgyLTE3M2UtM2VmZi05MTE0LWI0OWRmODA1NmU3ZCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUpQLVx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+vmess://eyJhZGQiOiAiMTcyLjEwNC43OC45OCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiOTI3MDk0ZDMtZDY3OC00NzYzLTg1OTEtZTI0MGQwYmNhZTg3IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9jaGF0IiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUpQLVx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
