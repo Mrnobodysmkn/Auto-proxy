@@ -1,8 +1,9 @@
-vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@65.109.118.175:443/?type=tcp&encryption=none&security=tls&sni=app.chandplus.com&alpn=h3%2Ch2%2Chttp%2F1.1 #🔒smkn-FI-🇫🇮
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@46.243.1.164:443?path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=sni.111000.v6.rocks&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.111000.v6.rocks #🔒smkn-FI-🇫🇮
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.113:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1 #🔒smkn-FI-🇫🇮
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@92.118.233.240:443?path=/&security=tls&encryption=none&type=ws #🔒smkn-FI-🇫🇮
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.187:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=%2F #🔒smkn-FI-🇫🇮
+vless://b67ddb53-9e46-492a-84be-0f5b752d7e83@31.56.206.70:443/?type=tcp&encryption=none&sni=yahoo.com&fp=firefox&security=reality&pbk=s7Ai9wZFZdDEA3ox2FSjMAqaugUFKja-7TMNCu2GYmo&sid=c6d0465acae1 #🔒smkn-FI-🇫🇮
 trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@185.231.206.12:443?security=tls&type=tcp&sni=customer-185-231-206-12.stark-industries.solutions #🔒smkn-FI-🇫🇮
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.129.98:990 #🌐smkn-FI-🇫🇮
-vmess://eyJhZGQiOiAiMTM1LjE4MS4yNS4xMzIiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICIiLCAiaWQiOiAiNmI3Y2JjNDEtZmI4MC00MWE4LThlYjYtYjViZGIwZTg2MTQ3IiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1GSS1cdWQ4M2NcdWRkZWJcdWQ4M2NcdWRkZWUiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiaHR0cCIsICJ2IjogIjIifQ==
-vmess://eyJhZGQiOiAiMTM1LjE4MS4yNDguMTI5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjZiN2NiYzQxLWZiODAtNDFhOC04ZWI2LWI1YmRiMGU4NjE0NyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUZJLVx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRlZSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJodHRwIiwgInYiOiAiMiJ9
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@46.243.1.164:443?path=/?ed=2560&https://t.me/WangCai2🇨🇳&security=tls&encryption=none&insecure=0&host=sni.111000.v6.rocks&type=ws&allowInsecure=0&sni=sni.111000.v6.rocks #🔒smkn-FI-🇫🇮
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@144.31.19.131:443?&security=tls&sni=sni.111000.v6.rocks&type=ws&headerType=none&host=sni.111000.v6.rocks&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3 #🔒smkn-FI-🇫🇮
+trojan://Aimer@95.216.143.166:443/?type=tcp&security=tls&sni=ngepy.ambercc.filegear-sg.me #🔒smkn-FI-🇫🇮
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWMjlCcGJ0a2hXWnI@185.204.1.253:443 #🔒smkn-FI-🇫🇮
+vless://1e9f5961-a660-46ed-c8ad-98461fea739c@95.217.243.42:443?security=none&encryption=none&host=bmi.ir&headerType=http&type=tcp #🔒smkn-FI-🇫🇮
+vmess://eyJhZGQiOiAiOTUuMjE2LjE4MC4xNTAiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiYm1pLmlyIiwgImlkIjogImViMDVkZGNmLTM5YzktNDVhYy1kZjVkLWYwYzQ1NWY5MDg0MCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUZJLVx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRlZSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJodHRwIiwgInYiOiAiMiJ9
