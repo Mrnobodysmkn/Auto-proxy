@@ -1,25 +1,26 @@
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.8.211.24:2053?path=%2F&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=dl1-tr-cdn.easy-upload.org #🔒smkn-SG-🇸🇬
+trojan://NISHIKUITAN111@194.53.53.140:443/?type=ws&host=za.ylks.xyz&path=%2F&security=tls&sni=za.ylks.xyz #🔒smkn-SG-🇸🇬
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.8.211.236:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org #🔒smkn-SG-🇸🇬
+trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@194.53.53.249:2083/?type=tcp&security=tls&sni=vle.amclubdns.dpdns.org #🔒smkn-SG-🇸🇬
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.8.211.48:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org #🔒smkn-SG-🇸🇬
+vless://bafacd98-136a-4530-838d-4e5c51838dac@139.59.107.148:443?encryption=none&security=tls&sni=juzi8186.qea.ccwu.cc&fp=firefox&insecure=0&allowInsecure=0&ech=encryptedsni.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=juzi8186.qea.ccwu.cc&path=%2Fad%2Fjuzibaipiao%3Fed%3D2560 #🔒smkn-SG-🇸🇬
 trojan://SSorg@206.238.237.62:2053/?type=tcp&security=tls&sni=ssjj.esslh.filegear-sg.me&allowInsecure=1 #🔒smkn-SG-🇸🇬
-ss://55520747-311e-4015-83ce-be46e2060ce3@138.2.107.107:443?path=%2F%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=nv.bgm2024.dpdns.org&amp;type=ws&amp;sni=nv.bgm2024.dpdns.org #🔒smkn-SG-🇸🇬
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@43.156.181.203:443/?type=ws&encryption=none&host=edccy.ambercc.filegear-sg.me&security=tls&sni=edccy.aimercc.filegear-sg.me #🔒smkn-SG-🇸🇬
+trojan://oZAugtgF5T@146.190.87.238:443/?type=ws&host=aka.ms&path=%2F&security=tls&sni=aka.ms #🔒smkn-SG-🇸🇬
+trojan://SSorg@206.238.236.219:2083/?type=tcp&security=tls&sni=ssjj.esslh.filegear-sg.me&allowInsecure=1 #🔒smkn-SG-🇸🇬
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@45.8.211.184:443/?type=ws&encryption=none&host=rAyAn-12.LeIlA.DpDnS.OrG&path=%2F%40rayan_config&security=tls&sni=rAyAn-12.LeIlA.DpDnS.OrG #🔒smkn-SG-🇸🇬
+trojan://3760559353321758720@18.141.59.72:443/?type=tcp&security=tls&sni=dear-sunbeam.treefrog761.one #🔒smkn-SG-🇸🇬
 trojan://Aimer@206.238.236.16:443/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me #🔒smkn-SG-🇸🇬
-trojan://16132fb0-4945-11f0-a95e-1239d0255272@91.192.81.167:443/?type=tcp&security=tls&sni=sg4.6n6.net&allowInsecure=1&fp=chrome #🔒smkn-SG-🇸🇬
+vless://219d848d-60f2-4321-8275-72b9b575b37e@206.238.236.175:443/?type=ws&encryption=none&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=qaa.zhuk.us.kg&alpn=http%2F1.1 #🔒smkn-SG-🇸🇬
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@45.8.211.236:443/?type=ws&encryption=none&host=rayan-12.leila.dpdns.org&path=%2F%40Rayan_Config&security=tls&sni=rAyAn-12.LeIlA.DpDnS.OrG #🔒smkn-SG-🇸🇬
+vless://7300363f-c18f-4bcf-a5a9-2ad35220505e@18.140.68.145:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=iosapps.itunes.apple.com&fp=chrome&security=reality&pbk=2fXYSD6vZyrb38UGOzeqjhQCj4N9kImoIjopb6tSii4&sid=9cbb1611 #🔒smkn-SG-🇸🇬
 ss://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.71:443?mode=gun&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;type=grpc&amp;sni=pqh24v3.hiddendom.shop #🔒smkn-SG-🇸🇬
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.8.211.191:443?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws #🔒smkn-SG-🇸🇬
-trojan://8r%3C%5B9%27l6hAO%238ZQi@139.162.61.34:443?security=tls&sni=Koma-YT.PAGeS.Dev #🔒smkn-SG-🇸🇬
-trojan://a3fa58b581353bb375d2ddad0f327938@184.168.127.50:443/?type=tcp&security=tls #🔒smkn-SG-🇸🇬
-trojan://Aimer@150.109.11.223:443/?type=tcp&security=tls&sni=agepy.aimercc.filegear-sg.me #🔒smkn-SG-🇸🇬
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@34.143.213.202:443?allowInsecure=0&sni=gogo.wknm.dpdns.org&type=ws&host=gogo.wknm.dpdns.org&path=/fp=chrome&security=tls #🔒smkn-SG-🇸🇬
-trojan://Aimer@206.238.236.216:2083/?type=tcp&security=tls&sni=agepy.aimercc.filegear-sg.me #🔒smkn-SG-🇸🇬
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.8.211.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws #🔒smkn-SG-🇸🇬
-trojan://Aimer@206.238.236.252:2096/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me #🔒smkn-SG-🇸🇬
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.8.211.102:8443?encryption=none&security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&alpn=h3%2Ch2&fp=chrome&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=%2F #🔒smkn-SG-🇸🇬
-trojan://8r%3C%5B9%27l6hAO%238ZQi@140.245.62.90:2096?security=tls&sni=Koma-YT.PAGeS.Dev #🔒smkn-SG-🇸🇬
-trojan://dns68@206.238.237.1:2087/?type=ws&host=trojan.putata.us.kg&path=%2F%3Fed&security=tls&sni=trojan.putata.us.kg #🔒smkn-SG-🇸🇬
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws #🔒smkn-SG-🇸🇬
+trojan://Aimer@206.238.236.8:2096/?type=tcp&security=tls&sni=agept.ambercc.filegear-sg.me&allowInsecure=1 #🔒smkn-SG-🇸🇬
+trojan://Aimer@206.238.236.192:2087/?type=tcp&security=tls&sni=amepo.ambercc.filegear-sg.me&allowInsecure=1 #🔒smkn-SG-🇸🇬
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.215.49.89:443 #🔒smkn-SG-🇸🇬
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.8.211.79:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2FChannel%20id%3A%20%40ShadowProxy66%3Fed%3D2560 #🌐smkn-SG-🇸🇬
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.36.91.23:8388 #🌐smkn-SG-🇸🇬
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080 #🌐smkn-SG-🇸🇬
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.235.122:8080 #🌐smkn-SG-🇸🇬
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@45.8.211.177:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 #🌐smkn-SG-🇸🇬
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJVnV4VW1XSHRXa3V6bjZqN3BxRUt3@174.138.17.254:52252 #🌐smkn-SG-🇸🇬
-vmess://eyJhZGQiOiAiMTM5Ljk5LjYxLjUzIiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICI2MGYzMGUyNi0wYWY3LTRiNjQtYmE5NC03MTQ1MGVkNzdlMjMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZtZXNzIiwgInBvcnQiOiA4MCwgInBzIjogIlx1ZDgzY1x1ZGYxMHNta24tU0ctXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLCAic25pIjogIjEzOS45OS42MS41MyJ9
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.215.177.216:443 #🔒smkn-SG-🇸🇬
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@154.194.12.29:8880?security=&sni=hk.laoyoutiao.link&allowInsecure=1&type=ws&path=/TelegramU0001F1E8U0001F1F3&host=hk.laoyoutiao.link&encryption=none #🌐smkn-SG-🇸🇬
+trojan://8r%3C%5B9%27l6hAO%238ZQi@194.233.68.198:8443?type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram #🌐smkn-SG-🇸🇬
+vmess://eyJhZGQiOiAiMTY1LjIyLjEwMS40OSIsICJhaWQiOiAiMCIsICJob3N0IjogIm0uem9vbS51cyIsICJpZCI6ICIyMDYwYWY2ZS03M2M1LTQwOTAtYjA5YS1iZDQxMTQzNjUxMzUiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3dvcnJ5ZnJlZSIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLVNHLVx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlYyIsICJzbmkiOiAibS56b29tLnVzIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
+vmess://eyJhZGQiOiAiMTU5LjIyMy45NC4xNTYiLCAiYWlkIjogNjQsICJob3N0IjogIiIsICJpZCI6ICI1MzM3MjRhZC01OGVmLTQxNDctODhkYy05ZGE1MjNjMTVmYzQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2FudGkxMy56aW5nZmFzdC52biIsICJwb3J0IjogODAsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLVNHLVx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlYyIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+vmess://eyJhZGQiOiAiMTQzLjE5OC4yMTkuMTgyIiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICJlOWM0Y2U1Mi05YTc4LTQzODEtYjZmOC0yMzM1MGJjNGQ2MDYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3YycmF5IiwgInBvcnQiOiA4MCwgInBzIjogIlx1ZDgzY1x1ZGYxMHNta24tU0ctXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
