@@ -1,10 +1,16 @@
-trojan://NISHIKUITAN111@45.131.4.208:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-IR-🇮🇷
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.158:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org #🔒smkn-IR-🇮🇷
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.67:2053?path=%2F&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=dl1-tr-cdn.easy-upload.org #🔒smkn-IR-🇮🇷
 ss://086ea932-23ce-402d-969c-8ac02325ce42@185.143.233.5:2083?path=%2F&security=tls&encryption=none&insecure=0&host=p1.sesrsa.com&fp=firefox&type=ws&allowInsecure=0&sni=sub.sesrsa.com #🔒smkn-IR-🇮🇷
 ss://1a83df32-42f2-4395-97bb-1fb91822c630@185.143.233.5:443?security=tls&amp;allowInsecure=0&amp;encryption=none&amp;type=ws&amp;host=hn.8lack.ir&amp;path=/chat?ed%3D128&amp;sni=hn.8lack.ir&amp;fp=firefox&amp;alpn=h2,http/1.1 #🔒smkn-IR-🇮🇷
+vless://1f38a44f-4c31-4c24-8529-08f68baac941@185.143.233.5:2087?encryption=none&amp;fp=firefox&amp;host=p1.sesrsa.com&amp;path=%2F&amp;security=tls&amp;sni=sub.sesrsa.com&amp;type=ws #🔒smkn-IR-🇮🇷
 vless://ac81eaf0-14bd-44aa-83b0-a7b41ba0c57a@185.143.233.5:8443?path=/&security=tls&encryption=none&insecure=0&host=p1.sesrsa.com&fp=chrome&type=ws&allowInsecure=0&sni=sub.sesrsa.com #🔒smkn-IR-🇮🇷
-vless://1f38a44f-4c31-4c24-8529-08f68baac941@185.143.233.5:2087?encryption=none&fp=chrome&host=p1.sesrsa.com&path=/&security=tls&sni=sub.sesrsa.com&type=ws #🔒smkn-IR-🇮🇷
+vless://a3aff9fa-0e17-4b39-c80d-19fa9c038214@45.131.4.67:2086/?type=httpupgrade&encryption=none&host=cdn44.almass22.ir&path=%2FAar%2Cd-F%3Fed%3D2086 #🌐smkn-IR-🇮🇷
 vless://73c4fdef-f27b-404f-8776-9fcd3d5d3acf@185.143.233.5:8880/?type=ws&encryption=none&host=getasa.ir&path=%2Fwp-admin #🌐smkn-IR-🇮🇷
+vless://a24bd218-a7dd-4762-a3fc-1160ae6c7f79@185.143.233.5:8080?encryption=none&amp;type=ws&amp;path=%2F&amp;host=max.electroluxxv.ir #🌐smkn-IR-🇮🇷
+vless://31643965-6639-4534-a537-323933306135@185.143.235.36:80?path=/l/w/aXD2QyDdS6vRQpxs?ed=2047&security=none&encryption=none&host=dl.tgmovie.bond&type=ws #🌐smkn-IR-🇮🇷
 ss://5f117758-a07f-4b20-82bf-25b7665ee514@185.143.233.5:2052?path=%2F&amp;security=none&amp;encryption=none&amp;host=cd2.sesrsa.com&amp;type=ws #🌐smkn-IR-🇮🇷
 ss://97ce830f-53a1-4f5a-b0c1-c0d9d404acb6@185.143.233.5:80?path=%2Fxray&amp;security=none&amp;encryption=none&amp;host=bot.vipiranian.de&amp;type=ws #🌐smkn-IR-🇮🇷
-vless://36623934-3936-4030-b332-633533653363@185.143.233.167:80?path=/l/w/aXD2QyDdS6vRQpxs?ed=2047&security=none&encryption=none&host=dl.tgmovie.bond&type=ws #🌐smkn-IR-🇮🇷
+vless://66f73678-34a5-4863-bd7b-cba151a2562e@185.143.233.5:2086?path=/&security=none&encryption=none&host=cdn.sesrsa.com&type=ws #🌐smkn-IR-🇮🇷
 ss://a3087447-269f-43c5-a5f9-d5686f452612@185.143.233.5:2082?path=%2F&amp;security=none&amp;encryption=none&amp;host=cdn.mizbanertebatfarda.ir&amp;type=ws #🌐smkn-IR-🇮🇷
+vless://36623934-3936-4030-b332-633533653363@185.143.233.167:80?path=/l/w/aXD2QyDdS6vRQpxs?ed=2047&security=none&encryption=none&host=dl.tgmovie.bond&type=ws #🌐smkn-IR-🇮🇷
+vmess://eyJhZGQiOiAiMTg1LjE0My4yMzMuMTE0IiwgImFpZCI6IDAsICJob3N0IjogIjE4NS4xNDMuMjMzLjExNCIsICJpZCI6ICJjZjdmMmQ3Yy1kNGY4LTQ2OWEtYmZkNS05NzQ4NGJiOThkMmMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogODAsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUlSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
