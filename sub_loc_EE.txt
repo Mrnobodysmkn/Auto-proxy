@@ -1,3 +1,4 @@
-vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@95.85.243.216:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.google.com&type=tcp #🔒smkn-EE-🇪🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.36.155:990 #🌐smkn-EE-🇪🇪
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@109.206.241.125:443?encryption=none&amp;fp=chrome&amp;host=1-gjo.pages.dev&amp;path=/&amp;security=tls&amp;sni=1-gjo.pages.dev&amp;type=ws #🔒smkn-EE-🇪🇪
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@45.80.110.231:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=babayaga-6i7.pages.dev&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=babayaga-6i7.pages.dev&type=ws #🔒smkn-EE-🇪🇪
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.108.138:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws #🔒smkn-EE-🇪🇪
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.159.247.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560 #🌐smkn-EE-🇪🇪
