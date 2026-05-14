@@ -1,10 +1,10 @@
 trojan://7a73f1dc97a70905870c0c0484b12145@133.242.55.38:443/?type=tcp&security=tls #🔒smkn-JP-🇯🇵
-trojan://8r%3C%5B9%27l6hAO%238ZQi@64.176.38.23:2083?security=tls&sni=Koma-YT.PAGeS.Dev #🔒smkn-JP-🇯🇵
-vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@151.245.104.182:443?encryption=none&security=tls&sni=dongjing4.zqjsqapi.com&type=ws&path=/proxy #🔒smkn-JP-🇯🇵
-trojan://share.mjj-home.com@185.212.56.168:443?security=tls&sni=tw.softbank.mjj-home.com&type=tcp #🔒smkn-JP-🇯🇵
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.2.59.112:443?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560 #🔒smkn-JP-🇯🇵
-trojan://8r%3C%5B9%27l6hAO%238ZQi@64.176.36.61:443?security=tls&sni=Koma-YT.PAGeS.Dev #🔒smkn-JP-🇯🇵
-trojan://8r%3C%5B9%27l6hAO%238ZQi@88.214.22.165:10563?security=tls&sni=Koma-YT.PAGeS.Dev #🔒smkn-JP-🇯🇵
-trojan://8r%3C%5B9%27l6hAO%238ZQi@43.165.190.11:42841?security=tls&sni=Koma-YT.PAGeS.Dev #🔒smkn-JP-🇯🇵
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTE9ydkxXa0NCQkJ4THFTRWU5UzhsbkM1UExzTmZSaA==@103.75.118.125:443 #🔒smkn-JP-🇯🇵
+vless://7300363f-c18f-4bcf-a5a9-2ad35220505e@3.115.82.155:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tv.apple.com&fp=chrome&security=reality&pbk=gkeUZppVQzutjGsRcsGMW8OrPHboJ3qRFpIvj8lcUj4&sid=c174618d #🔒smkn-JP-🇯🇵
+trojan://253bc477d4e43c209f2d427272968280@157.120.32.122:443/?type=tcp&security=tls&sni=www.baidu.com #🔒smkn-JP-🇯🇵
+trojan://162534@142.91.108.54:443?type=ws&path=%2F%3Fed%3D2560&security=tls&sni=cchh2.pages.dev #🔒smkn-JP-🇯🇵
+trojan://8r%3C%5B9%27l6hAO%238ZQi@155.248.181.189:443?security=tls&sni=Koma-YT.PAGeS.Dev #🔒smkn-JP-🇯🇵
+vless://00000000-0000-4000-8000-000000000000@156.246.91.248:39545?sni=49ax00d7kmg3ijp3vbkua090bws.majusti.dpdns.org&type=ws&host=49ax00d7kmg3ijp3vbkua090bws.majusti.dpdns.org&path=/@Marisa_kristifp=chrome&security=tls #🔒smkn-JP-🇯🇵
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@141.147.161.58:443/?type=ws&encryption=none&host=pvg.aghabeiki.homes #🔒smkn-JP-🇯🇵
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@132.226.7.222:443/?type=ws&encryption=none&host=pvg.aghabeiki.homes #🔒smkn-JP-🇯🇵
+vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.216.21.135:10026?type=tcp&amp;security=none #🌐smkn-JP-🇯🇵
 vmess://eyJhZGQiOiAiMTA5LjYxLjEwOS4yMDQiLCAiaG9zdCI6ICJpbWFmYWtlLmxvY2tlciIsICJzbmkiOiAiaW1hZmFrZS5sb2NrZXIiLCAiaWQiOiAiYjJkYTk5MjAtYjBhNy00MzU0LTllMjYtMzgzM2FiOGQwMGQwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9zcGVlZHRlc3QiLCAicG9ydCI6IDE4NjI1LCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1KUC1cdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUiLCAidGxzIjogInRscyIsICJmcCI6ICJjaHJvbWUiLCAidiI6IDIsICJhaWQiOiAwLCAidHlwZSI6ICJub25lIn0=

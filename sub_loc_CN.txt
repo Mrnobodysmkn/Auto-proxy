@@ -1,2 +1,2 @@
-trojan://fuck@42.236.73.72:443/?type=tcp&security=tls&sni=www.zitian.cn #🔒smkn-CN-🇨🇳
-trojan://Aimer@176.124.223.133:2096/?type=tcp&security=tls&sni=epccj.ambercc.filegear-sg.me #🔒smkn-CN-🇨🇳
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@43.169.19.179:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=babayaga-6i7.pages.dev&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=babayaga-6i7.pages.dev&type=ws #🔒smkn-CN-🇨🇳
+vmess://eyJhZGQiOiAiMTkyLjc0LjIzNi4xNTYiLCAiYWlkIjogNjQsICJob3N0IjogInd3dy45MTMzNDU2NS54eXoiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDMwMDA0LCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1DTi1cdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjMiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
