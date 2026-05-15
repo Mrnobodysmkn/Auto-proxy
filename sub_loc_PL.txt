@@ -1,5 +1,3 @@
-vless://6d916d55-fead-4ff3-a3a9-83e175ea8ad7@144.31.4.74:443?sni=pl74.mechvpn.online&flow=xtls-rprx-vision-udp443&security=tls #🔒smkn-PL-🇵🇱
-vless://11296c5f-93b7-5655-8704-f6d82e33d9f3@194.147.34.72:443/?type=ws&encryption=none&host=194.147.34.72&path=%2Fvless&security=tls&sni=zula.ir&fp=chrome #🔒smkn-PL-🇵🇱
-trojan://NISHIKUITAN111@141.101.123.61:443/?type=tcp&security=tls #🔒smkn-PL-🇵🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@54.36.174.140:443 #🔒smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.55.84:443 #🔒smkn-PL-🇵🇱
+trojan://NISHIKUITAN111@141.101.123.249:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-PL-🇵🇱
+vless://ae8ddd8e-00af-48e5-bd57-05074a1bbffb@144.31.5.247:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ZHEMPjSWslk6_qD2JNQzd5enUPz8nY9mYRRuM6NkZmU&security=reality&sni=deepl.com&type=tcp #🔒smkn-PL-🇵🇱
+vmess://eyJhZGQiOiAiMTQ2LjU5Ljg1LjIyNiIsICJhaWQiOiAwLCAiaG9zdCI6ICJwZWxhbmcub3JnIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLVBMLVx1ZDgzY1x1ZGRmNVx1ZDgzY1x1ZGRmMSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
