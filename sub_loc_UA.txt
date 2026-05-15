@@ -1,5 +1,2 @@
 vless://401374e6-df77-41fb-f638-dad8184f175b@89.116.180.248:443/?type=grpc&encryption=none&security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2 #🔒smkn-UA-🇺🇦
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@194.152.44.71:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org #🔒smkn-UA-🇺🇦
-trojan://2e7d3f13-be1b-479c-94ff-0e95c2bd565d@89.116.180.158:443?security=tls&sni=3us2.pqjc.buzz&type=tcp #🔒smkn-UA-🇺🇦
-ss://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790?security=reality&amp;encryption=none&amp;pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=9d90d7ada8 #🔒smkn-UA-🇺🇦
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@89.116.180.7:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=/?ed=8880-@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none #🌐smkn-UA-🇺🇦
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.138:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws #🔒smkn-UA-🇺🇦
