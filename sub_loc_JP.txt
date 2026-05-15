@@ -1,7 +1,15 @@
-vless://7300363f-c18f-4bcf-a5a9-2ad35220505e@3.115.82.155:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tv.apple.com&fp=chrome&security=reality&pbk=gkeUZppVQzutjGsRcsGMW8OrPHboJ3qRFpIvj8lcUj4&sid=c174618d #🔒smkn-JP-🇯🇵
-trojan://18844%40zxcvbn@49.212.204.123:443/?type=tcp&security=tls #🔒smkn-JP-🇯🇵
-vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@151.245.104.182:443?encryption=none&security=tls&sni=dongjing4.zqjsqapi.com&type=ws&path=/proxy #🔒smkn-JP-🇯🇵
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@64.176.44.23:443?&security=tls&fp=chrome&sni=3-2ll.pages.dev&type=ws&headerType=none&host=3-2ll.pages.dev&path=/proxyip=ProxyIP.DE.owg.dpdns.org #🔒smkn-JP-🇯🇵
 trojan://5c777277-17f2-4272-ae65-7bd00fa4fbaa@18.65.190.65:443/?type=tcp&security=tls&sni=wel-jp.optage.moe&allowInsecure=1 #🔒smkn-JP-🇯🇵
-trojan://8r%3C%5B9%27l6hAO%238ZQi@88.214.22.165:10563?security=tls&sni=Koma-YT.PAGeS.Dev #🔒smkn-JP-🇯🇵
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@141.147.161.58:443/?type=ws&encryption=none&host=pvg.aghabeiki.homes #🔒smkn-JP-🇯🇵
+trojan://7a73f1dc97a70905870c0c0484b12145@133.242.55.38:443/?type=tcp&security=tls #🔒smkn-JP-🇯🇵
+trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.172.187:443?security=tls&sni=Koma-YT.PAGeS.Dev #🔒smkn-JP-🇯🇵
+trojan://253bc477d4e43c209f2d427272968280@157.120.32.122:443/?type=tcp&security=tls&sni=www.baidu.com #🔒smkn-JP-🇯🇵
+trojan://8r%3C%5B9%27l6hAO%238ZQi@64.110.104.30:443?security=tls&sni=Koma-YT.PAGeS.Dev #🔒smkn-JP-🇯🇵
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@168.138.46.67:443/?type=ws&encryption=none&host=pvg.aghabeiki.homes&path=%2F%3Fed%3D2744security%3Dtls #🔒smkn-JP-🇯🇵
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@168.138.50.249:443?encryption=none&security=tls&sni=dp.ylks.xyz&type=ws&host=dp.ylks.xyz&path=%2Fblue #🔒smkn-JP-🇯🇵
+trojan://8r%3C%5B9%27l6hAO%238ZQi@103.150.8.160:50888?security=tls&sni=Koma-YT.PAGeS.Dev #🔒smkn-JP-🇯🇵
+vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@140.83.57.183:22735/?type=ws&encryption=none&host=steep.skyfigure.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40pgkj666%20%2F%3Fed%3D2560&security=tls&sni=steep.skyfigure.top #🔒smkn-JP-🇯🇵
+trojan://8r%3C%5B9%27l6hAO%238ZQi@155.248.168.35:18122?security=tls&sni=Koma-YT.PAGeS.Dev #🔒smkn-JP-🇯🇵
+trojan://8r%3C%5B9%27l6hAO%238ZQi@138.2.23.80:21044?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&ws=1&wspath=%252FtrTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2520%2540WangCai2 #🌐smkn-JP-🇯🇵
+trojan://8r%3C%5B9%27l6hAO%238ZQi@212.50.248.248:17222?type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram #🌐smkn-JP-🇯🇵
+vmess://eyJhZGQiOiAiMTcyLjEwNC43OC45OCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiOTI3MDk0ZDMtZDY3OC00NzYzLTg1OTEtZTI0MGQwYmNhZTg3IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9jaGF0IiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUpQLVx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+vmess://eyJhZGQiOiAiMTcyLjExMS4xNDYuNjQiLCAiYWlkIjogIjAiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDViOGM3ODMtN2Y1OS00N2Y5LTk5MjMtMDZhNDY1Njc5ZjZhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzcy8iLCAicG9ydCI6ICI4MCIsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUpQLVx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
+vmess://eyJhZGQiOiAiMTMxLjE4Ni41Ny4xMTEiLCAiYWlkIjogMCwgImhvc3QiOiAiZTEzMDkxN2MtMWI1OC00MTM2LWIyZDktNzZkYzkyMGUwYWRkLmFkZDk3ZWU4LTBmMTQtNDhhMy1iMmNkLTk3OWM1Njc0MmU2NC5sb3NleW91cmlwLmNvbSIsICJpZCI6ICIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogNDQzLCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1KUC1cdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
