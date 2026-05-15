@@ -1,14 +1,10 @@
-trojan://7d0f1f83-0f2f-4b90-930e-de44ac233fef@20.210.234.145:443/?type=tcp&security=tls&sni=in.stablize.top #🔒smkn-JP-🇯🇵
-ss://ce069292-c8bf-40dd-a6b1-87818a1e64e9@103.13.19.227:443?host=1-aym.pages.dev&path=%2Ffp%3Dchrome&security=tls&sni=1-aym.pages.dev&type=ws #🔒smkn-JP-🇯🇵
-trojan://8r%3C%5B9%27l6hAO%238ZQi@64.110.104.30:443?security=tls&sni=Koma-YT.PAGeS.Dev #🔒smkn-JP-🇯🇵
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@103.13.19.227:443?host=1-aym.pages.dev&path=/fp=chrome&security=tls&sni=1-aym.pages.dev&type=ws #🔒smkn-JP-🇯🇵
+vless://7300363f-c18f-4bcf-a5a9-2ad35220505e@3.115.82.155:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tv.apple.com&fp=chrome&security=reality&pbk=gkeUZppVQzutjGsRcsGMW8OrPHboJ3qRFpIvj8lcUj4&sid=c174618d #🔒smkn-JP-🇯🇵
+vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@47.79.92.16:443/?type=ws&encryption=none&host=edccr.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=edccr.ambercc.filegear-sg.me #🔒smkn-JP-🇯🇵
+ss://ce069292-c8bf-40dd-a6b1-87818a1e64e9@126.220.82.161:443?&security=tls&fp=chrome&sni=gsgsdgreyrehjsrteargsfhtrhsrwrhtruiekghmg.pages.dev&type=ws&headerType=none&host=gsgsdgreyrehjsrteargsfhtrhsrwrhtruiekghmg.pages.dev&path=%2F #🔒smkn-JP-🇯🇵
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@168.138.50.249:443?encryption=none&security=tls&sni=dp.ylks.xyz&type=ws&host=dp.ylks.xyz&path=%2Fblue #🔒smkn-JP-🇯🇵
 trojan://7a73f1dc97a70905870c0c0484b12145@133.242.55.38:443/?type=tcp&security=tls #🔒smkn-JP-🇯🇵
-vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@151.245.104.182:443?encryption=none&security=tls&sni=dongjing4.zqjsqapi.com&type=ws&path=/proxy #🔒smkn-JP-🇯🇵
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.11.1.118:44004?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&Host=Koma-YT.PAGeS.Dev #🔒smkn-JP-🇯🇵
-vless://b3209c97-be59-4eec-87a0-cf18e3fe5024@139.162.83.207:74/?type=ws&encryption=none&flow=&host=317.hg168.de5.net&path=/?ed=2560&https://t.me/WangCai2&security=tls&sni=317.hg168.de5.net #🔒smkn-JP-🇯🇵
-vless://7a30b7fc-4868-4d1d-84b8-16a3d3df0139@45.89.109.25:18278?encryption=none&fp=chrome&pbk=8Fglzc7t2LS4r1vQWlVMNe_EsFdhMawlxeDacbhmiAg&security=reality&sid=f0&sni=yahoo.com&type=tcp #🔒smkn-JP-🇯🇵
-trojan://8r%3C%5B9%27l6hAO%238ZQi@103.150.8.160:50888?security=tls&sni=Koma-YT.PAGeS.Dev #🔒smkn-JP-🇯🇵
-vless://63601f9f-7c67-4952-919a-1ef802b5a7ec@140.83.57.183:22735/?type=ws&encryption=none&host=steep.skyfigure.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40pgkj666%20%2F%3Fed%3D2560&security=tls&sni=steep.skyfigure.top #🔒smkn-JP-🇯🇵
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTE9ydkxXa0NCQkJ4THFTRWU5UzhsbkM1UExzTmZSaA==@103.75.118.125:443 #🔒smkn-JP-🇯🇵
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@18.181.211.108:443 #🔒smkn-JP-🇯🇵
-ss://YWVzLTI1Ni1nY206R1RaSTVBYmpOQWVXUUcwb1ZOcHR2V0pvZ0hOS2lpS0E=@47.79.144.115:40003 #🌐smkn-JP-🇯🇵
+ss://7a30b7fc-4868-4d1d-84b8-16a3d3df0139@45.89.109.25:18278?encryption=none&fp=chrome&pbk=8Fglzc7t2LS4r1vQWlVMNe_EsFdhMawlxeDacbhmiAg&security=reality&sid=f0&sni=yahoo.com&type=tcp #🔒smkn-JP-🇯🇵
+trojan://8r%3C%5B9%27l6hAO%238ZQi@140.83.50.165:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&ws=1&wspath=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2 #🔒smkn-JP-🇯🇵
+vmess://eyJhZGQiOiAiMTYxLjEyOS4zNC4xMjYiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogImEwYjFmYjY2LWVkNDEtNDA3Ny04NmE5LWE2MWMxNDNkMzc3NyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYTBiMWZiNjYtZWQ0MS00MDc3LTg2YTktYTYxYzE0M2QzNzc3IiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUpQLVx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICJwaWNzLnF1aWNrbHlmYXN0Lnh5eiJ9
+vmess://eyJhZGQiOiAiMTMxLjE4Ni41Ny4xMTEiLCAiYWlkIjogMCwgImhvc3QiOiAiZTEzMDkxN2MtMWI1OC00MTM2LWIyZDktNzZkYzkyMGUwYWRkLmFkZDk3ZWU4LTBmMTQtNDhhMy1iMmNkLTk3OWM1Njc0MmU2NC5sb3NleW91cmlwLmNvbSIsICJpZCI6ICIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogNDQzLCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1KUC1cdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
