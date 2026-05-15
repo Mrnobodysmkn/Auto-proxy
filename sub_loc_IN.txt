@@ -1,6 +1,9 @@
-trojan://Aimer@108.165.152.66:2083/?type=tcp&security=tls&sni=epccd.ambercc.filegear-sg.me #🔒smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.241:2053/?type=tcp&security=tls&sni=acepo.ambercc.filegear-sg.me #🔒smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.113:443/?type=tcp&security=tls&sni=epccd.ambercc.filegear-sg.me #🔒smkn-IN-🇮🇳
-vless://c9577b4c-d52d-4eea-b2ab-6f855fa18ae5@108.165.152.38:8443/?type=ws&encryption=none&host=vv.cscfwoker.fun&security=tls&sni=vv.cscfwoker.fun&alpn=http%2F1.1 #🔒smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.239:8443/?type=tcp&security=tls&sni=epccd.ambercc.filegear-sg.me #🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.71:443/?type=tcp&security=tls&sni=epcch.ambercc.filegear-sg.me #🔒smkn-IN-🇮🇳
 trojan://Aimer@108.165.152.249:2087/?type=tcp&security=tls&sni=epccz.ambercc.filegear-sg.me #🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.36:2096/?type=tcp&security=tls&sni=acepo.ambercc.filegear-sg.me #🔒smkn-IN-🇮🇳
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@152.70.76.104:46000?&security=tls&fp=chrome&sni=sni.111000.v6.navy&type=ws&headerType=none&host=sni.111000.v6.navy&path=/?ed=2560&Telegram #🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.40:2096?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560 #🌐smkn-IN-🇮🇳
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990 #🌐smkn-IN-🇮🇳
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@134.209.147.198:989 #🌐smkn-IN-🇮🇳
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VGhEMUFnd1hjOFN0cHA3aEVvaExh@139.59.87.22:16970 #🌐smkn-IN-🇮🇳
+vmess://eyJhZGQiOiAiMTcyLjIzMi4xMDMuMTg2IiwgImFpZCI6ICIwIiwgImFscG4iOiBudWxsLCAiZnAiOiAiY2hyb21lIiwgImhvc3QiOiAiIiwgImlkIjogIjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogMjIzMjQsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUlOLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmMyIsICJzY3kiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6IG51bGwsICJ0bHMiOiAiIiwgInR5cGUiOiBudWxsLCAidiI6IG51bGx9
