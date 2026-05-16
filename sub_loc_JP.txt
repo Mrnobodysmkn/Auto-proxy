@@ -1,10 +1,13 @@
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@103.13.19.227:443?host=1-aym.pages.dev&path=/fp=chrome&security=tls&sni=1-aym.pages.dev&type=ws #🔒smkn-JP-🇯🇵
-vless://7300363f-c18f-4bcf-a5a9-2ad35220505e@3.115.82.155:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tv.apple.com&fp=chrome&security=reality&pbk=gkeUZppVQzutjGsRcsGMW8OrPHboJ3qRFpIvj8lcUj4&sid=c174618d #🔒smkn-JP-🇯🇵
-vless://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@47.79.92.16:443/?type=ws&encryption=none&host=edccr.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=edccr.ambercc.filegear-sg.me #🔒smkn-JP-🇯🇵
-ss://ce069292-c8bf-40dd-a6b1-87818a1e64e9@126.220.82.161:443?&security=tls&fp=chrome&sni=gsgsdgreyrehjsrteargsfhtrhsrwrhtruiekghmg.pages.dev&type=ws&headerType=none&host=gsgsdgreyrehjsrteargsfhtrhsrwrhtruiekghmg.pages.dev&path=%2F #🔒smkn-JP-🇯🇵
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@168.138.50.249:443?encryption=none&security=tls&sni=dp.ylks.xyz&type=ws&host=dp.ylks.xyz&path=%2Fblue #🔒smkn-JP-🇯🇵
-trojan://7a73f1dc97a70905870c0c0484b12145@133.242.55.38:443/?type=tcp&security=tls #🔒smkn-JP-🇯🇵
-ss://7a30b7fc-4868-4d1d-84b8-16a3d3df0139@45.89.109.25:18278?encryption=none&fp=chrome&pbk=8Fglzc7t2LS4r1vQWlVMNe_EsFdhMawlxeDacbhmiAg&security=reality&sid=f0&sni=yahoo.com&type=tcp #🔒smkn-JP-🇯🇵
-trojan://8r%3C%5B9%27l6hAO%238ZQi@140.83.50.165:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&ws=1&wspath=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2 #🔒smkn-JP-🇯🇵
-vmess://eyJhZGQiOiAiMTYxLjEyOS4zNC4xMjYiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogImEwYjFmYjY2LWVkNDEtNDA3Ny04NmE5LWE2MWMxNDNkMzc3NyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYTBiMWZiNjYtZWQ0MS00MDc3LTg2YTktYTYxYzE0M2QzNzc3IiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUpQLVx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICJwaWNzLnF1aWNrbHlmYXN0Lnh5eiJ9
+trojan://253bc477d4e43c209f2d427272968280@157.120.32.122:443/?type=tcp&security=tls&sni=www.baidu.com #🔒smkn-JP-🇯🇵
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@138.2.59.112:443?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560 #🔒smkn-JP-🇯🇵
+trojan://share.mjj-home.com@185.212.56.168:443?security=tls&sni=tw.softbank.mjj-home.com&type=tcp #🔒smkn-JP-🇯🇵
+trojan://18844%40zxcvbn@49.212.204.123:443/?type=tcp&security=tls #🔒smkn-JP-🇯🇵
+trojan://8r%3C%5B9%27l6hAO%238ZQi@212.50.248.248:17222?security=tls&sni=Koma-YT.PAGeS.Dev #🔒smkn-JP-🇯🇵
+vless://b3209c97-be59-4eec-87a0-cf18e3fe5024@139.162.83.207:74/?type=ws&encryption=none&flow=&host=317.hg168.de5.net&path=/?ed=2560&https://t.me/WangCai2&security=tls&sni=317.hg168.de5.net #🔒smkn-JP-🇯🇵
+trojan://8r%3C%5B9%27l6hAO%238ZQi@138.2.23.80:21044?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=%252FtrTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2520%2540WangCai2&Host=Koma-YT.PAGeS.Dev #🔒smkn-JP-🇯🇵
+vless://b3209c97-be59-4eec-87a0-cf18e3fe5024@139.162.83.82:74/?type=ws&encryption=none&flow=&host=317.hg168.de5.net&path=/?ed=2560&https://t.me/WangCai2&security=tls&sni=317.hg168.de5.net #🔒smkn-JP-🇯🇵
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@132.226.7.222:443/?type=ws&encryption=none&host=pvg.aghabeiki.homes #🔒smkn-JP-🇯🇵
+trojan://8r%3C%5B9%27l6hAO%238ZQi@45.11.1.118:44004?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&ws=1&wspath=%252FtrTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2520%2540WangCai2 #🌐smkn-JP-🇯🇵
+trojan://162534@43.165.190.11:42841?sni=cchh2.pages.dev #🌐smkn-JP-🇯🇵
 vmess://eyJhZGQiOiAiMTMxLjE4Ni41Ny4xMTEiLCAiYWlkIjogMCwgImhvc3QiOiAiZTEzMDkxN2MtMWI1OC00MTM2LWIyZDktNzZkYzkyMGUwYWRkLmFkZDk3ZWU4LTBmMTQtNDhhMy1iMmNkLTk3OWM1Njc0MmU2NC5sb3NleW91cmlwLmNvbSIsICJpZCI6ICIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogNDQzLCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1KUC1cdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+vmess://eyJhZGQiOiAiMTcyLjEwNC43OC45OCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiOTI3MDk0ZDMtZDY3OC00NzYzLTg1OTEtZTI0MGQwYmNhZTg3IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9jaGF0IiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUpQLVx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
