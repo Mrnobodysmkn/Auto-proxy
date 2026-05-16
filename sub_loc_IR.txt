@@ -1,8 +1,7 @@
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.51:2053?path=%2F&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=dl1-uk-cdn.easy-upload.org #🔒smkn-IR-🇮🇷
-ss://bcbb541b-6e85-4115-a26a-8cf67eca09cf@185.143.233.233:443?path=%2Fvoip&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=pishparda.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=pishparda.ir #🔒smkn-IR-🇮🇷
-vless://0ee3d06e-a584-4fd4-bada-1b8fa049df77@185.143.234.46:443?security=tls&type=ws&headerType=&path=/&host=marz-vip.nikatel.store&sni=marz-vip.nikatel.store&fp= #🔒smkn-IR-🇮🇷
-vless://494613dc-2999-4893-a09b-406e088e458d@45.131.4.156:443/?type=ws&encryption=none&host=azarandooz.awebcontent.workers.dev&path=%2F%40AzarAndoozVPNbot&security=tls&sni=azarandooz.awebcontent.workers.dev&fp=chrome #🔒smkn-IR-🇮🇷
-vless://5f4845b4-11dc-41d6-9508-4ff6a02e36c1@45.131.4.192:80?encryption=none&amp;host=silent-paper-fa57.fipiyag989.workers.dev&amp;path=%2F&amp;security=none&amp;type=ws #🌐smkn-IR-🇮🇷
-vless://dd4b0bcf-e2df-41a3-8517-495e6837c04f@185.143.232.122:80?path=/news&security=none&encryption=none&host=gr1.sublink.store&type=ws #🌐smkn-IR-🇮🇷
-vless://36636436-6636-4263-a563-386365393432@185.143.233.203:80?path=/l/w/aXD2QyDdS6vRQpxs?ed=2047&security=none&encryption=none&host=dl.tgmovie.bond&type=ws #🌐smkn-IR-🇮🇷
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.131:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org #🔒smkn-IR-🇮🇷
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.131:80/?type=ws&encryption=none&host=redfree8.pooriashop.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560 #🌐smkn-IR-🇮🇷
+vless://e8fd3903-58e3-4305-86bf-3cfae76f45c0@185.143.233.177:8880?encryption=none&amp;security=none&amp;type=httpupgrade&amp;headerType=none&amp;path=%2Fassets&amp;host=Vpn_jet7 #🌐smkn-IR-🇮🇷
 vless://693393b6-71d3-448b-b81d-f320b78c764b@185.143.235.240:2082?type=ws&encryption=mlkem768x25519plus.native.0rtt.52eRWMvQatI2AI3Hka9Anj01SZAt-9kswz-qXB2wsA4&path=%2F&host=cdn.linkersos.sbs&security=none #🌐smkn-IR-🇮🇷
+vless://36326231-3138-4166-b834-303439306131@185.143.234.96:80?encryption=none&security=none&type=ws&host=dl.tgmovie.bond&path=%2Fl%2Fw%2FaXD2QyDdS6vRQpxs%3Fed%3D2047 #🌐smkn-IR-🇮🇷
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80/?type=ws&encryption=none&host=redfree8.pooriashop.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560 #🌐smkn-IR-🇮🇷
+vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@45.131.4.147:8080/?type=xhttp&encryption=none #🌐smkn-IR-🇮🇷
