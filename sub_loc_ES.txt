@@ -1,3 +1,2 @@
-trojan://humanity@185.18.250.245:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com #🔒smkn-ES-🇪🇸
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.18.250.185:2053?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048 #🔒smkn-ES-🇪🇸
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.18.250.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&path=%2F&security=tls&sni=sni.jpmj.dev&type=ws #🔒smkn-ES-🇪🇸
+vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080/?type=xhttp&encryption=none #🌐smkn-ES-🇪🇸

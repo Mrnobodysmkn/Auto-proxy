@@ -1,14 +1,11 @@
-trojan://NISHIKUITAN111@190.93.245.32:443/?type=tcp&security=tls #🔒smkn-CR-🇨🇷
-vless://8ce6e2fe-23f5-4478-80b7-745779c52577@190.93.246.29:443?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&encryption=none&host=lv.2138937.xyz&type=ws&sni=lv.2138937.xyz #🔒smkn-CR-🇨🇷
-trojan://NISHIKUITAN111@190.93.247.175:443/?type=tcp&security=tls #🔒smkn-CR-🇨🇷
-trojan://NISHIKUITAN111@190.93.246.107:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-CR-🇨🇷
+trojan://7743e1b5-d301-4a66-b765-17094890fae2@190.93.244.105:443/?type=tcp&security=tls&sni=ssp1.100896.xyz&allowInsecure=1 #🔒smkn-CR-🇨🇷
+trojan://blue2024@190.93.244.208:443/?type=ws&host=hb.lii2010.us.kg&security=tls&sni=hb.lii2010.us.kg #🔒smkn-CR-🇨🇷
 trojan://NISHIKUITAN111@190.93.247.81:443/?type=tcp&security=tls #🔒smkn-CR-🇨🇷
+trojan://NISHIKUITAN111@190.93.245.10:443/?type=tcp&security=tls #🔒smkn-CR-🇨🇷
+trojan://bpb-trojan@190.93.244.202:443/?type=ws&host=fcspring.ggff.net&path=%2Ftr%3Fed&security=tls&sni=fcspring.ggff.net #🔒smkn-CR-🇨🇷
 trojan://blue2024@190.93.246.21:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg #🔒smkn-CR-🇨🇷
-trojan://NISHIKUITAN111@190.93.246.8:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-CR-🇨🇷
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443/?type=ws&encryption=none&host=bitget1.asdasd.click&path=%2F%3Fed%3D2560fp%3Dchrome&security=tls&sni=bitget1.asdasd.click #🔒smkn-CR-🇨🇷
-vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@190.93.244.51:443 #🔒smkn-CR-🇨🇷
-trojan://bpb-trojan@190.93.246.80:443?allowInsecure=1&sni=zeming13.us.kg&type=ws&host=zeming13.us.kg&path=/tr?ed=2560 #🔒smkn-CR-🇨🇷
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.3:8880/?type=ws&encryption=none&host=bitget1.asdasd.click&path=%2FTelegram #🌐smkn-CR-🇨🇷
-vmess://eyJhZGQiOiAiMTkwLjkzLjI0Ni4zIiwgImFpZCI6IDAsICJob3N0IjogIm9wbGcxLnpodWppY24yLmNvbSIsICJpZCI6ICI1NmEyMTg4Yi0yYWI3LTQwMmMtYjliOC0zNDg0N2ZkZjA5NTgiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLzVRTlJPU1JWIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUNSLVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmNyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
-vmess://eyJhZGQiOiAiMTkwLjkzLjI0Ni40IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICIxN2IyYTMxMy0zN2EwLTQ5NDUtYThlNC1lNjMzNzU1MDZiNGEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL0EyREpPUEZUIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUNSLVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmNyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICJsZzEwLmNmY2RuMS54eXoifQ==
-vmess://eyJhZGQiOiAiMTkwLjkzLjI0NC4zIiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICI1NmEyMTg4Yi0yYWI3LTQwMmMtYjliOC0zNDg0N2ZkZjA5NTgiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLzVRTlJPU1JWIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUNSLVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmNyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+trojan://blue2024@190.93.245.154:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg #🔒smkn-CR-🇨🇷
+ss://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.245.232:8443?path=%2F%3Fed%3D%23%2F%3FJoin---MARAMBASHI---Join---MARAMBASHI%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;host=bitget1.asdasd.click&amp;fp=chrome&amp;type=ws&amp;sni=bitget1.asdasd.click #🔒smkn-CR-🇨🇷
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@190.93.247.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3 #🌐smkn-CR-🇨🇷
+vmess://eyJhZGQiOiAiMTkwLjkzLjI0Ni40MSIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiODI0YzU4YjEtNjViYS00NjgwLWE2MDktNjYzYTAwMGRiYjkyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi93c3MxMzg4OSIsICJwb3J0IjogNDQzLCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1DUi1cdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjciLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+vmess://eyJhZGQiOiAiMTkwLjkzLjI0NS4xNzAiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjQ2MTI2MThjLTI0Y2QtNDM3OS05OTI0LWNmZGYzZDYxZmE1YSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvSVlLTEQ1M00iLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzY1x1ZGYxMHNta24tQ1ItXHVkODNjXHVkZGU4XHVkODNjXHVkZGY3IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
