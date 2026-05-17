@@ -1,4 +1,7 @@
-trojan://biS(YrwB,3L$@185.143.235.5:443/?type=tcp&security=tls&sni=mydigipay.com #🔒smkn-IR-🇮🇷
-ss://2ed014f5-dfaa-472c-9e64-91cc915b7ac8@185.143.235.21:8080?path=%2Fpath&amp;security=none&amp;encryption=none&amp;host=tr-st4.ge9.ir&amp;type=ws #🌐smkn-IR-🇮🇷
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.249:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org #🔒smkn-IR-🇮🇷
+vless://e8fd3903-58e3-4305-86bf-3cfae76f45c0@185.143.233.166:2082?encryption=none&amp;security=none&amp;type=ws&amp;headerType=none&amp;heartbeatPeriod=8&amp;path=/assets/varzesh3&amp;host=hpavash1.digikalajets.ir #🌐smkn-IR-🇮🇷
+vless://0a47ab98-b50b-4b92-baec-6e16af930dde@185.143.233.122:8080?path=/Embestpro1&security=none&encryption=none&host=Cyrus.zomavo.ir&type=ws #🌐smkn-IR-🇮🇷
+ss://a5449edb-5574-4c73-b6d6-3e00d693672d@185.143.233.122:80?path=%2Flord&amp;security=none&amp;encryption=none&amp;host=esy.aigameapps.ir&amp;type=ws #🌐smkn-IR-🇮🇷
+vless://36326231-3138-4166-b834-303439306131@185.143.234.96:80?encryption=none&type=ws&path=/l/w/aXD2QyDdS6vRQpxs?ed=2047&host=dl.tgmovie.bond #🌐smkn-IR-🇮🇷
 vless://65373863-3238-4434-b331-623133613063@185.143.234.2:80?path=/l/w/aXD2QyDdS6vRQpxs?ed=2047&security=none&encryption=none&host=dl.tgmovie.bond&type=ws #🌐smkn-IR-🇮🇷
-vless://c060fdda-385d-aea1-3982-5a6c92876481@85.133.249.43:58387?security=none&amp;encryption=none&amp;host=arvancloud.ir&amp;headerType=http&amp;type=tcp #🌐smkn-IR-🇮🇷
+vless://37643138-3432-4631-b162-643534316266@185.143.235.115:80?path=/l/w/aXD2QyDdS6vRQpxs?ed=2047&security=none&encryption=none&host=dl.tgmovie.bond&type=ws #🌐smkn-IR-🇮🇷

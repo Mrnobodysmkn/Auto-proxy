@@ -1,6 +1,7 @@
+trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443/?type=tcp&security=tls #🔒smkn-IN-🇮🇳
+vless://1f431db3-1918-4e7b-a855-c93485e11694@108.165.152.82:443?path=/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=pari.parinazz.dpdns.org&fp=chrome&type=ws&sni=pari.parinazz.dpdns.org #🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.219:443/?type=tcp&security=tls&sni=agepj.ambercc.filegear-sg.me #🔒smkn-IN-🇮🇳
 trojan://SSorg@108.165.152.76:2096/?type=tcp&security=tls&sni=ssjj.esslh.filegear-sg.me&allowInsecure=1 #🔒smkn-IN-🇮🇳
-vless://c9577b4c-d52d-4eea-b2ab-6f855fa18ae5@108.165.152.38:8443/?type=ws&encryption=none&host=vv.cscfwoker.fun&security=tls&sni=vv.cscfwoker.fun&alpn=http%2F1.1 #🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.82:8443/?type=tcp&security=tls&sni=epcch.ambercc.filegear-sg.me #🔒smkn-IN-🇮🇳
+vless://1edafc20-cffb-4921-bb2b-f00ce9864c5c@45.88.183.157:443?security=&encryption=none&headerType=none&type=tcp #🔒smkn-IN-🇮🇳
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VGhEMUFnd1hjOFN0cHA3aEVvaExh@139.59.87.22:16970 #🌐smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.40:2096?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560 #🌐smkn-IN-🇮🇳
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.149.135.253:8880?encryption=none&host=joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK?ed=2560&https://t.me/WangCai2🇨🇳&security=none&type=ws #🌐smkn-IN-🇮🇳
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1JTi1cdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjMiLCAiYWRkIjogIjE1Mi42Ny44LjIwNSIsICJwb3J0IjogIjgwIiwgImlkIjogIjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaW5zZWN1cmUiOiAiMCJ9
