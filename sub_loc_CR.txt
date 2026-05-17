@@ -1,14 +1,30 @@
-trojan://blue2024@190.93.245.62:443/?type=tcp&security=tls&sni=td.promote.icu #🔒smkn-CR-🇨🇷
-trojan://bpb-trojan@190.93.245.14:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1 #🔒smkn-CR-🇨🇷
-trojan://NISHIKUITAN111@190.93.246.217:443/?type=tcp&security=tls #🔒smkn-CR-🇨🇷
-vless://219d848d-60f2-4321-8275-72b9b575b37e@190.93.244.199:443/?type=ws&encryption=none&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=qaa.zhuk.us.kg #🔒smkn-CR-🇨🇷
-trojan://NISHIKUITAN111@190.93.247.175:443/?type=tcp&security=tls #🔒smkn-CR-🇨🇷
-vless://8041c6d9-8359-4e57-a55d-8f14e99bb9bc@190.93.247.9:443/?type=ws&encryption=none&host=lv.ylks01.eu.org&path=%2F%3Fed%3D2560&security=tls&sni=lv.ylks01.eu.org #🔒smkn-CR-🇨🇷
-trojan://NISHIKUITAN111@190.93.245.80:443/?type=tcp&security=tls #🔒smkn-CR-🇨🇷
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.247.176:443?security=tls&sni=ln.ylks01.eu.org&type=ws&host=ln.ylks01.eu.org&path=%2Fblue #🔒smkn-CR-🇨🇷
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.247.164:443?security=tls&sni=al.ylks.xyz&type=ws&host=al.ylks.xyz&path=%2F%3Fed%3D2048 #🔒smkn-CR-🇨🇷
+trojan://NISHIKUITAN111@190.93.246.107:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-CR-🇨🇷
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.246.82:443?security=tls&sni=al.ylks.xyz&type=ws&host=al.ylks.xyz&path=%2F%3Fed%3D2048 #🔒smkn-CR-🇨🇷
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.246.119:443?security=tls&sni=lk.kpcloud.eu.org&type=ws&host=lk.kpcloud.eu.org&path=%2F%3Fed%3D2048 #🔒smkn-CR-🇨🇷
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.246.114:443?allowInsecure=0&sni=aw.ylks.xyz&type=ws&host=aw.ylks.xyz&path=/?ed=2048security=tls #🔒smkn-CR-🇨🇷
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.247.132:443?security=tls&sni=ln.ylks01.eu.org&type=ws&host=ln.ylks01.eu.org&path=%2Fblue #🔒smkn-CR-🇨🇷
+trojan://blue2024@190.93.246.191:443/?type=tcp&security=tls&sni=td.promote.icu&allowInsecure=1 #🔒smkn-CR-🇨🇷
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.246.132:443?security=tls&sni=aj.ylks.xyz&type=ws&host=aj.ylks.xyz&path=%2F%3Fed%3D2048 #🔒smkn-CR-🇨🇷
+trojan://NISHIKUITAN111@190.93.246.45:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-CR-🇨🇷
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.244.55:443?security=tls&sni=ln.kpcloud.eu.org&type=ws&host=ln.kpcloud.eu.org&path=%2F%3Fed%3D2048 #🔒smkn-CR-🇨🇷
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.244.18:443?allowInsecure=0&sni=lw.kpcloud.eu.org&type=ws&host=lw.kpcloud.eu.org&path=/?ed=2048security=tls #🔒smkn-CR-🇨🇷
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.244.56:443?security=tls&sni=cg.ylks.xyz&type=ws&host=cg.ylks.xyz&path=%2Fblue #🔒smkn-CR-🇨🇷
 vless://4eec3909-c52f-4148-bf2a-5f800ecad7b8@190.93.244.103:443?security=tls&sni=V2ray.VPN-MIKEY.cfd&type=grpc&serviceName=@Vpn_Mikey%D8%8C@Vpn_Mikey&encryption=none #🔒smkn-CR-🇨🇷
-trojan://blue2024@190.93.247.122:443/?type=tcp&security=tls&sni=td.promote.icu&allowInsecure=1 #🔒smkn-CR-🇨🇷
-trojan://blue2024@190.93.246.151:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg #🔒smkn-CR-🇨🇷
+trojan://NISHIKUITAN111@190.93.247.139:443/?type=tcp&security=tls&allowInsecure=1 #🔒smkn-CR-🇨🇷
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.247.124:443?allowInsecure=0&sni=ax.ylks.xyz&type=ws&host=ax.ylks.xyz&path=/?ed=2048security=tls #🔒smkn-CR-🇨🇷
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.244.177:443?security=tls&sni=lc.kpcloud.eu.org&type=ws&host=lc.kpcloud.eu.org&path=%2F%3Fed%3D2048 #🔒smkn-CR-🇨🇷
+trojan://blue2024@190.93.245.234:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg #🔒smkn-CR-🇨🇷
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443/?type=ws&encryption=none&host=bitget1.asdasd.click&path=%2F%3Fed%3D2560fp%3Dchrome&security=tls&sni=bitget1.asdasd.click #🔒smkn-CR-🇨🇷
+vless://6babb657-1524-43bb-b421-11bda27bc9de@190.93.244.82:2087?security=tls&sni=smart.titimoji-f6.fun&type=grpc #🔒smkn-CR-🇨🇷
+vless://f47ac10b-58cc-4372-a567-0e02b2c3d479@190.93.245.245:80/?type=ws&encryption=none&host=edgetunnelworker.xlz.workers.dev&path=%2F%3Fed%3D2560 #🌐smkn-CR-🇨🇷
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@190.93.244.213:8880?encryption=none&security=none&type=ws&host=jp.laoyoutiao.link&path=%2F #🌐smkn-CR-🇨🇷
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@190.93.246.177:8880/?type=ws&encryption=none&host=ip.langmanshanxi.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3 #🌐smkn-CR-🇨🇷
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@190.93.246.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3 #🌐smkn-CR-🇨🇷
+vless://9557ff1d-fbea-4205-8df6-5a38dcbf3845@190.93.244.166:2095?security=none&type=httpupgrade&host=jghadskjask-sdyifuysiur873489279432dsf.vipvipmbl.ir.&path=%2Fwww.speedtest.net-www.speedtest.net%3Fed%3D31246 #🌐smkn-CR-🇨🇷
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@190.93.245.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram #🌐smkn-CR-🇨🇷
-vmess://eyJhZGQiOiAiMTkwLjkzLjI0Ni4yIiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICI0MGQ0OTZhNi1jZWViLTQwOTYtYmFlYi00Y2M1MmIyMDU2MjEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL0VDVENKMERGIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUNSLVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmNyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
-vmess://eyJhZGQiOiAiMTkwLjkzLjI0NS40IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICIxN2IyYTMxMy0zN2EwLTQ5NDUtYThlNC1lNjMzNzU1MDZiNGEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL0EyREpPUEZUIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUNSLVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmNyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICJsZzEwLmNmY2RuMS54eXoifQ==
-vmess://eyJhZGQiOiAiMTkwLjkzLjI0Ny4xODQiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjQxN2QyN2ZiLWNiOTMtM2JkOC05YmY3LTcxY2Q5MTMxOTgyMSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvaGdjZWZvbW4iLCAicG9ydCI6IDIwOTUsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUNSLVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmNyIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+ss://06be7b9f-5e99-47d2-82e8-667cedecc829@190.93.244.170:2082?path=%2F%40v2ngnet-%40-v2ngnet%40v2ngnet-%40v2ngnet-%40v2ngnet-%40v2ngnet%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=v2ngnet.nanvrfood.ir&amp;type=httpupgrade #🌐smkn-CR-🇨🇷
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@190.93.245.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560 #🌐smkn-CR-🇨🇷
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@190.93.244.63:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3 #🌐smkn-CR-🇨🇷
+vmess://eyJhZGQiOiAiMTkwLjkzLjI0NS4yIiwgImFpZCI6IDAsICJob3N0IjogImxnMS50cnVtcDIwMjMudXMiLCAiaWQiOiAiNDBkNDk2YTYtY2VlYi00MDk2LWJhZWItNGNjNTJiMjA1NjIxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9FQ1RDSjBERiIsICJwb3J0IjogNDQzLCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1DUi1cdWQ4M2NcdWRkZThcdWQ4M2NcdWRkZjciLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==

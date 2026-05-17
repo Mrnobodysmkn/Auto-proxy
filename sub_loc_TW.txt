@@ -1,2 +1,5 @@
-trojan://3f5bc61547b1f0d9@125.227.86.48:443?allowInsecure=1&sni=TG.freecodes&alpn=h2&type=grpc&serviceName=db #🔒smkn-TW-🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.38:2377 #🌐smkn-TW-🇹🇼
+vless://9f1b677f-aeea-43a9-9927-12188cdc1249@46.249.109.128:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.microsoft.com&fp=chrome&security=reality&pbk=q42m1wg11kZLyRtjaKus8T-NNl1vriRG3V1eVTL6ICc&sid=37e6f3e4339e #🔒smkn-TW-🇹🇼
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@223.165.4.57:443?sni=3-7gj.pages.dev&type=ws&host=3-7gj.pages.dev&path=/fp=chrome&security=tls #🔒smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqUjVXZzMyWHpFZ0NYazRNUENndmQxRzFUczhXSEJMc1hNVWFxTWE1RFVYTXVxTW1kWmdDYk1pcFhEaG9BbWo3M3FBOW9ZODV6WEszNUw1bTYzMVRuN2luMnAzS0xiV0Y=@46.249.109.128:56594 #🌐smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@36.224.132.218:50099 #🌐smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@125.227.86.44:2377 #🌐smkn-TW-🇹🇼
