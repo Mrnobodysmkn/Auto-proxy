@@ -1,4 +1,7 @@
-trojan://humanity@185.18.250.245:443/?type=tcp&security=tls&sni=www.calmlunch.com #🔒smkn-ES-🇪🇸
-trojan://humanity@185.18.250.252:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&fp=chrome #🔒smkn-ES-🇪🇸
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.18.250.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&path=%2F&security=tls&sni=sni.jpmj.dev&type=ws #🔒smkn-ES-🇪🇸
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.18.250.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3 #🌐smkn-ES-🇪🇸
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.32.58:443?security=tls&sni=mefa.ir&encryption=none@ShadowsocksM21&type=ws&host=mefa.ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1 #🔒smkn-ES-🇪🇸
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.32.192:443?security=tls&sni=mefa.ir&encryption=none@ShadowsocksM26&type=ws&host=mefa.ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1 #🔒smkn-ES-🇪🇸
+vless://1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@185.18.250.117:443?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=tls&encryption=none&host=xn----pmcnaac0dkn0rb71nda.pages.dev&type=ws&sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev #🔒smkn-ES-🇪🇸
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.33.62:443?security=tls&sni=mefa.ir&encryption=none@ShadowsocksM9&type=ws&host=mefa.ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1 #🔒smkn-ES-🇪🇸
+vless://26524cce-d514-4014-a426-365fb266a14d@194.48.143.25:443?allowInsecure=0&sni=klng2.stream-cdn.sh21.eu.org&type=ws&host=klng2.stream-cdn.sh21.eu.org&path=/danfeng?ed=2560fp=firefox&security=tls #🔒smkn-ES-🇪🇸
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.32.171:443?security=tls&sni=Sanjeshp.Ir&encryption=none@ShadowsocksM41&type=ws&host=Sanjeshp.Ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1 #🔒smkn-ES-🇪🇸
+vless://6d94e925-3661-4590-9fd6-f5c4aa903612@151.101.132.157:443?type=ws&amp;host=aklisvpn.com&amp;path=/ #🔒smkn-ES-🇪🇸
