@@ -1,11 +1,10 @@
-vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.14.130:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=&sni=api.company-target.com #🔒smkn-KR-🇰🇷
-vless://6f995056-7802-4a1d-bff7-61678e626c3f@52.231.38.95:443?encryption=none&security=tls&sni=bnnm.azurewebsites.net&type=ws&host=bnnm.azurewebsites.net&path=%2F #🔒smkn-KR-🇰🇷
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@222.97.71.115:18786?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560 #🔒smkn-KR-🇰🇷
-vless://6eeb820e-89ef-4b60-9060-ddcaea0580f0@61.111.247.147:19001?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=addons.mozilla.org&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM #🔒smkn-KR-🇰🇷
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@218.158.249.174:10000?&security=tls&sni=sni.111000.v6.army&type=ws&headerType=none&host=sni.111000.v6.army&path=%2F%3Fed%3D2560 #🔒smkn-KR-🇰🇷
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.201.55.91:443 #🔒smkn-KR-🇰🇷
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.48.212:443 #🔒smkn-KR-🇰🇷
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123 #🌐smkn-KR-🇰🇷
-trojan://GKHWMe2R4q韩国(yudou789.top 玉豆免费节点)wNcNxu6l3KMkdd@220.79.9.247:11313?allowInsecure=0&sni=vpn1.rnmcnm.com&ws=1&wspath=%2Ftrj-ws #🌐smkn-KR-🇰🇷
-trojan://GKHWMe2R4qwNcNxu6l3KMkdd@14.36.170.70:19888?allowInsecure=0&sni=vpn1.rnmcnm.com&ws=1&wspath=%2Ftrj-ws #🌐smkn-KR-🇰🇷
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652 #🌐smkn-KR-🇰🇷
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@45.82.246.235:2053?encryption=none&security=tls&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2 #🔒smkn-KR-🇰🇷
+trojan://8r%3C%5B9%27l6hAO%238ZQi@220.122.102.26:30017?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2 #🔒smkn-KR-🇰🇷
+vless://ebf0f3c7-323f-431e-944f-67297178f5bb@152.67.211.233:8899?&security=reality&flow=xtls-rprx-vision&pbk=B7eELUOn0QM6fKSrr5v_AE4JPHQIxvb9-xX3WLqnLAk&sid=11d27eb4&fp=chrome&sni=www.lovelive-anime.jp&type=tcp&headerType=none&host=www.lovelive-anime.jp&path=%2F #🔒smkn-KR-🇰🇷
+vless://b2b62085-f202-4c49-9f19-a44676a3d76d@121.165.93.96:20332?encryption=none&type=ws&path=%2Fray&security=tls&sni=vpn2.rnmcnm.com #🔒smkn-KR-🇰🇷
+vless://5d42cfef-0556-4f0c-bfb7-161aef500ab5@121.154.180.50:51698?encryption=none&security=reality&sni=lenovoglobal.com&fp=chrome&pbk=PPZbDAYSwCYnPCF8BxguTFfAAZTnLnzpsHePCkGZYxo&sid=34&type=grpc&packetEncoding=xudp #🔒smkn-KR-🇰🇷
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.201.57.87:443 #🔒smkn-KR-🇰🇷
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@158.247.205.87:443 #🔒smkn-KR-🇰🇷
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001 #🌐smkn-KR-🇰🇷
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679 #🌐smkn-KR-🇰🇷
+vmess://eyJhZGQiOiAiMTUyLjY3LjIxOC4zOCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiYjVlOTQ4MGEtYjdhYS00MGE0LWY5YTctNTI5OWI1ZTM2M2I0IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzY1x1ZGYxMHNta24tS1ItXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=

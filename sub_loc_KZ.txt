@@ -1,6 +1,10 @@
-trojan://NISHIKUITAN111@185.176.26.131:443/?type=tcp&security=tls #🔒smkn-KZ-🇰🇿
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@31.43.179.34:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org #🔒smkn-KZ-🇰🇿
-trojan://tg-fq521free@194.76.18.129:443/?type=ws&host=torjan.xn--xhq44j.eu.org&path=%2F&security=tls&sni=torjan.xn--xhq44j.eu.org #🔒smkn-KZ-🇰🇿
-trojan://blue2024@185.176.26.193:443/?type=tcp&security=tls&sni=b.promote.icu #🔒smkn-KZ-🇰🇿
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.43.179.191:443?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws #🔒smkn-KZ-🇰🇿
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@185.176.26.242:443?security=tls&type=ws&sni=xin033.ylks.link&path=/blue&encryption=none&headerType=none #🔒smkn-KZ-🇰🇿
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.43.179.238:443?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws #🔒smkn-KZ-🇰🇿
+vless://5b2fc182-a497-4fbe-aeb8-1841dae99022@45.10.40.173:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=FSq5DVYJ8UaKArP3FtCmlZKqOQ08dKkqB2fefjRkA0M&sni=eh.vk.com #🔒smkn-KZ-🇰🇿
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.43.179.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&path=%2F&security=tls&sni=sni.jpmj.dev&type=ws #🔒smkn-KZ-🇰🇿
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@31.43.179.138:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&host=sni.111000.dns.army&type=ws&sni=sni.111000.dns.army #🔒smkn-KZ-🇰🇿
-vless://d0f9437f-3c49-45c6-976b-ebea24158b39@194.76.18.237:2082?security=none&type=httpupgrade&host=finhztco.nipytee.info&path=%2F #🌐smkn-KZ-🇰🇿
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.43.179.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws #🔒smkn-KZ-🇰🇿
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@185.176.26.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 #🌐smkn-KZ-🇰🇿
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.43.179.253:8880?encryption=none&host=joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK?ed=2560&https://t.me/WangCai2🇨🇳&security=none&type=ws #🌐smkn-KZ-🇰🇿
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1LWi1cdWQ4M2NcdWRkZjBcdWQ4M2NcdWRkZmYiLCAiYWRkIjogIjM4LjEwNy4yMzQuNTciLCAicG9ydCI6IDgwLCAiaWQiOiAiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiMzguMTA3LjIzNC41NyIsICJwYXRoIjogIi92bWVzcy8iLCAidGxzIjogImF1dG8iLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIifQ==
