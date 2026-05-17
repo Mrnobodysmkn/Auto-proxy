@@ -1,7 +1,5 @@
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@152.67.190.105:443?security=tls&type=ws&path=/danfeng&host=snippet.fgfw.ye.gs&sni=snippet.fgfw.ye.gs&fp=random #🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.78:2083/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org #🔒smkn-IN-🇮🇳
 trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443/?type=tcp&security=tls #🔒smkn-IN-🇮🇳
-vless://1f431db3-1918-4e7b-a855-c93485e11694@108.165.152.82:443?path=/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=pari.parinazz.dpdns.org&fp=chrome&type=ws&sni=pari.parinazz.dpdns.org #🔒smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.219:443/?type=tcp&security=tls&sni=agepj.ambercc.filegear-sg.me #🔒smkn-IN-🇮🇳
-trojan://SSorg@108.165.152.76:2096/?type=tcp&security=tls&sni=ssjj.esslh.filegear-sg.me&allowInsecure=1 #🔒smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.82:8443/?type=tcp&security=tls&sni=epcch.ambercc.filegear-sg.me #🔒smkn-IN-🇮🇳
-vless://1edafc20-cffb-4921-bb2b-f00ce9864c5c@45.88.183.157:443?security=&encryption=none&headerType=none&type=tcp #🔒smkn-IN-🇮🇳
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VGhEMUFnd1hjOFN0cHA3aEVvaExh@139.59.87.22:16970 #🌐smkn-IN-🇮🇳
+trojan://ttfang@20.235.105.146:443/?type=ws&path=%2F&security=tls&sni=ttfang.fange.me #🔒smkn-IN-🇮🇳
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.198.173.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws #🔒smkn-IN-🇮🇳
