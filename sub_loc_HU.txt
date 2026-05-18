@@ -1,8 +1,9 @@
-vless://0ee2d410-3e64-4c41-a571-3e5d2b5b8982@217.13.104.115:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=HmnZvWf1xDzvps8H-juYYtHnWPZksvaUp6cMYV7TfSk&security=reality&sid=a20d3ed244c76426&sni=sun6-22.userapi.com #🔒smkn-HU-🇭🇺
-trojan://NISHIKUITAN111@141.11.203.203:443/?type=ws&host=za.ylks.xyz&path=%2F%2F&security=tls&sni=za.ylks.xyz&allowInsecure=1 #🔒smkn-HU-🇭🇺
-vless://a270cd7a-8ab3-4e34-8838-a687df96fef9@162.159.38.232:443/?type=ws&encryption=none&host=c185v1.testsnew.com&path=%2Fwss&security=tls&sni=c185v1.testsnew.com&alpn=http%2F1.1 #🔒smkn-HU-🇭🇺
-vless://0ee2d410-3e64-4c41-a571-3e5d2b5b8982@217.13.104.15:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=dcO8bQEVUFCdwPBpe7o1Dh7wjEryVtEV_dteYVm8LWw&security=reality&sid=a20d3ed244c76426&sni=sun6-22.userapi.com #🔒smkn-HU-🇭🇺
-trojan://Aimer@162.159.44.230:2053/?type=tcp&security=tls&sni=ngepo.ambercc.filegear-sg.me #🔒smkn-HU-🇭🇺
-vless://02be5968-d5c1-41f9-9515-3ea043b7aac3@162.159.44.88:443/?type=ws&encryption=none&host=server19.aibox.tv&path=%2Fws%2F&security=tls&sni=server19.aibox.tv&alpn=h2%2Chttp%2F1.1&fp=chrome #🔒smkn-HU-🇭🇺
-vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@162.159.45.232:443/?type=ws&encryption=none&flow=&host=l.ayovo.netlib.re&path=%2Fx-aniu%2F%3Fed%3D2560&security=tls&sni=l.ayovo.netlib.re&fp=chrome #🔒smkn-HU-🇭🇺
-vless://2928d83a-ca75-4d52-b437-fa78c7601378@162.159.44.173:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560 #🔒smkn-HU-🇭🇺
+vless://cc6b985d-0362-4129-8763-38564174fb3e@141.11.203.254:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=iryiccyne.wwtraveler.com&alpn=http%2F1.1%2Ch2&fp=chrome #🔒smkn-HU-🇭🇺
+trojan://blue2024@162.159.44.194:443/?type=tcp&security=tls&sni=ta.promote.icu #🔒smkn-HU-🇭🇺
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@162.159.44.53:443?security=tls&sni=lp.kpcloud.eu.org&type=ws&host=lp.kpcloud.eu.org&path=%2F%3Fed%3D2048&fp=chrome #🔒smkn-HU-🇭🇺
+vless://292e75fc-5a8a-40c4-b937-407c2400a42e@217.13.104.101:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid= #🔒smkn-HU-🇭🇺
+trojan://blue2024@162.159.44.217:443/?type=tcp&security=tls&sni=ta.promote.icu #🔒smkn-HU-🇭🇺
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.202.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws #🔒smkn-HU-🇭🇺
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.202.30:8880?type=ws&host=vms.lifetime10.workers.dev #🌐smkn-HU-🇭🇺
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@141.11.203.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3 #🌐smkn-HU-🇭🇺
+vless://5f1811a9-292a-4d7e-b59f-1a5ff9390647@45.12.132.183:80?encryption=none&type=ws&path=%2Fvless%2F&security=none #🌐smkn-HU-🇭🇺
