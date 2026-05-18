@@ -1,9 +1,8 @@
-vless://3c674b63-9a37-4f9f-874a-339256e75f40@185.143.233.200:443/?type=ws&encryption=none&host=bama.ir.nl3.mapirabr.com&path=%2F%3Fed%3D443&security=tls&sni=bama.ir&fp=randomized#🔒smkn-IR-🇮🇷
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.125:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org#🔒smkn-IR-🇮🇷
-vless://2de6a3d8-438f-4fa1-b02d-27db9130758c@185.143.233.200:2082?path=/&security=none&encryption=none&host=nima.hayalco.ir&type=ws#🌐smkn-IR-🇮🇷
-vless://c060fdda-385d-aea1-3982-5a6c92876481@85.133.249.43:58387?security=none&amp;encryption=none&amp;host=arvancloud.ir&amp;headerType=http&amp;type=tcp#🌐smkn-IR-🇮🇷
-ss://d20d82a5-6ffb-4c1f-a76d-508d652a5d26@185.143.233.200:8880?path=%2F&security=&encryption=mlkem768x25519plus.native.0rtt.yrESAq1QmiAmSXlQw3b3ZZhzJVO6meM9Oi3p2B05EXo&host=nima.hayalco.ir&type=ws#🌐smkn-IR-🇮🇷
-ss://2d6780ea-d5bb-41bb-a60b-d3984dcd6519@185.143.233.200:2052?path=%2F&security=none&encryption=mlkem768x25519plus.native.0rtt.9Zwbp5JsBrqWXj8vFrYXBFUSgphRW3Td-4nL6xgfe1I&host=nima.hayalco.ir&type=ws#🌐smkn-IR-🇮🇷
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.147:80/?type=ws&encryption=none&host=redfree8.pooriashop.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🌐smkn-IR-🇮🇷
-vless://508d96e8-953f-4a67-bc7d-8aba5878f38a@45.131.4.147:8080/?type=xhttp&encryption=none#🌐smkn-IR-🇮🇷
-ss://0b6705dc-157e-46a1-8872-2fa6923e8d83@185.143.233.200:80?path=%2F%3Fed%3D2080&amp;security=none&amp;encryption=none&amp;host=final.idbedam.ir&amp;type=ws#🌐smkn-IR-🇮🇷
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.36:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#🔒smkn-IR-🇮🇷
+vless://0ee3d06e-a584-4fd4-bada-1b8fa049df77@185.143.234.46:443?security=tls&type=ws&headerType=&path=/&host=marz-vip.nikatel.store&sni=marz-vip.nikatel.store&fp=#🔒smkn-IR-🇮🇷
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.131:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org#🔒smkn-IR-🇮🇷
+vless://8cf73792-0b3e-8e8b-f833-e86067f7a22c@45.131.4.5:2052/?type=httpupgrade&encryption=none&host=2.v2.www.speedtest.net.blue99shop.ir.&path=%2F#🌐smkn-IR-🇮🇷
+vless://38623661-3032-4065-b135-396263363937@185.143.234.60:80?path=/l/w/aXD2QyDdS6vRQpxs?ed=2047&security=none&encryption=none&host=dl.tgmovie.bond&type=ws#🌐smkn-IR-🇮🇷
+vless://84ee9d31-a721-4236-bb24-c443705e350d@185.143.232.1:80?encryption=none&amp;security=none&amp;type=ws&amp;host=S0.restaurantpro.ir&amp;path=%2F#🌐smkn-IR-🇮🇷
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.131:80/?type=ws&encryption=none&host=redfree8.pooriashop.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🌐smkn-IR-🇮🇷
+vmess://eyJhZGQiOiAiMTg1LjE0My4yMzMuMTE0IiwgImFpZCI6IDAsICJob3N0IjogIjE4NS4xNDMuMjMzLjExNCIsICJpZCI6ICJjZjdmMmQ3Yy1kNGY4LTQ2OWEtYmZkNS05NzQ4NGJiOThkMmMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogODAsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUlSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byJ9
