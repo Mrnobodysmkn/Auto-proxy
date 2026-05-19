@@ -1,6 +1,6 @@
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@60.249.21.29:443?sni=gogo4.kmj.qzz.io&type=ws&host=gogo4.kmj.qzz.io&path=/fp=chrome&security=tls#🔒smkn-TW-🇹🇼
-trojan://3f5bc61547b1f0d9@125.227.86.46:443?security=tls&sni=TG.freecodes#🔒smkn-TW-🇹🇼
+trojan://981db44e-9f07-49eb-9ba0-6ab4939919a2@61.220.126.180:443?security=tls&sni=twnode11.oportal.cc&type=tcp&headerType=none#🔒smkn-TW-🇹🇼
 vless://06ef598c-1555-4887-b3f9-08214a2f6792@103.137.63.227:8443?encryption=none&security=tls&sni=2026.hhhhh.eu.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2F103.137.63.227%3A8443#🔒smkn-TW-🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg@2.58.241.42:443#🔒smkn-TW-🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@125.227.86.46:2377#🌐smkn-TW-🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@59.125.75.115:2377#🌐smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.14.95:2377?plugin=obfs-local;obfs=tls;obfs-host=(Telegram#🔒smkn-TW-🇹🇼
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@223.165.4.173:989#🌐smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.3:2377#🌐smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@223.165.4.173:990#🌐smkn-TW-🇹🇼
