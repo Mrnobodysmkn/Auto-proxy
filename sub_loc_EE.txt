@@ -1,7 +1,8 @@
+vless://4dba7f59-d765-48e4-9c72-e1948fa4de68@144.31.178.150:443?mode=gun&security=reality&encryption=none&pbk=8tmYXQZuVTmrJNLUAL4KKPgCVNd_UdHaxAoC2L3AL2U&fp=chrome&type=grpc&serviceName=xyz&sni=eh.vk.ru&sid=6ba85179e30d4fc2#🔒smkn-EE-🇪🇪
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.108.191:443?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#🔒smkn-EE-🇪🇪
-trojan://NISHIKUITAN111@185.159.247.248:443/?type=tcp&security=tls&allowInsecure=1#🔒smkn-EE-🇪🇪
-vless://41abecd9-8096-4142-a75c-4e1d36d990bd@45.80.108.253:443/?type=ws&encryption=none&host=mmdserver.us.kg&path=%2F%3Fed%3D2048&security=tls&sni=mmdserver.us.kg&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios#🔒smkn-EE-🇪🇪
+trojan://NISHIKUITAN111@185.159.247.167:443/?type=ws&host=za.ylks.xyz&path=%2F%2F&security=tls&sni=za.ylks.xyz#🔒smkn-EE-🇪🇪
+vless://fd2bfdd2-68eb-49b0-98ad-ed82f901edde@5.45.119.63:443?security=reality&flow=xtls-rprx-vision&sni=s6eba9cb4.fastvps-server.com&type=tcp&fp=chrome&pbk=fGB5LO3Ixtez-N-VOqhgmz4KjVtRo9ZUhQVASC7cozI&sid=a33cab0467dcb2aa#🔒smkn-EE-🇪🇪
+vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@144.31.178.150:8443?encryption=none&extra=%7Bmode%3Dstream-up%2Cxmux%3D%7BcMaxReuseTimes%3D64-128%2CmaxConcurrency%3D8-16%2CmaxConnections%3D0.0%2ChKeepAlivePeriod%3D0.0%2ChMaxRequestTimes%3D400-600%2ChMaxReusableSecs%3D1800-3600%7D%2CnoSSEHeader%3Dfalse%2CnoGRPCHeader%3Dfalse%2CxPaddingBytes%3D100-1000%2CscMaxBufferedPosts%3D30.0%2CscMaxEachPostBytes%3D500000-1000000%2CscMinPostsIntervalMs%3D10-50%2CscStreamUpServerSecs%3D30-90%7D&mode=auto&path=%2Fapi%2Fv2%2Fupdates&pbk=JmO_njtIe9q7HRanm_dx4BtPAGCkycJuDskOISPx_Sg&security=reality&sni=01.img.avito.st&type=xhttp#🔒smkn-EE-🇪🇪
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.108.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#🔒smkn-EE-🇪🇪
-trojan://8r%3C%5B9%27l6hAO%238ZQi@64.188.78.84:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#🔒smkn-EE-🇪🇪
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#🌐smkn-EE-🇪🇪
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.193.49.88:989#🌐smkn-EE-🇪🇪
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.80.110.63:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-EE-🇪🇪
