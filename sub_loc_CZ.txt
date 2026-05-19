@@ -1,6 +1,7 @@
-vless://2f0bcd99-3751-4d9d-acd4-e67b2a38c828@195.85.23.225:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒smkn-CZ-🇨🇿
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@91.184.250.116:2083?security=tls&sni=xo.e0f.cx&type=ws&host=xo.e0f.cx&path=/trojan-ws#🔒smkn-CZ-🇨🇿
-vless://50e75c0f-801a-4291-9d98-80e77b787fd5@195.85.23.236:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒smkn-CZ-🇨🇿
-vless://401374e6-df77-41fb-f638-dad8184f175b@14.102.228.18:443/?type=grpc&encryption=none&security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2#🔒smkn-CZ-🇨🇿
-trojan://5y8y3CwxRVYhyfSY@185.253.46.105:443?security=tls&sni=ce.rutracker-cn.com&allowInsecure=1&type=tcp#🔒smkn-CZ-🇨🇿
+trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls#🔒smkn-CZ-🇨🇿
+trojan://ttfang@14.102.228.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🔒smkn-CZ-🇨🇿
+trojan://Aimer@37.157.192.61:9902/?type=tcp&security=tls&sni=amepo.ambercc.filegear-sg.me&allowInsecure=1#🔒smkn-CZ-🇨🇿
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@14.102.228.210:2096?encryption=none&security=tls&type=ws&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#🔒smkn-CZ-🇨🇿
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.23.253:8880?encryption=none&host=joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK?ed=2560&https://t.me/WangCai2🇨🇳&security=none&type=ws#🌐smkn-CZ-🇨🇿
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@14.102.229.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-CZ-🇨🇿
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@195.85.23.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-CZ-🇨🇿

@@ -1,10 +1,6 @@
-vless://4959177b-62d7-4d1b-b6a3-eed72c0609c5@144.24.127.7:443?security=tls&flow=xtls-rprx-vision&sni=www.0wolf.com&type=tcp&fp=chrome#🔒smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.104:2053/?type=tcp&security=tls&sni=epccs.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
-trojan://ttfang@20.235.105.146:443/?type=ws&path=%2F&security=tls&sni=ttfang.fange.me#🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.202:2083/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org#🔒smkn-IN-🇮🇳
 trojan://Aimer@108.165.152.113:443/?type=tcp&security=tls&sni=epccd.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.207:443/?type=tcp&security=tls&sni=epcca.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.55:2096/?type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=epml.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
-vless://c9577b4c-d52d-4eea-b2ab-6f855fa18ae5@108.165.152.38:8443/?type=ws&encryption=none&host=vv.cscfwoker.fun&security=tls&sni=vv.cscfwoker.fun&alpn=http%2F1.1#🔒smkn-IN-🇮🇳
-vless://05b544a4-d479-4ba4-8208-950bd4411453@45.89.105.56:8443?security=tls&sni=pq-India1.09vpn.com&type=ws&path=%2Fvless%2F#🔒smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.1:2087/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
-vless://05b544a4-d479-4ba4-8208-950bd4411453@45.89.105.56:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#🌐smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.219:443/?type=tcp&security=tls&sni=agepj.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.59:2087/?type=tcp&security=tls&sni=epccq.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.14:2096?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#🌐smkn-IN-🇮🇳
+vmess://eyJhZGQiOiAiMTUyLjY3LjguMjA1IiwgImFpZCI6ICIwIiwgImFscG4iOiBudWxsLCAiZnAiOiBudWxsLCAiaG9zdCI6ICIxNTIuNjcuOC4yMDUiLCAiaWQiOiAiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwgIm5hbWUiOiAiXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIElOIDEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogODAsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUlOLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmMyIsICJzY3kiOiBudWxsLCAic25pIjogbnVsbCwgInRscyI6ICIiLCAidHlwZSI6IG51bGwsICJ2IjogbnVsbH0=
