@@ -1,10 +1,6 @@
-trojan://5y8y3CwxRVYhyfSY@185.253.46.105:443?security=tls&sni=ce.rutracker-cn.com&allowInsecure=1&type=tcp#🔒smkn-CZ-🇨🇿
-trojan://8r%253C%255B9%2527l6hAO%25238ZQi@14.102.228.253:443?security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-CZ-🇨🇿
+vless://2f0bcd99-3751-4d9d-acd4-e67b2a38c828@195.85.23.225:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒smkn-CZ-🇨🇿
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@91.184.250.116:2083?security=tls&sni=xo.e0f.cx&type=ws&host=xo.e0f.cx&path=/trojan-ws#🔒smkn-CZ-🇨🇿
+vless://50e75c0f-801a-4291-9d98-80e77b787fd5@195.85.23.236:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒smkn-CZ-🇨🇿
 vless://401374e6-df77-41fb-f638-dad8184f175b@14.102.228.18:443/?type=grpc&encryption=none&security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2#🔒smkn-CZ-🇨🇿
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@143.244.58.102:443#🔒smkn-CZ-🇨🇿
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@195.85.23.213:8880?encryption=none&security=none&type=ws&host=jp.laoyoutiao.link&path=%2F#🌐smkn-CZ-🇨🇿
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.253:8880?encryption=none&host=joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK?ed=2560&https://t.me/WangCai2🇨🇳&security=none&type=ws#🌐smkn-CZ-🇨🇿
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@195.85.23.63:8880?encryption=none&security=none&sni=sg.laoyoutiao.link&type=ws&host=sg.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-CZ-🇨🇿
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@14.102.228.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-CZ-🇨🇿
-vless://b49d8a13-12f6-4613-bb0d-3e2f6244f29c@14.102.228.75:80/?type=ws&encryption=none&host=ov-canada1.09vpn.com&path=%2Fvless%2F#🌐smkn-CZ-🇨🇿
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@195.85.23.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-CZ-🇨🇿
+trojan://5y8y3CwxRVYhyfSY@185.253.46.105:443?security=tls&sni=ce.rutracker-cn.com&allowInsecure=1&type=tcp#🔒smkn-CZ-🇨🇿
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.23.253:8880?encryption=none&host=joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK?ed=2560&https://t.me/WangCai2🇨🇳&security=none&type=ws#🌐smkn-CZ-🇨🇿
