@@ -1,5 +1,2 @@
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.15.13:443?security=tls&sni=Sanjeshp.Ir&encryption=none@ShadowsocksM49&type=ws&host=Sanjeshp.Ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒smkn-BR-🇧🇷
-vless://03517ec0-976e-4cac-b84b-146fc4c7b023@199.232.13.32:80?path=%2FTelegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry%3Fed%3D2048&security=&encryption=none&host=Apple-SIB.ir&type=ws#🌐smkn-BR-🇧🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#🌐smkn-BR-🇧🇷
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.194.53.63:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-BR-🇧🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOVmN3OU9UR3dtVGhXbWhzMXVoN3JySUpjVno3bG45NmlmWVppdjR6c1d2VG9Uamc=@109.104.155.45:41348#🌐smkn-BR-🇧🇷
+trojan://trojan@185.133.35.46:443?security=tls&sni=test-a23.pages.dev&type=ws&host=test-a23.pages.dev&path=%2FTelegram-%40proxy_mtm%2F%3Fed%3D2560&fp=chrome&alpn=h2,http/1.1#🔒smkn-BR-🇧🇷
+trojan://bpb-trojan@45.194.53.231:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#🔒smkn-BR-🇧🇷
