@@ -1,5 +1,6 @@
-vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh23v5.hiddendom.shop&alpn=h2#🔒smkn-HU-🇭🇺
-trojan://Aimer@162.159.44.127:443/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#🔒smkn-HU-🇭🇺
-vless://55d9ec38-1b8a-454b-981a-6acfe8f56d8c@162.159.44.100:2087?encryption=none&security=tls&sni=fu.baiproxy.us.ci&type=ws&host=fu.baiproxy.us.ci&path=%2F%3Fed%3D2560#🔒smkn-HU-🇭🇺
-trojan://Aimer@162.159.45.156:8443/?type=tcp&security=tls&sni=agepu.ambercc.filegear-sg.me#🔒smkn-HU-🇭🇺
-trojan://NISHIKUITAN222@162.159.45.133:443#🔒smkn-HU-🇭🇺
+vless://02be5968-d5c1-41f9-9515-3ea043b7aac3@162.159.44.88:443/?type=ws&encryption=none&host=server19.aibox.tv&path=%2Fws%2F&security=tls&sni=server19.aibox.tv&alpn=h2%2Chttp%2F1.1&fp=chrome#🔒smkn-HU-🇭🇺
+trojan://auto@162.159.44.209:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒smkn-HU-🇭🇺
+ss://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&amp;encryption=none&amp;pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=4ae260#🔒smkn-HU-🇭🇺
+trojan://NISHIKUITAN222@162.159.38.94:443#🔒smkn-HU-🇭🇺
+vless://5f1811a9-292a-4d7e-b59f-1a5ff9390647@45.12.132.183:80?security=none&type=ws&path=%2Fvless%2F#🌐smkn-HU-🇭🇺
+vmess://eyJhZGQiOiAiNDUuMTIuMTMyLjE4MyIsICJhaWQiOiAiMCIsICJhbHBuIjogbnVsbCwgImZwIjogbnVsbCwgImhvc3QiOiAicHEtSHVuZ2FyeTEuMDl2cG4uY29tIiwgImlkIjogIjZmMWYxYTE4LWVjYzQtNDUxMy04OTBlLWZkMTkzMDQyZjU2NCIsICJuYW1lIjogIlx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmYSBIVSAxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzcy8iLCAicG9ydCI6IDg0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUhVLVx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmYSIsICJzY3kiOiBudWxsLCAic25pIjogbnVsbCwgInRscyI6ICJ0bHMiLCAidHlwZSI6IG51bGwsICJ2IjogbnVsbH0=
