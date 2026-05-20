@@ -1,2 +1,6 @@
-trojan://trojan@185.133.35.46:443?security=tls&sni=test-a23.pages.dev&type=ws&host=test-a23.pages.dev&path=%2FTelegram-%40proxy_mtm%2F%3Fed%3D2560&fp=chrome&alpn=h2,http/1.1#🔒smkn-BR-🇧🇷
-trojan://bpb-trojan@45.194.53.231:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#🔒smkn-BR-🇧🇷
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.12.41:443?security=tls&sni=mefa.ir&type=ws&host=mefa.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒smkn-BR-🇧🇷
+vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@45.194.53.81:443?security=tls&sni=bpB005.paGeS.DEv&type=ws&host=bpB005.paGeS.DEv&path=%2F1bd7yey9071nu9bu%2Fmtuyljy3ljiznc40oq%3D%3D%3Fed%3D2560#🔒smkn-BR-🇧🇷
+vless://267b19e0-8849-41c2-aa3c-50ccd4478b31@199.232.15.239:443?security=tls&sni=FullHD.4K.ELiV2RaY.ai&type=ws&host=fullhd.4k.ELiV2rAY.ai&path=%2FVLESS%3F-ELiV2rAY-ELiV2rAY&fp=edge#🔒smkn-BR-🇧🇷
+vless://fca01448-d84a-436e-9aec-3be1ebdfb350@45.194.53.81:2053?security=tls&sni=SB-1U6.PAgEs.dev&type=ws&path=%2Ffltcxoo6grqvat6v%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#🔒smkn-BR-🇧🇷
+vless://fca01448-d84a-436e-9aec-3be1ebdfb350@45.194.53.81:2083?security=tls&sni=SB-1U6.PAgeS.dEv&type=ws&path=%2Furenftuu3z1kqryb%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#🔒smkn-BR-🇧🇷
+vless://fca01448-d84a-436e-9aec-3be1ebdfb350@45.194.53.81:2096?security=tls&sni=Sb-1U6.paGES.deV&type=ws&path=%2Fs6rb9yyj3qaak606%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#🔒smkn-BR-🇧🇷
