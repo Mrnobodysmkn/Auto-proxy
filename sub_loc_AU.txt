@@ -1,3 +1,6 @@
-trojan://63779501-4c22-4a03-83d3-9f611b227e7b@103.11.214.137:443?security=tls&sni=c1mc.cdncisco4.co&allowInsecure=1&type=tcp#🔒smkn-AU-🇦🇺
 trojan://NISHIKUITAN111@192.65.217.254:443/?type=tcp&security=tls#🔒smkn-AU-🇦🇺
-vless://b64ced11-143e-4ded-a985-a8de25461061@3.27.234.120:51808?type=tcp&encryption=none&security=reality&pbk=XHnwfyEySdx57QT_8P_7vDVFzdLHO4tO9BQOsHxxlEk&fp=firefox&sni=yahoo.com&sid=8810c789eea55c28&spx=/&flow=xtls-rprx-vision#🔒smkn-AU-🇦🇺
+trojan://63779501-4c22-4a03-83d3-9f611b227e7b@103.11.214.214:443?security=tls&sni=c1mc.cdncisco4.co&allowInsecure=1&type=tcp#🔒smkn-AU-🇦🇺
+trojan://NISHIKUITAN111@103.169.142.224:443/?type=ws&host=zb.ylks.xyz&path=%2F&security=tls&sni=zb.ylks.xyz#🔒smkn-AU-🇦🇺
+trojan://NISHIKUITAN111@192.65.217.110:443/?type=tcp&security=tls#🔒smkn-AU-🇦🇺
+vless://aca32055-db88-4634-b623-6429ddbb6c93@54.252.231.115:55292?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=kPx16abMZD2x6dv7NW_hn1HSc2P8RsPptytcCT-neQs&sni=yahoo.com&sid=bd711c02c8dc9955&spx=%2F#🔒smkn-AU-🇦🇺
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVVdYNkNPTFpZbWFIbFVHaUt3RGFO@45.79.238.129:443#🔒smkn-AU-🇦🇺
