@@ -1,9 +1,6 @@
 trojan://Aimer@45.134.21.8:2053/?type=tcp&security=tls&sni=epcch.ambercc.filegear-sg.me#🔒smkn-BG-🇧🇬
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.142.120.15:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org#🔒smkn-BG-🇧🇬
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.142.120.124:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#🔒smkn-BG-🇧🇬
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.142.120.139:443/?type=grpc&encryption=none&security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2#🔒smkn-BG-🇧🇬
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.134.21.8:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#🔒smkn-BG-🇧🇬
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.142.120.214:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F#🌐smkn-BG-🇧🇬
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.117.112.30:8880?encryption=none&security=none&type=ws&host=vms.lifetime11.workers.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FYouTube%40%E5%B0%8F%E9%9D%92%E7%A7%91%E5%AD%A6%E7%BD%91%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-BG-🇧🇬
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@45.142.120.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-BG-🇧🇬
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@89.117.112.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-BG-🇧🇬
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.117.112.253:8880?encryption=none&host=joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK?ed=2560&https://t.me/WangCai2🇨🇳&security=none&type=ws#🌐smkn-BG-🇧🇬
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@147.78.140.168:8880/?type=ws&encryption=none&host=kjgx.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2560#🌐smkn-BG-🇧🇬
+vmess://eyJhZGQiOiAiNDUuMTQyLjEyMC4xMCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJob3N0IjogImFhLnYyamV5LmZ1biIsICJpZCI6ICJhOTE0NGZlYi0wODU3LTQyMDMtODkyZC1mN2FkNTk0MGQzMWYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjIwNTIiLCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1CRy1cdWQ4M2NcdWRkZTdcdWQ4M2NcdWRkZWMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
