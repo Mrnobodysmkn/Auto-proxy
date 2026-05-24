@@ -1,7 +1,10 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@74.49.214.43:443?allowInsecure=1&encryption=none&host=sni.111000.cc.cd&security=tls&sni=sni.111000.cc.cd&type=ws#🔒smkn-HU-🇭🇺
+vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@162.159.45.153:443?allowInsecure=1&encryption=none&host=powered-by-surena.user68f797c2f3e1b.workers.dev&path=%2F&security=tls&sni=powered-by-surena.user68f797c2f3e1b.workers.dev&type=ws#🔒smkn-HU-🇭🇺
 vless://292e75fc-5a8a-40c4-b937-407c2400a42e@217.13.104.101:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#🔒smkn-HU-🇭🇺
-trojan://auto@162.159.44.154:443/?type=tcp&security=tls&sni=trojanfree-76s.pages.dev#🔒smkn-HU-🇭🇺
+vless://193a9af6-5202-429c-b0c9-50637db37888@162.159.44.250:443/?type=ws&encryption=none&host=cr492k.alligator27.com&path=%2Fwss&security=tls&sni=cr492k.alligator27.com&alpn=http%2F1.1#🔒smkn-HU-🇭🇺
 vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh23v5.hiddendom.shop&alpn=h2#🔒smkn-HU-🇭🇺
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.203.238:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.jpmj.dev&path=%2F&security=tls&sni=sni.jpmj.dev&type=ws#🔒smkn-HU-🇭🇺
-trojan://Aimer@162.159.44.229:8443/?type=tcp&security=tls&sni=epmf.ambercc.filegear-sg.me#🔒smkn-HU-🇭🇺
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@74.49.214.168:8880/?type=ws&encryption=none&host=kjgx.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2560#🌐smkn-HU-🇭🇺
+vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@162.159.44.142:443/?type=ws&encryption=none&flow=&host=l.ayovo.netlib.re&path=%2F%3Fed%3D2560&security=tls&sni=l.ayovo.netlib.re&fp=chrome#🔒smkn-HU-🇭🇺
+trojan://Aimer@162.159.44.127:443/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#🔒smkn-HU-🇭🇺
+trojan://Aimer@162.159.45.156:8443/?type=tcp&security=tls&sni=agepu.ambercc.filegear-sg.me#🔒smkn-HU-🇭🇺
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:443?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#🔒smkn-HU-🇭🇺
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@74.49.214.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-HU-🇭🇺
+ss://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.38.62:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#🌐smkn-HU-🇭🇺
