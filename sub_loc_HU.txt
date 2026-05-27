@@ -1,5 +1,7 @@
-trojan://Aimer@162.159.38.105:2083/?type=tcp&security=tls&sni=ngepz.ambercc.filegear-sg.me#🔒smkn-HU-🇭🇺
-vless://cc6b985d-0362-4129-8763-38564174fb3e@141.11.203.171:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=iryiccyne.wwtraveler.com&alpn=http%2F1.1%2Ch2&fp=chrome#🔒smkn-HU-🇭🇺
-trojan://1111@162.159.38.20:8443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.ratali7583.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.ratali7583.workers.dev#🔒smkn-HU-🇭🇺
-vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@162.159.38.129:443?encryption=none&host=leecher56.matinheydri.workers.dev&path=%2F%3Fed%253D2048&security=none&type=ws#🔒smkn-HU-🇭🇺
-vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@162.159.38.129:80?encryption=none&host=leecher56.matinheydri.workers.dev&path=%2F%3Fed%253D2048&security=none&type=ws#🌐smkn-HU-🇭🇺
+vless://cc6b985d-0362-4129-8763-38564174fb3e@141.11.203.254:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=iryiccyne.wwtraveler.com&alpn=http%2F1.1%2Ch2&fp=chrome#🔒smkn-HU-🇭🇺
+trojan://Aimer@162.159.44.82:443/?type=tcp&security=tls&sni=ngepz.ambercc.filegear-sg.me#🔒smkn-HU-🇭🇺
+trojan://auto@162.159.44.83:443?security=tls&sni=trojanmz.pages.dev&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#🔒smkn-HU-🇭🇺
+vless://193a9af6-5202-429c-b0c9-50637db37888@162.159.44.250:443/?type=ws&encryption=none&host=cr492k.alligator27.com&path=%2Fwss&security=tls&sni=cr492k.alligator27.com&alpn=http%2F1.1#🔒smkn-HU-🇭🇺
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.45.207:443?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#🔒smkn-HU-🇭🇺
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@141.11.203.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-HU-🇭🇺
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.45.207:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=none&host=vip.yaml7.ggff.net&path=/&security=none&type=ws#🌐smkn-HU-🇭🇺
