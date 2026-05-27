@@ -1,4 +1,7 @@
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@38.54.107.227:443?type=ws&host=3-2h8.pages.dev&path=/security=tls#🔒smkn-TW-🇹🇼
-vless://26524cce-d514-4014-a426-365fb266a14d@140.235.39.192:443?allowInsecure=0&sni=qznql.node-proxy.chinat.indevs.in&type=ws&host=qznql.node-proxy.chinat.indevs.in&path=/danfeng?ed=2560fp=firefox&security=tls#🔒smkn-TW-🇹🇼
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@211.20.245.139:8443/?type=tcp&security=tls&sni=official.taipeicitygovernment.com.ua&allowInsecure=1&fp=chrome#🔒smkn-TW-🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@118.163.200.40:2377#🌐smkn-TW-🇹🇼
+vless://1c731995-761b-41b3-96d1-5ef5734ad909@125.228.236.138:443?security=tls&type=ws&host=et.seaspirit.dpdns.org&fp=chrome&sni=et.seaspirit.dpdns.org&path=%2F&encryption=none#🔒smkn-TW-🇹🇼
+vless://26524cce-d514-4014-a426-365fb266a14d@60.251.232.240:995?allowInsecure=0&sni=t39sed.gateway-api.sh21.eu.org&type=ws&host=t39sed.gateway-api.sh21.eu.org&path=/danfeng?ed=2560fp=firefox&security=tls#🔒smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@61.216.165.233:2377?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3D%28TG%20%40WangCai2%29aee97b7%3A155033#🔒smkn-TW-🇹🇼
+trojan://0df905b2-a67d-48b4-b43b-894a52e0aaee@165.154.227.234:443?allowInsecure=1&sni=data.amazon-azure.com#🔒smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.28.59:2377#🌐smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@125.227.86.44:2377#🌐smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.59:2377#🌐smkn-TW-🇹🇼
