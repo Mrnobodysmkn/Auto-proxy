@@ -1,3 +1,8 @@
-trojan://auto@162.159.44.194:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒smkn-HU-🇭🇺
-trojan://auto@162.159.44.205:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#🔒smkn-HU-🇭🇺
-trojan://NISHIKUITAN222@162.159.45.133:443#🔒smkn-HU-🇭🇺
+vless://e0ab2cd6-5cb0-4345-a325-737c87e23a97@162.159.38.253:443?security=tls&sni=oMxlBNhiUa.divar-online-ads.com&type=ws&host=oMxlBNhiUa.divar-online-ads.com&path=%2Fcontent%3Fed%3D512&fp=firefox&allowInsecure=1#🔒smkn-HU-🇭🇺
+vless://c9b0932d-8d1c-43c5-b64b-e9a74719c76d@162.159.44.153:443?security=tls&sni=forreest.info&type=ws&host=forreest.info&path=%2Fhsdgsws&fp=chrome&alpn=http%2F1.1&allowInsecure=1#🔒smkn-HU-🇭🇺
+ss://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?security=tls&%3Bsni=pqh23v5.hiddendom.shop&%3Balpn=h2&%3Btype=grpc&%3Bencryption=none#🔒smkn-HU-🇭🇺
+trojan://auto@162.159.44.83:443/?type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560&security=tls&sni=trojanmz.pages.dev#🔒smkn-HU-🇭🇺
+ss://71ed6628-5870-4d19-8a52-f2a3ba3d4898@141.11.202.144:8443?security=tls&sni=va.zhuk.us.kg&type=ws&host=va.zhuk.us.kg&path=%2F%3Fed%3D2560#🔒smkn-HU-🇭🇺
+vless://12345678-1234-1234-1234-123456789123@141.11.202.61:2096?type=ws&security=tls&encryption=none&sni=vless.hubp.de&path=%2Fsnippets&host=vless.hubp.de&ed=2560&eh=Sec-WebSocket-Protocol#🔒smkn-HU-🇭🇺
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.11.202.213:8880?type=ws&host=jp.laoyoutiao.link#🌐smkn-HU-🇭🇺
+vmess://eyJhZGQiOiAiMTYyLjE1OS40NS4xMjQiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiZTQuNjkyOTE5OC54eXoiLCAiaWQiOiAiNWYzZjA5YWQtODljYi00ZTk0LWE3YWQtYWE4MjM5OTEzNTU1IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgInBvcnQiOiAiMjA4MiIsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUhVLVx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmYSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
