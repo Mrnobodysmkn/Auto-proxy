@@ -1,7 +1,7 @@
-trojan://humanity@185.18.250.252:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&fp=chrome#🔒smkn-ES-🇪🇸
-trojan://1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@185.18.250.117:443?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=tls&encryption=none&host=xn----pmcnaac0dkn0rb71nda.pages.dev&type=ws&sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev#🔒smkn-ES-🇪🇸
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.35.199:443?security=tls&sni=Sanjeshp.Ir&encryption=none@ShadowsocksM46&type=ws&host=Sanjeshp.Ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒smkn-ES-🇪🇸
-trojan://trojan@109.234.211.66:8443/?type=ws&host=store.timimi.dpdns.org&path=%2F&security=tls&sni=store.timimi.dpdns.org#🔒smkn-ES-🇪🇸
-vless://2ee26119-94e5-40b4-ba3a-16354021b600@185.18.250.127:2096?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2Fgraphql&amp;host=69565ce3109804e7813f98ee.mmdbay.blog&amp;sni=69565ce3109804e7813f98ee.mmdbay.blog&amp;alpn=h2%2Chttp%2F1.1&amp;fp=chrome&amp;allowInsecure=0#🔒smkn-ES-🇪🇸
-vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080/?type=xhttp&encryption=none#🌐smkn-ES-🇪🇸
-vmess://eyJhZGQiOiAiMTg1LjE4LjI1MC43MCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiYjNhMjFkZWYtNWZjYy00N2E4LWE2YTAtYTM0ZTI5ZDUyODhhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi93c3M1MTA2OCIsICJwb3J0IjogNDQzLCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1FUy1cdWQ4M2NcdWRkZWFcdWQ4M2NcdWRkZjgiLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8ifQ==
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.32.247:443?allowInsecure=1&sni=Sanjeshp.Ir&alpn=h2,http/1.1&type=ws&host=Sanjeshp.Ir&path=/H?ed=2560fp=randomized&security=tls#🔒smkn-ES-🇪🇸
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.18.250.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&path=%2F&security=tls&sni=sni.jpmj.dev&type=ws#🔒smkn-ES-🇪🇸
+ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@5.188.181.201:9030#🌐smkn-ES-🇪🇸
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.18.250.12:80?security=none&type=ws&host=ana-SErVICe.xAbjCDZ.wORkErs.deV&path=%2F1Y6MN5DFV8zB82Ai%3Fed%3D2560#🌐smkn-ES-🇪🇸
+ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037#🌐smkn-ES-🇪🇸
+ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#🌐smkn-ES-🇪🇸
+ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@5.188.181.201:9042#🌐smkn-ES-🇪🇸

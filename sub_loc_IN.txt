@@ -1,3 +1,8 @@
-trojan://ttfang@20.235.105.146:443/?type=ws&path=%2F&security=tls&sni=ttfang.fange.me#🔒smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.239:8443/?type=tcp&security=tls&sni=epccd.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
-vmess://eyJhZGQiOiAiMTUyLjY3LjguMjA1IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICI5ZGI0YzcwOC1hZWY4LTQzNTktODIxYi0zOGU0Nzk5MGJlMGQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjgwIiwgInBzIjogIlx1ZDgzY1x1ZGYxMHNta24tSU4tXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIiwgInNjeSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiJ9
+vless://4959177b-62d7-4d1b-b6a3-eed72c0609c5@144.24.127.7:443?security=tls&flow=xtls-rprx-vision&sni=www.0wolf.com&type=tcp&fp=chrome#🔒smkn-IN-🇮🇳
+trojan://5a2c16f9@98.70.26.236:443?path=Telegram%40V2rayAlpha&security=tls&insecure=1&host=snippets.kkii.eu.org&type=ws&allowInsecure=1&sni=snippets.kkii.eu.org#🔒smkn-IN-🇮🇳
+vless://1f431db3-1918-4e7b-a855-c93485e11694@108.165.152.82:443?path=/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=pari.parinazz.dpdns.org&fp=chrome&type=ws&sni=pari.parinazz.dpdns.org#🔒smkn-IN-🇮🇳
+vless://1834316d-2b59-4239-970d-c764218bcdf2@144.24.97.225:443?security=reality&encryption=none&pbk=h6jFhmMYpmiEmm4sxrBLBSxtgsdM5k5EUvrv1bKNFGU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=osxapps.itunes.apple.com&sid=8894620bd4b91f71#🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.249:2087/?type=tcp&security=tls&sni=epccz.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.82:8443/?type=tcp&security=tls&sni=epcch.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
+trojan://8r%3C%5B9%27l6hAO%238ZQi@108.165.152.253:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram#🔒smkn-IN-🇮🇳
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@108.165.152.30:8880?type=ws&host=vms.lifetime61.workers.dev#🌐smkn-IN-🇮🇳
