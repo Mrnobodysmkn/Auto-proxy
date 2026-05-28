@@ -1,4 +1,9 @@
-vless://3495557c-8550-429f-83b6-a47d63a1ecfd@46.249.109.128:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=q42m1wg11kZLyRtjaKus8T-NNl1vriRG3V1eVTL6ICc&sid=044ed87c34d6&sni=www.foxsports.com#🔒smkn-TW-🇹🇼
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@60.249.21.29:443?sni=gogo4.kmj.qzz.io&type=ws&host=gogo4.kmj.qzz.io&path=/fp=chrome&security=tls#🔒smkn-TW-🇹🇼
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.248.240.223:8443/?type=tcp&security=tls&sni=official.taipeicitygovernment.cn.ua&allowInsecure=1&fp=chrome#🔒smkn-TW-🇹🇼
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@59.125.131.163:8443/?type=tcp&security=tls&sni=official.taipeicitygovernment.cn.ua&allowInsecure=1&fp=chrome#🔒smkn-TW-🇹🇼
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.250.152.209:8443/?type=tcp&security=tls&sni=official.taipeicitygovernment.net.ua&allowInsecure=1&fp=chrome#🔒smkn-TW-🇹🇼
+vless://26524cce-d514-4014-a426-365fb266a14d@140.235.39.161:8443?allowInsecure=0&sni=t39sed.gateway-api.sh21.eu.org&type=ws&host=t39sed.gateway-api.sh21.eu.org&path=/danfeng?ed=2560fp=firefox&security=tls#🔒smkn-TW-🇹🇼
 trojan://0df905b2-a67d-48b4-b43b-894a52e0aaee@165.154.227.234:443?allowInsecure=1&sni=data.amazon-azure.com#🔒smkn-TW-🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@111.248.88.150:50099#🌐smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.28.138:2377#🌐smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@125.227.86.46:2377#🌐smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.2:2377#🌐smkn-TW-🇹🇼
