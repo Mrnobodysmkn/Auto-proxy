@@ -1,13 +1,4 @@
-vless://8f0c1a18-be77-49de-9aca-8b649efb8710@31.59.39.85:443?encryption=none&fp=&pbk=2nKanJImME7wWPXjX-O8gJqlpn5udynqp0W6Ns_jm0w&security=reality&sid=01&sni=google.com&type=grpc#🔒smkn-AE-🇦🇪
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.185:443?path=%2Ftg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#🔒smkn-AE-🇦🇪
-vless://7a685dc5-f93c-4e19-8b9b-b77998feb042@31.59.39.192:443?allowInsecure=1&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&sni=www.amd.com&type=tcp#🔒smkn-AE-🇦🇪
-vless://3be1535c-bfb4-4ef3-bedb-f4ecdaac7c5e@185.215.234.13:8443?encryption=none&security=tls&sni=cloud.farsonline24.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=cloud.farsonline24.ir&path=/mehdi#🔒smkn-AE-🇦🇪
-vless://3be1535c-bfb4-4ef3-bedb-f4ecdaac7c5e@185.215.234.28:8443?encryption=none&security=tls&sni=cloud.farsonline24.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=cloud.farsonline24.ir&path=/mehdi#🔒smkn-AE-🇦🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.112.5.55:443#🔒smkn-AE-🇦🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990#🌐smkn-AE-🇦🇪
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@77.232.140.20:8880/?type=ws&encryption=none&host=us.laoyoutiao.link&path=%2FTelegramU0001F1E8U0001F1F3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#🌐smkn-AE-🇦🇪
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@94.140.0.63:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560fp%3Dchrome#🌐smkn-AE-🇦🇪
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.140.0.40:8880?&type=ws&headerType=none&host=vms.lifetime26.workers.dev&path=%2F%3Fhttps%3A%2F%2Ft.me%2FYouTube%40%E5%B0%8F%E9%9D%92%E7%A7%91%E5%AD%A6%E7%BD%91%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-AE-🇦🇪
-trojan://XDWhVpqFE1@31.59.39.192:8443?path=%2Fwsamd&security=none&host=www.amd.com&type=ws#🌐smkn-AE-🇦🇪
-vless://d89f2050-9fbb-4719-9da6-99d47fac9e99@185.215.235.12:2082/?type=ws&encryption=none&path=/&host=getd.restaurantstudio.ir&security=none#🌐smkn-AE-🇦🇪
-vmess://eyJhZGQiOiAiOTQuMTQwLjAuMTEwIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiZm9vZC56aGFhbC5pciIsICJpZCI6ICIwZDFiZjI2YS1jZTk3LTQ3MDctYTI3MC03ZjRkMmFlMzczMzQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjg4ODAiLCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1BRS1cdWQ4M2NcdWRkZTZcdWQ4M2NcdWRkZWEiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.232.140.43:443?&security=tls&sni=sni.111000.cc.cd&type=ws&headerType=none&host=sni.111000.cc.cd&path=%2F#🔒smkn-AE-🇦🇪
+vless://3be1535c-bfb4-4ef3-bedb-f4ecdaac7c5e@185.215.234.21:8443?encryption=none&security=tls&sni=cloud.farsonline24.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=cloud.farsonline24.ir&path=/mehdi#🔒smkn-AE-🇦🇪
+vless://f67026e5-dc81-4c45-9fd7-b45e403dfe8c@138.128.224.106:2086?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=mlkem768x25519plus.native.0rtt.IZeAxgKCYRVEhwOc_Q4qC4vyu7tM7ZE_6Q1C-y4R6wM&type=ws&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN&host=miti.dev#🌐smkn-AE-🇦🇪
+vless://feff6019-7421-4e96-aaf8-a1a60ff3e03e@181.214.100.178:8440?mode=auto&path=%2FSoon&security=none&encryption=none&host=divar.Ir&type=xhttp#🌐smkn-AE-🇦🇪
