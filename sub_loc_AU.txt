@@ -1,5 +1,2 @@
-trojan://NISHIKUITAN111@103.169.142.224:443/?type=ws&host=zb.ylks.xyz&path=%2F&security=tls&sni=zb.ylks.xyz#🔒smkn-AU-🇦🇺
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@192.65.217.57:443?path=tg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#🔒smkn-AU-🇦🇺
-trojan://61605c66-6d41-4b9d-a496-b9898f3f95d0@103.224.212.211:443/?type=tcp&security=tls&sni=jp-h1.sshub.xyz&allowInsecure=1&fp=chrome#🔒smkn-AU-🇦🇺
-vless://30ac5a8b-5022-43c0-b0c2-11b9a98a986e@3.106.54.135:57001?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=aSK0B0bgRalAWw_5d7buTjy4dYLF2WGTZhUojypI618&sni=yahoo.com&sid=b2dd66706eb2#🔒smkn-AU-🇦🇺
-vless://c42b435d-e1d2-45ba-85bc-2f3c080ce826@13.239.112.139:42376?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=5x6nErZvJp6uFYQ4VkOZSrnz4FWNRvYJqTfimjuBOCw&sid=be125600cea6&spx=/&type=tcp&headerType=none#🔒smkn-AU-🇦🇺
+trojan://NISHIKUITAN111@192.65.217.254:443/?type=tcp&security=tls#🔒smkn-AU-🇦🇺
+vless://12345678-1234-1234-1234-123456789123@192.65.217.61:2096?encryption=none&security=tls&sni=vless.hubp.de&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vless.hubp.de&path=%2Fsnippets#🔒smkn-AU-🇦🇺

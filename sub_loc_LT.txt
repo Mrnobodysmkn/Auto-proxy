@@ -1,1 +1,2 @@
-vless://10e82fcc-94ec-4d09-8855-579bb55b77e4@46.29.234.9:8443?allowInsecure=0&sni=eh.vk.com&type=grpc&serviceName=xyz&fp=chrome&security=tls#🔒smkn-LT-🇱🇹
+vless://626a9750-0de3-4762-b040-7149f72e422f@2.57.91.92:443?type=tcp&security=none&headerType=http&path=/&host=#🔒smkn-LT-🇱🇹
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.250.40:8880?allowInsecure=0&type=ws&host=vms.lifetime10.workers.dev&path=/?ed#🌐smkn-LT-🇱🇹
