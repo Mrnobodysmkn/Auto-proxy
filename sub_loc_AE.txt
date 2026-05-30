@@ -1,2 +1,6 @@
-vless://40d7798a-6c76-4298-a9d4-9e6181cd2dd7@31.58.181.111:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.cybo.com#🔒smkn-AE-🇦🇪
-vless://d89f2050-9fbb-4719-9da6-99d47fac9e99@185.215.235.12:2082/?type=ws&encryption=none&path=/&host=getd.restaurantstudio.ir&security=none#🌐smkn-AE-🇦🇪
+vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@45.86.228.241:443?security=tls&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&type=tcp&fp=random&allowInsecure=0#🔒smkn-AE-🇦🇪
+vless://3be1535c-bfb4-4ef3-bedb-f4ecdaac7c5e@185.215.234.19:8443?encryption=none&security=tls&sni=cloud.farsonline24.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=cloud.farsonline24.ir&path=/mehdi#🔒smkn-AE-🇦🇪
+vless://2367e117-0d3e-4b8c-9fd6-0abceb115933@87.248.129.226:443?security=none&encryption=none&host=www.varzesh3.com&headerType=http&type=tcp#🔒smkn-AE-🇦🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.112.5.55:443#🔒smkn-AE-🇦🇪
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@94.140.0.156:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=kjgx.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-AE-🇦🇪
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@94.140.0.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-AE-🇦🇪
