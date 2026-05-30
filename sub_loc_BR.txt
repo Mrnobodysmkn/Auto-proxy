@@ -1,3 +1,4 @@
-trojan://trojan@185.133.35.46:443?security=tls&sni=test-a23.pages.dev&type=ws&host=test-a23.pages.dev&path=%2FTelegram-%40proxy_mtm%2F%3Fed%3D2560&fp=chrome&alpn=h2,http/1.1#🔒smkn-BR-🇧🇷
-vless://263497fb-9ae2-4f7b-94c6-b0179e480448@199.232.15.225:443/?type=ws&encryption=none&host=azadnet.ir&path=%2FYFeRT11KL9V669C0%3Fed%3D2560&security=tls&sni=www.speedtest.net&alpn=h2%2Chttp%2F1.1&fp=randomized#🔒smkn-BR-🇧🇷
-vmess://eyJhZGQiOiAiMTcyLjIzMy4xNy43NiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIyMjMyNCIsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUJSLVx1ZDgzY1x1ZGRlN1x1ZDgzY1x1ZGRmNyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.133.35.144:443?security=tls&sni=lx.ylks01.eu.org&type=ws&host=lx.ylks01.eu.org&path=%2Fblue#🔒smkn-BR-🇧🇷
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.12.41:443?security=tls&sni=mefa.ir&type=ws&host=mefa.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒smkn-BR-🇧🇷
+trojan://bpb-trojan@45.194.53.231:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#🔒smkn-BR-🇧🇷
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.133.35.30:8880?type=ws&host=vms.lifetime48.workers.dev#🌐smkn-BR-🇧🇷
