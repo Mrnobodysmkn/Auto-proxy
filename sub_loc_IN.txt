@@ -1,6 +1,6 @@
-vless://5e1083b9-4d4f-50ef-93e7-6e966dfce1f9@45.89.106.4:443?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw&sni=microsoft.com&sid=972e3378#🔒smkn-IN-🇮🇳
-vless://1834316d-2b59-4239-970d-c764218bcdf2@144.24.97.225:443?security=reality&encryption=none&pbk=h6jFhmMYpmiEmm4sxrBLBSxtgsdM5k5EUvrv1bKNFGU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=osxapps.itunes.apple.com&sid=8894620bd4b91f71#🔒smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.78:2083/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org#🔒smkn-IN-🇮🇳
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.227.174.213:2053?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/?ed=2560&Telegram+@WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🔒smkn-IN-🇮🇳
-trojan://5a2c16f9@98.70.26.236:443?path=Telegram%40V2rayAlpha&security=tls&insecure=1&host=snippets.kkii.eu.org&type=ws&allowInsecure=1&sni=snippets.kkii.eu.org#🔒smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.65:8443/?type=tcp&security=tls&sni=ngepy.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.219:443/?type=tcp&security=tls&sni=agepj.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@43.205.45.56:443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=random&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#🔒smkn-IN-🇮🇳
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.198.173.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.1:2087/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#🌐smkn-IN-🇮🇳
+vmess://eyJhZGQiOiAiMTUyLjY3LjguMjA1IiwgImFpZCI6ICIwIiwgImFscG4iOiBudWxsLCAiZnAiOiBudWxsLCAiaG9zdCI6ICIiLCAiaWQiOiAiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwgIm5hbWUiOiAiXHVkODNjXHVkZGVlXHVkODNjXHVkZGYzIElOIDYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogODAsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUlOLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmMyIsICJzY3kiOiBudWxsLCAic25pIjogbnVsbCwgInRscyI6ICIiLCAidHlwZSI6IG51bGwsICJ2IjogbnVsbH0=
