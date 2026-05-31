@@ -1,5 +1,10 @@
-vless://12f34fc2-b3f6-4422-a44d-37adcadca8f3@188.164.159.178:2053?security=tls&sni=flnewconect3.fragmentscan.xyz&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒smkn-AM-🇦🇲
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.164.158.138:2096?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#🔒smkn-AM-🇦🇲
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.180:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2FTelegramU0001F1E8U0001F1F3#🌐smkn-AM-🇦🇲
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.111:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2FTelegramU0001F1E8U0001F1F3#🌐smkn-AM-🇦🇲
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.143:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F#🌐smkn-AM-🇦🇲
+trojan://Mitivpn@5.10.214.53:443?path=%2F%3Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=1&host=dash.hitgram.ir&fp=chrome&type=ws&allowInsecure=1&sni=dash.hitgram.ir#🔒smkn-AM-🇦🇲
+ss://c3422602-44e0-4b53-9f23-1beb3985741e@5.10.214.53:2053?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F&amp;host=dashboard.ir-sub.ir&amp;sni=dashboard.ir-sub.ir&amp;fp=chrome&amp;allowInsecure=1#🔒smkn-AM-🇦🇲
+trojan://ttfang@5.10.215.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram&Host=ttfang.fange.me#🔒smkn-AM-🇦🇲
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.103:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F#🌐smkn-AM-🇦🇲
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.143:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2FTelegramU0001F1E8U0001F1F3#🌐smkn-AM-🇦🇲
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.138:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🌐smkn-AM-🇦🇲
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.45:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2FTelegramU0001F1E8U0001F1F3#🌐smkn-AM-🇦🇲
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@5.10.215.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-AM-🇦🇲
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.119:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F#🌐smkn-AM-🇦🇲
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@188.164.158.168:8880/?type=ws&encryption=none&host=kjgx.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2560#🌐smkn-AM-🇦🇲
