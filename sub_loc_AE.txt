@@ -1,1 +1,6 @@
-trojan://Aimer@77.232.140.114:2053/?type=tcp&security=tls&sni=ngep.ambercc.filegear-sg.me&allowInsecure=1#🔒smkn-AE-🇦🇪
+vless://5b6be23b-dff4-428f-8a60-4f11568abe12@185.225.195.72:443?encryption=none&security=tls&sni=sync.amordad.xyz&type=ws&host=sync.amordad.xyz&path=/api/v1/stream#🔒smkn-AE-🇦🇪
+trojan://Aimer@77.232.140.101:2053/?type=tcp&security=tls&sni=ngepy.ambercc.filegear-sg.me#🔒smkn-AE-🇦🇪
+vless://08173626-c929-4e02-8b88-4cbc065de79b@185.215.234.175:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=cyrus.frtshop.ir&path=/ed=2080&security=tls&sni=cyrus.frtshop.ir&type=ws#🔒smkn-AE-🇦🇪
+vless://eb5f5964-1b12-457b-b8a6-bca5332e0494@138.128.224.100:443/?type=ws&encryption=none&host=s6.design-mobo.ir&path=%2Ftelegram-mitivpn&security=tls&sni=s6.design-mobo.ir&fp=chrome#🔒smkn-AE-🇦🇪
+vless://3be1535c-bfb4-4ef3-bedb-f4ecdaac7c5e@185.215.234.20:8443?encryption=none&security=tls&sni=cloud.farsonline24.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=cloud.farsonline24.ir&path=/mehdi#🔒smkn-AE-🇦🇪
+ss://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?security=&amp;type=ws&amp;path=/telegram-mitivpn&amp;host=iriknet.ir&amp;encryption=none#🌐smkn-AE-🇦🇪
