@@ -1,6 +1,7 @@
-vless://7a685dc5-f93c-4e19-8b9b-b77998feb042@31.59.39.192:443?allowInsecure=1&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&sni=www.amd.com&type=tcp#🔒smkn-AE-🇦🇪
-vless://5b6be23b-dff4-428f-8a60-4f11568abe12@185.225.195.72:443?encryption=none&security=tls&sni=sync.amordad.xyz&type=ws&host=sync.amordad.xyz&path=/api/v1/stream#🔒smkn-AE-🇦🇪
-vless://3be1535c-bfb4-4ef3-bedb-f4ecdaac7c5e@185.215.234.28:8443?encryption=none&security=tls&sni=cloud.farsonline24.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=cloud.farsonline24.ir&path=/mehdi#🔒smkn-AE-🇦🇪
-vless://3be1535c-bfb4-4ef3-bedb-f4ecdaac7c5e@185.215.234.17:8443?encryption=none&security=tls&sni=cloud.farsonline24.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=cloud.farsonline24.ir&path=/mehdi#🔒smkn-AE-🇦🇪
-trojan://XDWhVpqFE1@31.59.39.192:8443?path=%2Fwsamd&security=none&host=www.amd.com&type=ws#🌐smkn-AE-🇦🇪
-vmess://eyJhZGQiOiAiOTQuMTQwLjAuMTEwIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiZm9vZC56aGFhbC5pciIsICJpZCI6ICIwZDFiZjI2YS1jZTk3LTQ3MDctYTI3MC03ZjRkMmFlMzczMzQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjg4ODAiLCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1BRS1cdWQ4M2NcdWRkZTZcdWQ4M2NcdWRkZWEiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+trojan://Aimer@77.232.140.114:2053/?type=tcp&security=tls&sni=ngep.ambercc.filegear-sg.me&allowInsecure=1#🔒smkn-AE-🇦🇪
+vless://a07827b5-4b27-4910-8333-f78949562fc9@138.128.225.100:443/?type=ws&encryption=none&security=tls&sni=design-mobo.ir&alpn=h2%2Chttp%2F1.1&fp=chrome#🔒smkn-AE-🇦🇪
+vless://eb5f5964-1b12-457b-b8a6-bca5332e0494@138.128.224.100:443/?type=ws&encryption=none&host=s6.design-mobo.ir&path=%2Ftelegram-mitivpn&security=tls&sni=s6.design-mobo.ir&fp=chrome#🔒smkn-AE-🇦🇪
+vless://3be1535c-bfb4-4ef3-bedb-f4ecdaac7c5e@185.215.234.21:8443?encryption=none&security=tls&sni=cloud.farsonline24.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=cloud.farsonline24.ir&path=/mehdi#🔒smkn-AE-🇦🇪
+ss://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?security=&amp;type=ws&amp;path=/telegram-mitivpn&amp;host=iriknet.ir&amp;encryption=none#🌐smkn-AE-🇦🇪
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@94.140.0.109:8880/?type=ws&encryption=none&host=VngSuPpLY.IP-DdnS.com&path=%2F#🌐smkn-AE-🇦🇪
+vless://97ff4d1e-a99d-4c62-8457-98e5416d9f49@185.215.235.59:80?path=%2F&security=none&encryption=none&host=s2.ay9.ir&type=ws#🌐smkn-AE-🇦🇪
