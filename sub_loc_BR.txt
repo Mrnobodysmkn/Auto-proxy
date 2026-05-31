@@ -1,3 +1,7 @@
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.133.35.254:443/?type=ws&security=tls&sni=icecream.955850.xyz#🔒smkn-BR-🇧🇷
-vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.238:443/?type=ws&encryption=none&path=%2F%3Fed&security=tls&sni=cl.bgm2024.dpdns.org#🔒smkn-BR-🇧🇷
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.133.35.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560fp%3Dchrome#🌐smkn-BR-🇧🇷
+trojan://bpb-trojan@45.194.53.231:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#🔒smkn-BR-🇧🇷
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@185.133.35.115:443?security=tls&sni=ap.ylks.xyz&type=ws&host=ap.ylks.xyz&path=%2Fblue#🔒smkn-BR-🇧🇷
+vless://cc6b985d-0362-4129-8763-38564174fb3e@45.194.53.216:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=iryiccyne.wwtraveler.com&alpn=http%2F1.1%2Ch2&fp=chrome#🔒smkn-BR-🇧🇷
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.194.53.63:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-BR-🇧🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOVmN3OU9UR3dtVGhXbWhzMXVoN3JySUpjVno3bG45NmlmWVppdjR6c1d2VG9Uamc@109.104.155.45:41348#🌐smkn-BR-🇧🇷
+vmess://eyJhZGQiOiAiMTcyLjIzMy4xOS4xNDMiLCAiYWlkIjogMSwgImhvc3QiOiAiMTcyLjIzMy4xOS4xNDMiLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzY1x1ZGYxMHNta24tQlItXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3IiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIn0=
+vmess://eyJhZGQiOiAiMTg1LjEzMy4zNS4xNzgiLCAiYWlkIjogMCwgImhvc3QiOiAiZTEzMDkxN2MtMWI1OC00MTM2LWIyZDktNzZkYzkyMGUwYWRkLmFkZDk3ZWU4LTBmMTQtNDhhMy1iMmNkLTk3OWM1Njc0MmU2NC5sb3NleW91cmlwLmNvbSIsICJpZCI6ICIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogNDQzLCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1CUi1cdWQ4M2NcdWRkZTdcdWQ4M2NcdWRkZjciLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8ifQ==
