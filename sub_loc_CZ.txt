@@ -1,3 +1,8 @@
-vless://31aac68e-8e74-47e9-9217-0ea77a48d8a1@195.123.244.86:443?encryption=none&security=reality&sni=www.google.com&fp=random&pbk=0RgLpbNFUMQGoNVx8HSV4bmtIvayQFL0HfV9fdCsBks&sid=11&spx=%2F&type=xhttp&path=%2F&mode=auto#🔒smkn-CZ-🇨🇿
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.23.30:8880?&type=ws&headerType=none&host=vms.lifetime57.workers.dev&path=%2F#🌐smkn-CZ-🇨🇿
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@14.102.228.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F#🌐smkn-CZ-🇨🇿
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@195.85.23.54:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#🔒smkn-CZ-🇨🇿
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.191:443?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=%2F&security=tls&sni=sni.my111000.tech&type=ws#🔒smkn-CZ-🇨🇿
+trojan://a7a0a5e774704906818422150550c1b4@45.15.162.213:9443?security=reality&sni=apple.com&pbk=k9pQX_xPr03Jvy3pFRWhxMFvsX8QffPS2yJh7BFB0jA&sid=aabbccdd&type=tcp&fp=chrome#🔒smkn-CZ-🇨🇿
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@14.102.229.66:2087?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/security%3Dtls#🔒smkn-CZ-🇨🇿
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.238:2096/?type=ws&encryption=none&host=sni.jpmj.dev&path=%2F&security=tls&sni=sni.jpmj.dev#🔒smkn-CZ-🇨🇿
+vless://fc0bdb3b-c61f-4e91-8eb7-9d2a9993fe03@195.85.23.82:2087?path=/@v2raydia--@v2raydia--@v2raydia--@v2raydia--@v2raydia--@v2raydia--@v2raydia--@v2raydia--@v2raydia--@v2raydia&security=tls&encryption=none&insecure=0&host=pOn.cCnnX.IR&fp=chrome&type=ws&allowInsecure=0&sni=pOn.cCnnX.IR#🔒smkn-CZ-🇨🇿
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#🔒smkn-CZ-🇨🇿
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@195.85.23.20:8880?encryption=none&security=none&type=ws&host=us.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#🌐smkn-CZ-🇨🇿
