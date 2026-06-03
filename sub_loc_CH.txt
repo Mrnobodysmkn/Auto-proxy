@@ -1,3 +1,2 @@
-vless://8007e155-622e-4c9d-8a6e-67f49b4678f4@84.234.16.169:443?&security=tls&sni=edt2-lgy.pages.dev&type=ws&headerType=none&host=edt2-lgy.pages.dev&path=/#🔒smkn-CH-🇨🇭
-vless://c7ba57bf-0418-4b66-89bb-d320b5cdd8e5@5.182.36.90:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Z--Ieq3GtHx_Qtqj3NUyK5wY2foVBtlOkyzXqESeswU&security=reality&sid=0c80cc39&sni=store.steampowered.com&type=tcp#🔒smkn-CH-🇨🇭
-ss://301d514e-4aa0-47b0-ba44-a0cb891cd52f@45.85.93.51:443?security=reality&encryption=none&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=www.samsung.com&sid=a1b2c3d4#🔒smkn-CH-🇨🇭
+vless://139c5675-1588-4f8c-b88c-ad2ac103314a@204.11.2.254:443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=random&security=tls&sni=&type=tcp#🔒smkn-CH-🇨🇭
+vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@193.151.108.76:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.google.com&type=tcp#🔒smkn-CH-🇨🇭
