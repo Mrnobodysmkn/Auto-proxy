@@ -1,7 +1,5 @@
-trojan://Aimer@77.232.140.101:2053/?type=tcp&security=tls&sni=ngepy.ambercc.filegear-sg.me#🔒smkn-AE-🇦🇪
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.140.0.157:443?encryption=none&security=tls&type=ws&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#🔒smkn-AE-🇦🇪
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@45.86.228.241:443?security=tls&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&type=tcp&fp=random&allowInsecure=0#🔒smkn-AE-🇦🇪
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.232.140.43:443?&security=tls&sni=sni.111000.cc.cd&type=ws&headerType=none&host=sni.111000.cc.cd&path=%2F#🔒smkn-AE-🇦🇪
-vless://3be1535c-bfb4-4ef3-bedb-f4ecdaac7c5e@185.215.234.13:8443?encryption=none&security=tls&sni=cloud.farsonline24.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=cloud.farsonline24.ir&path=/mehdi#🔒smkn-AE-🇦🇪
+vless://40d7798a-6c76-4298-a9d4-9e6181cd2dd7@31.58.181.111:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.cybo.com#🔒smkn-AE-🇦🇪
+vless://3be1535c-bfb4-4ef3-bedb-f4ecdaac7c5e@185.215.234.15:8443?encryption=none&security=tls&sni=cloud.farsonline24.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=cloud.farsonline24.ir&path=/mehdi#🔒smkn-AE-🇦🇪
 vless://3be1535c-bfb4-4ef3-bedb-f4ecdaac7c5e@185.215.234.23:8443?encryption=none&security=tls&sni=cloud.farsonline24.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=cloud.farsonline24.ir&path=/mehdi#🔒smkn-AE-🇦🇪
-vless://97ff4d1e-a99d-4c62-8457-98e5416d9f49@185.215.235.59:80?path=%2F&security=none&encryption=none&host=s2.ay9.ir&type=ws#🌐smkn-AE-🇦🇪
+vless://3be1535c-bfb4-4ef3-bedb-f4ecdaac7c5e@185.215.234.22:8443?encryption=none&security=tls&sni=cloud.farsonline24.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=cloud.farsonline24.ir&path=/mehdi#🔒smkn-AE-🇦🇪
+vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@94.140.0.22:2052/?type=ws&encryption=none&host=register.tunnelbreaking.shop&path=%2F#🌐smkn-AE-🇦🇪
