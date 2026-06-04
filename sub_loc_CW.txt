@@ -1,12 +1,4 @@
-trojan://NISHIKUITAN111@5.10.246.119:443/?type=tcp&security=tls#🔒smkn-CW-🇨🇼
-trojan://NISHIKUITAN111@62.72.166.57:443/?type=ws&host=za.ylks.xyz&path=%2F&security=tls&sni=za.ylks.xyz#🔒smkn-CW-🇨🇼
-vless://401374e6-df77-41fb-f638-dad8184f175b@5.10.245.70:443/?type=grpc&encryption=none&security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2#🔒smkn-CW-🇨🇼
-vless://9a98146a-235c-40ed-9633-a67fe3bf9f18@170.168.7.63:443?mode=packet-up&path=%2Fxn--q9jyb4c&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=cloudflare.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cloudflare.dns.xn--q9jyb4c#🔒smkn-CW-🇨🇼
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@88.216.66.38:443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#🔒smkn-CW-🇨🇼
+vless://401374e6-df77-41fb-f638-dad8184f175b@5.10.246.60:443/?type=grpc&encryption=none&security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2#🔒smkn-CW-🇨🇼
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@5.10.244.231:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=babayaga-6i7.pages.dev&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🔒smkn-CW-🇨🇼
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@88.216.66.193:443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#🔒smkn-CW-🇨🇼
-vless://310506a7-75ad-4dd9-9667-0defa413fb1b@45.81.58.167:2083?mode=multi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&authority=nl-gateway.chapjavan.ir&insecure=0&fp=ios&type=grpc&serviceName=vless&allowInsecure=0&sni=nl-gateway.chapjavan.ir#🔒smkn-CW-🇨🇼
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.244.191:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#🔒smkn-CW-🇨🇼
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.216.66.30:8880?&type=ws&headerType=none&host=vms.lifetime04.workers.dev&path=%2F#🌐smkn-CW-🇨🇼
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@62.72.166.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#🌐smkn-CW-🇨🇼
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@88.216.66.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-CW-🇨🇼
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@88.216.66.213:8880?encryption=none&security=none&type=ws&host=jp.laoyoutiao.link&path=%2F#🌐smkn-CW-🇨🇼
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@88.216.67.63:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-CW-🇨🇼
