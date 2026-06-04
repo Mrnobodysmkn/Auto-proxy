@@ -1,7 +1,6 @@
-vless://0ee2d410-3e64-4c41-a571-3e5d2b5b8982@217.13.104.115:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=HmnZvWf1xDzvps8H-juYYtHnWPZksvaUp6cMYV7TfSk&security=reality&sid=a20d3ed244c76426&sni=sun6-22.userapi.com#🔒smkn-HU-🇭🇺
-vless://b5c74983-8400-4fb3-81a7-d5b3ab559537@217.13.104.148:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=travel.yandex.ru&fp=chrome&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17802e8ff84f12df#🔒smkn-HU-🇭🇺
-trojan://blue2024@162.159.44.203:443/?type=tcp&security=tls&sni=hb.lii2010.us.kg&allowInsecure=1#🔒smkn-HU-🇭🇺
-trojan://auto@162.159.44.202:443/?type=tcp&security=tls&sni=trojanmz.pages.dev#🔒smkn-HU-🇭🇺
-trojan://auto@162.159.44.176:443/?type=ws&host=trojanmz.pages.dev&security=tls&sni=trojanmz.pages.dev#🔒smkn-HU-🇭🇺
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.202.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#🔒smkn-HU-🇭🇺
-trojan://blue2024@162.159.44.188:443?sni=ta.promote.icu&allowInsecure=0#🔒smkn-HU-🇭🇺
+vless://9a98146a-235c-40ed-9633-a67fe3bf9f18@74.49.215.15:443?mode=packet-up&path=%2Fxn--q9jyb4c&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=cloudflare.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cloudflare.dns.xn--q9jyb4c#🔒smkn-HU-🇭🇺
+vless://a270cd7a-8ab3-4e34-8838-a687df96fef9@162.159.38.232:443/?type=ws&encryption=none&host=c185v1.testsnew.com&path=%2Fwss&security=tls&sni=c185v1.testsnew.com&alpn=http%2F1.1#🔒smkn-HU-🇭🇺
+vless://4881e886-8467-4c2d-91c6-7aaf4d0b2582@217.13.105.43:443?type=tcp&security=reality&sni=sun6-22.userapi.com&fp=qq&flow=xtls-rprx-vision&pbk=2C6MqBdf1XxEKmVe_hHfYhov31tM_eEuq_c5ZFMfPAI#🔒smkn-HU-🇭🇺
+vless://a87cea64-42d8-46c3-b617-e02ec175fe98@141.11.202.250:2096?path=/?ed=2096&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=arm1.dollardoon.com&fp=chrome&type=ws&sni=arm1.dollardoon.com#🔒smkn-HU-🇭🇺
+trojan://Aimer@162.159.44.50:2087/?type=tcp&security=tls&sni=ngepo.ambercc.filegear-sg.me#🔒smkn-HU-🇭🇺
+trojan://Aimer@162.159.38.101:2096/?type=tcp&security=...#🌐smkn-HU-🇭🇺
