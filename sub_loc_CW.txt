@@ -1,4 +1,6 @@
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@88.216.66.38:443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#🔒smkn-CW-🇨🇼
-vless://401374e6-df77-41fb-f638-dad8184f175b@5.10.246.60:443/?type=grpc&encryption=none&security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2#🔒smkn-CW-🇨🇼
+trojan://NISHIKUITAN111@5.10.244.182:443/?type=tcp&security=tls&allowInsecure=1#🔒smkn-CW-🇨🇼
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@5.10.244.231:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=babayaga-6i7.pages.dev&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🔒smkn-CW-🇨🇼
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@88.216.67.63:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-CW-🇨🇼
+trojan://ttfang@5.10.246.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram&Host=ttfang.fange.me#🔒smkn-CW-🇨🇼
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.246.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Ftelegram%25f0%259f%2587%25a8%25f0%259f%2587%25b3%2B%2540wangcai2%3D#🔒smkn-CW-🇨🇼
+vless://4f2b9193-ab76-401f-a254-10982ac2881a@5.10.245.75:443/?type=ws&encryption=none&host=hax-eu.lzj520hxw.dpdns.org#🔒smkn-CW-🇨🇼
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.247.225:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-CW-🇨🇼

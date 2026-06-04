@@ -1,7 +1,5 @@
-vless://26524cce-d514-4014-a426-365fb266a14d@60.249.21.50:8818?allowInsecure=0&sni=c1mxc.api-gateway.fgfw.qzz.io&alpn=http%252F1.1%250A&type=ws&host=c1mxc.api-gateway.fgfw.qzz.io&path=/danfeng-2cm3?ed=2560fp=firefox&security=tls#🔒smkn-TW-🇹🇼
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@220.128.110.108:43?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=random&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#🔒smkn-TW-🇹🇼
-vless://26524cce-d514-4014-a426-365fb266a14d@140.235.39.161:8443?allowInsecure=0&sni=t39sed.gateway-api.sh21.eu.org&type=ws&host=t39sed.gateway-api.sh21.eu.org&path=/danfeng?ed=2560fp=firefox&security=tls#🔒smkn-TW-🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@118.163.200.40:2377#🌐smkn-TW-🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.2:2377#🌐smkn-TW-🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@36.228.154.213:50099#🌐smkn-TW-🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@211.22.161.135:2377#🌐smkn-TW-🇹🇼
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@211.75.210.32:443?path=%2Fsocks5%3Dgogo%3Agogo%40185.184.70.120%3A50088&security=tls&encryption=none&insecure=0&host=1-aym.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=1-aym.pages.dev#🔒smkn-TW-🇹🇼
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@59.125.131.163:8443/?type=tcp&security=tls&sni=official.taipeicitygovernment.cn.ua&allowInsecure=1&fp=chrome#🔒smkn-TW-🇹🇼
+vless://26524cce-d514-4014-a426-365fb266a14d@60.251.232.240:995?allowInsecure=0&sni=t39sed.gateway-api.sh21.eu.org&type=ws&host=t39sed.gateway-api.sh21.eu.org&path=/danfeng?ed=2560fp=firefox&security=tls#🔒smkn-TW-🇹🇼
+trojan://3ac6a6ca99f74941b1eaf892818e2ddb@85.237.207.189:443?allowInsecure=0&sni=#🔒smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@125.227.86.46:2377#🌐smkn-TW-🇹🇼
