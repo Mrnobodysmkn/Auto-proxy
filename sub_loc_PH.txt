@@ -1,4 +1,1 @@
-trojan://NISHIKUITAN111@154.83.2.121:443/?type=tcp&security=tls#🔒smkn-PH-🇵🇭
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@154.83.2.64:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org#🔒smkn-PH-🇵🇭
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@154.83.2.18:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#🔒smkn-PH-🇵🇭
-ss://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.54:2096?encryption=none&amp;security=tls&amp;sni=vle.amclubsapp.dpdns.org&amp;type=ws&amp;host=vle.amclubsapp.dpdns.org#🔒smkn-PH-🇵🇭
+vless://3bbacc1e-8b36-467b-8b81-27ad9578b6bc@103.31.79.151:443?path=/sefidaws&security=tls&encryption=none&host=vps.masir-sefid-5.shop&fp=chrome&allowinsecure=0&type=ws&sni=vps.masir-sefid-5.shop#🔒smkn-PH-🇵🇭
