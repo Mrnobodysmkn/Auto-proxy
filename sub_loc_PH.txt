@@ -1,1 +1,4 @@
-trojan://NISHIKUITAN111@154.83.2.121:443/?type=tcp&security=tls#🔒smkn-PH-🇵🇭
+vless://401374e6-df77-41fb-f638-dad8184f175b@154.83.2.167:443/?type=grpc&encryption=none&security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2#🔒smkn-PH-🇵🇭
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@154.83.2.64:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org#🔒smkn-PH-🇵🇭
+vless://3bbacc1e-8b36-467b-8b81-27ad9578b6bc@103.31.79.129:443?path=/sefidaws&security=tls&encryption=none&host=vps.masir-sefid-5.shop&fp=chrome&allowinsecure=0&type=ws&sni=vps.masir-sefid-5.shop#🔒smkn-PH-🇵🇭
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.156:8880?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#🌐smkn-PH-🇵🇭

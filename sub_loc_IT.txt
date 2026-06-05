@@ -1,2 +1,1 @@
-vless://46d74f41-89fb-41a9-801d-75945f388879@185.248.144.70:10549?encryption=none&fp=&pbk=tyNWG6Tu_so9cRgv6Le8G5nwa065RoZXiSEBfIsXbFk&security=reality&serviceName=grpc&sid=be&sni=xp.apple.com&type=grpc#🔒smkn-IT-🇮🇹
-vless://d7f67e94-aa9e-4454-b1cf-ce522a0d2728@172.232.208.147:443?encryption=none&security=none&type=tcp#🔒smkn-IT-🇮🇹
+vless://08633db1-df68-48c6-90d7-5cbf7e1465bc@113.30.151.151:8443?encryption=none&security=tls&sni=rose.netfre.space&fp=chrome&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=rose.netfre.space&path=/@RoseCommunity?ed=2052#🔒smkn-IT-🇮🇹
