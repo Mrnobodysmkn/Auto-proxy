@@ -1,8 +1,9 @@
-trojan://auto@162.159.44.159:443/?type=tcp&security=tls&sni=trojanmz.pages.dev#🔒smkn-HU-🇭🇺
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@74.49.214.43:443?allowInsecure=1&encryption=none&host=sni.111000.cc.cd&security=tls&sni=sni.111000.cc.cd&type=ws#🔒smkn-HU-🇭🇺
+vless://9a98146a-235c-40ed-9633-a67fe3bf9f18@74.49.215.177:443?mode=packet-up&path=%2Fxn--q9jyb4c&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=cloudflare.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cloudflare.dns.xn--q9jyb4c#🔒smkn-HU-🇭🇺
+trojan://blue2024@162.159.39.190:443/?type=tcp&security=tls&sni=td.promote.icu#🔒smkn-HU-🇭🇺
+trojan://NISHIKUITAN111@141.11.203.203:443/?type=ws&host=za.ylks.xyz&path=%2F%2F&security=tls&sni=za.ylks.xyz&allowInsecure=1#🔒smkn-HU-🇭🇺
+trojan://auto@162.159.44.168:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#🔒smkn-HU-🇭🇺
 vless://d5bf6023-2fad-4bda-914e-69ed2f9e668d@37.221.209.197:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hu03.kubservice.icu&fp=chrome&security=reality&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&sid=#🔒smkn-HU-🇭🇺
-vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.202.193:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2#🔒smkn-HU-🇭🇺
-trojan://Aimer@162.159.44.48:443/?type=ws&host=ngepz.ambercc.filegear-sg.me&security=tls&sni=ngepz.ambercc.filegear-sg.me#🔒smkn-HU-🇭🇺
-vless://51d22c42-5342-4715-a927-1b76226dd4cf@162.159.44.200:8443?security=tls&sni=join-telegram-channel-vipv2rey.mamare.ir&type=grpc&serviceName=@vipv2rey@vipv2rey@vipv2rey&encryption=none#🔒smkn-HU-🇭🇺
-trojan://blue2024@162.159.44.173:443?sni=ta.promote.icu&allowInsecure=0#🔒smkn-HU-🇭🇺
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@74.49.214.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560fp%3Dchrome#🌐smkn-HU-🇭🇺
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.202.30:8880?type=ws&host=vms.lifetime10.workers.dev#🌐smkn-HU-🇭🇺
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.203.238:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.jpmj.dev&path=%2F&security=tls&sni=sni.jpmj.dev&type=ws#🔒smkn-HU-🇭🇺
+trojan://Aimer@162.159.45.156:8443/?type=tcp&security=tls&sni=agepu.ambercc.filegear-sg.me#🔒smkn-HU-🇭🇺
+trojan://Aimer@162.159.44.233:8443/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#🔒smkn-HU-🇭🇺
