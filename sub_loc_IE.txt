@@ -1,1 +1,2 @@
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?sni=146.70.90.197&peer=146.70.90.197&security=tls#🔒smkn-IE-🇮🇪
+vless://e83c0136-36c1-4235-8a61-8f4da14bb868@52.213.153.71:8080?encryption=none&amp;type=tcp&amp;security=tls&amp;headerType=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;allowInsecure=0#🔒smkn-IE-🇮🇪
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#🌐smkn-IE-🇮🇪
