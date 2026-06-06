@@ -1,7 +1,10 @@
-trojan://Aimer@188.164.159.248:2053/?type=tcp&security=tls&sni=agepy.ambercc.filegear-sg.me#🔒smkn-AM-🇦🇲
-trojan://ttfang@5.10.215.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram&Host=ttfang.fange.me#🔒smkn-AM-🇦🇲
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.214.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#🔒smkn-AM-🇦🇲
+trojan://Aimer@188.164.159.171:443/?type=tcp&security=tls&sni=epcca.ambercc.filegear-sg.me#🔒smkn-AM-🇦🇲
+vless://12f34fc2-b3f6-4422-a44d-37adcadca8f3@188.164.159.178:2053?security=tls&sni=flnewconect3.fragmentscan.xyz&type=grpc&fp=chrome&alpn=h2%2Chttp%2F1.1#🔒smkn-AM-🇦🇲
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983/?type=tcp&amp;encryption=none&amp;flow=&amp;sni=yahoo.com&amp;security=reality&amp;pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&amp;sid=0e#🔒smkn-AM-🇦🇲
+trojan://Aimer@188.164.159.45:8443/?type=tcp&security=tls&sni=ngepy.ambercc.filegear-sg.me#🔒smkn-AM-🇦🇲
 trojan://Mitivpn@5.10.214.251:443?allowInsecure=1&sni=cdn.hitgram.ir&alpn=http/1.1&type=ws&host=cdn.hitgram.ir&path=/?ed=2048#🔒smkn-AM-🇦🇲
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.143:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F#🌐smkn-AM-🇦🇲
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.32:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#🌐smkn-AM-🇦🇲
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@5.10.215.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-AM-🇦🇲
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVS0s1WFV2aklsT2tlVGJCQTBuZllo@2.56.207.150:8443#🌐smkn-AM-🇦🇲
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@5.10.214.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-AM-🇦🇲
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@5.10.214.29:8880?encryption=none&security=none&sni=hk.laoyoutiao.link&type=ws&host=hk.laoyoutiao.link&path=%2FTelegramU0001F1E8U0001F1F3#🌐smkn-AM-🇦🇲
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.180:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2FTelegramU0001F1E8U0001F1F3#🌐smkn-AM-🇦🇲
