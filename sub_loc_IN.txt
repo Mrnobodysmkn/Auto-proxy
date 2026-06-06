@@ -1,7 +1,4 @@
-trojan://Aimer@108.165.152.71:443/?type=tcp&security=tls&sni=epcch.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
-vless://4959177b-62d7-4d1b-b6a3-eed72c0609c5@144.24.127.7:443?security=tls&flow=xtls-rprx-vision&sni=www.0wolf.com&type=tcp&fp=chrome#🔒smkn-IN-🇮🇳
-vless://5e1083b9-4d4f-50ef-93e7-6e966dfce1f9@45.89.106.4:443/?type=tcp&encryption=none&sni=microsoft.com&fp=chrome&security=reality&pbk=EHtfJCv8UREtbQCPBc0BYX-BOFgKPFaG2yvR2w7rHBw&sid=972e3378#🔒smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.239:8443/?type=tcp&security=tls&sni=epccd.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.40:2096?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#🌐smkn-IN-🇮🇳
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFQkRSbzlUSHg0Q3FpRlU3aDVnZm92NzZvTnd6WlVSQWgwWndiV2pCS2RkdFVodno@103.120.178.193:31348#🌐smkn-IN-🇮🇳
-vmess://eyJhZGQiOiAiMTcyLjIzMi4xMDMuMTg2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogMjIzMjQsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUlOLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@43.205.45.56:443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=random&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.66:2083/?type=tcp&security=tls&sni=epccd.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.36:2096/?type=tcp&security=tls&sni=acepo.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
+vless://2a45f87c-ab4b-4d51-9347-89b937960121@151.101.158.204:80?path=/olem/ws?ed=64&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&security=none&alpn=h2,http/1.1&encryption=none&host=fatmelo.com&fp=chrome&type=ws&sni=zmaoz.faculty.ucdavis.edu.#🌐smkn-IN-🇮🇳
