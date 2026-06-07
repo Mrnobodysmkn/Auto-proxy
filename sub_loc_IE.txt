@@ -1,6 +1,4 @@
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@155.94.134.61:443?security=tls&flow=xtls-rprx-vision-udp443&sni=sub.sbrf-cdn342.ru#🔒smkn-IE-🇮🇪
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@155.94.134.187:443?security=tls&flow=xtls-rprx-vision-udp443&sni=sub.sbrf-cdn342.ru#🔒smkn-IE-🇮🇪
-trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452?security=tls#🔒smkn-IE-🇮🇪
-trojan://fUTl8hxc-NWqcLmAU_13AA@89.127.218.251:14443?fp=&amp;pbk=YJ9I6GzZ_xT_Rk8We8iR1CwEMbzF4I30i_EH2VOVY0Y&amp;security=reality&amp;sid=abab34c40ed6c10a&amp;sni=github.com#🔒smkn-IE-🇮🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptTlFjaWF0UFl5d3pNX01aMDNUeE9B@89.127.218.251:2443#🌐smkn-IE-🇮🇪
-vmess://eyJhZGQiOiAiMTg1LjEwOC4xMjguMTM3IiwgImFpZCI6IDY0LCAiaG9zdCI6ICJ3d3cuMTQ2MDExNzYueHl6IiwgImlkIjogIjVhYWIzOTM2LTE2ZDctNDM3Ny04YzMzLTBkNzdmMmQyOTVlZSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcGF0aC8zMDAwMjIxMTMzMjkiLCAicG9ydCI6IDMwMDAwLCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1JRS1cdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZWEiLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsICJzbmkiOiAid3d3LjE0NjAxMTc2Lnh5eiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byJ9
+vless://99b55ab8-94d9-4547-9eca-74a34871bff4@85.159.229.189:443?type=tcp&security=reality&pbk=jRh71f3CZSR8xkOMBX9wpaMe_3EYhjrxFELmls-AW0A&fp=random&sni=www.google.com&sid=e6&spx=%2F#🔒smkn-IE-🇮🇪
+vless://e886fa93-8260-4f8e-ba3a-4879a4d69946@85.159.229.84:443/?type=tcp&encryption=none&flow=&sni=www.google.com&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&security=reality&pbk=ogPhlqdcw50ySFPbrYeLT0_L2vFHDfwAuu1pIKboODY&sid=93#🔒smkn-IE-🇮🇪
+vless://274fe3eb-20de-45dd-bb3e-c32534b63494@89.127.210.216:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=A9jwrodyycJJV-apFQ91_rrh1vfJ_hSzZGNP9GBPGCM&sid=92d0c4089b6c1da3&sni=io.ozone.ru#🔒smkn-IE-🇮🇪
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#🌐smkn-IE-🇮🇪
