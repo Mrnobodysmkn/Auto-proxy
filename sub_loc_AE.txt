@@ -1,4 +1,13 @@
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@31.59.39.29:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=download.spectrum.vu&fp=chrome&flow=xtls-rprx-vision&sid=d1e9faa1b2c3&pbk=sXC7sPCzHG_uYfvk3GSUdYQKfHAwirOVWMhO50Y9Pn8#🔒smkn-AE-🇦🇪
-vless://3be1535c-bfb4-4ef3-bedb-f4ecdaac7c5e@185.215.234.28:8443?encryption=none&security=tls&sni=cloud.farsonline24.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=cloud.farsonline24.ir&path=/mehdi#🔒smkn-AE-🇦🇪
-vless://d89f2050-9fbb-4719-9da6-99d47fac9e99@185.215.235.12:2082/?type=ws&encryption=none&path=/&host=getd.restaurantstudio.ir&security=none#🌐smkn-AE-🇦🇪
-vless://96d0a8a6-cac1-4395-865a-28997a1f42c9@185.215.234.106:2086?type=ws&encryption=none&path=%2F&host=fast.sheeplow.ir&security=none#🌐smkn-AE-🇦🇪
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.185:443?path=%2Ftg%40zdyz2&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#🔒smkn-AE-🇦🇪
+vless://a07827b5-4b27-4910-8333-f78949562fc9@138.128.225.100:443/?type=ws&encryption=none&security=tls&sni=design-mobo.ir&alpn=h2%2Chttp%2F1.1&fp=chrome#🔒smkn-AE-🇦🇪
+vless://7a685dc5-f93c-4e19-8b9b-b77998feb042@31.59.39.192:443?allowInsecure=1&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&sni=www.amd.com&type=tcp#🔒smkn-AE-🇦🇪
+vless://a845ce7c-ea10-47b0-8de4-92810260eeab@31.59.93.174:443?security=reality&type=xhttp&path=/api/v1&sni=www.mozilla.org&fp=random&sid=e7bc91886be5ab85&pbk=RyG4_G8lDSqQK6eMy9zySlO2IjGtK9lzac5dqth_-Gc#🔒smkn-AE-🇦🇪
+vless://3be1535c-bfb4-4ef3-bedb-f4ecdaac7c5e@185.215.234.13:8443?encryption=none&security=tls&sni=cloud.farsonline24.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=cloud.farsonline24.ir&path=/mehdi#🔒smkn-AE-🇦🇪
+vless://3be1535c-bfb4-4ef3-bedb-f4ecdaac7c5e@185.215.234.29:8443?encryption=none&security=tls&sni=cloud.farsonline24.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=cloud.farsonline24.ir&path=/mehdi#🔒smkn-AE-🇦🇪
+vless://3be1535c-bfb4-4ef3-bedb-f4ecdaac7c5e@185.215.234.20:8443?encryption=none&security=tls&sni=cloud.farsonline24.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=cloud.farsonline24.ir&path=/mehdi#🔒smkn-AE-🇦🇪
+vless://3be1535c-bfb4-4ef3-bedb-f4ecdaac7c5e@185.215.234.27:8443?encryption=none&security=tls&sni=cloud.farsonline24.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=cloud.farsonline24.ir&path=/mehdi#🔒smkn-AE-🇦🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.112.5.55:443#🔒smkn-AE-🇦🇪
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@94.140.0.63:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560fp%3Dchrome#🌐smkn-AE-🇦🇪
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@94.140.0.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-AE-🇦🇪
+vless://97ff4d1e-a99d-4c62-8457-98e5416d9f49@185.215.235.59:80?path=%2F&security=none&encryption=none&host=s2.ay9.ir&type=ws#🌐smkn-AE-🇦🇪
+vless://1b89a394-8b9d-4157-973c-75d43b2987fd@146.75.64.0:80?mode=auto&path=%2Fcdn%2Fassets%3F&security=none&encryption=none&host=abriconf.global.ssl.fastly.net&type=xhttp#🌐smkn-AE-🇦🇪
