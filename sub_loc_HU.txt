@@ -1,7 +1,7 @@
-vless://55d9ec38-1b8a-454b-981a-6acfe8f56d8c@162.159.44.198:443?encryption=none&security=tls&sni=fu.baiproxy.us.ci&type=ws&host=fu.baiproxy.us.ci&path=%2F%3Fed%3D2560#🔒smkn-HU-🇭🇺
-trojan://auto@162.159.44.169:443?security=tls&sni=trojanmz.pages.dev&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#🔒smkn-HU-🇭🇺
-vless://ed6f01ea-bba8-41f9-b2db-bf8f6e210307@217.13.111.42:443?type=tcp&security=reality&sni=max.ru&fp=chrome&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI#🔒smkn-HU-🇭🇺
-trojan://auto@162.159.44.202:443/?type=tcp&security=tls&sni=trojanmz.pages.dev#🔒smkn-HU-🇭🇺
-vless://a270cd7a-8ab3-4e34-8838-a687df96fef9@162.159.38.232:443/?type=ws&encryption=none&host=c185v1.testsnew.com&path=%2Fwss&security=tls&sni=c185v1.testsnew.com&alpn=http%2F1.1#🔒smkn-HU-🇭🇺
-trojan://Aimer@162.159.44.227:443/?type=tcp&security=tls&sni=ngepz.ambercc.filegear-sg.me#🔒smkn-HU-🇭🇺
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.203.238:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.jpmj.dev&path=%2F&security=tls&sni=sni.jpmj.dev&type=ws#🔒smkn-HU-🇭🇺
+trojan://Aimer@162.159.44.199:443/?type=tcp&security=tls&sni=epccz.ambercc.filegear-sg.me#🔒smkn-HU-🇭🇺
+trojan://Aimer@162.159.44.231:2053/?type=tcp&security=tls&sni=ngepo.ambercc.filegear-sg.me#🔒smkn-HU-🇭🇺
+trojan://Aimer@141.11.203.168:443/?type=tcp&security=tls&sni=agepy.ambercc.filegear-sg.me#🔒smkn-HU-🇭🇺
+trojan://Aimer@162.159.38.105:2083/?type=tcp&security=tls&sni=ngepz.ambercc.filegear-sg.me#🔒smkn-HU-🇭🇺
+vless://55d9ec38-1b8a-454b-981a-6acfe8f56d8c@162.159.44.100:2087?encryption=none&security=tls&sni=fu.baiproxy.us.ci&type=ws&host=fu.baiproxy.us.ci&path=%2F%3Fed%3D2560#🔒smkn-HU-🇭🇺
+trojan://blue2024@162.159.44.187:443?sni=ta.promote.icu#🔒smkn-HU-🇭🇺
+vless://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@162.159.45.210:80?host=sss.yaml7.ggff.net&path=/?ed=2048&type=ws#🌐smkn-HU-🇭🇺
