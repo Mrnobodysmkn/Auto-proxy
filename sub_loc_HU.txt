@@ -1,7 +1,7 @@
-trojan://Aimer@162.159.44.199:443/?type=tcp&security=tls&sni=epccz.ambercc.filegear-sg.me#🔒smkn-HU-🇭🇺
-trojan://Aimer@162.159.44.231:2053/?type=tcp&security=tls&sni=ngepo.ambercc.filegear-sg.me#🔒smkn-HU-🇭🇺
-trojan://Aimer@141.11.203.168:443/?type=tcp&security=tls&sni=agepy.ambercc.filegear-sg.me#🔒smkn-HU-🇭🇺
-trojan://Aimer@162.159.38.105:2083/?type=tcp&security=tls&sni=ngepz.ambercc.filegear-sg.me#🔒smkn-HU-🇭🇺
-vless://55d9ec38-1b8a-454b-981a-6acfe8f56d8c@162.159.44.100:2087?encryption=none&security=tls&sni=fu.baiproxy.us.ci&type=ws&host=fu.baiproxy.us.ci&path=%2F%3Fed%3D2560#🔒smkn-HU-🇭🇺
-trojan://blue2024@162.159.44.187:443?sni=ta.promote.icu#🔒smkn-HU-🇭🇺
-vless://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@162.159.45.210:80?host=sss.yaml7.ggff.net&path=/?ed=2048&type=ws#🌐smkn-HU-🇭🇺
+vless://9a98146a-235c-40ed-9633-a67fe3bf9f18@74.49.215.15:443?mode=packet-up&path=%2Fxn--q9jyb4c&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=cloudflare.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cloudflare.dns.xn--q9jyb4c#🔒smkn-HU-🇭🇺
+vless://c135158e-5869-4397-8116-6695ca18cd48@162.159.38.172:443?encryption=none&security=tls&sni=cf.hulume.ccwu.cc&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cf.hulume.ccwu.cc&path=%2F#🔒smkn-HU-🇭🇺
+vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@162.159.45.153:443?allowInsecure=1&encryption=none&host=powered-by-surena.user68f797c2f3e1b.workers.dev&path=%2F&security=tls&sni=powered-by-surena.user68f797c2f3e1b.workers.dev&type=ws#🔒smkn-HU-🇭🇺
+trojan://Aimer@162.159.44.127:443/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#🔒smkn-HU-🇭🇺
+vless://4fe214fb-048e-431f-b939-4518dc9df6a2@217.13.104.130:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=chat.speedload.ru&mode=auto&path=%2F&security=tls&sni=chat.speedload.ru&type=http#🔒smkn-HU-🇭🇺
+vless://bcf31ced-07e7-4bd3-ae6d-9280d9a47834@217.13.104.130:8443?security=tls&sni=chat.speedload.ru&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&path=%2Fws&encryption=none#🔒smkn-HU-🇭🇺
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.11.203.63:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560fp%3Dchrome#🌐smkn-HU-🇭🇺
