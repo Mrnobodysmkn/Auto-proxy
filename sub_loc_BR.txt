@@ -1,3 +1,8 @@
-vless://8a77b19a-36be-43ff-ace0-bc322aa4f1e3@77.111.101.80:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=CKxzpUtdHkJYJDpogsZSGCz9J6nlOTWdsOMz3sARDVI&sid=99#🔒smkn-BR-🇧🇷
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.12.2:443?security=tls&sni=Sanjeshp.Ir&encryption=none@ShadowsocksM38&type=ws&host=Sanjeshp.Ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒smkn-BR-🇧🇷
-vless://dbaf0b78-9dfe-4ed0-b60a-e701562ac55e@45.194.71.142:8443?flow=xtls-rprx-vision&fp=firefox&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&security=reality&sid=d2c6d9f6e6e12bfe&sni=storage.yandex.net&type=tcp#🔒smkn-BR-🇧🇷
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.133.35.254:443/?type=ws&security=tls&sni=icecream.955850.xyz#🔒smkn-BR-🇧🇷
+vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@132.226.163.224:2053?security=tls&sni=bPB005.PAGeS.Dev&type=ws&host=bPB005.PAGeS.Dev&path=%2Ftsk179ptmakaggvh%2Fmtuyljy3ljiznc40oq#🔒smkn-BR-🇧🇷
+vless://b5d7c7ad-850f-4f80-8621-7c863eff1b49@154.91.157.116:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=rbc.ru&fp=firefox&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=57f5917841a2178f&flow=xtls-rprx-vision#🔒smkn-BR-🇧🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NmViN2VmOWRjMmQ3YzIz@54.207.208.139:443#🔒smkn-BR-🇧🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#🌐smkn-BR-🇧🇷
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@185.133.35.3:8880/?type=ws&encryption=none&host=bitget1.asdasd.click&path=%2FTelegramU0001F1E8U0001F1F3#🌐smkn-BR-🇧🇷
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.133.35.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560fp%3Dchrome#🌐smkn-BR-🇧🇷
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.194.53.63:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-BR-🇧🇷
