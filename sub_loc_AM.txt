@@ -1,4 +1,1 @@
-trojan://Aimer@188.164.159.74:8443/?type=tcp&security=tls&sni=epcco.ambercc.filegear-sg.me#🔒smkn-AM-🇦🇲
-trojan://Aimer@188.164.159.246:2096/?type=tcp&security=tls&sni=epcct.ambercc.filegear-sg.me#🔒smkn-AM-🇦🇲
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.164.158.138:2096?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#🔒smkn-AM-🇦🇲
-trojan://Aimer@188.164.159.175:8443/?type=tcp&security=tls&sni=epcch.ambercc.filegear-sg.me#🔒smkn-AM-🇦🇲
+trojan://Aimer@188.164.159.18:443/?type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=epmk.ambercc.filegear-sg.me#🔒smkn-AM-🇦🇲
