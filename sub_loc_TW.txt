@@ -1,8 +1,6 @@
-trojan://981db44e-9f07-49eb-9ba0-6ab4939919a2@61.220.126.180:443?security=tls&sni=twnode11.oportal.cc&type=tcp&headerType=none#🔒smkn-TW-🇹🇼
-vless://c2c301e9-a9db-4d91-9c7b-ff8935aeb4e1@45.221.112.81:443?allowInsecure=1&sni=ioioioi.pages.dev&type=ws&host=ioioioi.pages.dev&path=/?ed=2560fp=random&security=tls#🔒smkn-TW-🇹🇼
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@38.54.107.227:443?type=ws&host=3-2h8.pages.dev&path=/security=tls#🔒smkn-TW-🇹🇼
+vless://2add6241-8fe8-3922-8347-da25e8ced601@103.137.62.229:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tesla.com&fp=random&security=reality&pbk=zRZhlkKjUeqtIk9j6yy95aX-2krqQVyWORLv5tQkQGM&sid=#🔒smkn-TW-🇹🇼
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@114.34.202.224:10004?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🔒smkn-TW-🇹🇼
-trojan://gcuCpQfaiVeDBdWG@211.76.176.99:19128?security=tls&headerType=none&type=tcp&sni=yazhou10.dynu.net#🔒smkn-TW-🇹🇼
-trojan://5a2c16f9@220.128.110.108:43?security=tls&sni=5c.hhhhh.eu.org&insecure=0&allowInsecure=0&type=ws&host=5c.hhhhh.eu.org&path=/220.128.110.108:43#🔒smkn-TW-🇹🇼
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@185.189.160.105:41632#🌐smkn-TW-🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@118.163.198.43:2377#🌐smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@211.22.161.134:2377#🌐smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.37:2377#🌐smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@59.125.75.115:2377#🌐smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.28.60:2377#🌐smkn-TW-🇹🇼
