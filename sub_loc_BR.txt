@@ -1,8 +1,6 @@
-vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.238:443/?type=ws&encryption=none&path=%2F%3Fed&security=tls&sni=cl.bgm2024.dpdns.org#🔒smkn-BR-🇧🇷
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@185.133.35.115:443?security=tls&sni=ap.ylks.xyz&type=ws&host=ap.ylks.xyz&path=%2Fblue#🔒smkn-BR-🇧🇷
 trojan://02926f9e-153a-42c8-8ecd-8fade7009ad1@144.22.250.122:443/?type=tcp&security=tls&sni=golinkwuxian.top#🔒smkn-BR-🇧🇷
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.133.35.144:443?security=tls&sni=lx.ylks01.eu.org&type=ws&host=lx.ylks01.eu.org&path=%2Fblue#🔒smkn-BR-🇧🇷
-vless://8a77b19a-36be-43ff-ace0-bc322aa4f1e3@77.111.101.80:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=CKxzpUtdHkJYJDpogsZSGCz9J6nlOTWdsOMz3sARDVI&sid=99#🔒smkn-BR-🇧🇷
-vless://cc6b985d-0362-4129-8763-38564174fb3e@45.194.53.216:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=iryiccyne.wwtraveler.com&alpn=http%2F1.1%2Ch2&fp=chrome#🔒smkn-BR-🇧🇷
-vless://263497fb-9ae2-4f7b-94c6-b0179e480448@199.232.15.225:443/?type=ws&encryption=none&host=azadnet.ir&path=%2FYFeRT11KL9V669C0%3Fed%3D2560&security=tls&sni=www.speedtest.net&alpn=h2%2Chttp%2F1.1&fp=randomized#🔒smkn-BR-🇧🇷
-vless://cc3a15eb-0a63-486c-8e12-c7be717ebcd4@132.226.163.224:2053?security=tls&sni=bPB005.PAGeS.Dev&type=ws&host=bPB005.PAGeS.Dev&path=%2Ftsk179ptmakaggvh%2Fmtuyljy3ljiznc40oq#🔒smkn-BR-🇧🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#🌐smkn-BR-🇧🇷
+trojan://trojan@185.133.35.46:443?security=tls&sni=test-a23.pages.dev&type=ws&host=test-a23.pages.dev&path=%2FTelegram-%40proxy_mtm%2F%3Fed%3D2560&fp=chrome&alpn=h2,http/1.1#🔒smkn-BR-🇧🇷
+vless://db7fecc6-7677-4b25-9a6a-d34149648b4b@154.91.157.152:8443?type=tcp&security=reality&sni=rbc.ru&fp=firefox&flow=xtls-rprx-vision&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=57f5917841a2178f#🔒smkn-BR-🇧🇷
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.194.53.63:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-BR-🇧🇷
+vmess://eyJhZGQiOiAiMTcyLjIzMy4xOS4xNDMiLCAiYWlkIjogMSwgImhvc3QiOiAiMTcyLjIzMy4xOS4xNDMiLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzY1x1ZGYxMHNta24tQlItXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3IiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIn0=
