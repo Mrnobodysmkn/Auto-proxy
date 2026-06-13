@@ -1,4 +1,5 @@
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@94.140.0.157:443?encryption=none&security=tls&type=ws&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#🔒smkn-AE-🇦🇪
-trojan://Aimer@77.232.140.114:2053/?type=tcp&security=tls&sni=ngep.ambercc.filegear-sg.me&allowInsecure=1#🔒smkn-AE-🇦🇪
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@144.172.88.117:443?sni=1-aym.pages.dev&type=ws&host=1-aym.pages.dev&security=tls#🔒smkn-AE-🇦🇪
-vless://01ea3b87-b7b1-4aef-b24a-9c43fbd3b26f@45.86.228.241:443?security=tls&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&type=tcp&fp=random&allowInsecure=0#🔒smkn-AE-🇦🇪
+vless://8525fe74-67e6-4a55-8a26-95f227bd1384@77.232.140.13:8443?path=%2Fproxyip%3D162.243.249.250%2C77.110.126.244%2C64.176.219.210%2C91.90.195.68%2C64.176.219.105%2C45.55.251.207&security=tls&encryption=none&insecure=0&host=muddy-leaf-e8c4.alvlirm3636.workers.dev&fp=random&type=ws&allowInsecure=0&sni=muddy-leaf-e8c4.alvlirm3636.workers.dev#🔒smkn-AE-🇦🇪
+vless://3be1535c-bfb4-4ef3-bedb-f4ecdaac7c5e@185.215.234.22:8443?encryption=none&security=tls&sni=cloud.farsonline24.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=cloud.farsonline24.ir&path=/mehdi#🔒smkn-AE-🇦🇪
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@94.140.0.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-AE-🇦🇪
+vless://386c2a79-2ace-4784-8831-9189e58702f3@94.140.0.204:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F%3Fed%3D2048&security=none&encryption=none&host=wallweb.hydradllvip.info&type=ws#🌐smkn-AE-🇦🇪
+vless://1b89a394-8b9d-4157-973c-75d43b2987fd@146.75.64.0:80?mode=auto&path=%2Fcdn%2Fassets%3F&security=none&encryption=none&host=abriconf.global.ssl.fastly.net&type=xhttp#🌐smkn-AE-🇦🇪
