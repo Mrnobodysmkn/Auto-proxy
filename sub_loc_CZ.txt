@@ -1,7 +1,4 @@
-trojan://ttfang@14.102.229.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram&Host=ttfang.fange.me#🔒smkn-CZ-🇨🇿
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@103.200.28.244:8443?type=xhttp&encryption=none&path=/&mode=auto&security=reality&pbk=vo6Xrwkla8OBS5O6lEinNvHXxW8DxCmb8HGHD86VzkU&fp=firefox&sni=www.google.com&sid=0e#🔒smkn-CZ-🇨🇿
-ss://f775978b-6e22-41a8-ae5e-5f9779e6745f@14.102.228.210:2096?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2F%3Fed%3D2048security%3Dtls#🔒smkn-CZ-🇨🇿
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.238:2096/?type=ws&encryption=none&host=sni.jpmj.dev&path=%2F&security=tls&sni=sni.jpmj.dev#🔒smkn-CZ-🇨🇿
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@195.85.23.54:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#🔒smkn-CZ-🇨🇿
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@103.119.18.32:8443?type=tcp&security=reality&pbk=4sm4mUC0igscX3gHfsxD2b0F6bimVQf_M6w2ZvV7QW8&fp=firefox&sni=www.ya.ru&sid=39f0#🔒smkn-CZ-🇨🇿
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@14.102.228.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-CZ-🇨🇿
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@195.85.23.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-CZ-🇨🇿
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@195.85.23.20:8880?encryption=none&security=none&type=ws&host=us.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#🌐smkn-CZ-🇨🇿
+vless://d11fd54a-8fd4-4886-bad2-8264cb317ead@14.102.228.77:2052/?type=ws&encryption=none&host=sPeedtest2.sbs.se.vless.sitespeedtest.net&path=%2Fvless%23%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL#🌐smkn-CZ-🇨🇿
