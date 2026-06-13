@@ -1,5 +1,5 @@
-vless://a5c689ce-ef93-4a6a-8b74-3dbe2287d71b@38.107.234.187:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cloudrynth.com&fp=firefox&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y#🔒smkn-KZ-🇰🇿
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.176.26.50:8880?security=none&type=ws&path=/?ed=2560&host=vms.lifetime06.workers.dev#🌐smkn-KZ-🇰🇿
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@31.43.179.145:80?path=Telegram@V2ray_Alpha/?ed=2560&amp;security=none&amp;encryption=none&amp;host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&amp;type=ws#🌐smkn-KZ-🇰🇿
-vless://d0f9437f-3c49-45c6-976b-ebea24158b39@194.76.18.58:2082?security=none&type=httpupgrade&host=finhztco.nipytee.info&path=%2F#🌐smkn-KZ-🇰🇿
-vmess://eyJhZGQiOiAiMTg1LjE3Ni4yNi45NyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJob3N0IjogInR3aWxpZ2h0Lm1yYmFybWFzaS53b3JrZXJzLmRldiIsICJpZCI6ICIyMGU5Mjg4MS01ZmI0LTRiMDUtYmM3Ny01NzkyOTQ3NmRjNjkiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2RlLTIuc2hhcmVjZW50cmUub25saW5lL3NoaXJrZXIiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1LWi1cdWQ4M2NcdWRkZjBcdWQ4M2NcdWRkZmYiLCAic2N5IjogImF1dG8iLCAic25pIjogInR3aWxpZ2h0Lm1yYmFybWFzaS53b3JrZXJzLmRldiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.22:443?security=tls&sni=cg.ylks.xyz&type=ws&host=cg.ylks.xyz&path=%2F%3Fed%3D2560#🔒smkn-KZ-🇰🇿
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.10:443?security=tls&sni=dd.ylks.xyz&type=ws&host=dd.ylks.xyz&path=%2F%3Fproxyip%3Dproxyip.oracle.fxxk.dedyn.io#🔒smkn-KZ-🇰🇿
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@194.76.18.122:443/?type=ws&path=%2Fproxyip%3D194.76.18.122%3A443&security=tls&sni=icecream.955850.xyz#🔒smkn-KZ-🇰🇿
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@194.76.18.130:443?encryption=none&security=tls&sni=ap.ylks.xyz&type=ws&host=ap.ylks.xyz&path=%2Fblue#🔒smkn-KZ-🇰🇿
+trojan://ttfang@31.43.179.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram&Host=ttfang.fange.me#🔒smkn-KZ-🇰🇿

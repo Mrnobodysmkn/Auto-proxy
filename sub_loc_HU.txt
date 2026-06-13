@@ -1,2 +1,4 @@
-vless://292e75fc-5a8a-40c4-b937-407c2400a42e@217.13.104.101:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒smkn-HU-🇭🇺
-vless://0ee2d410-3e64-4c41-a571-3e5d2b5b8982@217.13.104.115:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=HmnZvWf1xDzvps8H-juYYtHnWPZksvaUp6cMYV7TfSk&security=reality&sid=a20d3ed244c76426&sni=sun6-22.userapi.com#🔒smkn-HU-🇭🇺
+vless://4881e886-8467-4c2d-91c6-7aaf4d0b2582@217.13.105.43:443?type=tcp&security=reality&sni=sun6-22.userapi.com&fp=qq&flow=xtls-rprx-vision&pbk=2C6MqBdf1XxEKmVe_hHfYhov31tM_eEuq_c5ZFMfPAI#🔒smkn-HU-🇭🇺
+vless://47ab09c5-b2cc-441f-b5e5-6782b722d3ee@109.122.221.77:443?flow=xtls-rprx-vision&fp=chrome&pbk=mPzNFHO4pZMzFviRkIhRd7xDUz4dMHyI-flZLOrgDVg&security=reality&sid=6e8229cc19400de4&sni=hu.locklance.lol&type=tcp#🔒smkn-HU-🇭🇺
+vless://cc6b985d-0362-4129-8763-38564174fb3e@141.11.203.4:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=iryiccyne.wwtraveler.com&alpn=http%2F1.1%2Ch2&fp=chrome#🔒smkn-HU-🇭🇺
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@141.11.202.188:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-HU-🇭🇺
