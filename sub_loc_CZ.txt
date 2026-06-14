@@ -1,4 +1,4 @@
-trojan://bpb-trojan@195.85.23.232:443/?type=tcp&security=tls&sni=bpb.my79801.com#🔒smkn-CZ-🇨🇿
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.191:443?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=%2F&security=tls&sni=sni.my111000.tech&type=ws#🔒smkn-CZ-🇨🇿
-vless://435954ab-38f3-40bf-b303-77e3f6576fa0@5.39.202.60:43871?security=reality&type=tcp&sni=cust-mail.gamerhost-server.pro&fp=chrome&flow=xtls-rprx-vision&sid=a3f9c12e&pbk=NfzNEMSQ8amDS2-iP2ov3ep4tRRP_RO3KMEZ9Fz2dwM&encryption=none#🔒smkn-CZ-🇨🇿
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#🔒smkn-CZ-🇨🇿
+vless://8bbf020e-653f-4a82-9900-1214e4e37dab@103.119.18.159:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.microsoft.com&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&fp=chrome&security=reality&pbk=gXc2c9NIWxhUTb7HoBCjvo-uB1L4iQj4TH38g4YhxHE&sid=fcd9787f#🔒smkn-CZ-🇨🇿
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.238:2096/?type=ws&encryption=none&host=sni.jpmj.dev&path=%2F&security=tls&sni=sni.jpmj.dev#🔒smkn-CZ-🇨🇿
+trojan://5y8y3CwxRVYhyfSY@185.253.46.105:443?allowInsecure=1&sni=ce.rutracker-cn.com#🔒smkn-CZ-🇨🇿
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@14.102.228.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F#🌐smkn-CZ-🇨🇿
