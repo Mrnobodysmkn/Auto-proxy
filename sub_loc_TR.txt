@@ -1,5 +1,8 @@
-vless://4d94fa33-9462-48b4-b7de-8a2863560d19@62.60.233.41:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=my.oversecure.pro&fp=chrome&security=reality&pbk=L9LQ_8Ymo1o7QRPvWXsd4VY_i_OZ-0ZIw_mU16zaPEY&sid=a20d3ed244c76426#🔒smkn-TR-🇹🇷
-vless://bff7b258-8291-4298-bdee-991a92c1f33c@45.195.137.112:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&security=reality&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&sid=cf9d145ad8f1ea55#🔒smkn-TR-🇹🇷
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@86.38.214.3:8880/?type=ws&encryption=none&host=bitget1.asdasd.click&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-TR-🇹🇷
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@86.38.214.177:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-TR-🇹🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SW9wblgwd3pFa3JjM1pjVlE5Nzh6@185.39.204.189:34085/#🌐smkn-TR-🇹🇷
+vless://870d3183-17a1-4a87-9021-e12e3ac2939f@185.181.209.206:443?security=reality&encryption=none&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gateway.icloud.com&sid=ed7b9bdfedb9b8e5#🔒smkn-TR-🇹🇷
+vless://bdb38d2a-a77a-4d59-b8ee-e112e2158ecb@38.180.105.41:443?mode=stream-up&path=%2F&security=reality&encryption=none&pbk=WMtz14UxpA9vKSRBJVdsuSgdnw98ZmUrYZITLotoaFA&fp=chrome&spx=%2F&type=xhttp&sni=m.twitch.tv&sid=885f9a4ad907b4ed#🔒smkn-TR-🇹🇷
+ss://146eb6cf-a99c-4022-85ca-022cf81502dc@195.74.93.254:443?security=reality&amp;encryption=none&amp;pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=web.max.ru&amp;sid=247fd6dab1a34a48#🔒smkn-TR-🇹🇷
+vless://9e77bf8a-cd62-4d65-87fb-640a762abab1@185.220.226.36:443?security=tls&type=ws&headerType=&path=%2Fnews&host=cdn-pro1.postshup.ir.&sni=cdn-pro1.postshup.ir.&fp=chrome&alpn=h3%2Ch2#🔒smkn-TR-🇹🇷
+vless://2121978a-8710-4e62-86ff-7de7b3410b9c@45.198.88.35:8443?type=tcp&security=reality&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#🔒smkn-TR-🇹🇷
+vless://8a68ccbc-4df4-4f73-922b-08e77aa8249d@185.220.226.36:56987?path=/news&security=tls&alpn=h2,h3&encryption=none&insecure=0&host=cdn-gr.hardwarenew.ir.&fp=chrome&type=ws&allowInsecure=0&sni=cdn-gr.hardwarenew.ir.#🔒smkn-TR-🇹🇷
+vless://d58ee1bc-4eaf-4b82-ac8b-5e45837f2956@185.220.226.20:11000?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=icloud.com&fp=chrome&pbk=3WnHdv9A0tNParChTLxPnDteRD841h8thOGR7MBgAhY&headerType=none#🔒smkn-TR-🇹🇷
+vless://ZoRoVPN@203.202.232.11:36068/?type=ws&encryption=none&host=Play.google.com&path=%2FZoRoVpn#🌐smkn-TR-🇹🇷
