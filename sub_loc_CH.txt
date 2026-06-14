@@ -1,3 +1,2 @@
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@103.227.84.1:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=127zCnB9vtae6HnpowaSW8eFqflCAaBV0iM1oKHBWwY&security=reality&sid=a1ab5a56bc42&sni=sw1tzerl4nd.gxcore.net&type=tcp#🔒smkn-CH-🇨🇭
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@45.90.57.139:8443?host=linek.perry.us.kg&path=%2Fmall%2Fcollect&security=tls&sni=linek.perry.us.kg&type=ws#🔒smkn-CH-🇨🇭
-vless://d39664df-5bc0-4f49-9894-8f03b4150082@84.234.29.132:8443?encryption=none&fp=chrome&mode=auto&path=%2F&pbk=QLamtir13xwzyWVlPRN3C7lw_fhSBU7X4H3A8zAl5Fg&security=reality&sid=6f3192&sni=www.yahoo.com&type=xhttp#🔒smkn-CH-🇨🇭
+vless://75b52620-610a-4e4d-b11b-2bcd8f1d508e@84.234.31.193:2053?mode=gun&security=reality&encryption=none&pbk=Q8kXSdOSxx-00IrhBu-0WbgFCZNhokvYpiUFFNVsfGo&fp=chrome&spx=%2F&type=grpc&serviceName=www.nvidia.com&sni=www.nvidia.com&sid=ac8c7f8b46a42c02#🔒smkn-CH-🇨🇭
+vless://75b52620-610a-4e4d-b11b-2bcd8f1d508e@84.234.31.193:2083?security=reality&encryption=none&pbk=Gn03kawBW6JEKZRCqDAeeJRsRph_EXRN-FVvK7DkEkc&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.nvidia.com&sid=e0b7bafa91e992ca#🔒smkn-CH-🇨🇭
