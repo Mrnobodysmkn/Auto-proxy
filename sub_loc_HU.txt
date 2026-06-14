@@ -1,2 +1,12 @@
-vless://a87cea64-42d8-46c3-b617-e02ec175fe98@141.11.202.250:2096?path=/?ed=2096&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=arm1.dollardoon.com&fp=chrome&type=ws&sni=arm1.dollardoon.com#🔒smkn-HU-🇭🇺
-vless://b941404a-bcf6-4d4d-a046-8d4f6ad14ec3@45.198.87.84:8443?security=reality&encryption=none&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=2715592069f36fe7#🔒smkn-HU-🇭🇺
+vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.202.193:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2#🔒smkn-HU-🇭🇺
+vless://16bbdaa1-7145-4e5d-9c49-d2059d76432d@217.13.104.149:443?security=reality&sni=hu.jojack.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=f85b0cdd7d20c84c&type=tcp&flow=xtls-rprx-vision&encryption=none#🔒smkn-HU-🇭🇺
+vless://47ab09c5-b2cc-441f-b5e5-6782b722d3ee@109.122.221.77:443?flow=xtls-rprx-vision&fp=chrome&pbk=mPzNFHO4pZMzFviRkIhRd7xDUz4dMHyI-flZLOrgDVg&security=reality&sid=6e8229cc19400de4&sni=hu.locklance.lol&type=tcp#🔒smkn-HU-🇭🇺
+vless://82ef9d5e-eba6-4ce6-9dea-d296d0ff495d@74.49.214.169:443?path=/Telegram-Channel--Masir-Sefid&security=tls&encryption=none&echfq=none&host=vps.masir-sefid-4.shop&fp=chrome&allowinsecure=0&type=ws&sni=vps.masir-sefid-4.shop#🔒smkn-HU-🇭🇺
+vless://0ee2d410-3e64-4c41-a571-3e5d2b5b8982@217.13.104.128:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-cDQPpiRCwOtfQ22cdCd3NkDlqpubdklZXaFGhwUfS8&security=reality&sid=a20d3ed244c76426&sni=sun6-22.userapi.com#🔒smkn-HU-🇭🇺
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.202.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#🔒smkn-HU-🇭🇺
+vless://d91397a6-aa9c-4ce3-903e-81c50e14fdaf@45.198.87.30:8443?flow=xtls-rprx-vision&fp=firefox&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=2715592069f36fe7&sni=storage.yandex.net&type=tcp#🔒smkn-HU-🇭🇺
+trojan://0ldyjdhd-vpnjantit.com@46.29.142.57:4443?allowInsecure=0&sni=hu2.vpnjantit.com#🌐smkn-HU-🇭🇺
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@74.49.214.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560fp%3Dchrome#🌐smkn-HU-🇭🇺
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@141.11.203.3:8880/?type=ws&encryption=none&host=bitget1.asdasd.click&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-HU-🇭🇺
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.202.30:8880?type=ws&host=vms.lifetime10.workers.dev#🌐smkn-HU-🇭🇺
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@74.49.214.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-HU-🇭🇺
