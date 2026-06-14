@@ -1,4 +1,5 @@
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@194.152.44.71:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org#🔒smkn-UA-🇺🇦
-vless://217d5b38-a3a9-4ee1-9ca4-20667ee85933@172.252.125.77:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=arxiv.org&fp=chrome&security=reality&pbk=wLfv-FK7CWwt57C7Ye-zx0MNraxYoQXAsjIx4f27WWY&sid=a88038293e33#🔒smkn-UA-🇺🇦
-trojan://2e7d3f13-be1b-479c-94ff-0e95c2bd565d@89.116.180.158:443?security=tls&sni=3us2.pqjc.buzz&type=tcp#🔒smkn-UA-🇺🇦
-trojan://ttfang@45.135.235.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram&Host=ttfang.fange.me#🔒smkn-UA-🇺🇦
+trojan://NISHIKUITAN111@194.152.44.218:443/?type=tcp&security=tls&allowInsecure=1#🔒smkn-UA-🇺🇦
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.138:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#🔒smkn-UA-🇺🇦
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.40:8880?&type=ws&headerType=none&host=vms.lifetime09.workers.dev&path=%2F%3Fed%3D2560#🌐smkn-UA-🇺🇦
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.135.235.253:8880?encryption=none&security=none&type=ws&host=joss.jak.biz.id&path=%2FFree-VPN-CF-Geo-Project%2FHK%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-UA-🇺🇦
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@89.116.180.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-UA-🇺🇦
