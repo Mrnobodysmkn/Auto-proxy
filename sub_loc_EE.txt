@@ -1,6 +1,2 @@
-vless://8871d6a1-85cf-4588-b6f5-830043781ee9@38.180.230.147:443?fp=firefox&mode=gun&pbk=QJW15WZWLNjA8KEpe4GqSdOe4rfW8KgqjjVmKxPk-ng&security=reality&serviceName=gun&sid=3fa234ea9feaa048&sni=centos.ubuntuhosting.host&type=grpc#🔒smkn-EE-🇪🇪
 vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@185.36.140.105:443?encryption=none&security=tls&sni=3-7gj.pages.dev&insecure=0&allowInsecure=0&type=ws&host=3-7gj.pages.dev&path=%2Fproxyip%3DProxyIP.DE.owg.dpdns.org#🔒smkn-EE-🇪🇪
-vless://f4d74570-934c-44a2-9639-73598dde77de@146.19.143.54:443?security=reality&flow=xtls-rprx-vision&sni=ee.nodes.rocketnetwork.ru&type=tcp&fp=chrome&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&sid=428ef87fd47a3a32#🔒smkn-EE-🇪🇪
-vless://22f97634-cb4f-4661-b9e0-9d3865544e1e@132.243.65.107:8443?mode=multi&security=reality&encryption=none&pbk=TdT90qbeyM7WO0QCztOhKDGKOi2qaFFif0hO0cfK1E4&fp=chrome&spx=%2F&type=grpc&serviceName=max.ru&sni=max.ru&sid=ea1058117be12087#🔒smkn-EE-🇪🇪
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.110.253:8880?encryption=none&host=joss.jak.biz.id&path=/Free-VPN-CF-Geo-Project/HK&security=none&type=ws#🌐smkn-EE-🇪🇪
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.159.247.30:8880?type=ws&host=vms.lifetime59.workers.dev&path=#🌐smkn-EE-🇪🇪
+vless://10e82fcc-94ec-4d09-8855-579bb55b77e4@93.123.39.49:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&sni=www.google.com#🔒smkn-EE-🇪🇪

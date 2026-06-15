@@ -1,7 +1,5 @@
-vless://8bbf020e-653f-4a82-9900-1214e4e37dab@45.151.183.101:443?allowInsecure=0&sni=www.microsoft.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#🔒smkn-CZ-🇨🇿
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.229.191:443?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=%2F&security=tls&sni=sni.my111000.tech&type=ws#🔒smkn-CZ-🇨🇿
-trojan://bpb-trojan@195.85.23.232:443/?type=tcp&security=tls&sni=bpb.my79801.com#🔒smkn-CZ-🇨🇿
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.229.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=%2F&security=tls&sni=sni.my111000.tech&type=ws#🔒smkn-CZ-🇨🇿
-trojan://ttfang@14.102.228.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram&Host=ttfang.fange.me#🔒smkn-CZ-🇨🇿
-vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@194.182.77.110:8080?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#🌐smkn-CZ-🇨🇿
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@14.102.229.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-CZ-🇨🇿
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.191:443?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=%2F&security=tls&sni=sni.my111000.tech&type=ws#🔒smkn-CZ-🇨🇿
+vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@195.85.23.229:443/?type=ws&encryption=none&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&security=tls&sni=mypHOtoGRAPICpIctUre.iR&alpn=http%2F1.1#🔒smkn-CZ-🇨🇿
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#🔒smkn-CZ-🇨🇿
+vless://ae5ba4be-7262-4199-bd62-210ed8999b9f@188.130.208.220:5443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=chrome&security=reality&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&sid=#🔒smkn-CZ-🇨🇿
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@143.244.58.102:443#🔒smkn-CZ-🇨🇿
