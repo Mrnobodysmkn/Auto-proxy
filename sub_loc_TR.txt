@@ -1,9 +1,7 @@
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@195.16.74.73:443?host=linek.perry.us.kg&path=%2Fpicture&security=tls&sni=linek.perry.us.kg&type=ws#🔒smkn-TR-🇹🇷
-vless://2032a675-9a0b-31c2-4a85-8817d3348527@155.212.110.3:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=speed.cloudflare.com&fp=chrome&pbk=DnnQOtWhilZ3rqlSip0spBkluYlPeydouSR3iklbPTs&type=tcp&headerType=none#🔒smkn-TR-🇹🇷
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@45.89.52.124:443?host=linek.perry.us.kg&path=%2Fresource%2Fcomics%2Flive&security=tls&sni=linek.perry.us.kg&type=ws#🔒smkn-TR-🇹🇷
-trojan://bpb-trojan@86.38.214.132:443/?type=ws&host=bpb.my79801.com&path=%2Ftr%3Fed&security=tls&sni=bpb.my79801.com#🔒smkn-TR-🇹🇷
-vless://bdb38d2a-a77a-4d59-b8ee-e112e2158ecb@38.180.105.41:443?mode=stream-up&path=%2F&security=reality&encryption=none&pbk=WMtz14UxpA9vKSRBJVdsuSgdnw98ZmUrYZITLotoaFA&fp=chrome&spx=%2F&type=xhttp&sni=m.twitch.tv&sid=885f9a4ad907b4ed#🔒smkn-TR-🇹🇷
-ss://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@77.83.245.32:443?security=reality&amp;encryption=none&amp;pbk=3B0Zpg7qS7mRbxW16tUht3uyQDmEyjiB3u1QJ6SCe18&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tr.buycloud.app&amp;sid=5c6420df94fdf71d#🔒smkn-TR-🇹🇷
-vless://3dea6303-85e8-43de-b3c9-47b011c57ffc@45.198.88.50:8443?allowInsecure=0&sni=storage.yandex.net&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#🔒smkn-TR-🇹🇷
-trojan://8r%3C%5B9%27l6hAO%238ZQi@141.98.115.65:8443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&ws=1&wspath=%252FtrTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2520%2540WangCai2#🌐smkn-TR-🇹🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SW9wblgwd3pFa3JjM1pjVlE5Nzh6@185.39.204.189:34085/#🌐smkn-TR-🇹🇷
+vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=auto&path=%2F&security=reality&encryption=none&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&fp=random&type=xhttp&sni=www.google.com&sid=44#🔒smkn-TR-🇹🇷
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@86.38.214.43:443?allowInsecure=1&encryption=none&host=sni.111000.cc.cd&path=%2F%3Fhttps%253A%252F%252Ft.me%252Fwangcai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.111000.cc.cd&type=ws#🔒smkn-TR-🇹🇷
+vless://aeb01308-551f-4d2d-933d-3b83c3eedec0@203.202.232.193:443?security=reality&flow=xtls-rprx-vision&sni=www.sun6-22.userapi.com&type=tcp&fp=chrome&pbk=zWrxgTbk72_sFXfQmu9QYG4-_NRlDQOdZv8VcY6D0QU&sid=3016eb825df4f223#🔒smkn-TR-🇹🇷
+vless://06bcd513-ef0b-4c0c-a03b-e25fcda66fe2@45.195.137.2:8443?flow=xtls-rprx-vision&fp=chrome&pbk=IdqrygjwHBEMCOamBl7a504TVk6uMAtTRj0xLWcFcxY&security=reality&sid=e3d38cee79d4f94c&sni=storage.yandex.net&type=tcp#🔒smkn-TR-🇹🇷
+vless://53353c51-ab85-4f1d-b81c-d855a0cdeeba@213.142.132.75:443?encryption=none&security=&type=ws#🔒smkn-TR-🇹🇷
+trojan://8r%3C%5B9%27l6hAO%238ZQi@185.113.223.183:8443?allowInsecure=0&sni=Koma-YT.PAGeS.Dev&type=ws&path=/trTelegram+@WangCai2#🌐smkn-TR-🇹🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFMTJ5WkJQQzd5OFNubWtTWWpmMFds@62.133.63.167:61377#🌐smkn-TR-🇹🇷
