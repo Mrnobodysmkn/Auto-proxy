@@ -1,4 +1,2 @@
-vless://8007e155-622e-4c9d-8a6e-67f49b4678f4@84.234.16.169:443?&security=tls&sni=edt2-lgy.pages.dev&type=ws&headerType=none&host=edt2-lgy.pages.dev&path=/#🔒smkn-CH-🇨🇭
-vless://3b7950ed-e076-4a51-8df2-222a88689700@45.197.134.24:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=chrome&security=reality&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d037f6f67cc90016#🔒smkn-CH-🇨🇭
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#🌐smkn-CH-🇨🇭
-vless://8a38623a-3e7f-5598-bdc9-894cbad4c5b6@83.228.228.44:22?encryption=none&headerType=http&path=%2F%40monacoVPN%40monacoVPN%40monacoVPN%40monacoVPN&security=none&type=tcp#🌐smkn-CH-🇨🇭
+vless://5f46e04e-b903-4a59-a419-d580bd4a343f@167.148.183.113:443?type=grpc&security=reality&fp=ios&pbk=N1Rtv8_IzyRC7BL78DNdADvNUPBfZrcNh8j5segLlHA&sid=99f9f332549ec4c7&sni=Search.ch&mode=multi&serviceName=servres#🔒smkn-CH-🇨🇭
+vless://26524cce-d514-4014-a426-365fb266a14d@91.245.225.79:2053?allowInsecure=0&sni=vfa9.cdn-stream.fgfw.indevs.in&type=ws&host=vfa9.cdn-stream.fgfw.indevs.in&path=/danfeng?ed=2560fp=firefox&security=tls#🔒smkn-CH-🇨🇭
