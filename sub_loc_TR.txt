@@ -1,9 +1,6 @@
-vless://9175264d-11b6-431f-86a7-69adf9fa24f2@84.32.230.160:443?security=reality&sni=ftp.debian.org&fp=chrome&pbk=cY7T3CiF0ysvFgyTXliMsXSTBM0Icd_VOhuDkxM9nFY&sid=75e19bf5087c4f0c&type=grpc&serviceName=T0wremSR3w3SOIHUGuPda&encryption=none#🔒smkn-TR-🇹🇷
-ss://eedcee2e-7517-4162-852d-b21b864b8e3f@195.74.93.254:443?security=reality&amp;encryption=none&amp;pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=web.max.ru&amp;sid=247fd6dab1a34a48#🔒smkn-TR-🇹🇷
-ss://809c908f-2219-11f0-9970-45e1d80c4039@62.60.233.250:443?security=reality&amp;encryption=none&amp;pbk=MFsbnsNQsSpZwP-_Ohzako6aHpfK4-rbssxhr3eywWw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=images.apple.com&amp;sid=4476a3#🔒smkn-TR-🇹🇷
-vless://6a2eb00f-990a-4cfc-be96-907270f1577b@138.124.107.46:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tr.c2horizon.app&fp=chrome&security=reality&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4#🔒smkn-TR-🇹🇷
-vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.226:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#🔒smkn-TR-🇹🇷
-vless://2db3b422-3f2d-401f-9666-10df3e90e464@185.220.226.34:80?path=%2Fnews&security=none&encryption=none&host=www.skyroom.online&type=ws#🌐smkn-TR-🇹🇷
+trojan://Aimer@86.38.214.186:443/?type=tcp&security=tls&sni=agepj.ambercc.filegear-sg.me#🔒smkn-TR-🇹🇷
+ss://ecb092b3-040f-4b3c-b819-de9291c2f452@31.57.225.201:40282?encryption=none&amp;fp=&amp;pbk=Oh_hH0LUAL7SHppzMjQ96NSW-qMBDvvogqU1eVxEr2Q&amp;security=reality&amp;sid=390c3c575aa3ec48&amp;sni=yahoo.com&amp;type=tcp#🔒smkn-TR-🇹🇷
+trojan://8r%3C%5B9%27l6hAO%238ZQi@45.67.202.173:443?allowInsecure=0&sni=Koma-YT.PAGeS.Dev#🔒smkn-TR-🇹🇷
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@86.38.214.177:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-TR-🇹🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFMTJ5WkJQQzd5OFNubWtTWWpmMFds@62.133.63.167:61377#🌐smkn-TR-🇹🇷
-vmess://eyJhZGQiOiAiNS4xODguMTkwLjI1MiIsICJhaWQiOiAiMCIsICJhbHBuIjogbnVsbCwgImZwIjogImNocm9tZSIsICJob3N0IjogIiIsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAibmFtZSI6ICJcdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZjcgVFIgMSIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogMjIzMjQsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLVRSLVx1ZDgzY1x1ZGRmOVx1ZDgzY1x1ZGRmNyIsICJzY3kiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6IG51bGwsICJ0bHMiOiAiIiwgInR5cGUiOiBudWxsLCAidiI6IG51bGx9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnQjdPZU5aVkNPc1pHS1RodkpsY085SnVpVnNVZ0xQYThRSGpBREZobzVjdkd5NHY=@5.188.168.230:31348?type=tcp#🌐smkn-TR-🇹🇷
+vless://a070d221-727c-4e69-939b-1ae88e78173d@83.217.9.225:8880?security=none&type=ws&headerType=&path=%2F&host=&flow=#🌐smkn-TR-🇹🇷
