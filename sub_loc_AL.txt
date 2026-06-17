@@ -1,2 +1,1 @@
-vless://0e72007e-5e69-48af-bc76-2cc0eef522a5@85.155.228.62:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=ztJq-ujdckOvXgiARRnTean6syVqoBBWw0s5tL5IkhE&sni=www.microsoft.com#🔒smkn-AL-🇦🇱
-ss://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@45.82.13.5:443?security=reality&amp;encryption=none&amp;pbk=ElEALiFaDTMj9lYwMPYaCVnbMkz22pvzD10dGW61kyc&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=alb00.sidecloud.ru&amp;sid=d98613f3853a7c26#🔒smkn-AL-🇦🇱
+vless://15a54c93-49ca-4e6c-86e5-d337b338cd9d@45.89.60.64:443?encryption=none&type=grpc&mode=gun&security=reality&sni=ads.x5.ru&fp=safari&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE#🔒smkn-AL-🇦🇱
