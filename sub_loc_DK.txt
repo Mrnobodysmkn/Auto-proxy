@@ -1,2 +1,1 @@
-trojan://v2raydia@140.248.69.255:443?mode=auto&path=/v2raydia&security=tls&extra={"xPaddingBytes":"100-1000"}&insecure=1&host=khre.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=api.imgur.com#🔒smkn-DK-🇩🇰
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@89.28.236.192:8443?allowInsecure=0&sni=linek.perry.us.kg&type=ws&host=linek.perry.us.kg&path=/programssecurity=tls#🔒smkn-DK-🇩🇰
+vless://38492d78-0af6-4a83-a4a5-9acffcf8049b@168.222.43.222:2083?security=reality&encryption=none&pbk=KvfHUVOWF9qe7mHTRGUjGTJTk2NagEdNRQwibCskQgc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=9c25fc8f#🔒smkn-DK-🇩🇰
