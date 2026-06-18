@@ -1,2 +1,4 @@
-vless://bfd6c195-e37e-40ed-b962-c3ea4ac0f5df@193.233.161.40:23356?security=reality&sni=apple.com&type=grpc&serviceName=api&fp=edge&pbk=KtHJA0ZiW3VEPTjGQOlT3NlXZWlqAPHKHqki_IGX3Wk&sid=483d116ad48a4091&allowInsecure=1#🔒smkn-AT-🇦🇹
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@212.183.88.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🌐smkn-AT-🇦🇹
+vless://6d1b6391-c4ba-431e-9c3a-148a8f392c8b@31.14.17.188:443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=at188.mechvpn.online#🔒smkn-AT-🇦🇹
+vless://794f9f41-92c9-4a78-8ffc-1f82cb48a4e2@212.183.88.46:443/?type=ws&encryption=none&host=0229.patterdeng.pp.ua&path=%2F%3Fed%3D2560security%3Dtls&security=tls&sni=0229.patterdeng.pp.ua#🔒smkn-AT-🇦🇹
+vless://8ea0665e-dee3-418c-8822-1f70f350f2db@77.110.110.206:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&security=reality&sid=8ffa160e608bf539&sni=as.pink-perfect.ru&type=tcp#🔒smkn-AT-🇦🇹
+vless://2ee2b77f-e4cd-4e5d-af22-f9d919eeadd5@87.251.69.48:8443?security=tls&type=tcp&alpn=h2,http/1.1&sni=at16.fastlanehosting.ru&fp=chrome&encryption=none#🔒smkn-AT-🇦🇹
