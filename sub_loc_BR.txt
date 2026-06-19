@@ -1,2 +1,1 @@
-trojan://trojan@185.133.35.46:443?security=tls&sni=test-a23.pages.dev&type=ws&host=test-a23.pages.dev&path=%2FTelegram-%40proxy_mtm%2F%3Fed%3D2560&fp=chrome&alpn=h2,http/1.1#🔒smkn-BR-🇧🇷
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.12.41:443?security=tls&sni=mefa.ir&type=ws&host=mefa.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒smkn-BR-🇧🇷
+vless://f5a2c547-734e-4655-8069-618e38e2cd5c@46.202.148.138:3443?type=tcp&headerType=none&security=reality&encryption=none&sni=sun1-25.userapi.com&fp=firefox&pbk=9LNSgBOlq4NZ0ImlAOtYZKcie1MS3JOI_0kARZKCY24&sid=7a3f9e2b1c8d4f6a&flow=xtls-rprx-vision#🔒smkn-BR-🇧🇷
