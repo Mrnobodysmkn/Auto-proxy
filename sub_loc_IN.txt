@@ -1,3 +1,1 @@
-trojan://Aimer@108.165.152.78:2083/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org#🔒smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.66:2083/?type=tcp&security=tls&sni=epccd.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.219:443/?type=tcp&security=tls&sni=agepj.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
+vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@45.88.183.64:8443/?type=grpc&encryption=none&flow=&serviceName=buysec.ru&sni=cdn.kwork.com&fp=chrome&security=reality&pbk=J07yFEBPsic7-hLTS2KSxVqI7v4gpfkG6_a2cGKNVFk&sid=10f786a2491b2cd5#🔒smkn-IN-🇮🇳
