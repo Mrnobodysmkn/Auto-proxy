@@ -1,3 +1,2 @@
-trojan://NISHIKUITAN111@154.83.2.121:443/?type=tcp&security=tls#🔒smkn-TH-🇹🇭
-trojan://amclubs@154.83.2.61:8443/?type=ws&path=%2F%3Fed%3D2560&security=tls&sni=tran.amclubstest.nyc.mn#🔒smkn-TH-🇹🇭
-ss://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.54:2096?encryption=none&amp;security=tls&amp;sni=vle.amclubsapp.dpdns.org&amp;type=ws&amp;host=vle.amclubsapp.dpdns.org#🔒smkn-TH-🇹🇭
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@154.83.2.18:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#🔒smkn-TH-🇹🇭
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@47.87.65.216:443/?type=tcp&encryption=none&sni=api.digital-help-prd.autodesk.com&fp=random&security=reality&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&sid=#🔒smkn-TH-🇹🇭
