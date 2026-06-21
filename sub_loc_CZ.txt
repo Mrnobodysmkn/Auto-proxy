@@ -1,3 +1,5 @@
-vless://cc6b985d-0362-4129-8763-38564174fb3e@14.102.228.209:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=iryiccyne.wwtraveler.com&alpn=http%2F1.1%2Ch2&fp=chrome#🔒smkn-CZ-🇨🇿
-vless://31aac68e-8e74-47e9-9217-0ea77a48d8a1@195.123.244.86:443?encryption=none&security=reality&sni=www.google.com&fp=random&pbk=0RgLpbNFUMQGoNVx8HSV4bmtIvayQFL0HfV9fdCsBks&sid=11&spx=%2F&type=xhttp&path=%2F&mode=auto#🔒smkn-CZ-🇨🇿
-trojan://8r%3C%5B9%27l6hAO%238ZQi@14.102.229.253:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram#🔒smkn-CZ-🇨🇿
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.229.191:443?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=%2F&security=tls&sni=sni.my111000.tech&type=ws#🔒smkn-CZ-🇨🇿
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@195.85.23.54:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#🔒smkn-CZ-🇨🇿
+vless://ae5ba4be-7262-4199-bd62-210ed8999b9f@188.130.208.220:5443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=chrome&security=reality&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&sid=#🔒smkn-CZ-🇨🇿
+trojan://ttfang@14.102.228.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram&Host=ttfang.fange.me#🔒smkn-CZ-🇨🇿
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.229.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=%2F&security=tls&sni=sni.my111000.tech&type=ws#🔒smkn-CZ-🇨🇿
