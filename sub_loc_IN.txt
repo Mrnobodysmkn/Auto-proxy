@@ -1,5 +1,7 @@
-trojan://Aimer@108.165.152.80:2083?security=tls&sni=epgc.aimercc.dpdns.org&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epgc.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.92:2053/?type=tcp&security=tls&sni=agept.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
-vless://c782a4b0-60d6-4540-8152-8725753fdad3@45.149.114.148:8104/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rbc.ru&fp=firefox&security=reality&pbk=yOWj4KtHTjRo6SutNETYUgiNUXES0NY-PcpE9a4MqFM&sid=f084a3b523cf0aa7#🔒smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.143:2087?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#🌐smkn-IN-🇮🇳
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.208.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-IN-🇮🇳
+vless://4959177b-62d7-4d1b-b6a3-eed72c0609c5@144.24.127.7:443?security=tls&flow=xtls-rprx-vision&sni=www.0wolf.com&type=tcp&fp=chrome#🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.104:2053/?type=tcp&security=tls&sni=epccs.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.91:2083/?type=tcp&security=tls&sni=epccd.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
+ss://df724c8a-5c5a-4859-974e-6e911b14955c@45.89.106.99:40443?flow=xtls-rprx-vision&fp=firefox&pbk=-sirwzF9HjIp1PVRK-z-2Ux39ufs6_W1cBw1cFoHXHc&security=reality&sid=a852&sni=deepl.com&type=tcp#🔒smkn-IN-🇮🇳
+vless://394f6981-a782-4779-9a85-e6cf22935d93@168.144.27.201:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.249:2087/?type=tcp&security=tls&sni=epccz.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.14:2096?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#🌐smkn-IN-🇮🇳
