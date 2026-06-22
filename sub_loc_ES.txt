@@ -1,4 +1,4 @@
-vless://b653c3fb-e95e-5ed9-86d5-c169d6a4f2b9@199.232.32.165:443?security=tls&sni=JoinBede-ELiV2rAY.ai&type=ws&host=JoinBede-eliv2ray.ai&path=%2F%3Fed%3D2048&fp=edge#🔒smkn-ES-🇪🇸
-vless://92e41c23-4b39-464a-bbff-63ef84f317da@152.233.56.39:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=firefox&flow=xtls-rprx-vision&pbk=fJGvGs_j23gTjn5q5QWCOsD3TeIdOqkpSLv7geS6AQI&sid=2b8c5943#🔒smkn-ES-🇪🇸
-vless://53176a84-ac30-49d2-9a95-3092ab83dd68@45.198.80.151:8443?type=tcp&security=reality&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=04bf0403f96e5b4b#🔒smkn-ES-🇪🇸
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@185.18.250.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-ES-🇪🇸
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.32.21:443?security=tls&sni=behdasht.hrtc.ir&encryption=none@ShadowsocksM68&type=ws&host=behdasht.hrtc.ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒smkn-ES-🇪🇸
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.35.199:443?security=tls&sni=Sanjeshp.Ir&encryption=none@ShadowsocksM46&type=ws&host=Sanjeshp.Ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒smkn-ES-🇪🇸
+trojan://1e9aadae-ca17-4f75-b0a0-7de5e3858cfb@185.18.250.117:443?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=tls&encryption=none&host=xn----pmcnaac0dkn0rb71nda.pages.dev&type=ws&sni=xN----PMcNAAC0DKn0Rb71nDa.PAges.Dev#🔒smkn-ES-🇪🇸
+trojan://842b5f9dd11e458d8613c907c4cc5723@65.20.102.54:443?sni=www.gpt123.one&allowInsecure=1&type=tcp#🔒smkn-ES-🇪🇸
