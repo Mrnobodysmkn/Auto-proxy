@@ -1,7 +1,2 @@
-vless://eb5f5964-1b12-457b-b8a6-bca5332e0494@138.128.224.100:443/?type=ws&encryption=none&host=s6.design-mobo.ir&path=%2Ftelegram-mitivpn&security=tls&sni=s6.design-mobo.ir&fp=chrome#🔒smkn-AE-🇦🇪
-vless://26ca9191-5a90-40e5-9f03-c9181bcefb21@94.183.254.33:603?mode=gun&security=reality&encryption=none&pbk=5v8dacYH_2g00OT1RHInxY3woV5CQIxd-Fz4IPQQTSI&fp=firefox&type=grpc&sni=www.amd.com&sid=9a1c7e3b5d0f4826#🔒smkn-AE-🇦🇪
 vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@193.123.74.174:8443?encryption=none&security=tls&sni=linek.perry.us.kg&alpn=h3&insecure=0&allowInsecure=0&type=ws&host=linek.perry.us.kg&path=%2Fhelp%2Ff#🔒smkn-AE-🇦🇪
-vless://3be1535c-bfb4-4ef3-bedb-f4ecdaac7c5e@185.215.234.29:8443?encryption=none&security=tls&sni=cloud.farsonline24.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=cloud.farsonline24.ir&path=/mehdi#🔒smkn-AE-🇦🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.112.5.55:443#🔒smkn-AE-🇦🇪
-vless://6e739ee6-ed1e-4786-98a9-1734e571e0d9@185.215.234.97:2086?path=%2F&security=none&encryption=none&host=fast.sheeplow.ir&type=ws#🌐smkn-AE-🇦🇪
-ss://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?security=&amp;type=ws&amp;path=/telegram-mitivpn&amp;host=iriknet.ir&amp;encryption=none#🌐smkn-AE-🇦🇪
+vless://1b89a394-8b9d-4157-973c-75d43b2987fd@146.75.64.0:80?mode=auto&path=%2Fcdn%2Fassets%3F&security=none&encryption=none&host=abriconf.global.ssl.fastly.net&type=xhttp#🌐smkn-AE-🇦🇪
