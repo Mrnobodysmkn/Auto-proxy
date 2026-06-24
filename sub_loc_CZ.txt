@@ -1,6 +1,1 @@
-vless://50e75c0f-801a-4291-9d98-80e77b787fd5@195.85.23.236:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒smkn-CZ-🇨🇿
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.229.138:2096/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&sni=sni.111000.indevs.in&fp=chrome#🔒smkn-CZ-🇨🇿
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@14.102.229.66:2087?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/security%3Dtls#🔒smkn-CZ-🇨🇿
-trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443#🔒smkn-CZ-🇨🇿
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@14.102.229.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-CZ-🇨🇿
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@14.102.229.188:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-CZ-🇨🇿
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@14.102.228.210:2096?encryption=none&security=tls&type=ws&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#🔒smkn-CZ-🇨🇿
