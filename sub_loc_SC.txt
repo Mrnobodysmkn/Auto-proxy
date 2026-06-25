@@ -1,9 +1,5 @@
-vless://15767113-9f48-b71b-718c-d36fdae8b8c6@45.130.125.206:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=adminnl2.nekagsm.com#🔒smkn-SC-🇸🇨
-vless://738dcc38-94dc-4ae5-9a37-0fc6931feab3@45.130.125.60:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=decdnmtn.gozarino.com&fp=chrome&type=ws&allowInsecure=0&sni=decdnmtn.gozarino.com#🔒smkn-SC-🇸🇨
-ss://28607fa7-db30-47d6-942a-f5744e4be9ad@45.130.125.96:443?path=%2Fid-pusat&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=dfsuporte.garena.com.ex33r.eu.cc&amp;type=ws&amp;allowInsecure=0&amp;sni=dfsuporte.garena.com.ex33r.eu.cc#🔒smkn-SC-🇸🇨
-ss://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?mode=auto&amp;path=%2Fv2raylink&amp;security=tls&amp;alpn=http%2F1.1%2Ch2&amp;encryption=none&amp;insecure=0&amp;host=germany4.alibaba1405.org&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=germany4.alibaba1405.org#🔒smkn-SC-🇸🇨
-ss://bbab81f3-87a0-4e63-8b3b-010c645d8da7@45.130.125.239:443?mode=stream-one&amp;path=%2Fmeti&amp;security=tls&amp;encryption=none&amp;extra=%7B%22uplinkHTTPMethod%22%3A%22PUT%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;insecure=0&amp;host=mAJiD-SmArT.NEwAPpdOMiNFaStLOGiN4.cOM&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=mAJiD-SmArT.NEwAPpdOMiNFaStLOGiN4.cOM#🔒smkn-SC-🇸🇨
-vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@45.130.125.239:2087?path=%2F&security=tls&encryption=none&host=5JxGp6VrFh.SmArTtEcHzAaL.iNfO&type=ws&sni=5JxGp6VrFh.SmArTtEcHzAaL.iNfO#🔒smkn-SC-🇸🇨
-vless://02a8c937-e24a-435c-8ea9-5a11c72fff99@45.130.125.96:8443/?type=ws&encryption=none&host=ir.hollowspot.ir&path=%2Fapi%2Fv1%2Fproduct_id%2F99e98b49-1a2c-40a8-81aa-fd825465d766&security=tls&sni=ir.hollowspot.ir&alpn=http%2F1.1#🔒smkn-SC-🇸🇨
-vless://958100e2-40fa-4903-aaaf-d9b7690ae7f9@45.130.125.96:80?encryption=none&host=xU.aSaCO.sTorE&path=/&security=none&type=ws#🌐smkn-SC-🇸🇨
-vless://346b6e85-8874-4f58-870b-2539b4354dba@45.130.125.96:2086?encryption=none&host=xvh.andishehparenting.com&path=%2F&security=none&type=xhttp&mode=packet-up#🌐smkn-SC-🇸🇨
+vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.175:443?mode=auto&path=%2Fv2raylink&security=tls&encryption=none&insecure=0&host=www.yallda.com&fp=chrome&type=xhttp&allowInsecure=0&sni=shop.yallda.com#🔒smkn-SC-🇸🇨
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.112:2053?allowInsecure=1&amp%3Bencryption=none&amp%3Bhost=sni.111000.indevs.in&amp%3Bpath=/%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&amp%3Bsecurity=tls&amp%3Bsni=sni.111000.indevs.in&amp%3Btype=ws#🔒smkn-SC-🇸🇨
+trojan://humanity@45.130.125.112:443#🔒smkn-SC-🇸🇨
+trojan://Mitivpn@45.130.125.241:2053?allowInsecure=1&sni=dash.hitgram.ir&alpn=http/1.1&type=ws&host=dash.hitgram.ir&path=/?ed=2048#🔒smkn-SC-🇸🇨
+vless://2ac6e527-6410-48ce-b9ba-cc8135ee2a3b@45.130.125.112:80?security=none&type=ws&path=/&host=fragrant-recipe-09f4.wopecuyubak61.workers.dev#🌐smkn-SC-🇸🇨
