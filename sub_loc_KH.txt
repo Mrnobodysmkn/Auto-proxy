@@ -1,3 +1,1 @@
-vless://9b7e5296-9a97-4ecd-bb8d-3057045c5d1d@92.243.74.3:443?security=tls&sni=yelaaan.thelastronin.cloudns.org&type=ws&host=yelan.thelastronin.cloudns.org&path=%2Fvless%2Fat1-vless.greenssh.org&fp=random&alpn=http%2F1.1#🔒smkn-KH-🇰🇭
-vless://1cdc7d85-316b-4f99-a972-9e13709855fa@92.243.75.199:443?encryption=none&security=tls&type=xhttp&headerType=none&path=/?ed=2560/v2ray&mode=auto&extra={"xPaddingBytes":"100-1000"}&sni=germany.sfarhaiyehelmi.ir&fp=chrome&alpn=h2,http/1.1#🔒smkn-KH-🇰🇭
-trojan://Aimer@92.243.74.3:8443/?type=tcp&security=tls&sni=agept.ambercc.filegear-sg.me#🔒smkn-KH-🇰🇭
+trojan://Aimer@92.243.74.180:8443/?type=ws&path=%2F&security=tls&sni=tyep.esslh.filegear-sg.me#🔒smkn-KH-🇰🇭

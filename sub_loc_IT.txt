@@ -1,9 +1,8 @@
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.27:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&fp=edge&security=reality&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&sid=7a3f9e2b1c8d4f6a#🔒smkn-IT-🇮🇹
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.62:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&fp=edge&security=reality&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&sid=7a3f9e2b1c8d4f6a#🔒smkn-IT-🇮🇹
-ss://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.109:443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=chrome&amp;pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&amp;security=reality&amp;sid=7a3f9e2b1c8d4f6a&amp;sni=it.s3-cloud.xyz&amp;type=tcp#🔒smkn-IT-🇮🇹
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.9:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#🔒smkn-IT-🇮🇹
-vless://9e23aaba-5bf2-4810-8369-c9bf2a9979f9@72.146.184.66:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=www.cloudflare.com&amp;fp=safari&amp;pbk=CVbYSDZe2130NfbcGVM7P15Xy1LifR1cf0hsJKV_4V0&amp;sid=eb4c4c6a#🔒smkn-IT-🇮🇹
-vless://d443fb54-207c-4fa4-b9d8-3ae2a2957532@80.211.133.156:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=gmail.com&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#🔒smkn-IT-🇮🇹
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.93:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#🔒smkn-IT-🇮🇹
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.36:443?allowInsecure=1&sni=it.s3-cloud.xyz&flow=xtls-rprx-vision-udp443&fp=edge&security=tls#🔒smkn-IT-🇮🇹
 vless://08633db1-df68-48c6-90d7-5cbf7e1465bc@113.30.151.151:8443?encryption=none&security=tls&sni=rose.netfre.space&fp=chrome&alpn=h3,h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=rose.netfre.space&path=/@RoseCommunity?ed=2052#🔒smkn-IT-🇮🇹
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.1:8880/?type=grpc&encryption=none#🌐smkn-IT-🇮🇹
+vless://2d157a8f-7082-48dd-8ae3-a920936e8ab5@95.110.157.197:2003?security=reality&allowInsecure=0&encryption=none&type=tcp&sni=play.google.com&sid=2418ed47b875e923&fp=firefox&pbk=0nGh9GsPqY366E57yOAAfkD1F-YfxAtuLV6VHU9BA1s&headerType=none#🔒smkn-IT-🇮🇹
+vless://5586c2a9-c92c-4974-9b70-ca44622c6c8c@146.75.55.82:80/?type=ws&encryption=none&host=EtZM4uyEwUnSfh.com&path=%2Fcontainers%2Ffi#🌐smkn-IT-🇮🇹
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.140.148:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&sni=en.mfa.gov.ir&type=ws&host=en.mfa.gov.ir#🌐smkn-IT-🇮🇹
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.117:8880/?type=grpc&encryption=none#🌐smkn-IT-🇮🇹
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.110:8880/?type=grpc&encryption=none#🌐smkn-IT-🇮🇹
