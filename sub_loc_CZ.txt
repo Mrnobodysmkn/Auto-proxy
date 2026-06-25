@@ -1,7 +1,5 @@
-vless://6199b420-6037-4513-bb15-0e625ec393c2@194.58.46.240:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnjs.com&fp=chrome&security=reality&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&sid=ac31827454d7f693#🔒smkn-CZ-🇨🇿
-trojan://bpb-trojan@195.85.23.232:443/?type=tcp&security=tls&sni=bpb.my79801.com#🔒smkn-CZ-🇨🇿
-vless://a88b4c1f-c16f-4930-8da8-c8951040a72d@14.102.228.201:2087?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=Dnlu2.cdnpros.ir&fp=chrome&type=ws&allowInsecure=0&sni=Dnlu2.cdnpros.ir#🔒smkn-CZ-🇨🇿
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.238:2096/?type=ws&encryption=none&host=sni.jpmj.dev&path=%2F&security=tls&sni=sni.jpmj.dev#🔒smkn-CZ-🇨🇿
-vless://12345678-1234-1234-1234-123456789123@195.85.23.61:2096?path=/snippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#🔒smkn-CZ-🇨🇿
-vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bc@14.102.228.201:2052?encryption=none&type=xhttp&mode=auto&host=u2.pabloping.cloud&path=/pabloping&security=none#🌐smkn-CZ-🇨🇿
-vless://73bb419b-743f-4502-bfb5-08211272a325@14.102.228.201:80?path=/nexus&security=none&encryption=none&host=your.nexuschat.fun&type=ws#🌐smkn-CZ-🇨🇿
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@91.184.250.116:2083?security=tls&sni=xo.e0f.cx&type=ws&host=xo.e0f.cx&path=/trojan-ws#🔒smkn-CZ-🇨🇿
+trojan://Aimer@37.157.192.61:9902/?type=tcp&security=tls&sni=amepo.ambercc.filegear-sg.me&allowInsecure=1#🔒smkn-CZ-🇨🇿
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@103.119.18.32:8443?type=tcp&security=reality&pbk=4sm4mUC0igscX3gHfsxD2b0F6bimVQf_M6w2ZvV7QW8&fp=firefox&sni=www.ya.ru&sid=39f0#🔒smkn-CZ-🇨🇿
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@14.102.229.188:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-CZ-🇨🇿
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@14.102.229.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-CZ-🇨🇿
