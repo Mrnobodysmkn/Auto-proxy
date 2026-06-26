@@ -1,6 +1,3 @@
-vless://31aac68e-8e74-47e9-9217-0ea77a48d8a1@195.123.244.86:443?encryption=none&security=reality&sni=www.google.com&fp=random&pbk=0RgLpbNFUMQGoNVx8HSV4bmtIvayQFL0HfV9fdCsBks&sid=11&spx=%2F&type=xhttp&path=%2F&mode=auto#🔒smkn-CZ-🇨🇿
-vless://2f0bcd99-3751-4d9d-acd4-e67b2a38c828@195.85.23.225:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒smkn-CZ-🇨🇿
-vless://6199b420-6037-4513-bb15-0e625ec393c2@194.58.46.240:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnjs.com&fp=chrome&security=reality&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&sid=ac31827454d7f693#🔒smkn-CZ-🇨🇿
-trojan://ttfang@14.102.229.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram&Host=ttfang.fange.me#🔒smkn-CZ-🇨🇿
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@195.85.23.20:8880?encryption=none&security=none&type=ws&host=us.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#🌐smkn-CZ-🇨🇿
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@14.102.229.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🌐smkn-CZ-🇨🇿
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.191:443?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=%2F&security=tls&sni=sni.my111000.tech&type=ws#🔒smkn-CZ-🇨🇿
+vless://50e75c0f-801a-4291-9d98-80e77b787fd5@195.85.23.236:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒smkn-CZ-🇨🇿
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#🔒smkn-CZ-🇨🇿
