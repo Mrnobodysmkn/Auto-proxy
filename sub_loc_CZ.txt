@@ -1,3 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.191:443?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=%2F&security=tls&sni=sni.my111000.tech&type=ws#🔒smkn-CZ-🇨🇿
-vless://50e75c0f-801a-4291-9d98-80e77b787fd5@195.85.23.236:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒smkn-CZ-🇨🇿
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#🔒smkn-CZ-🇨🇿
+vless://cc6b985d-0362-4129-8763-38564174fb3e@14.102.228.209:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=iryiccyne.wwtraveler.com&alpn=http%2F1.1%2Ch2&fp=chrome#🔒smkn-CZ-🇨🇿
+vless://b4815b4c-3d41-4dc1-aad3-415c4bd4946d@14.102.229.37:2052?encryption=none&type=xhttp&mode=auto&host=cdn-d1.goofymoofy.com&path=****/pabloping****&security=none#🌐smkn-CZ-🇨🇿
