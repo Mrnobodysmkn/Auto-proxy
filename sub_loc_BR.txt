@@ -1,7 +1,6 @@
-vless://26fc1d92-2188-42fa-b36e-91caa13df437@151.101.186.133:443/?type=ws&encryption=none&host=mashti.com&path=%2F%3Fed%3D2560&security=tls&sni=zmaoz.faculty.ucdavis.edu&alpn=h2%2Chttp%2F1.1&fp=chrome#🔒smkn-BR-🇧🇷
-vless://f8e699e8-c856-4297-b42c-0097544121c3@154.91.157.116:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rbc.ru&fp=firefox&security=reality&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=e3152b486a086f4e#🔒smkn-BR-🇧🇷
-trojan://MiTiVPN@151.101.95.95:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2&security=none&type=ws#🌐smkn-BR-🇧🇷
-trojan://MiTiVPN@199.232.13.242:80?host=www.f6r.ir&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=none&type=ws#🌐smkn-BR-🇧🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpid2pOUGN3Z3o1KzFnQ3lpK3JCK25mcXVndzM4Qjd0cVZh@38.180.221.143:17283#🌐smkn-BR-🇧🇷
-trojan://MiTiVPN@151.101.93.93:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2&security=none&type=ws#🌐smkn-BR-🇧🇷
+trojan://trojan@185.133.35.46:443?security=tls&sni=test-a23.pages.dev&type=ws&host=test-a23.pages.dev&path=%2FTelegram-%40proxy_mtm%2F%3Fed%3D2560&fp=chrome&alpn=h2,http/1.1#🔒smkn-BR-🇧🇷
+vless://f5a2c547-734e-4655-8069-618e38e2cd5c@46.202.148.138:3443?type=tcp&headerType=none&security=reality&encryption=none&sni=sun1-25.userapi.com&fp=firefox&pbk=9LNSgBOlq4NZ0ImlAOtYZKcie1MS3JOI_0kARZKCY24&sid=7a3f9e2b1c8d4f6a&flow=xtls-rprx-vision#🔒smkn-BR-🇧🇷
+vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.242:443/?type=ws&encryption=none&host=uu.vs2024.us.kg#🔒smkn-BR-🇧🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpid2pOUGN3Z3o1KzFnQ3lpK3JCK25mcXVndzM4Qjd0cVZh@38.180.221.145:17283#🌐smkn-BR-🇧🇷
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.133.35.30:8880?security=none&type=ws&path=/&host=vms.lifetime48.workers.dev#🌐smkn-BR-🇧🇷
+vless://03517ec0-976e-4cac-b84b-146fc4c7b023@199.232.13.32:80?path=%2FTelegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry%3Fed%3D2048&security=&encryption=none&host=Apple-SIB.ir&type=ws#🌐smkn-BR-🇧🇷
