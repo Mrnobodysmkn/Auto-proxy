@@ -1,9 +1,1 @@
-vless://2f0bcd99-3751-4d9d-acd4-e67b2a38c828@195.85.23.225:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒smkn-CZ-🇨🇿
-vless://8bbf020e-653f-4a82-9900-1214e4e37dab@45.151.183.101:443?allowInsecure=0&sni=www.microsoft.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#🔒smkn-CZ-🇨🇿
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.23.138:2096?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#🔒smkn-CZ-🇨🇿
-vless://0bef555b-b81f-41f4-a63b-f5707a303245@103.200.28.142:7443?encryption=none&type=tcp&security=reality&sni=icloud.com&fp=chrome&pbk=_GHDETa6pflP7WjkBT-2jMYnb0xRs-e8LrCu93Z_CHo&sid=d82fb387&flow=xtls-rprx-vision#🔒smkn-CZ-🇨🇿
-vless://435954ab-38f3-40bf-b303-77e3f6576fa0@5.39.202.60:43871?security=reality&type=tcp&sni=cust-mail.gamerhost-server.pro&fp=chrome&flow=xtls-rprx-vision&sid=a3f9c12e&pbk=NfzNEMSQ8amDS2-iP2ov3ep4tRRP_RO3KMEZ9Fz2dwM&encryption=none#🔒smkn-CZ-🇨🇿
-vless://12345678-1234-1234-1234-123456789123@195.85.23.61:2096?path=/snippets&security=tls&encryption=none&host=vless.hubp.de&fp=chrome&type=ws&sni=vless.hubp.de#🔒smkn-CZ-🇨🇿
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@195.85.23.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=/Telegram+@WangCai2#🌐smkn-CZ-🇨🇿
-vless://2e20eda6-2514-4c95-8692-07b0c2c1115f@89.187.188.227:80?encryption=none&security=none&type=xhttp&headerType=none&path=/sibzaminiz&host=gerp.b-cdn.net&mode=auto#🌐smkn-CZ-🇨🇿
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@14.102.229.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-CZ-🇨🇿
+trojan://NISHIKUITAN111@14.102.228.61:443/?type=ws&host=zb.ylks.xyz&path=%2F&security=tls&sni=zb.ylks.xyz#🔒smkn-CZ-🇨🇿
