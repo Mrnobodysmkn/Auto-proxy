@@ -1,3 +1,7 @@
-trojan://Aimer@45.134.21.8:2053/?type=tcp&security=tls&sni=epcch.ambercc.filegear-sg.me#🔒smkn-BG-🇧🇬
-vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@147.78.140.159:2096/?type=ws&encryption=none&host=ScGiYaSk.rOcKsToNeY.InFo&path=%2F&security=tls&sni=ScGiYaSk.rOcKsToNeY.InFo&fp=chrome#🔒smkn-BG-🇧🇬
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.134.21.8:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#🔒smkn-BG-🇧🇬
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.142.120.124:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#🔒smkn-BG-🇧🇬
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@147.78.140.242:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#🔒smkn-BG-🇧🇬
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.142.120.191:443?encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#🔒smkn-BG-🇧🇬
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.142.120.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#🔒smkn-BG-🇧🇬
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@45.142.120.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram#🌐smkn-BG-🇧🇬
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@45.142.120.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-BG-🇧🇬
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@89.117.112.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-BG-🇧🇬
