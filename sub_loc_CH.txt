@@ -1,3 +1,4 @@
-vless://8007e155-622e-4c9d-8a6e-67f49b4678f4@84.234.16.169:443?&security=tls&sni=edt2-lgy.pages.dev&type=ws&headerType=none&host=edt2-lgy.pages.dev&path=/#🔒smkn-CH-🇨🇭
-trojan://Masir_Sefid@37.156.46.29:443?security=reality&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#🔒smkn-CH-🇨🇭
-vless://7691de10-83e2-44fd-a2fa-0f31aad8efef@194.147.214.197:443?flow=xtls-rprx-vision&fp=firefox&pbk=vtbYKmQECfnd9IQN3SvhlCWlWHwEzHRA0rD_wT46TnA&security=reality&sid=cd8971da5a669139&sni=yahoo.com&type=tcp#🔒smkn-CH-🇨🇭
+trojan://SoftNetConnect@37.156.44.157:443?mode=auto&path=%2F&security=reality&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=lnP3zaTgKpFJpC8IYOJZUuAedJghDQPowXJp5diOzQA&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=141b14d8#🔒smkn-CH-🇨🇭
+vless://3b7950ed-e076-4a51-8df2-222a88689700@45.197.134.24:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=chrome&security=reality&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d037f6f67cc90016#🔒smkn-CH-🇨🇭
+vless://1b5a4488-d2c1-495b-af79-99534e5b1bd3@83.228.224.100:2045/?type=grpc&encryption=none&flow=&serviceName=xyz&sni=play.google.com&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#🔒smkn-CH-🇨🇭
+vless://1adc8f61-3fff-48cc-9433-4a4889fd742e@45.197.134.32:8443?flow=xtls-rprx-vision&fp=firefox&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&security=reality&sid=d515d6cfdfe60b02&sni=rbc.ru&type=tcp#🔒smkn-CH-🇨🇭
