@@ -1,2 +1,5 @@
-vless://247a22e1-0795-4852-9bdd-a65ac1078034@188.253.21.106:443/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;fp=firefox&amp;security=reality&amp;pbk=4JvLKnuuAs4h0cQ1j_S4SAuXQQ579D7Wr1sGBjmH-Ws&amp;sid=73d3fec4#🔒smkn-LV-🇱🇻
-vless://279828c6-13f2-439c-9a4e-ea7d4f470fa4@31.76.104.11:443?sni=g1.steptofreedom.one&flow=xtls-rprx-vision-udp443&fp=randomized&security=tls#🔒smkn-LV-🇱🇻
+vless://20fda433-1864-433b-b3dd-8f119fe4cafd@195.135.254.75:443/?type=ws&encryption=none&host=happy.mianfeicf.lol&path=%2F%3Fed%3D2560&security=tls&sni=happy.mianfeicf.lol#🔒smkn-LV-🇱🇻
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@46.32.184.75:443/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40%40jdfxq&security=tls&sni=sni.111000.indevs.in&fp=chrome#🔒smkn-LV-🇱🇻
+vless://1ac8add1-ca1b-4ded-8a21-bd7f5270b92e@31.42.120.91:50207?fp=firefox&pbk=OSldWqB5yqBblJ4SRrbiZliMwpJIT3bYR8FCvV0Btwk&security=reality&sid=15978e8670a057&sni=www.yandex.net&type=tcp#🔒smkn-LV-🇱🇻
+trojan://162534@185.237.219.224:2087/?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=tls&sni=cchh2.pages.dev&allowInsecure=1&fp=chrome#🔒smkn-LV-🇱🇻
+ss://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#🌐smkn-LV-🇱🇻
