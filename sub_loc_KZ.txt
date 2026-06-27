@@ -1,2 +1,9 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.43.179.191:443?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=%2F&security=tls&sni=sni.my111000.tech&type=ws#🔒smkn-KZ-🇰🇿
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.43.179.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#🔒smkn-KZ-🇰🇿
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@31.43.179.234:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#🔒smkn-KZ-🇰🇿
+vless://096e379d-c109-4fdf-9203-8bff139204e9@31.43.179.111:443?path=%2F&security=tls&encryption=none&insecure=0&host=rozitamuli.gozarino.com&type=ws&allowInsecure=0&sni=rozitamuli.gozarino.com#🔒smkn-KZ-🇰🇿
+vless://586db082-dcfc-4599-8b52-af4cf7da8330@31.43.179.111:2083?security=tls&type=ws&path=/?ed=2048&host=chIKArMiKoNi.X-UpLoAd.oRG&sni=chIKArMiKoNi.X-UpLoAd.oRG&fp=chrome&encryption=none#🔒smkn-KZ-🇰🇿
+vless://29218b86-d685-4f56-ab2b-1d39969c63c2@31.43.179.111:2053?security=tls&type=ws&headerType=&path=%2Fdashfair%3Fed%3D2560&host=forgermany.fairit.ir&sni=01e4c5bafdca11bf.fairit.ir&fp=firefox&alpn=h2#🔒smkn-KZ-🇰🇿
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.197:443?security=tls&sni=ln.ylks01.eu.org&type=ws&host=ln.ylks01.eu.org&path=%2F%3Fed%3D2560#🔒smkn-KZ-🇰🇿
+vless://13ed6c43-ef38-4d5e-82ca-188a36e2db46@31.43.179.111:8443?encryption=none&type=ws&security=tls&path=/ws&host=aFaRiNbEsHoMa.X-uPlOaD.oRg&sni=aFaRiNbEsHoMa.X-uPlOaD.oRg&allowInsecure=0#🔒smkn-KZ-🇰🇿
+vless://0292a1bb-e8b1-49cc-b610-fd476620eb6b@31.43.179.111:2096?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/ws?ed=2560&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=2476b0942a6da1af.hozheen.ir#🔒smkn-KZ-🇰🇿
+trojan://vpn@45.82.14.144:2025?security=none&fp=chrome&type=ws&host=dns.google.com&path=%2f#🌐smkn-KZ-🇰🇿
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@31.43.179.251:8880?allowInsecure=0&sni=cf.d3z.net&type=ws&host=cf.d3z.net&path=/Telegram#🌐smkn-KZ-🇰🇿
