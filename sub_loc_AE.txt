@@ -1,2 +1,6 @@
-vless://5b6be23b-dff4-428f-8a60-4f11568abe12@185.225.195.72:443?encryption=none&security=tls&sni=sync.amordad.xyz&type=ws&host=sync.amordad.xyz&path=/api/v1/stream#🔒smkn-AE-🇦🇪
-vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@94.140.0.21:2052?encryption=none&security=none&type=xhttp&host=cdn3.goofymoofy.com&path=%2Fpabloping&mode=auto#🌐smkn-AE-🇦🇪
+vless://08173626-c929-4e02-8b88-4cbc065de79b@185.215.234.175:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=cyrus.frtshop.ir&path=/ed=2080&security=tls&sni=cyrus.frtshop.ir&type=ws#🔒smkn-AE-🇦🇪
+vless://b7256523-48a6-40b6-b981-983b2cc2fea9@185.215.234.186:2083?mode=auto&security=tls&alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":#🔒smkn-AE-🇦🇪
+vless://3be1535c-bfb4-4ef3-bedb-f4ecdaac7c5e@185.215.234.17:8443?encryption=none&security=tls&sni=cloud.farsonline24.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=cloud.farsonline24.ir&path=/mehdi#🔒smkn-AE-🇦🇪
+vless://6e739ee6-ed1e-4786-98a9-1734e571e0d9@185.215.234.97:2086?path=%2F&security=none&encryption=none&host=fast.sheeplow.ir&type=ws#🌐smkn-AE-🇦🇪
+vless://97ff4d1e-a99d-4c62-8457-98e5416d9f49@185.215.235.59:80?path=%2F&security=none&encryption=none&host=s2.ay9.ir&type=ws#🌐smkn-AE-🇦🇪
+vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.143.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-AE-🇦🇪
