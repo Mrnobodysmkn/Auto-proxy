@@ -1,8 +1,4 @@
-vless://b7256523-48a6-40b6-b981-983b2cc2fea9@185.215.234.186:2083?mode=auto&security=tls&alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":#🔒smkn-AE-🇦🇪
-trojan://Aimer@77.232.140.101:2053/?type=tcp&security=tls&sni=ngepy.ambercc.filegear-sg.me#🔒smkn-AE-🇦🇪
-vless://3be1535c-bfb4-4ef3-bedb-f4ecdaac7c5e@185.215.234.27:8443?encryption=none&security=tls&sni=cloud.farsonline24.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=cloud.farsonline24.ir&path=/mehdi#🔒smkn-AE-🇦🇪
-vless://3be1535c-bfb4-4ef3-bedb-f4ecdaac7c5e@185.215.234.14:8443?encryption=none&security=tls&sni=cloud.farsonline24.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=cloud.farsonline24.ir&path=/mehdi#🔒smkn-AE-🇦🇪
-vless://3be1535c-bfb4-4ef3-bedb-f4ecdaac7c5e@185.215.234.31:8443?encryption=none&security=tls&sni=cloud.farsonline24.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=cloud.farsonline24.ir&path=/mehdi#🔒smkn-AE-🇦🇪
-vless://8525fe74-67e6-4a55-8a26-95f227bd1384@77.232.140.13:8443?path=%2Fproxyip%3D162.243.249.250%2C77.110.126.244%2C64.176.219.210%2C91.90.195.68%2C64.176.219.105%2C45.55.251.207&security=tls&encryption=none&insecure=0&host=muddy-leaf-e8c4.alvlirm3636.workers.dev&fp=random&type=ws&allowInsecure=0&sni=muddy-leaf-e8c4.alvlirm3636.workers.dev#🔒smkn-AE-🇦🇪
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.225.195.30:8880?security=none&type=ws&path=/&host=vms.lifetime18.workers.dev#🌐smkn-AE-🇦🇪
-vless://6e739ee6-ed1e-4786-98a9-1734e571e0d9@185.215.234.97:2086?path=%2F&security=none&encryption=none&host=fast.sheeplow.ir&type=ws#🌐smkn-AE-🇦🇪
+vless://5c935fb4-567f-4a14-a8c7-781b8c6bb913@38.180.26.49:1008?security=reality&alpn=h2&encryption=none&pbk=KR_f-E_pR8kfCW3Su1tjR3FWRtpcYAn_ajfKjiPZAAQ&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=play.google.com&sid=ec8926fc13a19d95#🔒smkn-AE-🇦🇪
+vless://dca945d2-6d9b-434f-8754-3626a6a75e21@94.140.0.74:2087?path=/&security=tls&encryption=none&insecure=1&host=aza002.vaslbash.site&type=ws&allowInsecure=1&sni=aza002.vaslbash.site#🔒smkn-AE-🇦🇪
+vless://75f89edc-9d8d-4314-8530-dfa9c76e406b@20.74.213.64:1008?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=GXDMecomfLm7sEDp4ZcAsoDY2HhurLg9xRGfj7hMU20&amp;fp=chrome&amp;type=grpc&amp;serviceName=grpc&amp;sni=www.apple.com&amp;sid=cc0fe3bfea219901#🔒smkn-AE-🇦🇪
+vless://75f89edc-9d8d-4314-8530-dfa9c76e406b@20.74.213.64:1001?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#🌐smkn-AE-🇦🇪
