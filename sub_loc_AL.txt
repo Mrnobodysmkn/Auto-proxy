@@ -1,1 +1,3 @@
-vless://5f46e04e-b903-4a59-a419-d580bd4a343f@85.155.228.185:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=ToIEN2bN-qJuNrXV-2MCv1e-V8rPHe3BTKDYPKSJriA&sid=632c7b4b63da1099&sni=tradingview.com#🔒smkn-AL-🇦🇱
+vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@45.82.13.4:443?security=reality&encryption=none&pbk=ElEALiFaDTMj9lYwMPYaCVnbMkz22pvzD10dGW61kyc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=alb00.sidecloud.ru&sid=5ed95465924c4237#🔒smkn-AL-🇦🇱
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@185.75.243.102:443?type=ws&security=tls&fp=chrome&sni=3-7v4.pages.dev&host=3-7v4.pages.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#🔒smkn-AL-🇦🇱
+vless://d514f0df-83c5-4690-8a14-398782469654@45.82.13.140:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=-3FYNptvHNKGKULt4jOkSqSfBbpl9ef_ijzo_8I7OXk&sid=8f2798f9&type=tcp#🔒smkn-AL-🇦🇱

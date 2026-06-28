@@ -1,2 +1,2 @@
 vless://9a98146a-235c-40ed-9633-a67fe3bf9f18@176.103.113.16:443?mode=packet-up&path=%2Fxn--q9jyb4c&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2230%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=cloudflare.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cloudflare.dns.xn--q9jyb4c#🔒smkn-UA-🇺🇦
-vless://226ce1e9-193c-493a-b32e-fa6bb4f99698@91.231.182.48:2020?encryption=none&type=raw&headerType=http&host=play.google.com&path=%2F&security=none#🌐smkn-UA-🇺🇦
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.180.130:2053?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#🔒smkn-UA-🇺🇦
