@@ -1,2 +1,1 @@
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@92.113.146.87:443?allowInsecure=1&sni=linek.perry.us.kg&type=ws&host=linek.perry.us.kg&path=/tradesecurity=tls#🔒smkn-DK-🇩🇰
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@193.181.214.98:2083?fp=chrome&host=linek.perry.us.kg&path=%2Fdh%2Ffavorite%2Fdocs&security=tls&sni=linek.perry.us.kg&type=ws#🔒smkn-DK-🇩🇰
+trojan://v2raydia@140.248.69.255:443?mode=auto&path=/v2raydia&security=tls&extra={"xPaddingBytes":"100-1000"}&insecure=1&host=khre.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=api.imgur.com#🔒smkn-DK-🇩🇰
