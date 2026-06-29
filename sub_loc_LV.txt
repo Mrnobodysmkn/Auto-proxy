@@ -1,1 +1,2 @@
-ss://27f2ae85-3e15-4a9a-9c71-49ee032e7b26@217.28.48.29:25752?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#🌐smkn-LV-🇱🇻
+vless://457d9c9f-6b8a-45d5-97aa-58ec708fc1c3@213.155.10.168:443?security=tls&type=ws&headerType=&path=/muhasv&host=finlandhetzner.260109.xyz&sni=finlandhetzner.260109.xyz&fp=chrome&alpn=http/1.1&fragment=1-1,1-0,tlshello#🔒smkn-LV-🇱🇻
+trojan://162534@195.123.209.189:8443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&fp=chrome&host=cchh2.pages.dev&path=%2F%3Fhttps%253A%252F%252Ft.me%252FWangCai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&sni=cchh2.pages.dev&type=ws#🌐smkn-LV-🇱🇻
