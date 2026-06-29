@@ -1,3 +1,1 @@
-vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@45.82.13.4:443?security=reality&encryption=none&pbk=ElEALiFaDTMj9lYwMPYaCVnbMkz22pvzD10dGW61kyc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=alb00.sidecloud.ru&sid=5ed95465924c4237#🔒smkn-AL-🇦🇱
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@185.75.243.102:443?type=ws&security=tls&fp=chrome&sni=3-7v4.pages.dev&host=3-7v4.pages.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#🔒smkn-AL-🇦🇱
-vless://d514f0df-83c5-4690-8a14-398782469654@45.82.13.140:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=chrome&pbk=-3FYNptvHNKGKULt4jOkSqSfBbpl9ef_ijzo_8I7OXk&sid=8f2798f9&type=tcp#🔒smkn-AL-🇦🇱
+trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=1&sni=#🌐smkn-AL-🇦🇱
