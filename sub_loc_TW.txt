@@ -1,4 +1,7 @@
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@211.75.210.32:443?path=%2Fsocks5%3Dgogo%3Agogo%40185.184.70.120%3A50088&security=tls&encryption=none&insecure=0&host=1-aym.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=1-aym.pages.dev#🔒smkn-TW-🇹🇼
-vless://2add6241-8fe8-3922-8347-da25e8ced601@103.137.62.229:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tesla.com&fp=random&security=reality&pbk=zRZhlkKjUeqtIk9j6yy95aX-2krqQVyWORLv5tQkQGM&sid=#🔒smkn-TW-🇹🇼
-trojan://5a2c16f9@125.228.236.138:443?security=tls&sni=5c.hhhhh.eu.org&insecure=0&allowInsecure=0&type=ws&host=5c.hhhhh.eu.org&path=/125.228.236.138:443#🔒smkn-TW-🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.38:2377#🌐smkn-TW-🇹🇼
+trojan://981db44e-9f07-49eb-9ba0-6ab4939919a2@61.220.126.180:443?security=tls&sni=twnode11.oportal.cc&type=tcp&headerType=none#🔒smkn-TW-🇹🇼
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@211.75.143.195:3462/?type=tcp&security=tls&sni=a03.taipeicitygovernment.cn.ua&allowInsecure=1#🔒smkn-TW-🇹🇼
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@203.69.207.175:3462/?type=tcp&security=tls&sni=a03.taipeicitygovernment.cn.ua&allowInsecure=1#🔒smkn-TW-🇹🇼
+trojan://3ac6a6ca99f74941b1eaf892818e2ddb@85.237.207.189:443?allowInsecure=0&sni=#🔒smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.2:2377#🌐smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.28.138:2377#🌐smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.59:2377#🌐smkn-TW-🇹🇼
