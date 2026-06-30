@@ -1,5 +1,2 @@
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.142.120.124:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#🔒smkn-BG-🇧🇬
-vless://ea12d78d-dae9-66f9-6f64-e0be8052d0ce@89.117.112.134:2053?path=%2Fsync&security=tls&encryption=none&host=vortex.amirsoltan62.workers.dev&fp=chrome&type=ws&sni=vortex.amirsoltan62.workers.dev#🔒smkn-BG-🇧🇬
-trojan://ttfang@45.142.120.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram&Host=ttfang.fange.me#🔒smkn-BG-🇧🇬
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.244.132.14:5499#🌐smkn-BG-🇧🇬
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.117.112.40:8880/?type=ws&encryption=none&flow=&host=vms.lifetime11.workers.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FYouTube%40%E5%B0%8F%E9%9D%92%E7%A7%91%E5%AD%A6%E7%BD%91%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-BG-🇧🇬
+trojan://bpb-trojan@89.117.112.181:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#🔒smkn-BG-🇧🇬
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.142.120.188:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#🔒smkn-BG-🇧🇬
