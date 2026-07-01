@@ -1,10 +1,4 @@
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.210.199:2053?path=%2F&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=dl1-tr-cdn.easy-upload.org#🔒smkn-BZ-🇧🇿
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.210.67:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org#🔒smkn-BZ-🇧🇿
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.208.40:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org#🔒smkn-BZ-🇧🇿
-trojan://ttfang@45.131.210.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram&Host=ttfang.fange.me#🔒smkn-BZ-🇧🇿
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@45.131.209.36:8880/?type=ws&encryption=none&host=vngsupply.ip-ddns.com&path=%2FJ5aLQOY1R9ONWYCM#🌐smkn-BZ-🇧🇿
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@45.131.211.248:8880/?type=ws&encryption=none&host=VngSuPpLY.IP-DdnS.com&path=%2F#🌐smkn-BZ-🇧🇿
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.210.76:80/?type=ws&encryption=none&host=redfree8.pooriashop.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🌐smkn-BZ-🇧🇿
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.211.30:8880/?type=ws&encryption=none&flow=&host=vms.lifetime06.workers.dev&path=%2F%3Fed%3D2560#🌐smkn-BZ-🇧🇿
-vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@45.131.208.40:80/?type=ws&encryption=none&host=a1.ghormehsabzi.dpdns.org.#🌐smkn-BZ-🇧🇿
-vmess://eyJhZGQiOiAiMjAzLjMwLjE4OC4xODgiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjQwZDQ5NmE2LWNlZWItNDA5Ni1iYWViLTRjYzUyYjIwNTYyMSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvRUNUQ0owREYiLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzY1x1ZGYxMHNta24tQlotXHVkODNjXHVkZGU3XHVkODNjXHVkZGZmIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIn0=
+trojan://bpb-trojan@45.131.208.81:443?security=tls&sni=403B3611-99BC-43b7-88D7-26eD5d0825A9-3.PaGES.dEv&type=ws&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&fp=randomized&alpn=h2,http/1.1#🔒smkn-BZ-🇧🇿
+trojan://ttfang@45.131.208.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram&Host=ttfang.fange.me#🔒smkn-BZ-🇧🇿
+vless://7f037831-591d-4067-9c8c-39f07d12858a@45.131.6.243:80/?type=ws&encryption=none#🌐smkn-BZ-🇧🇿
+vmess://eyJhZGQiOiAiMjAzLjMwLjE5MC4xOTIiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjE3YjJhMzEzLTM3YTAtNDk0NS1hOGU0LWU2MzM3NTUwNmI0YSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvQTJESk9QRlQiLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzY1x1ZGYxMHNta24tQlotXHVkODNjXHVkZGU3XHVkODNjXHVkZGZmIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIn0=
