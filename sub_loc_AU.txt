@@ -1,8 +1,4 @@
-vless://94bcd9a9-33a9-40e4-a6fd-05e30db5b457@20.70.160.45:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=safari&security=reality&pbk=140jRwI3SEyJezoVv7iFt2VEZOfDVu7CmPblFi2Q6ik&sid=5c333a77#🔒smkn-AU-🇦🇺
-vless://ba7556ea-2e96-4463-a6f2-f2ab3579a653@1.1.1.1:443?security=tls&sni=vlessct-ws-channel-vpnctvip.vpnctvip.dns-dYnaMIC.NET&type=ws&host=vlessct-ws-channel-vpnctvip.vpnctvip.dns-dYnaMIC.NET&path=%2Firanukiraniukwbpbct.majidcttls.onflashdrive.app%2FMaJiDcT%2F%3Fed%3D2084&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1#🔒smkn-AU-🇦🇺
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@103.169.142.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#🌐smkn-AU-🇦🇺
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@103.169.142.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-AU-🇦🇺
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@103.169.142.188:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-AU-🇦🇺
-vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@1.1.1.1:8443?mode=gun&security=&encryption=none&type=grpc&serviceName=Telecommunication#🌐smkn-AU-🇦🇺
-vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80/?type=tcp&encryption=none&flow=#🌐smkn-AU-🇦🇺
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.65.217.30:8880/?type=ws&encryption=none&flow=&host=vms.lifetime37.workers.dev&path=%2F#🌐smkn-AU-🇦🇺
+trojan://NISHIKUITAN111@103.169.142.224:443/?type=ws&host=zb.ylks.xyz&path=%2F&security=tls&sni=zb.ylks.xyz#🔒smkn-AU-🇦🇺
+trojan://MiTiVPN@151.101.29.242:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&insecure=0&host=www.f6r.ir&type=ws&allowInsecure=0&sni=www.f6r.ir#🔒smkn-AU-🇦🇺
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@103.169.142.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#🌐smkn-AU-🇦🇺
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@103.169.142.177:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-AU-🇦🇺
