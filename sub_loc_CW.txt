@@ -1,4 +1,6 @@
-trojan://NISHIKUITAN111@5.10.246.119:443/?type=tcp&security=tls#🔒smkn-CW-🇨🇼
+vless://401374e6-df77-41fb-f638-dad8184f175b@88.216.67.84:443/?type=grpc&encryption=none&security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2#🔒smkn-CW-🇨🇼
 trojan://NISHIKUITAN111@5.10.244.100:443/?type=tcp&security=tls&allowInsecure=1#🔒smkn-CW-🇨🇼
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@5.10.246.29:8880?security=&sni=hk.laoyoutiao.link&allowInsecure=1&type=ws&path=/TelegramU0001F1E8U0001F1F3&host=hk.laoyoutiao.link&encryption=none#🌐smkn-CW-🇨🇼
-vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@88.216.66.21:2052/?type=xhttp&encryption=none&flow=&host=cdn3.goofymoofy.com&path=%2Fpabloping&mode=auto#🌐smkn-CW-🇨🇼
+trojan://NISHIKUITAN111@62.72.166.57:443/?type=ws&host=za.ylks.xyz&path=%2F&security=tls&sni=za.ylks.xyz#🔒smkn-CW-🇨🇼
+vless://981fca81-5be1-41f8-ac9b-d138e8109943@5.10.244.231:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=babayaga-6i7.pages.dev&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🔒smkn-CW-🇨🇼
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.247.43:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.cc.cd&path=%2F%3Fhttps%253A%252F%252Ft.me%252Fwangcai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.111000.cc.cd&type=ws#🔒smkn-CW-🇨🇼
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.246.30:8880/?type=ws&encryption=none&flow=&host=vms.lifetime05.workers.dev&path=%2F#🌐smkn-CW-🇨🇼
