@@ -1,3 +1,2 @@
-vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.42.228.160:443/?type=ws&encryption=none&security=tls&sni=sdfee4.azurewebsites.net&alpn=http%2F1.1#🔒smkn-AU-🇦🇺
-vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@192.65.217.21:2052/?type=xhttp&encryption=none&flow=&host=cdn3.goofymoofy.com&path=%2Fpabloping&mode=auto#🌐smkn-AU-🇦🇺
-trojan://MiTiVPN@151.101.82.82:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2&security=none&type=ws#🌐smkn-AU-🇦🇺
+trojan://b379fd8e-75c6-4bd6-8a5b-88f3e64bb3fa@103.224.212.217:443/?type=tcp&security=tls&sni=dl.kgvn.garenanow.com&allowInsecure=1&fp=chrome#🔒smkn-AU-🇦🇺
+vmess://eyJhZGQiOiAiMTE5LjI1Mi4xOTAuMTE1IiwgImFpZCI6IDY0LCAiaG9zdCI6ICJ3d3cuMjMzNzYwNDYueHl6IiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcGF0aC8xOTEwMTkwNzI5MjciLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzY1x1ZGYxMHNta24tQVUtXHVkODNjXHVkZGU2XHVkODNjXHVkZGZhIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIn0=
