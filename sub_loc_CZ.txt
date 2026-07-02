@@ -1,4 +1,4 @@
-vless://50e75c0f-801a-4291-9d98-80e77b787fd5@195.85.23.236:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒smkn-CZ-🇨🇿
-vless://92e41c23-4b39-464a-bbff-63ef84f317da@152.233.66.68:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=firefox&flow=xtls-rprx-vision&pbk=TXwYCrwkhTEeqtxTf3ZYmXNwYcmVtR9eVXJRo7Kvxmk&sid=8c5041b3#🔒smkn-CZ-🇨🇿
-vless://0bef555b-b81f-41f4-a63b-f5707a303245@103.200.28.142:7443?encryption=none&type=tcp&security=reality&sni=icloud.com&fp=chrome&pbk=_GHDETa6pflP7WjkBT-2jMYnb0xRs-e8LrCu93Z_CHo&sid=d82fb387&flow=xtls-rprx-vision#🔒smkn-CZ-🇨🇿
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@195.85.23.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-CZ-🇨🇿
+vless://40168c82-d975-4cdb-867b-59d5e8f42f26@195.85.23.22:443?security=tls&sni=pages.dev&type=ws&host=yechiv2ray-x-cgygfxddewaw345556.pages.dev&path=%2FpTM44aQNGIM7FTIm%2FZGUucmFkaWNhbGx5LnBybw%3D%3D%3Fed%3D2560&fp=chrome&alpn=http/1.1#🔒smkn-CZ-🇨🇿
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@195.85.23.213:8880?encryption=none&security=none&type=ws&host=jp.laoyoutiao.link&path=%2F#🌐smkn-CZ-🇨🇿
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@14.102.229.188:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-CZ-🇨🇿
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@14.102.228.63:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-CZ-🇨🇿
