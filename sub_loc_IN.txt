@@ -1,8 +1,6 @@
-vless://4959177b-62d7-4d1b-b6a3-eed72c0609c5@144.24.127.7:443?security=tls&flow=xtls-rprx-vision&sni=www.0wolf.com&type=tcp&fp=chrome#🔒smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.239:8443/?type=tcp&security=tls&sni=epccd.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
-trojan://MiTiVPN@151.101.105.242:443/?type=ws&host=www.f6r.ir&path=/?ed=2560&Telegram#🔒smkn-IN-🇮🇳
-vless://1863c4e7-7b7c-433f-8b0a-88b0f3db2d2c@138.252.100.85:32351?encryption=none&host=&path=%2F&security=none&type=ws#🌐smkn-IN-🇮🇳
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#🌐smkn-IN-🇮🇳
-trojan://6t9jkb3u7x2ir1yp@138.252.100.85:19643?host=&path=%2F&security=none&type=ws#🌐smkn-IN-🇮🇳
-vless://24d16a10-5919-486e-9651-a0983ede2060@138.252.100.85:33659?encryption=none&host=&path=%2F&security=none&type=ws#🌐smkn-IN-🇮🇳
-vmess://eyJhZGQiOiAiMTM4LjI1Mi4xMDAuODUiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImlkIjogIjVjYWU3NzE0LTljNjEtNGM1Yy04NzZlLWM0NWExY2IxM2JlNCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICIxODc0NiIsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUlOLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+vless://6564b639-8857-4fec-a45b-ada20d4bd315@139.59.75.181:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=139.59.75.181&encryption=none#🔒smkn-IN-🇮🇳
+vless://394f6981-a782-4779-9a85-e6cf22935d93@168.144.27.201:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#🔒smkn-IN-🇮🇳
+trojan://MiTiVPN@199.232.105.242:80?host=www.f6r.ir&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=none&type=ws#🌐smkn-IN-🇮🇳
+trojan://MiTiVPN@151.101.106.106:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2&security=none&type=ws#🌐smkn-IN-🇮🇳
+vless://2a45f87c-ab4b-4d51-9347-89b937960121@151.101.158.204:80?path=/olem/ws?ed=64&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&security=none&alpn=h2,http/1.1&encryption=none&host=fatmelo.com&fp=chrome&type=ws&sni=zmaoz.faculty.ucdavis.edu.#🌐smkn-IN-🇮🇳
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@108.165.152.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🌐smkn-IN-🇮🇳
