@@ -1,4 +1,5 @@
-vless://a5c689ce-ef93-4a6a-8b74-3dbe2287d71b@38.107.234.187:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cloudrynth.com&fp=firefox&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y#🔒smkn-KZ-🇰🇿
-trojan://blue2024@185.176.26.193:443/?type=tcp&security=tls&sni=b.promote.icu#🔒smkn-KZ-🇰🇿
-vless://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@213.155.23.184:443?security=reality&encryption=none&pbk=lYVz8iVZI2XjTCw_XS9wi08P1DLXO0c7jQo-_xyw2xY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kz.buycloud.app&sid=19c54bde0fe05b9b#🔒smkn-KZ-🇰🇿
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.176.26.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram#🌐smkn-KZ-🇰🇿
+vless://3312ce2f-444b-4520-b4d7-81b1eca2801f@213.148.1.43:443?flow=xtls-rprx-vision&amp;fp=firefox&amp;pbk=_blyqClfqZe6rxcjUh-v8e971xJCyfAmwG1WUxtf8Vw&amp;security=reality&amp;sid=86749fd155936976&amp;sni=kz.t1n2.com#🔒smkn-KZ-🇰🇿
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.22:443?security=tls&sni=cg.ylks.xyz&type=ws&host=cg.ylks.xyz&path=%2F%3Fed%3D2560#🔒smkn-KZ-🇰🇿
+vless://401374e6-df77-41fb-f638-dad8184f175b@31.43.179.43:443/?type=grpc&encryption=none&security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2#🔒smkn-KZ-🇰🇿
+vless://593f4d6c-aff1-4832-87a7-b5d8e71584ea@194.110.55.85:443/?type=tcp&amp%3Bencryption=none&amp%3Bflow=xtls-rprx-vision&amp%3Bsni=kz-1.nodes.ac&amp%3Bfp=edge&amp%3Bsecurity=reality&amp%3Bpbk=uz1Lb_2451iPvrwWCZ-4I9_WHdYm7ML0yjeJAZwBk3E&amp%3Bsid=73b4306eb38fe3d6#🔒smkn-KZ-🇰🇿
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@31.43.179.3:8880/?type=ws&encryption=none&host=bitget1.asdasd.click&path=%2FTelegramU0001F1E8U0001F1F3#🌐smkn-KZ-🇰🇿
