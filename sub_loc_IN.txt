@@ -1,4 +1,6 @@
-trojan://Aimer@108.165.152.91:2083/?type=tcp&security=tls&sni=epccd.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
-vless://9268fe8c-fe3f-44fe-8984-c7d0060465a1@141.148.193.192:443?security=tls&encryption=none&sni=aka.ms&fp=chrome&type=ws&host=panel.trackydev.site&path=/&allow_insecure=1#🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.219:443/?type=tcp&security=tls&sni=agepj.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
 vless://26524cce-d514-4014-a426-365fb266a14d@64.227.146.37:443?allowInsecure=0&sni=vfa9.cdn-stream.fgfw.indevs.in&type=ws&host=vfa9.cdn-stream.fgfw.indevs.in&path=/danfeng?ed=2560fp=firefox&security=tls#🔒smkn-IN-🇮🇳
-vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.209.151:80?host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&type=ws#🌐smkn-IN-🇮🇳
+trojan://MiTiVPN@151.101.105.242:443/?type=ws&host=www.f6r.ir&path=/?ed=2560&Telegram#🔒smkn-IN-🇮🇳
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.149.135.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🌐smkn-IN-🇮🇳
+vless://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.105.151:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/?https://t.me/WangCai2&security=&encryption=none&host=max-gb1.global.ssl.fastly.net&type=ws#🌐smkn-IN-🇮🇳
+trojan://MiTiVPN@151.101.208.208:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2&security=none&type=ws#🌐smkn-IN-🇮🇳

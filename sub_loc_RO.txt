@@ -1,2 +1,5 @@
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@5.252.178.146:8443?encryption=none&security=tls&sni=linek.perry.us.kg&insecure=0&allowInsecure=0&type=ws&host=linek.perry.us.kg&path=%2Fclip%2Fshop#🔒smkn-RO-🇷🇴
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.81:8443/?type=tcp&encryption=none&flow=&security=tls&sni=ams1.fromblancwithlove.com#🔒smkn-RO-🇷🇴
+vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@151.242.191.161:443?encryption=none&security=reality&sni=www.samsung.com&fp=chrome&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&sid=a1b2c3d4&packetEncoding=xudp#🔒smkn-RO-🇷🇴
+vless://a5b3390b-bb23-417e-895c-517115e2f7a2@38.79.154.34:8585?security=reality&amp;encryption=none&amp;pbk=a20AW-pKrDkwITkp3eZ6WC809AYkNqoW1rs4AfLs73Y&amp;fp=firefox&amp;spx=%2FNn6MqoSGjSwlMUD&amp;type=grpc&amp;sni=ap-author.semiconductor.samsung.com&amp;sid=4d#🔒smkn-RO-🇷🇴
+vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.117:8443/?type=tcp&encryption=none&flow=&security=tls&sni=ams1.fromblancwithlove.com#🔒smkn-RO-🇷🇴
+vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.87:8443?&security=tls&fp=chrome&sni=ams1.fromblancwithlove.com&type=tcp&headerType=none&host=ams1.fromblancwithlove.com&path=%2F#🔒smkn-RO-🇷🇴
+trojan://cap784inp96q2627@38.79.154.34:1818?mode=auto&path=/&security=reality&extra={"mode":"auto","xPaddingBytes":"100-1000"}&pbk=_PvxwvgQue6Gt2nbnPXRtkmLVu_gH2-rBK_7lgUFXUY&fp=chrome&spx=/gmRBpmmkTK1H6Sp&type=xhttp&sni=shop-us-en.amd.com&sid=f0#🔒smkn-RO-🇷🇴
