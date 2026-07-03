@@ -1,3 +1,2 @@
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@154.83.2.237:2053?path=%2F&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=dl1-uk-cdn.easy-upload.org#🔒smkn-TH-🇹🇭
-vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.164.1.152:666?allow_insecure=0&path=/proxy&security=tls&sni=43.164.1.152&type=ws#🔒smkn-TH-🇹🇭
-vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@154.83.2.21:2052/?type=xhttp&encryption=none&flow=&host=cdn3.goofymoofy.com&path=%2Fpabloping&mode=auto#🌐smkn-TH-🇹🇭
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@154.83.2.47:2053?path=%2F&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=dl1-tr-cdn.easy-upload.org#🔒smkn-TH-🇹🇭
+trojan://amclubs2024@154.83.2.200:443?peer=tr.amclub.us.kg&plugin=obfs-local;obfs=websocket;obfs-host=tr.amclub.us.kg;obfs-uri=/?ed=2560#🔒smkn-TH-🇹🇭

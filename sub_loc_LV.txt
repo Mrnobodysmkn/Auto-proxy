@@ -1,7 +1,5 @@
-vless://2e4defe7-46d7-46e9-8a44-158abc8025b2@185.242.105.77:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=dev.max.ru&fp=safari&pbk=r77nilacD34SeLmghmchRKuNiUL0xzh-pK87Ux58dzI&sid=d0a1665d1b96515e#🔒smkn-LV-🇱🇻
-vless://6cf0f91a-6398-4dfa-941b-3760a8cd58ab@31.57.28.180:443?type=tcp&security=reality&sni=vk.ru&flow=xtls-rprx-vision&pbk=rPKoMLxs2XIPOaNZlIq2YduNiWSxS3CveQUsmw-3IVc#🔒smkn-LV-🇱🇻
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.135.252.170:443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=random&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#🔒smkn-LV-🇱🇻
-vless://a5c689ce-ef93-4a6a-8b74-3dbe2287d71b@185.81.128.86:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cloudrynth.com&fp=firefox&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y#🔒smkn-LV-🇱🇻
+vless://46b81618-5d7f-4b65-b95f-7f782b8242be@31.170.22.68:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=nDq00UeDI5TKKFipI6rgdVCqiTO98ncHKn90Qp3EsBE&sid=f2b78452f9233f26&sni=ads.x5.ru&path=&host=#🔒smkn-LV-🇱🇻
 vless://20fda433-1864-433b-b3dd-8f119fe4cafd@77.73.71.103:443/?type=ws&encryption=none&host=happy.mianfeicf.lol&path=%2F&security=tls&sni=happy.mianfeicf.lol#🔒smkn-LV-🇱🇻
-vless://b6b14fe0-f378-4502-896c-d34981f5034f@31.56.117.133:23356?security=reality&sni=apple.com&type=grpc&serviceName=api&fp=edge&pbk=KtHJA0ZiW3VEPTjGQOlT3NlXZWlqAPHKHqki_IGX3Wk&sid=483d116ad48a4091&allowInsecure=1#🔒smkn-LV-🇱🇻
+trojan://8r%3C%5B9%27l6hAO%238ZQi@217.28.49.84:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#🔒smkn-LV-🇱🇻
+vless://4b8d8d7f-a8b4-4e44-80a9-6f13c3149b52@45.130.214.192:53231/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=3mRweaWR6pK4HsbEtu874rNG9qBgdOMmSsKE4RkWSmk&sid=4ffbd0f3117c6f#🔒smkn-LV-🇱🇻
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.197.0.117:8443?encryption=none&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🔒smkn-LV-🇱🇻

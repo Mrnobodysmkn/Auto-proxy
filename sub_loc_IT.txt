@@ -1,4 +1,3 @@
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@80.211.48.113:443?host=linek.perry.us.kg&path=%2Fdoujin%2Fmusic&security=tls&sni=linek.perry.us.kg&type=ws#🔒smkn-IT-🇮🇹
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@45.92.70.176:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=linek.perry.us.kg&path=%2Fblogs%2Fclip%2Fcontact&security=tls&sni=linek.perry.us.kg&type=ws#🔒smkn-IT-🇮🇹
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.86:8880?security=none&type=grpc#🌐smkn-IT-🇮🇹
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVazhsZm12aFlueDVySnZYeEtyUnFHUnluZDlnSXBKLmlZ@193.168.175.56:14605#🌐smkn-IT-🇮🇹
+ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.37:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#🌐smkn-IT-🇮🇹
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.48:8880?encryption=none&type=grpc&packetEncoding=xudp#🌐smkn-IT-🇮🇹
+ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.167:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#🌐smkn-IT-🇮🇹

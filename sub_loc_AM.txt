@@ -1,4 +1,2 @@
-trojan://Aimer@188.164.159.18:443/?type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=epmk.ambercc.filegear-sg.me#🔒smkn-AM-🇦🇲
-trojan://Aimer@188.164.159.91:2083/?type=tcp&security=tls&sni=agepy.ambercc.filegear-sg.me#🔒smkn-AM-🇦🇲
-trojan://Aimer@188.164.159.138:2083/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#🔒smkn-AM-🇦🇲
-trojan://rYuChHcwQZskq9E0zdoR@2.56.204.246:443/?type=tcp&security=tls&sni=vpn5.rnmcnm.com#🔒smkn-AM-🇦🇲
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@91.198.108.191:443?encryption=none&security=tls&sni=linek.perry.us.kg&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=linek.perry.us.kg&path=%2Fmember%2Fclips#🔒smkn-AM-🇦🇲
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.164.158.138:2096?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#🔒smkn-AM-🇦🇲
