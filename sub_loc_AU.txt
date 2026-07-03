@@ -1,5 +1,2 @@
-trojan://NISHIKUITAN111@192.65.217.254:443/?type=tcp&security=tls#🔒smkn-AU-🇦🇺
-vless://ba7556ea-2e96-4463-a6f2-f2ab3579a653@1.1.1.1:443?security=tls&sni=vlessct-ws-channel-vpnctvip.vpnctvip.dns-dYnaMIC.NET&type=ws&host=vlessct-ws-channel-vpnctvip.vpnctvip.dns-dYnaMIC.NET&path=%2Firanukiraniukwbpbct.majidcttls.onflashdrive.app%2FMaJiDcT%2F%3Fed%3D2084&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1#🔒smkn-AU-🇦🇺
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENI@45.77.232.213:15675#🌐smkn-AU-🇦🇺
-vless://00000000-0000-0000-0000-000000000000@1.1.1.1:80/?type=tcp&encryption=none&flow=#🌐smkn-AU-🇦🇺
-vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@1.1.1.1:8443?mode=gun&security=&encryption=none&type=grpc&serviceName=Telecommunication#🌐smkn-AU-🇦🇺
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@172.105.169.70:443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=172.105.169.70#🔒smkn-AU-🇦🇺
+vless://c07fef7d-e8d2-42fe-b977-50e368f18293@1.0.0.0:443?flow=xtls-rprx-direct-udp443&encryption=none&security=tls&sni=vincent-jackson2021.ga&type=ws&host=vincent-jackson2021.ga&path=%2fThe-Great-Awakening_ws#🔒smkn-AU-🇦🇺

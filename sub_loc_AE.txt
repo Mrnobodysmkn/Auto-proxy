@@ -1,6 +1,4 @@
-vless://08173626-c929-4e02-8b88-4cbc065de79b@185.215.234.175:443?alpn=h2,http/1.1&encryption=none&fp=chrome&host=cyrus.frtshop.ir&path=/ed=2080&security=tls&sni=cyrus.frtshop.ir&type=ws#🔒smkn-AE-🇦🇪
-ss://43488128-319e-f480-64ea-0acdc712e2a8@103.57.251.208:443?security=reality&encryption=none&pbk=lNmfBMA3R97nKT0zZEH-oYpLzO41y1xu7Tf_p0-oGF8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.luluhypermarket.com&sid=0c1553316a645758#🔒smkn-AE-🇦🇪
-vless://09f2108d-1ab0-f615-1c96-b77f00000000@20.174.15.226:443?path=%2Fsync&security=tls&encryption=none&insecure=0&host=floral-paper-7186.aminarmin10050.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=floral-paper-7186.aminarmin10050.workers.dev#🔒smkn-AE-🇦🇪
 vless://5b6be23b-dff4-428f-8a60-4f11568abe12@185.225.195.72:443?encryption=none&security=tls&sni=sync.amordad.xyz&type=ws&host=sync.amordad.xyz&path=/api/v1/stream#🔒smkn-AE-🇦🇪
-vless://cabbfe13-038b-4dbb-9c45-5079c829abfa@151.101.142.151:80?encryption=none&security=none&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-AE-🇦🇪
-vless://97ff4d1e-a99d-4c62-8457-98e5416d9f49@185.215.235.59:80?path=%2F&security=none&encryption=none&host=s2.ay9.ir&type=ws#🌐smkn-AE-🇦🇪
+vless://b7256523-48a6-40b6-b981-983b2cc2fea9@185.215.234.186:2083?mode=auto&security=tls&alpn=h2,http/1.1&encryption=none&extra={"scMaxEachPostBytes":#🔒smkn-AE-🇦🇪
+vless://08aa341b-5e6e-45a1-813d-2a21d9653573@94.183.239.13:8443?type=grpc&security=tls&fp=chrome&sni=origin-est.tgflovv.ru&mode=multi&serviceName=grpc#🔒smkn-AE-🇦🇪
+vless://3be1535c-bfb4-4ef3-bedb-f4ecdaac7c5e@185.215.234.26:8443?encryption=none&security=tls&sni=cloud.farsonline24.ir&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=cloud.farsonline24.ir&path=/mehdi#🔒smkn-AE-🇦🇪
