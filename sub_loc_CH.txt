@@ -1,2 +1,5 @@
-vless://cdb38f5b-12c3-414b-eacd-a635dc633701@193.168.144.46:443?mode=gun&amp%3Bsecurity=reality&amp%3Bencryption=none&amp%3Bpbk=rsoZpDByMW3Ukcj68I5vw_-k-CivE6CV6TPJxyPl6WY&amp%3Bfp=chrome&amp%3Bspx=/storage&amp%3Btype=grpc&amp%3Bsni=mega.io&amp%3Bsid=07a9a22b#🔒smkn-CH-🇨🇭
-vless://1adc8f61-3fff-48cc-9433-4a4889fd742e@45.197.134.32:8443?flow=xtls-rprx-vision&fp=firefox&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&security=reality&sid=d515d6cfdfe60b02&sni=rbc.ru&type=tcp#🔒smkn-CH-🇨🇭
+trojan://SoftNetConnect@83.228.251.119:443?mode=auto&path=%2F&security=reality&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=lnP3zaTgKpFJpC8IYOJZUuAedJghDQPowXJp5diOzQA&fp=chrome&spx=%2F&type=xhttp&sni=www.yahoo.com&sid=141b14d8#🔒smkn-CH-🇨🇭
+vless://05a01432-0302-439f-a88d-8442cd27b7d5@45.197.134.52:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=firefox&security=reality&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=445ab326fc7c90ac#🔒smkn-CH-🇨🇭
+vless://f98ab063-1dfb-41da-b875-fc50f6bdc174@45.197.134.27:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=chrome&security=reality&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=445ab326fc7c90ac#🔒smkn-CH-🇨🇭
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@45.90.57.139:8443?host=linek.perry.us.kg&path=%2Fmall%2Fcollect&security=tls&sni=linek.perry.us.kg&type=ws#🔒smkn-CH-🇨🇭
+ss://YWVzLTEyOC1nY206bHZ4dWoxMXg4c2ZndDlndDZtamY=@86.106.84.196:13263#🌐smkn-CH-🇨🇭
