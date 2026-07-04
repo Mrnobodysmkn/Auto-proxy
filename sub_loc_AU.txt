@@ -1,2 +1,4 @@
 trojan://63779501-4c22-4a03-83d3-9f611b227e7b@103.11.214.214:443?security=tls&sni=c1mc.cdncisco4.co&allowInsecure=1&type=tcp#🔒smkn-AU-🇦🇺
-trojan://MiTiVPN@151.101.83.83:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2&security=none&type=ws#🌐smkn-AU-🇦🇺
+vless://12345678-1234-1234-1234-123456789123@192.65.217.61:2096?encryption=none&security=tls&sni=vless.hubp.de&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vless.hubp.de&path=%2Fsnippets#🔒smkn-AU-🇦🇺
+vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.193.211:8443?security=tls&type=tcp&packetEncoding=none&allowInsecure=1&sni=syd-au-01.fromblancwithlove.com#🔒smkn-AU-🇦🇺
+vless://67a294bd-1cbe-4d21-8af5-8a66c533af0d@103.169.142.0:2052?security=none&type=httpupgrade&host=cdn-specxtech-google.com.specxtech.com&path=%2Fcdn-specxtech-google.com.specxtech.com%3Fed%3D2560#🌐smkn-AU-🇦🇺
