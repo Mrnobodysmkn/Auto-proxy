@@ -1,3 +1,5 @@
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@195.85.23.54:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#🔒smkn-CZ-🇨🇿
-trojan://ttfang@14.102.229.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram&Host=ttfang.fange.me#🔒smkn-CZ-🇨🇿
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@143.244.58.102:443#🔒smkn-CZ-🇨🇿
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.229.191:443?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=%2F&security=tls&sni=sni.my111000.tech&type=ws#🔒smkn-CZ-🇨🇿
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.229.43:443?allowInsecure=1&encryption=none&host=sni.111000.cc.cd&path=%2F%3Fhttps%253A%252F%252Ft.me%252Fwangcai2%25F0%259F%2587%25A8%25F0%259F%2587%25B3%3D&security=tls&sni=sni.111000.cc.cd&type=ws#🔒smkn-CZ-🇨🇿
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.238:2096/?type=ws&encryption=none&host=sni.jpmj.dev&path=%2F&security=tls&sni=sni.jpmj.dev#🔒smkn-CZ-🇨🇿
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.229.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=%2F&security=tls&sni=sni.my111000.tech&type=ws#🔒smkn-CZ-🇨🇿
+vless://2e20eda6-2514-4c95-8692-07b0c2c1115f@89.187.188.227:80?encryption=none&security=none&type=xhttp&headerType=none&path=/sibzaminiz&host=gerp.b-cdn.net&mode=auto#🌐smkn-CZ-🇨🇿
