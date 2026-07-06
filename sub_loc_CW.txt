@@ -1,4 +1,8 @@
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@5.10.244.231:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=babayaga-6i7.pages.dev&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🔒smkn-CW-🇨🇼
-vless://1d16c6e0-1bbe-435b-b661-90043fee999c@92.60.74.123:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=notls.lukongtou.eu.org&path=Telegram-WangCai2&security=tls&sni=notls.lukongtou.eu.org&type=ws#🔒smkn-CW-🇨🇼
-vless://43158d39-8066-4df4-b74e-2ab29f207e0a@92.60.74.56:80?type=ws&host=29.alij47649.workers.dev&path=/?ed=2048&security=none#🌐smkn-CW-🇨🇼
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@45.81.58.53:8880/?type=ws&encryption=none&host=bitget1.asdasd.click&path=%2F%3Fed%3D2560#🌐smkn-CW-🇨🇼
+trojan://bpb-trojan@45.81.58.174:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#🔒smkn-CW-🇨🇼
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.216.67.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#🔒smkn-CW-🇨🇼
+trojan://ttfang@5.10.247.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram&Host=ttfang.fange.me#🔒smkn-CW-🇨🇼
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@62.72.166.3:8880/?type=ws&encryption=none&host=bitget1.asdasd.click&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-CW-🇨🇼
+vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bd@88.216.67.21:2052/?type=xhttp&encryption=none&flow=&host=cdn3.goofymoofy.com&path=%2Fpabloping&mode=auto#🌐smkn-CW-🇨🇼
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@5.10.244.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=/Telegram+@WangCai2#🌐smkn-CW-🇨🇼
+vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@88.216.67.3:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=/?ed=8880-@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🌐smkn-CW-🇨🇼
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@62.72.166.143:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=%2FTelegramU0001F1E8U0001F1F3%20%40WangCai2#🌐smkn-CW-🇨🇼
