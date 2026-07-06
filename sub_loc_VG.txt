@@ -1,2 +1,5 @@
-trojan://Aimer@104.234.239.235:2087/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me&allowInsecure=1#🔒smkn-VG-🇻🇬
-vmess://eyJhZGQiOiAiMjAzLjM0LjgwLjEwNyIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiODI0YzU4YjEtNjViYS00NjgwLWE2MDktNjYzYTAwMGRiYjkyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi93c3MxMzg4OSIsICJwb3J0IjogNDQzLCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1WRy1cdWQ4M2NcdWRkZmJcdWQ4M2NcdWRkZWMiLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8ifQ==
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.234.239.238:443?type=ws&security=tls&sni=&host=sni.jpmj.dev&path=%2F#🔒smkn-VG-🇻🇬
+vless://26524cce-d514-4014-a426-365fb266a14d@104.234.239.42:443?encryption=none&security=tls&sni=snippet.danfeng.rr.kg&type=ws&host=snippet.danfeng.rr.kg&path=%2Fdanfeng#🔒smkn-VG-🇻🇬
+vless://42add63b-deda-4e71-aa48-ddd288181858@104.234.239.40:443?encryption=none&security=tls&sni=edtunnel-eiz.pages.dev&insecure=0&allowInsecure=0&type=ws&host=edtunnel-eiz.pages.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🔒smkn-VG-🇻🇬
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.234.239.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#🔒smkn-VG-🇻🇬
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.234.239.40:8880?type=ws&host=vms.lifetime46.workers.dev&path=/?ed=2560&https://t.me/youtube@ZYFXS#🌐smkn-VG-🇻🇬
