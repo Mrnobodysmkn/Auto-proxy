@@ -1,7 +1,6 @@
-vless://25a46973-2800-4403-b8cd-51c6c2965c12@91.224.74.54:443?security=reality&encryption=none&echfq=none&pbk=LLfsDGAOEfQmBXP9xt7sUmBS0_Z02YMNZM8uaUfYxRU&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=play.google.com&sid=7a6f3a67c13dea23#🔒smkn-KZ-🇰🇿
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@31.43.179.213:2053?path=%2F&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=dl1-tr-cdn.easy-upload.org#🔒smkn-KZ-🇰🇿
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@31.43.179.234:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#🔒smkn-KZ-🇰🇿
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.22:443?security=tls&sni=cg.ylks.xyz&type=ws&host=cg.ylks.xyz&path=%2F%3Fed%3D2560#🔒smkn-KZ-🇰🇿
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@185.176.26.242:443?security=tls&type=ws&sni=xin033.ylks.link&path=/blue&encryption=none&headerType=none#🔒smkn-KZ-🇰🇿
-vless://158d03db-e5d7-4540-a31c-b2daa7aa4964@38.180.39.171:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=web.max.ru&security=reality&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&sid=247fd6dab1a34a48#🔒smkn-KZ-🇰🇿
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@194.76.18.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/#🌐smkn-KZ-🇰🇿
+vless://fe604665-7c82-44cf-a067-869fe9b2abae@45.43.159.153:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rbc.ru&alpn=http/1.1&fp=chrome&pbk=zOPjTJV8xgGMmD0Mg0jWsRYSOsa_2pp7SSs88EFK6nw&sid=&packetEncoding=xudp#🔒smkn-KZ-🇰🇿
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@194.76.18.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-KZ-🇰🇿
+vless://d0f9437f-3c49-45c6-976b-ebea24158b39@194.76.18.46:2082?security=none&type=httpupgrade&host=finhztco.nipytee.info&path=%2F#🌐smkn-KZ-🇰🇿
+vless://70ef0e6e-0492-4132-a226-1689aff3e3eb@194.76.18.46:8080?security=none&type=httpupgrade&host=mahil1.hal-ma.info&path=/?ed%3D2087#🌐smkn-KZ-🇰🇿
+vless://ae564d93-0a3f-40b6-9137-4b73da4432c5@194.76.18.46:2052/?type=httpupgrade&encryption=none&host=ch-configt1.nipytee.info#🌐smkn-KZ-🇰🇿
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.76.18.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#🌐smkn-KZ-🇰🇿
