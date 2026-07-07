@@ -1,2 +1,5 @@
-vless://c43c1a42-27a8-47e3-a3c3-3abb72475e53@165.231.193.19:443?security=reality&sni=stats.vk-portal.net&fp=chrome&pbk=XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs&sid=992f3294e2336744&type=http&encryption=none#🔒smkn-EE-🇪🇪
-vless://9a2573c5-936f-4f93-8409-e43164793176@138.124.100.10:443?flow=xtls-rprx-vision&fp=firefox&pbk=MpuwI3YH2g3YWHKLuQwwgD_qLo-UmUtZe8L1KXOKxhA&security=reality&sid=b0d8f964b7ac8ac0&sni=cdn2-09.cdn-vkvideo.com&spx=/api/v1/video/init&type=tcp#🔒smkn-EE-🇪🇪
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.108.191:443?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#🔒smkn-EE-🇪🇪
+vless://91e120bc-159a-4390-b4e1-197b19602ea0@5.175.178.183:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#🔒smkn-EE-🇪🇪
+vless://5a23e6b2-3cd3-4475-898e-0885d71da6ec@45.12.28.95:443?encryption=none&security=tls&sni=us2.wxgqlfx.xyz&type=ws&host=us2.wxgqlfx.xyz&path=/TG@VPNine1&fp=chrome&alpn=http/1.1#🔒smkn-EE-🇪🇪
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.108.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#🔒smkn-EE-🇪🇪
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.108.138:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#🔒smkn-EE-🇪🇪
