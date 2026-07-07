@@ -1,2 +1,1 @@
-trojan://MiTiVPN@151.101.209.209:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2&security=none&type=ws#🌐smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.40:2096?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#🌐smkn-IN-🇮🇳
+vless://60697bc7-9f31-4006-a27d-d6ea2ff16f3b@185.67.125.222:8443?security=reality&encryption=none&pbk=RwOOolQ8__H4Vw58ymgHt8XRKik4dSGts_fFVqrJWmE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=a4357c6abe0b2498#🔒smkn-IN-🇮🇳
