@@ -1,3 +1,4 @@
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.85:8443/?type=tcp&encryption=none&flow=&security=tls&sni=ams1.fromblancwithlove.com#🔒smkn-RO-🇷🇴
 vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.115:8443/?type=tcp&encryption=none&flow=&security=tls&sni=ams1.fromblancwithlove.com#🔒smkn-RO-🇷🇴
-vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.101:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🔒smkn-RO-🇷🇴
+vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.99:8443?&security=tls&sni=ams1.fromblancwithlove.com&type=tcp&headerType=none&path=%2F#🔒smkn-RO-🇷🇴
+vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.118:8443/?type=tcp&encryption=none&flow=&security=tls&sni=ams1.fromblancwithlove.com#🔒smkn-RO-🇷🇴
+vless://c2305d2a-43ac-4820-9cd8-8408daf4eb0e@89.125.201.213:9444?path=/ws&security=tls&encryption=none&insecure=0&host=ro-1.reshebnik24.ru&fp=chrome&type=ws&allowInsecure=0&sni=ro-1.reshebnik24.ru#🔒smkn-RO-🇷🇴
