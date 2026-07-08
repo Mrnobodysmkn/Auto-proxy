@@ -1,1 +1,2 @@
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@202.37.33.80:443/?type=tcp&security=tls&sni=icecream.955850.xyz#🔒smkn-NZ-🇳🇿
+vless://1d16c6e0-1bbe-435b-b661-90043fee999c@114.129.43.123:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=notls.lukongtou.eu.org&path=Telegram-WangCai2&security=tls&sni=notls.lukongtou.eu.org&type=ws#🔒smkn-NZ-🇳🇿
+trojan://MiTiVPN@151.101.233.233:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2&security=none&type=ws#🌐smkn-NZ-🇳🇿
