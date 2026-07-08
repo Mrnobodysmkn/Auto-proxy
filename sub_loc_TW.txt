@@ -1,2 +1,5 @@
-vless://50668c7e-1325-7314-1626-685d580c48fc@188.253.6.80:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=W215rLzeq2f2CVCVmhEbw715wrMYHK7oPg2F0iotbRA&security=reality&sid=20180cfd&sni=www.asus.com&type=tcp#🔒smkn-TW-🇹🇼
-vless://69693208-38c1-4e15-8f93-36ac80d69840@61.221.84.106:10000?encryption=none&headerType=none&security=none&type=tcp#🌐smkn-TW-🇹🇼
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.250.152.208:8443/?type=tcp&security=tls&sni=official.taipeicitygovernment.chernovtsy.ua&allowInsecure=1#🔒smkn-TW-🇹🇼
+trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@60.250.152.208:3462/?type=tcp&security=tls&sni=45.32.28.232#🔒smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@223.165.4.173:990#🌐smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.2:2377#🌐smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.37:2377#🌐smkn-TW-🇹🇼
