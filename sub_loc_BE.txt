@@ -1,3 +1,2 @@
-vless://3ac22fb7-b1f6-4b15-b2ce-e150e8de2873@151.101.9.194:443?encryption=none&security=tls&sni=looazjoijji.global.ssl.fastly.net&type=ws&host=looazjoijji.global.ssl.fastly.net&path=/#🔒smkn-BE-🇧🇪
-vless://e704d1f1-cbe6-417e-8b93-5b2d8635c4a1@109.69.218.167:443?flow=xtls-rprx-vision&fp=randomized&pbk=6rnKHCkFuVeaJjiXLnJhfzQpQRSlPt-i6USvnRFiUBg&security=reality&sid=223d6eafc6c6e894&sni=lerua.xyz&type=tcp#🔒smkn-BE-🇧🇪
-vless://2accafc9-dd16-4db5-be89-5f099032601c@151.101.9.194:80?mode=auto&path=/@v2raydia--@v2raydia--@v2raydia--@v2raydia--@v2raydia--@v2raydia--@v2raydia--@v2raydia--@v2raydia--@v2raydia&security=none&encryption=none&extra={"mode":"auto","scMaxEachPostBytes":"1000000","xPaddingBytes":"100-1000"}&host=v2raydia.global.ssl.fastly.net&type=xhttp#🌐smkn-BE-🇧🇪
+vless://3ac22fb7-b1f6-4b15-b2ce-e150e8de2873@151.101.10.79:443?encryption=none&security=tls&sni=looazjoijji.global.ssl.fastly.net&type=ws&host=looazjoijji.global.ssl.fastly.net&path=/#🔒smkn-BE-🇧🇪
+trojan://JaFKnqNcvnBT63t3rquidGsln@94.126.225.96:443/?type=tcp&security=tls&sni=hl-freedom-1.undef.network#🔒smkn-BE-🇧🇪
