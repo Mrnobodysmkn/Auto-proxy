@@ -1,4 +1,6 @@
-vless://9268fe8c-fe3f-44fe-8984-c7d0060465a1@141.148.193.192:443?security=tls&encryption=none&sni=aka.ms&fp=chrome&type=ws&host=panel.trackydev.site&path=/&allow_insecure=1#🔒smkn-IN-🇮🇳
-vless://6564b639-8857-4fec-a45b-ada20d4bd315@139.59.75.181:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=139.59.75.181&encryption=none#🔒smkn-IN-🇮🇳
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#🌐smkn-IN-🇮🇳
-trojan://MiTiVPN@151.101.106.106:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2&security=none&type=ws#🌐smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.80:2083?security=tls&sni=epgc.aimercc.dpdns.org&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epgc.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.55:2096/?type=ws&host=epml.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=epml.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
+trojan://8r%3C%5B9%27l6hAO%238ZQi@108.165.152.253:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram#🔒smkn-IN-🇮🇳
+trojan://MiTiVPN@151.101.156.156:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2&security=none&type=ws#🌐smkn-IN-🇮🇳
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@108.165.152.140:80/?type=ws&encryption=none&flow=&host=s5.868001.xyz&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🌐smkn-IN-🇮🇳
+trojan://MiTiVPN@151.101.104.104:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2&security=none&type=ws#🌐smkn-IN-🇮🇳
