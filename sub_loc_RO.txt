@@ -1,2 +1,4 @@
-ss://43488128-319e-f480-64ea-0acdc712e2a8@77.81.98.70:443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=&amp;pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&amp;security=reality&amp;sid=9b4fc5a116efd6c8&amp;sni=www.aliexpress.com&amp;type=tcp#🔒smkn-RO-🇷🇴
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#🌐smkn-RO-🇷🇴
+vless://92e41c23-4b39-464a-bbff-63ef84f317da@95.173.199.110:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=DxMGwax3l0UxFYZE349Fs15huyc4Jwzj6MG7Qrj0HQ0&sid=735093d7&type=tcp&headerType=none#🔒smkn-RO-🇷🇴
+vless://534773cf-7d0b-4acf-ac4f-dbc79e42a9a8@89.125.201.223:8443?encryption=none&security=reality&sni=www.vk.ru&fp=chrome&pbk=4bgFY_YO2RjobBYyYjfEfHIX_dyhtvaDrN086wl1TmE&sid=99ea&spx=%2F&type=xhttp&path=%2F&mode=auto&extra=%7B#🔒smkn-RO-🇷🇴
+vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.118:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🔒smkn-RO-🇷🇴
+vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.80:8443?encryption=none&security=tls&sni=buh-ro-01.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🔒smkn-RO-🇷🇴
