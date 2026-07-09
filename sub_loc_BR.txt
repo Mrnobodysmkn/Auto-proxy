@@ -1,3 +1,5 @@
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.133.35.160:443/?type=tcp&security=tls&sni=icecream.955850.xyz#🔒smkn-BR-🇧🇷
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.26:443/?type=ws&encryption=none&host=vc.ylka.dpdns.org#🔒smkn-BR-🇧🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#🌐smkn-BR-🇧🇷
+vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.238:443/?type=ws&encryption=none&path=%2F%3Fed&security=tls&sni=cl.bgm2024.dpdns.org#🔒smkn-BR-🇧🇷
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@144.22.252.124:443?security=tls&sni=cp.ylks.xyz&type=ws&host=cp.ylks.xyz&path=%2Fblue#🔒smkn-BR-🇧🇷
+vless://7baaeabb-c1dc-4f6b-a855-624f9f7e487e@185.133.35.22:2053?security=tls&type=xhttp&headerType=&path=/?ed=2095&host=farangis.alaedinshoping.com.&mode=auto&extra={"scMaxEachPostBytes":+"1000000",+"scMaxConcurrentPosts":+100,+"scMinPostsIntervalMs":+30,+"xPaddingBytes":+"100-1000",+"noGRPCHeader":+false}&sni=farangis.alaedinshoping.coM.&fp=chrome&alpn=h2,http/1.1#🔒smkn-BR-🇧🇷
+trojan://MiTiVPN@185.133.35.22:443/?type=ws&host=Finl.App-Cloud.ir&path=%2FMiTiVPN%3DfL&security=tls&sni=Finl.App-Cloud.ir&alpn=http%2F1.1&fp=chrome#🔒smkn-BR-🇧🇷
+vless://f8e699e8-c856-4297-b42c-0097544121c3@154.91.157.187:8443?type=tcp&security=reality&sni=rbc.ru&fp=firefox&flow=xtls-rprx-vision&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=e3152b486a086f4e#🔒smkn-BR-🇧🇷
