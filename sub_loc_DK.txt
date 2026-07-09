@@ -1,2 +1,2 @@
-trojan://rYuChHcwQZskq9E0zdoR@193.180.209.21:443/?type=tcp&security=tls&sni=vpn5.rnmcnm.com#🔒smkn-DK-🇩🇰
-vmess://eyJhZGQiOiAiMTkzLjI5LjEwNy4yMzciLCAiYWlkIjogNjQsICJob3N0IjogInd3dy42NzE3MDIyNy54eXoiLCAiaWQiOiAiMmU5NjdkZDUtOGQyNC00MDk5LWE5MDEtNDEyZGNiNDAyNGZkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9wYXRoLzE5MTAxOTA3MjkyNyIsICJwb3J0IjogMzAwMDAsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLURLLVx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRmMCIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byJ9
+trojan://v2raydia@140.248.69.255:443?mode=auto&path=/v2raydia&security=tls&extra={"xPaddingBytes":"100-1000"}&insecure=1&host=khre.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=api.imgur.com#🔒smkn-DK-🇩🇰
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@193.181.214.98:2083?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vpn47.cc.cd&path=%2F#🔒smkn-DK-🇩🇰
