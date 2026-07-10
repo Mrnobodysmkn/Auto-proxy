@@ -1,8 +1,9 @@
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.211.253:2053?path=%2F&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=dl1-tr-cdn.easy-upload.org#🔒smkn-BZ-🇧🇿
-ss://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.208.61:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=vpn47.cc.cd&amp;type=ws&amp;allowInsecure=0&amp;sni=vpn47.cc.cd#🔒smkn-BZ-🇧🇿
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.5.202:2053?path=%2F&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=dl1-uk-cdn.easy-upload.org#🔒smkn-BZ-🇧🇿
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.211.16:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#🔒smkn-BZ-🇧🇿
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.7.246:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#🔒smkn-BZ-🇧🇿
+ss://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.7.215:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🔒smkn-BZ-🇧🇿
 vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@45.131.6.26:443/?type=ws&encryption=none&host=rAyAn-12.LeIlA.DpDnS.OrG&path=%2F%40rayan_config&security=tls&sni=rAyAn-12.LeIlA.DpDnS.OrG#🔒smkn-BZ-🇧🇿
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.210.68:2053?path=%2F&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=dl1-uk-cdn.easy-upload.org#🔒smkn-BZ-🇧🇿
+trojan://ttfang@45.131.211.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram&Host=ttfang.fange.me#🔒smkn-BZ-🇧🇿
+ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.7.0:80?path=%2F193.123.81.105%3D443&amp;security=none&amp;encryption=none&amp;host=zoomgov.vipren.biz.id&amp;type=ws#🌐smkn-BZ-🇧🇿
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.6.166:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=Telegram%40ShadowProxy66%2F%3Fed%3D2560#🌐smkn-BZ-🇧🇿
 vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.131.7.126:8880/?type=httpupgrade&encryption=none&host=nufillter.jtip.sbs.&path=%2F#🌐smkn-BZ-🇧🇿
-vless://7f037831-591d-4067-9c8c-39f07d12858a@45.131.6.243:80/?type=ws&encryption=none#🌐smkn-BZ-🇧🇿
+vmess://eyJhZGQiOiAiMjAzLjMwLjE4OC4xODgiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjQwZDQ5NmE2LWNlZWItNDA5Ni1iYWViLTRjYzUyYjIwNTYyMSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvRUNUQ0owREYiLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzY1x1ZGYxMHNta24tQlotXHVkODNjXHVkZGU3XHVkODNjXHVkZGZmIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIn0=
+vmess://eyJhZGQiOiAiMjAzLjMwLjE4OC4xOTAiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjE3YjJhMzEzLTM3YTAtNDk0NS1hOGU0LWU2MzM3NTUwNmI0YSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvQTJESk9QRlQiLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzY1x1ZGYxMHNta24tQlotXHVkODNjXHVkZGU3XHVkODNjXHVkZGZmIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIn0=
