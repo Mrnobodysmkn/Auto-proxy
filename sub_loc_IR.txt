@@ -1,12 +1,6 @@
-trojan://dTaXAtuoQF@185.143.235.200:443/?type=tcp&security=tls&sni=nginx-4561f180e2-anssdsfsdf.apps.ir-northwest1.arvancaas.ir#🔒smkn-IR-🇮🇷
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.249:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org#🔒smkn-IR-🇮🇷
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.158:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org#🔒smkn-IR-🇮🇷
-vless://789c0ab6-0e2d-44b2-9484-f3570e9e90ed@2.144.25.196:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=api.bcdnjs.site&alpn=h2%2C%20http%2F1.1&fp=chrome&allowinsecure=0&type=tcp&headerType=none#🔒smkn-IR-🇮🇷
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.36:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#🔒smkn-IR-🇮🇷
-ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@185.188.104.12:443#🔒smkn-IR-🇮🇷
-ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@185.188.104.11:443#🔒smkn-IR-🇮🇷
-trojan://K3gZs5PBCm@188.121.109.94:9443?security=none&type=ws&host=188.121.109.94&path=/margbaramperilism#🌐smkn-IR-🇮🇷
-trojan://NfpQBzI5Pn@185.143.235.200:2082?security=none&type=ws&host=cli2.anami3.icu&path=/#🌐smkn-IR-🇮🇷
-vless://d97ee9a9-0a91-4eda-b412-8c0c62684df2@217.144.107.202:50917?security=none&amp;encryption=none&amp;host=v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---&amp;headerType=none&amp;type=tcp#🌐smkn-IR-🇮🇷
-vless://290a1fba-93a3-4004-bd56-0565a956a209@185.143.235.200:80?path=%2Farvancloud.ir&security=&encryption=none&host=taraneh.pointspeed.ir&type=ws#🌐smkn-IR-🇮🇷
-ss://991e8e3a-9c23-4855-816a-571fe3cf3856@217.144.107.202:28831?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#🌐smkn-IR-🇮🇷
-vmess://eyJhZGQiOiAiMzcuMzIuMjMuMTIyIiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICJkMTJiYzg4Mi00M2M3LTQxNWUtODdjNS0yYTdmZGM4MzcxYzAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3dlYnNvY2tldC8iLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzY1x1ZGYxMHNta24tSVItXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIn0=
+vless://29631d28-ea31-4ffa-99d3-7816adc92fb5@95.38.179.64:8443?mode=auto&amp;path=%2F%3Fed%3D2560%2Fv2ray&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;fp=chrome&amp;type=xhttp&amp;sni=email.tron2tron.ir#🔒smkn-IR-🇮🇷
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6aUZ4bHRxc2NKVkxKZEh1blpYUENtYjRUb0hON0xoa29lWXdwUWNVL1Bibz0@193.151.128.97:443#🔒smkn-IR-🇮🇷
+vless://a9f40576-6321-491f-bb4a-7d8a762eea27@217.114.40.12:80?security=none&encryption=none&headerType=none&type=tcp#🌐smkn-IR-🇮🇷
+vless://bc8b78cf-567c-426a-86d9-1b966a9e7ae7@185.143.235.21:8080?type=tcp&encryption=none&security=none#🌐smkn-IR-🇮🇷
