@@ -1,4 +1,6 @@
-vless://24b04275-3faf-49dc-995a-916433bce6a9@14.102.228.208:8443?alpn=h2&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=panel.eightseek3.qzz.io&mode=auto&path=%2F&security=tls&sni=panel.eightseek3.qzz.io&type=xhttp&x_padding_bytes=100-1000#🔒smkn-CZ-🇨🇿
+trojan://bpb-trojan@195.85.23.232:443/?type=tcp&security=tls&sni=bpb.my79801.com#🔒smkn-CZ-🇨🇿
+vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@14.102.228.201:443?security=tls&type=ws&path=/a8Kp92LmQx&host=app.zynuro.ir&packetEncoding=xudp&alpn=h2,http/1.1&sni=app.zynuro.ir&fp=chrome#🔒smkn-CZ-🇨🇿
+trojan://ttfang@14.102.229.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram&Host=ttfang.fange.me#🔒smkn-CZ-🇨🇿
 trojan://8r%3C%5B9%27l6hAO%238ZQi@14.102.229.253:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram#🔒smkn-CZ-🇨🇿
-trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?allowInsecure=1#🔒smkn-CZ-🇨🇿
-vless://85a15603-7fb2-4c53-967c-4e3c63523a41@14.102.229.179:80/?type=ws&encryption=none&host=Www.speedtest.net.sPeedtest2.sbs.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048#🌐smkn-CZ-🇨🇿
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@14.102.229.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-CZ-🇨🇿
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@195.85.23.20:8880?encryption=none&security=none&type=ws&host=us.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#🌐smkn-CZ-🇨🇿
