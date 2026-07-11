@@ -1,7 +1,1 @@
-trojan://NISHIKUITAN111@45.135.235.196:443/?type=tcp&security=tls#🔒smkn-UA-🇺🇦
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.180.161:443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#🔒smkn-UA-🇺🇦
-vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.52:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🔒smkn-UA-🇺🇦
-vless://a809075c-c3d3-43d4-bb57-c5b0c316500b@89.116.180.49:8443?encryption=none&security=tls&sni=bot.cloudi-host.ir&fp=chrome&alpn=http%2F1.1&insecure=1&allowInsecure=1&type=ws&host=bot.cloudi-host.ir&path=%2F720f09dba195249b423f771661162528%2Fworkers%2Fservices%2Fview%2Fmitivpn%2Fproduction%2Fsettings#🔒smkn-UA-🇺🇦
-vless://af0ed84b-b07f-4b6f-8ca7-59560f2bc8fc@95.133.236.90:1020?security=reality&amp;encryption=none&amp;pbk=jILgyIiDR7xY8WDrU9EMx_iXUi6nKr3LapCgglBVBAU&amp;headerType=none&amp;fp=chrome&amp;spx=/&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=3fa2fdb7dce16b8b#🔒smkn-UA-🇺🇦
-trojan://MiTiVPN@89.116.180.49:443#🔒smkn-UA-🇺🇦
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@89.116.180.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-UA-🇺🇦
+vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.54:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🔒smkn-UA-🇺🇦
