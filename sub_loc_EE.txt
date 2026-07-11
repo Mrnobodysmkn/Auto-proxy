@@ -1,7 +1,4 @@
-vless://1d16c6e0-1bbe-435b-b661-90043fee999c@45.80.108.123:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=notls.lukongtou.eu.org&path=Telegram-WangCai2&security=tls&sni=notls.lukongtou.eu.org&type=ws#🔒smkn-EE-🇪🇪
-vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@45.12.28.47:443?encryption=none&security=tls&sni=premium.click-connect.online&fp=safari&insecure=0&allowInsecure=0&type=xhttp&host=premium.click-connect.online&path=%2Fapi%2Fv2%2Fsync%2F&mode=auto#🔒smkn-EE-🇪🇪
-vless://5c5a466e-f2e0-4211-8963-742afac24948@23.230.179.152:443?allow_insecure=0&fp=chrome&host=netmelivip.dpdns.org&path=%2Fxiron&security=tls&sni=netmelivip.dpdns.org&type=ws#🔒smkn-EE-🇪🇪
-trojan://NISHIKUITAN111@185.159.247.248:443/?type=tcp&security=tls&allowInsecure=1#🔒smkn-EE-🇪🇪
-vless://5c5a466e-f2e0-4211-8963-742afac24948@38.180.163.250:443?allow_insecure=0&fp=chrome&host=netmelivip.dpdns.org&path=%2Fxiron&security=tls&sni=netmelivip.dpdns.org&type=ws#🔒smkn-EE-🇪🇪
-vless://cf038a28-8f85-41fc-9e86-ba99a3fdd0d9@45.12.28.47:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=9PFK7qve14puhWYmFyNGpmDVPEyUjwAsYHhgH3Y1HmY&security=reality&sni=batman.jokertv.eu&type=tcp#🔒smkn-EE-🇪🇪
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@185.159.247.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-EE-🇪🇪
+vless://c43c1a42-27a8-47e3-a3c3-3abb72475e53@165.231.193.18:443?security=reality&sni=stats.vk-portal.net&fp=chrome&pbk=XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs&sid=992f3294e2336744&type=http&encryption=none#🔒smkn-EE-🇪🇪
+trojan://ttfang@45.80.110.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram&Host=ttfang.fange.me#🔒smkn-EE-🇪🇪
+trojan://pjqRC5wfEFhYTyiaKF@45.139.194.60:443?sni=ee-1.tr202604.com&allowInsecure=1&type=tcp#🔒smkn-EE-🇪🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.36.155:990#🌐smkn-EE-🇪🇪
