@@ -1,8 +1,6 @@
-vless://b02262ee-d4e8-44c5-b08b-2dba07d1eec7@185.77.231.80:443?security=reality&sni=www.ozon.ru&fp=chrome&pbk=J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ&sid=1a&type=raw&flow=xtls-rprx-vision&encryption=none#🔒smkn-LV-🇱🇻
-ss://099dbf2d-a8e0-406e-a85f-eba0ac9a68aa@195.135.252.28:443?security=reality&amp;encryption=none&amp;pbk=hGGVm0PiHJwNL34pBG6NLtbFGYVdcWhDu5zHYDoct08&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=4360e536#🔒smkn-LV-🇱🇻
-vless://52b32247-4747-41de-b816-ba750a5e8bd1@185.77.231.80:20814?security=reality&sni=download.max.ru&fp=chrome&pbk=J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ&sid=00e7&type=tcp&flow=xtls-rprx-vision&encryption=none#🔒smkn-LV-🇱🇻
-vless://4d164eae-b9fc-467f-91ca-f381610de096@185.77.231.80:16991?security=reality&sni=goya.rutube.ru&fp=chrome&pbk=J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ&sid=9792f748&type=tcp&flow=xtls-rprx-vision&encryption=none#🔒smkn-LV-🇱🇻
-vless://2b215723-1fc5-4206-b0bd-65c44130cec6@185.77.231.80:51187?security=reality&sni=vk.com&fp=chrome&pbk=J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ&sid=00e7&type=tcp&flow=xtls-rprx-vision&encryption=none#🔒smkn-LV-🇱🇻
-vless://2a428848-ede7-4fb2-9e8d-92bb5158814e@185.77.231.80:54969?security=reality&sni=alfabank.ru&fp=chrome&pbk=J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ&sid=00e7&type=tcp&flow=xtls-rprx-vision&encryption=none#🔒smkn-LV-🇱🇻
-trojan://8r%3C%5B9%27l6hAO%238ZQi@195.135.254.173:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#🔒smkn-LV-🇱🇻
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkM1RwaFBQZk1rSXhGbVBKcEEwajdSa1BKSGplSHFhSmsyRDdDbzdWc0Z1VVUydjE=@45.128.151.67:31348#🌐smkn-LV-🇱🇻
+vless://98f268b5-77a7-4185-a002-a6c835d36109@185.145.245.113:443?type=tcp&security=reality&sni=dev.max.ru&fp=firefox&flow=xtls-rprx-vision&pbk=_LSQY5yM9a2DwjKNGwly5oknCu051Edr1vSVLM9MbFs&sid=8e0691f8de17#🔒smkn-LV-🇱🇻
+vless://9b38aca0-0025-46c5-b6c2-a254481177f1@31.57.158.182:443?encryption=none&security=reality&sni=www.yahoo.com&fp=chrome&pbk=emvssvP9ArNgQjkoiitMP1tjPDM7njp_Tp6A4FM83Uc&sid=f827d2ae&spx=/ot0xlxRIleT3sxu&type=xhttp&path=/&mode=auto&extra={"mode":"auto","xPaddingBytes":"100-1000"}#🔒smkn-LV-🇱🇻
+trojan://8r%3C%5B9%27l6hAO%238ZQi@195.135.252.148:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#🔒smkn-LV-🇱🇻
+trojan://8r%3C%5B9%27l6hAO%238ZQi@195.135.252.148:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-LV-🇱🇻
+trojan://8r%3C%5B9%27l6hAO%238ZQi@217.60.2.248:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#🔒smkn-LV-🇱🇻
+trojan://8r%3C%5B9%27l6hAO%238ZQi@37.128.207.210:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#🔒smkn-LV-🇱🇻

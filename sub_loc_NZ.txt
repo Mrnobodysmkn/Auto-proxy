@@ -1,2 +1,2 @@
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.164.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-NZ-🇳🇿
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.30:8880/?type=ws&encryption=none&flow=&host=vms.lifetime04.workers.dev&path=%2F#🌐smkn-NZ-🇳🇿
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@202.37.33.80:443/?type=tcp&security=tls&sni=icecream.955850.xyz#🔒smkn-NZ-🇳🇿
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.232.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-NZ-🇳🇿
