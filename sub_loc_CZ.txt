@@ -1,9 +1,4 @@
-vless://2f0bcd99-3751-4d9d-acd4-e67b2a38c828@195.85.23.225:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960006.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒smkn-CZ-🇨🇿
-vless://40168c82-d975-4cdb-867b-59d5e8f42f26@195.85.23.22:443?security=tls&sni=pages.dev&type=ws&host=yechiv2ray-x-cgygfxddewaw345556.pages.dev&path=%2FpTM44aQNGIM7FTIm%2FZGUucmFkaWNhbGx5LnBybw%3D%3D%3Fed%3D2560&fp=chrome&alpn=http/1.1#🔒smkn-CZ-🇨🇿
-vless://5805aed6-5e06-4266-9c3c-8b6a3b968d1a@152.233.66.68:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=TXwYCrwkhTEeqtxTf3ZYmXNwYcmVtR9eVXJRo7Kvxmk&sid=8c5041b3#🔒smkn-CZ-🇨🇿
-vless://50e75c0f-801a-4291-9d98-80e77b787fd5@195.85.23.236:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒smkn-CZ-🇨🇿
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@109.172.9.100:443?encryption=none&security=tls&sni=vpn47.cc.cd&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=vpn47.cc.cd&path=%2F#🔒smkn-CZ-🇨🇿
-vless://cc6b985d-0362-4129-8763-38564174fb3e@14.102.228.209:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=iryiccyne.wwtraveler.com&alpn=http%2F1.1%2Ch2&fp=chrome#🔒smkn-CZ-🇨🇿
-vless://34fabefd-88b9-4a75-b354-99bd81be6c41@78.159.247.177:7444?type=tcp&security=reality&sni=ads.x5.ru&fp=firefox&flow=xtls-rprx-vision&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo#🔒smkn-CZ-🇨🇿
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@14.102.229.66:2087?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=/security%3Dtls#🔒smkn-CZ-🇨🇿
-trojan://8r%3C%5B9%27l6hAO%238ZQi@14.102.228.253:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram#🔒smkn-CZ-🇨🇿
+trojan://Aimer@37.157.192.61:9902/?type=tcp&security=tls&sni=amepo.ambercc.filegear-sg.me&allowInsecure=1#🔒smkn-CZ-🇨🇿
+trojan://ttfang@14.102.229.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram&Host=ttfang.fange.me#🔒smkn-CZ-🇨🇿
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@14.102.229.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-CZ-🇨🇿
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@195.85.23.20:8880?encryption=none&security=none&type=ws&host=us.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#🌐smkn-CZ-🇨🇿

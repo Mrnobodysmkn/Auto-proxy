@@ -1,6 +1,4 @@
-vless://92e41c23-4b39-464a-bbff-63ef84f317da@84.17.58.133:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=firefox&flow=xtls-rprx-vision&pbk=3hiGU9oArRYulbhHEJa7nTfx1k0XL6ItE_xs-8Yi_Uc&sid=17a2a5e0#🔒smkn-IT-🇮🇹
-ss://6eb831ea-8829-457b-a5d1-52f640a97486@116.204.164.5:7443?path=%2F%40Marisa_kristi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev#🔒smkn-IT-🇮🇹
-vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&security=reality&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&sid=79a1e14b#🔒smkn-IT-🇮🇹
-trojan://MITIVPN@151.101.242.172:80#🌐smkn-IT-🇮🇹
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086/?type=raw&encryption=none#🌐smkn-IT-🇮🇹
-vless://e4f83b5e-2ac5-4040-ade6-afb095a8d1c2@146.75.55.116:80?mode=auto&path=%2F1ht&security=&encryption=none&host=Fred443portlarucin.com&type=xhttp#🌐smkn-IT-🇮🇹
+vless://e4f83b5e-2ac5-4040-ade6-afb095a8d1c2@146.75.55.83:80?mode=auto&path=%2F1ht&security=&encryption=none&host=Fred443portlarucin.com&type=xhttp#🌐smkn-IT-🇮🇹
+vless://e4f83b5e-2ac5-4040-ade6-afb095a8d1c2@146.75.55.102:80?mode=auto&path=%2F1ht&security=&encryption=none&host=Fred443portlarucin.com&type=xhttp#🌐smkn-IT-🇮🇹
+vless://fb9da2e5-aee6-4108-ab57-ffc36ce85656@89.150.57.196:8443?security=none&encryption=none&headerType=none&type=tcp#🌐smkn-IT-🇮🇹
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.92:8880?encryption=none&security=none&type=grpc#🌐smkn-IT-🇮🇹
