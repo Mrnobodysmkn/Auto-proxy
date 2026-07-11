@@ -1,3 +1,6 @@
-vless://b250af86-7f78-4e69-9e99-1f1ddfe27ea0@89.34.90.179:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=firefox&security=reality&pbk=Cve6RU_xmFPAsLiW2eIucli0lwEZyf7XFj6_rR8LukI&sid=671047edbaa38eef#🔒smkn-IN-🇮🇳
-vless://2a45f87c-ab4b-4d51-9347-89b937960121@151.101.158.204:80?path=/olem/ws?ed=64&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&security=none&alpn=h2,http/1.1&encryption=none&host=fatmelo.com&fp=chrome&type=ws&sni=zmaoz.faculty.ucdavis.edu.#🌐smkn-IN-🇮🇳
-trojan://MiTiVPN@151.101.107.107:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2&security=none&type=ws#🌐smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.225:2083/?type=tcp&security=tls&sni=epcco.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.78:2083/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org#🔒smkn-IN-🇮🇳
+trojan://SSorg@108.165.152.76:2096/?type=tcp&security=tls&sni=ssjj.esslh.filegear-sg.me&allowInsecure=1#🔒smkn-IN-🇮🇳
+trojan://MiTiVPN@199.232.101.242:80?host=www.f6r.ir&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=none&type=ws#🌐smkn-IN-🇮🇳
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.208.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-IN-🇮🇳
+trojan://MiTiVPN@151.101.208.208:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2&security=none&type=ws#🌐smkn-IN-🇮🇳

@@ -1,3 +1,1 @@
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@154.83.2.18:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#🔒smkn-TH-🇹🇭
-vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.164.0.59:666?path=%2Fproxy&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=43.164.0.59#🔒smkn-TH-🇹🇭
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#🌐smkn-TH-🇹🇭
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@154.83.2.24:443?security=tls&type=ws&path=/&host=vpn47.cc.cd&packetEncoding=xudp&sni=vpn47.cc.cd&fp=chrome&encryption=none#🔒smkn-TH-🇹🇭
