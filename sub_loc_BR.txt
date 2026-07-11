@@ -1,8 +1,6 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.133.35.144:443?security=tls&sni=lx.ylks01.eu.org&type=ws&host=lx.ylks01.eu.org&path=%2Fblue#🔒smkn-BR-🇧🇷
-vless://40adcab9-ea8c-4116-a985-346191e2b4c8@189.74.106.130:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&security=reality&sid=122218f4c1f172e4&sni=api.yandex-cloud.org&type=tcp#🔒smkn-BR-🇧🇷
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.133.35.254:443/?type=ws&security=tls&sni=icecream.955850.xyz#🔒smkn-BR-🇧🇷
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.176.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-BR-🇧🇷
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.248.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-BR-🇧🇷
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.133.35.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560fp%3Dchrome#🌐smkn-BR-🇧🇷
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.133.35.251:8880?path=/Telegram&security=none&encryption=none&host=cf.d3z.net&type=ws&sni=Telegram-channel-WangCai2#🌐smkn-BR-🇧🇷
-vmess://eyJhZGQiOiAiMTcyLjIzMy4xOS4xNDMiLCAiYWlkIjogMSwgImhvc3QiOiAiMTcyLjIzMy4xOS4xNDMiLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzY1x1ZGYxMHNta24tQlItXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3IiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIn0=
+trojan://bpb-trojan@45.194.53.231:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#🔒smkn-BR-🇧🇷
+vless://40adcab9-ea8c-4116-a985-346191e2b4c8@189.74.106.98:443?flow=xtls-rprx-vision&fp=chrome&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&security=reality&sid=122218f4c1f172e4&sni=api.yandex-cloud.org&type=tcp#🔒smkn-BR-🇧🇷
+trojan://02926f9e-153a-42c8-8ecd-8fade7009ad1@144.22.250.122:443/?type=tcp&security=tls&sni=golinkwuxian.top#🔒smkn-BR-🇧🇷
+vless://f8e699e8-c856-4297-b42c-0097544121c3@154.91.157.116:8443?type=tcp&security=reality&sni=rbc.ru&fp=firefox&flow=xtls-rprx-vision&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=e3152b486a086f4e#🔒smkn-BR-🇧🇷
+trojan://MiTiVPN@151.101.185.242:443/?type=ws&host=www.f6r.ir&path=/?ed=2560&Telegram#🔒smkn-BR-🇧🇷
+vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.242:443/?type=ws&encryption=none&host=uu.vs2024.us.kg#🔒smkn-BR-🇧🇷
