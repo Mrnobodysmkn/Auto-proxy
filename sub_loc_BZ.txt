@@ -1,9 +1,7 @@
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.211.16:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#🔒smkn-BZ-🇧🇿
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.7.72:2053?path=%2F&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=dl1-uk-cdn.easy-upload.org#🔒smkn-BZ-🇧🇿
-vless://7f037831-591d-4067-9c8c-39f07d12858a@45.131.210.230:80/?type=ws&encryption=none&host=yuming.kkllllkkkk95.workers.dev&path=telegram%40wangcai2%2F%3Fed%3D2048&security=tls&sni=yuming.kkllllkkkk95.workers.dev#🔒smkn-BZ-🇧🇿
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.6.238:2096?security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#🔒smkn-BZ-🇧🇿
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.6.141:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=Telegram%40ShadowProxy66%2F%3Fed%3D2560#🌐smkn-BZ-🇧🇿
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.210.30:8880/?type=ws&encryption=none&flow=&host=vms.lifetime05.workers.dev&path=%2F#🌐smkn-BZ-🇧🇿
-vless://Shh-proxy@45.131.5.144:8880?encryption=none&type=ws&host=shhp.akbarjoojeh.shop&path=/---@SHH_PROXY/---@SHH_PROXY/---@SHH_PROXY/---@SHH_PROXY/---@SHH_PROXY#🌐smkn-BZ-🇧🇿
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@45.131.211.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=%2F#🌐smkn-BZ-🇧🇿
-vless://2b4bed25-a5ef-439d-93b1-395b7bcec58b@45.131.7.166:80/?type=ws&encryption=none#🌐smkn-BZ-🇧🇿
+trojan://ttfang@45.131.7.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram&Host=ttfang.fange.me#🔒smkn-BZ-🇧🇿
+trojan://ttfang@45.131.211.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram&Host=ttfang.fange.me#🔒smkn-BZ-🇧🇿
+vless://668869b1-860e-4308-b1da-386e222defce@45.131.5.88:8443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=Ikaho.soralink.ir&fp=qq&type=xhttp&allowInsecure=0&sni=Ikaho.soralink.ir#🔒smkn-BZ-🇧🇿
+vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.179:80/?type=ws&encryption=none&host=gozargah.validbv7996.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#🌐smkn-BZ-🇧🇿
+vmess://eyJhZGQiOiAiMjAzLjMwLjE4OS4xODkiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjQwZDQ5NmE2LWNlZWItNDA5Ni1iYWViLTRjYzUyYjIwNTYyMSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvRUNUQ0owREYiLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzY1x1ZGYxMHNta24tQlotXHVkODNjXHVkZGU3XHVkODNjXHVkZGZmIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIn0=
+vmess://eyJhZGQiOiAiMjAzLjMwLjE5MS4xMSIsICJhaWQiOiAiMCIsICJob3N0IjogImxnLnYycmF5OC54eXoiLCAiaWQiOiAiNWY2NGZhNjUtN2IxNC00OWM1LTk1NGQtYWExNWM2YmZjYWNkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6ICI4MCIsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUJaLVx1ZDgzY1x1ZGRlN1x1ZDgzY1x1ZGRmZiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+vmess://eyJhZGQiOiAiMjAzLjMwLjE4OS4yIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiZnIudjJyYXkxLnh5eiIsICJpZCI6ICIxN2IyYTMxMy0zN2EwLTQ5NDUtYThlNC1lNjMzNzU1MDZiNGEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjgwIiwgInBzIjogIlx1ZDgzY1x1ZGYxMHNta24tQlotXHVkODNjXHVkZGU3XHVkODNjXHVkZGZmIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGVzdF9uYW1lIjogIjYiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=

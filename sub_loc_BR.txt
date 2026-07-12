@@ -1,4 +1,4 @@
-vless://40adcab9-ea8c-4116-a985-346191e2b4c8@189.74.106.130:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&security=reality&sid=122218f4c1f172e4&sni=api.yandex-cloud.org&type=tcp#🔒smkn-BR-🇧🇷
-trojan://bpb-trojan@45.194.53.231:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#🔒smkn-BR-🇧🇷
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.92.11:80?host=Fastapi.Org&path=%2F&type=ws#🌐smkn-BR-🇧🇷
-vless://b14bc0dc-623e-42ca-b45a-383a572fa192@200.25.53.5:80?mode=auto&path=%2Fmfa&security=none&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%2232-256%22%7D&host=cdn1.mehfa.site&type=xhttp#🌐smkn-BR-🇧🇷
+vless://40adcab9-ea8c-4116-a985-346191e2b4c8@189.74.117.3:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api.yandex-api.org&security=reality&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4#🔒smkn-BR-🇧🇷
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.133.35.160:443/?type=tcp&security=tls&sni=icecream.955850.xyz#🔒smkn-BR-🇧🇷
+vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.52:443/?type=ws&encryption=none&host=crolindd.dearcarlotta.cloudns.org&path=%2FTelegram%40V2ray_Alpha%3Dcitlali.shorekeeper.ir&security=tls&sni=crolindd.dearcarlotta.cloudns.org&alpn=http%2F1.1&fp=random#🔒smkn-BR-🇧🇷
+trojan://MiTiVPN@151.101.93.93:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2&security=none&type=ws#🌐smkn-BR-🇧🇷

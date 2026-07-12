@@ -1,4 +1,2 @@
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@154.83.2.47:2053?path=%2F&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=dl1-tr-cdn.easy-upload.org#🔒smkn-TH-🇹🇭
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@154.83.2.24:443?security=tls&type=ws&path=/&host=vpn47.cc.cd&packetEncoding=xudp&sni=vpn47.cc.cd&fp=chrome&encryption=none#🔒smkn-TH-🇹🇭
-trojan://a4408756-1d34-4df0-a6c9-e63226e0ab93@203.159.92.232:443/?type=tcp&security=tls&sni=data.amazon-azure.com&allowInsecure=1#🔒smkn-TH-🇹🇭
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.164.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-TH-🇹🇭
+trojan://NISHIKUITAN111@154.83.2.121:443/?type=tcp&security=tls#🔒smkn-TH-🇹🇭
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.83.2.50:8880?security=none&type=ws&path=/?ed=2560&https://t.me/youtube@ZYFXS&host=vms.lifetime28.workers.dev#🌐smkn-TH-🇹🇭
