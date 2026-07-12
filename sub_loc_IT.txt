@@ -1,4 +1,4 @@
-vless://329aa1be-ee6d-4d92-a8ef-c2ddac7583b1@116.204.164.30:7443?path=%2F%40Marisa_kristi&security=tls&encryption=none&host=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&fp=chrome&type=ws&sni=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#🔒smkn-IT-🇮🇹
-vless://85c42ce4-7789-49cb-9012-9d6d6ba16581@45.198.91.11:8443?type=tcp&security=reality&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=6419bed7fd0a2cff#🔒smkn-IT-🇮🇹
-trojan://MiTiVPN@151.101.241.241:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2&security=none&type=ws#🌐smkn-IT-🇮🇹
-trojan://MITIVPN@151.101.242.172:80#🌐smkn-IT-🇮🇹
+vless://92e41c23-4b39-464a-bbff-63ef84f317da@84.17.58.133:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=firefox&flow=xtls-rprx-vision&pbk=3hiGU9oArRYulbhHEJa7nTfx1k0XL6ItE_xs-8Yi_Uc&sid=17a2a5e0#🔒smkn-IT-🇮🇹
+vless://54cefe48-36d6-4dd6-9e73-a823a40a93db@132.243.212.14:605?type=grpc&security=reality&fp=edge&pbk=Ux2M6x46mIcoAoP2oCA8qEQnqc1O5cpa5zYRIdCNdnw&sni=www.kayak.com&mode=gun#🔒smkn-IT-🇮🇹
+vless://e4f83b5e-2ac5-4040-ade6-afb095a8d1c2@146.75.55.236:80/?type=xhttp&encryption=none&flow=#🌐smkn-IT-🇮🇹
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#🌐smkn-IT-🇮🇹
