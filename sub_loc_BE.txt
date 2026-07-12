@@ -1,4 +1,3 @@
 vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.224.12:8443?encryption=none&security=tls&sni=bru-be-01.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🔒smkn-BE-🇧🇪
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.8.11:80?host=Fastapi.Org&path=%2F&type=ws#🌐smkn-BE-🇧🇪
 ss://0058c215-ab1e-400c-a403-b5b2fda7e846@151.101.9.151:80?encryption=none&security=none&sni=max-gb1.global.ssl.fastly.net&type=ws&host=max-gb1.global.ssl.fastly.net&path=%2F#🌐smkn-BE-🇧🇪
-vmess://eyJhZGQiOiAiMzcuMTIwLjIzNi4yNTIiLCAiYWlkIjogNjQsICJob3N0IjogInd3dy44MzU3MTk0NS54eXoiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9wYXRoLzE5MTAxOTA3MjkyNyIsICJwb3J0IjogNDQzLCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1CRS1cdWQ4M2NcdWRkZTdcdWQ4M2NcdWRkZWEiLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8ifQ==
+vless://68de0a0f-25bc-4fd4-ba78-183a1b80495e@188.95.12.110:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=wazd.bot2.ir&type=ws#🌐smkn-BE-🇧🇪

@@ -1,7 +1,4 @@
-trojan://63779501-4c22-4a03-83d3-9f611b227e7b@103.11.214.137:443?security=tls&sni=c1mc.cdncisco4.co&allowInsecure=1&type=tcp#🔒smkn-AU-🇦🇺
-vless://3ead7294-b782-42e4-968c-f93ce3bfbdd6@1.1.1.0:443?encryption=none&security=tls&type=ws&host=v2rayge2.free3333.xyz&path=%2fray#🔒smkn-AU-🇦🇺
-trojan://NISHIKUITAN111@103.169.142.224:443/?type=ws&host=zb.ylks.xyz&path=%2F&security=tls&sni=zb.ylks.xyz#🔒smkn-AU-🇦🇺
-vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.42.228.160:443/?type=ws&encryption=none&security=tls&sni=sdfee4.azurewebsites.net&alpn=http%2F1.1#🔒smkn-AU-🇦🇺
-vless://1d16c6e0-1bbe-435b-b661-90043fee999c@192.65.217.123:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=notls.lukongtou.eu.org&path=Telegram-WangCai2&security=tls&sni=notls.lukongtou.eu.org&type=ws#🔒smkn-AU-🇦🇺
-trojan://PI36027154@87.121.33.208:443#🔒smkn-AU-🇦🇺
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUV0c3SjFLUjVLc1BhVjVxWkkrcmlldWVLeHhhZlpTcENI@45.77.232.213:15675#🌐smkn-AU-🇦🇺
+trojan://rYuChHcwQZskq9E0zdoR@125.7.24.251:443/?type=tcp&security=tls&sni=vpn5.rnmcnm.com#🔒smkn-AU-🇦🇺
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.136.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-AU-🇦🇺
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@103.169.142.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-AU-🇦🇺
+vmess://eyJhZGQiOiAiMS4xLjEuMyIsICJhaWQiOiAwLCAiaG9zdCI6ICIxLjEuMS4zIiwgImlkIjogImE5MWM1MGMzLWM4MzgtNDI4ZC1hNjFkLWVkMzcyMjU1YmI3MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvQWNkdG1zNHpmeCIsICJwb3J0IjogNDQzLCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1BVS1cdWQ4M2NcdWRkZTZcdWQ4M2NcdWRkZmEiLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8ifQ==
