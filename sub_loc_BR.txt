@@ -1,9 +1,4 @@
-vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.52:443/?type=ws&encryption=none&host=crolindd.dearcarlotta.cloudns.org&path=%2FTelegram%40V2ray_Alpha%3Dcitlali.shorekeeper.ir&security=tls&sni=crolindd.dearcarlotta.cloudns.org&alpn=http%2F1.1&fp=random#🔒smkn-BR-🇧🇷
-vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.238:443/?type=ws&encryption=none&path=%2F%3Fed&security=tls&sni=cl.bgm2024.dpdns.org#🔒smkn-BR-🇧🇷
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@185.133.35.98:443/?type=ws&encryption=none&host=kb.lii2010.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=kb.lii2010.us.kg&alpn=http%2F1.1#🔒smkn-BR-🇧🇷
-vless://1d16c6e0-1bbe-435b-b661-90043fee999c@45.194.53.123:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=notls.lukongtou.eu.org&path=Telegram-WangCai2#🔒smkn-BR-🇧🇷
-vless://26fc1d92-2188-42fa-b36e-91caa13df437@151.101.186.133:443/?type=ws&encryption=none&host=mashti.com&path=%2F%3Fed%3D2560&security=tls&sni=zmaoz.faculty.ucdavis.edu&alpn=h2%2Chttp%2F1.1&fp=chrome#🔒smkn-BR-🇧🇷
-vless://f8e699e8-c856-4297-b42c-0097544121c3@154.91.157.116:8443?type=tcp&security=reality&sni=rbc.ru&fp=firefox&flow=xtls-rprx-vision&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=e3152b486a086f4e#🔒smkn-BR-🇧🇷
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.12.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-BR-🇧🇷
-trojan://MiTiVPN@151.101.178.178:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2&security=none&type=ws#🌐smkn-BR-🇧🇷
+vless://40adcab9-ea8c-4116-a985-346191e2b4c8@189.74.106.130:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&security=reality&sid=122218f4c1f172e4&sni=api.yandex-cloud.org&type=tcp#🔒smkn-BR-🇧🇷
+trojan://bpb-trojan@45.194.53.231:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#🔒smkn-BR-🇧🇷
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.92.11:80?host=Fastapi.Org&path=%2F&type=ws#🌐smkn-BR-🇧🇷
 vless://b14bc0dc-623e-42ca-b45a-383a572fa192@200.25.53.5:80?mode=auto&path=%2Fmfa&security=none&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%2232-256%22%7D&host=cdn1.mehfa.site&type=xhttp#🌐smkn-BR-🇧🇷
