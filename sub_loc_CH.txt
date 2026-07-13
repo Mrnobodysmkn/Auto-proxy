@@ -1,4 +1,2 @@
-trojan://rYuChHcwQZskq9E0zdoR@103.63.30.230:443/?type=tcp&security=tls&sni=vpn5.rnmcnm.com#🔒smkn-CH-🇨🇭
-vless://05a01432-0302-439f-a88d-8442cd27b7d5@45.197.134.59:8443?flow=xtls-rprx-vision&fp=firefox&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&security=reality&sid=445ab326fc7c90ac&sni=storage.yandex.net&type=tcp#🔒smkn-CH-🇨🇭
-ss://05a01432-0302-439f-a88d-8442cd27b7d5@45.197.134.56:8443?security=reality&amp;encryption=none&amp;pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=storage.yandex.net&amp;sid=445ab326fc7c90ac#🔒smkn-CH-🇨🇭
-vless://86394dc6-caf7-40f3-983f-d08d21a1e499@45.197.134.75:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=storage.yandex.net&fp=firefox&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d515d6cfdfe60b02&flow=xtls-rprx-vision#🔒smkn-CH-🇨🇭
+trojan://Masir_Sefid@37.156.46.29:443?security=reality&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#🔒smkn-CH-🇨🇭
+vless://05a01432-0302-439f-a88d-8442cd27b7d5@45.197.134.58:8443?flow=xtls-rprx-vision&fp=firefox&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&security=reality&sid=445ab326fc7c90ac&sni=storage.yandex.net&type=tcp#🔒smkn-CH-🇨🇭

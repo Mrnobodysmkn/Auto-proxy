@@ -1,3 +1,4 @@
 vless://92e41c23-4b39-464a-bbff-63ef84f317da@84.17.58.133:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=firefox&flow=xtls-rprx-vision&pbk=3hiGU9oArRYulbhHEJa7nTfx1k0XL6ItE_xs-8Yi_Uc&sid=17a2a5e0#🔒smkn-IT-🇮🇹
-vless://9794d18f-9280-3553-a7a5-a23da75aca76@185.119.19.105:443?encryption=none&type=tcp&headerType=&fp=firefox&host=8adcedd7s8746.gogocs.xyz&path=&flow=xtls-rprx-vision&security=tls&sni=u691611u8adcedd7s8746.gogocs.xyz&serviceName=&mode=&alpn=h2%2Chttp%2F1.1#🔒smkn-IT-🇮🇹
-ss://e4f83b5e-2ac5-4040-ade6-afb095a8d1c2@146.75.55.238:80?encryption=none&amp;host=Fred443portlarucin.com&amp;mode=auto&amp;path=%2F1ht&amp;security=none&amp;type=xhttp#🌐smkn-IT-🇮🇹
+vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&security=reality&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&sid=79a1e14b#🔒smkn-IT-🇮🇹
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086/?type=raw&encryption=none#🌐smkn-IT-🇮🇹
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.60:8880/?type=grpc&encryption=none#🌐smkn-IT-🇮🇹
