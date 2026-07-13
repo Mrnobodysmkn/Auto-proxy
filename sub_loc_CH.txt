@@ -1,2 +1,4 @@
-trojan://Masir_Sefid@37.156.46.29:443?security=reality&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#🔒smkn-CH-🇨🇭
-vless://05a01432-0302-439f-a88d-8442cd27b7d5@45.197.134.58:8443?flow=xtls-rprx-vision&fp=firefox&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&security=reality&sid=445ab326fc7c90ac&sni=storage.yandex.net&type=tcp#🔒smkn-CH-🇨🇭
+vless://5805aed6-5e06-4266-9c3c-8b6a3b968d1a@138.199.20.4:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=sT3IlhEi8k7BA0jYkn5TkJ8HcX3_FZ7USnfnqCAGrhw&sid=1750fe7d#🔒smkn-CH-🇨🇭
+vless://05a01432-0302-439f-a88d-8442cd27b7d5@45.197.134.59:8443?flow=xtls-rprx-vision&fp=firefox&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&security=reality&sid=445ab326fc7c90ac&sni=storage.yandex.net&type=tcp#🔒smkn-CH-🇨🇭
+vless://4fdec620-73bb-40a7-a8d5-2570a59f1832@45.197.134.49:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&security=reality&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d515d6cfdfe60b02#🔒smkn-CH-🇨🇭
+vless://05a01432-0302-439f-a88d-8442cd27b7d5@45.197.134.68:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=445ab326fc7c90ac&packetEncoding=xudp#🔒smkn-CH-🇨🇭
