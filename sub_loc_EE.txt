@@ -1,7 +1,2 @@
-vless://5c5a466e-f2e0-4211-8963-742afac24948@185.88.37.252:443?allow_insecure=0&fp=chrome&host=netmelivip.dpdns.org&path=%2Fxiron&security=tls&sni=netmelivip.dpdns.org&type=ws#🔒smkn-EE-🇪🇪
-vless://5c5a466e-f2e0-4211-8963-742afac24948@176.97.74.175:443?allow_insecure=0&fp=chrome&host=netmelivip.dpdns.org&path=%2Fxiron&security=tls&sni=netmelivip.dpdns.org&type=ws#🔒smkn-EE-🇪🇪
-vless://c7150d62-8775-44ef-9bfa-d4755961427a@93.123.39.31:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdnjs.com&fp=chrome&security=reality&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&sid=19aa22f681923dc8#🔒smkn-EE-🇪🇪
-vless://91e120bc-159a-4390-b4e1-197b19602ea0@5.175.178.183:443?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=sub.sbrf-cdn342.ru&type=tcp#🔒smkn-EE-🇪🇪
-vless://5c5a466e-f2e0-4211-8963-742afac24948@176.97.74.90:443?allow_insecure=0&fp=chrome&host=netmelivip.dpdns.org&path=%2Fxiron&security=tls&sni=netmelivip.dpdns.org&type=ws#🔒smkn-EE-🇪🇪
-vless://67baa13e-d41b-4acf-ad0f-4ad35a136f85@132.243.168.76:5443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=login-user1.riseads.in&fp=chrome&pbk=2EI18PAo3tu5KTu2Z8uj1LhxlPy8McubZZHnLWU92k4&sid=d3d4634931a14486&type=tcp&headerType=none#🔒smkn-EE-🇪🇪
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.110.30:8880/?type=ws&encryption=none&flow=&host=vms.lifetime51.workers.dev&path=%2F#🌐smkn-EE-🇪🇪
+trojan://ttfang@45.80.110.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram&Host=ttfang.fange.me#🔒smkn-EE-🇪🇪
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.80.110.63:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-EE-🇪🇪
