@@ -1,3 +1,6 @@
-vless://40adcab9-ea8c-4116-a985-346191e2b4c8@189.74.117.3:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api.yandex-api.org&security=reality&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4#🔒smkn-BR-🇧🇷
-vless://cc6b985d-0362-4129-8763-38564174fb3e@45.194.53.212:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=iryiccyne.wwtraveler.com&alpn=http%2F1.1%2Ch2&fp=chrome#🔒smkn-BR-🇧🇷
-vless://f8e699e8-c856-4297-b42c-0097544121c3@154.91.157.115:8443?type=raw&security=reality&sni=rbc.ru&fp=chrome&flow=xtls-rprx-vision&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=e3152b486a086f4e#🔒smkn-BR-🇧🇷
+vless://7a9afda4-5e6f-11f1-bd95-ee5f4ed81fa1@201.51.8.114:2053?type=grpc&security=reality&fp=chrome&pbk=rNUwP0R2G7cBaach3vA1SnQKjQ0op8F5_H4YkkqWLyA&sid=2922502119a30f6f&sni=dzen.ru&mode=gun&serviceName=grpc-direct#🔒smkn-BR-🇧🇷
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.12.2:443?security=tls&sni=Sanjeshp.Ir&encryption=none@ShadowsocksM38&type=ws&host=Sanjeshp.Ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒smkn-BR-🇧🇷
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@185.133.35.115:443?security=tls&sni=ap.ylks.xyz&type=ws&host=ap.ylks.xyz&path=%2Fblue#🔒smkn-BR-🇧🇷
+vless://1144c488-b3e9-470b-977c-a12fb75b1113@154.91.157.65:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=b4f3a05896b60039&packetEncoding=xudp#🔒smkn-BR-🇧🇷
+vless://4f166057-2f4c-43d8-b5b3-6eb4413022e1@201.51.12.164:8445?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=EPrMDeBde65nLBoriu-4H_4-0D4Y1pLqH9m6aSys6D8&type=tcp&headerType=none#🔒smkn-BR-🇧🇷
+vless://f8e699e8-c856-4297-b42c-0097544121c3@154.91.157.187:8443?type=tcp&security=reality&sni=rbc.ru&fp=firefox&flow=xtls-rprx-vision&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=e3152b486a086f4e#🔒smkn-BR-🇧🇷
