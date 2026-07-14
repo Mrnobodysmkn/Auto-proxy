@@ -1,1 +1,4 @@
-trojan://Aimer@154.219.5.55:443?security=tls&sni=epgc.aimercc.dpdns.org&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epgc.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒smkn-PE-🇵🇪
+ss://eae02a50-e329-4647-926e-8439e685f317@154.219.5.155:443?security=tls&amp;sni=first.pinocchio1.ir.&amp;type=grpc&amp;fp=chrome&amp;alpn=http/1.1#🔒smkn-PE-🇵🇪
+ss://a98d1e7d-e794-449c-b8a0-34fa6d4478b4@154.219.5.84:443?security=tls&amp;sni=third.pinocchio1.ir&amp;type=grpc&amp;fp=firefox&amp;alpn=http%2F1.1#🔒smkn-PE-🇵🇪
+ss://eae02a50-e329-4647-926e-8439e685f317@154.219.5.166:443?security=tls&amp;sni=first.pinocchio1.ir.&amp;type=grpc&amp;fp=chrome&amp;alpn=http/1.1#🔒smkn-PE-🇵🇪
+ss://ced57e6d-a3bd-480f-a370-5868330a99a8@154.219.5.156:2083?security=tls&amp;sni=rubika.approbax.com&amp;type=grpc&amp;serviceName=telegram-SudoVpn-telegram-SudoVpn-telegram-SudoVpn-telegram-SudoVpn-telegram-SudoVpn-telegram-SudoVpn-telegram-SudoVpn-telegram-SudoVpn-telegram-SudoVpn-telegram-SudoVpn-telegram-SudoVpn&amp;fp=chrome&amp;alpn=h2,http/1.1#🔒smkn-PE-🇵🇪
