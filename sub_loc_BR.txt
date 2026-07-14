@@ -1,10 +1,5 @@
-vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.238:443/?type=ws&encryption=none&path=%2F%3Fed&security=tls&sni=cl.bgm2024.dpdns.org#🔒smkn-BR-🇧🇷
-vless://1144c488-b3e9-470b-977c-a12fb75b1113@154.91.157.65:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=b4f3a05896b60039&packetEncoding=xudp#🔒smkn-BR-🇧🇷
-vless://7a9afda4-5e6f-11f1-bd95-ee5f4ed81fa1@201.51.8.114:2053?type=grpc&security=reality&fp=chrome&pbk=rNUwP0R2G7cBaach3vA1SnQKjQ0op8F5_H4YkkqWLyA&sid=2922502119a30f6f&sni=dzen.ru&mode=gun&serviceName=grpc-direct#🔒smkn-BR-🇧🇷
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.133.35.104:8443?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai_8+%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=a.ssll.gay&amp;type=ws&amp;sni=a.ssll.gay#🔒smkn-BR-🇧🇷
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.12.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-BR-🇧🇷
-trojan://MiTiVPN@151.101.93.93:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2&security=none&type=ws#🌐smkn-BR-🇧🇷
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.176.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-BR-🇧🇷
-ss://0132166f-e702-48ed-a9e7-b07af768faf8@185.133.35.251:8880?path=/Telegram&security=none&encryption=none&host=cf.d3z.net&type=ws&sni=Telegram-channel-WangCai2#🌐smkn-BR-🇧🇷
-vless://b14bc0dc-623e-42ca-b45a-383a572fa192@200.25.53.5:80?mode=auto&path=%2Fmfa&security=none&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%2232-256%22%7D&host=cdn1.mehfa.site&type=xhttp#🌐smkn-BR-🇧🇷
-vmess://eyJhZGQiOiAiMTcyLjIzMy4xOS4xNDMiLCAiYWlkIjogMSwgImhvc3QiOiAiMTcyLjIzMy4xOS4xNDMiLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzY1x1ZGYxMHNta24tQlItXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3IiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIn0=
+trojan://02926f9e-153a-42c8-8ecd-8fade7009ad1@144.22.250.122:443/?type=tcp&security=tls&sni=golinkwuxian.top#🔒smkn-BR-🇧🇷
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.12.41:443?security=tls&sni=mefa.ir&type=ws&host=mefa.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒smkn-BR-🇧🇷
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@185.133.35.98:443/?type=ws&encryption=none&host=kb.lii2010.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=kb.lii2010.us.kg&alpn=http%2F1.1#🔒smkn-BR-🇧🇷
+vless://da7d81bc-a3f4-4865-a273-d0efacebc65c@154.91.157.144:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rbc.ru&fp=firefox&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=57f5917841a2178f&type=tcp&headerType=none#🔒smkn-BR-🇧🇷
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.26:443/?type=ws&encryption=none&host=vc.ylka.dpdns.org#🔒smkn-BR-🇧🇷
