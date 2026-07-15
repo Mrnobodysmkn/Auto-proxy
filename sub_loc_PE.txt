@@ -1,3 +1,6 @@
-vless://a98d1e7d-e794-449c-b8a0-34fa6d4478b4@154.219.5.146:443?security=tls&sni=fourth.pinocchio1.ir&type=grpc&fp=firefox&alpn=http%2F1.1#🔒smkn-PE-🇵🇪
-vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.7:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#🔒smkn-PE-🇵🇪
-vless://a98d1e7d-e794-449c-b8a0-34fa6d4478b4@154.219.5.147:443?security=tls&sni=fourth.pinocchio1.ir&type=grpc&fp=firefox&alpn=http%2F1.1#🔒smkn-PE-🇵🇪
+vless://a98d1e7d-e794-449c-b8a0-34fa6d4478b4@154.219.5.88:443?security=tls&sni=third.pinocchio1.ir&type=grpc&fp=firefox&alpn=http%2F1.1#🔒smkn-PE-🇵🇪
+vless://642104de-fc7c-4931-908d-953d9796bcb2@154.219.5.88:2083?security=tls&sni=Z1.Zemestanil.IR&type=ws&host=Z1.Zemestanil.IR&path=%2FProxy-MTM%3Fed%3D2056&fp=chrome&alpn=h2,http/1.1#🔒smkn-PE-🇵🇪
+vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.150:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#🔒smkn-PE-🇵🇪
+vless://322bd3ff-dcbc-4cd8-b636-5e0a77d6f68f@154.219.5.57:443?security=tls&sni=second.pinocchio1.ir.&type=grpc&serviceName=%2Fcustom_config%3Fed%3D2048&fp=firefox&alpn=http/1.1#🔒smkn-PE-🇵🇪
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@154.219.5.92:443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#🔒smkn-PE-🇵🇪
+vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.115:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#🔒smkn-PE-🇵🇪

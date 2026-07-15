@@ -1,5 +1,8 @@
-trojan://bpb-trojan@92.60.74.143:443/?type=tcp&security=tls&sni=bpb.my79801.com#🔒smkn-CW-🇨🇼
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@5.10.245.238:2096?flow=&type=ws&host=sni.111000.cc.cd&path=/?ed%3D2560&security=tls&sni=sni.111000.cc.cd&fp=chrome&allowInsecure=0#🔒smkn-CW-🇨🇼
-vless://43158d39-8066-4df4-b74e-2ab29f207e0a@92.60.74.56:80?type=ws&host=29.alij47649.workers.dev&path=/?ed=2048&security=none#🌐smkn-CW-🇨🇼
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@5.10.246.29:8880?security=&sni=hk.laoyoutiao.link&allowInsecure=1&type=ws&path=/TelegramU0001F1E8U0001F1F3&host=hk.laoyoutiao.link&encryption=none#🌐smkn-CW-🇨🇼
+vless://WANCLOUDFA-FREE@5.10.245.138:443?mode=auto&amp;path=/api&amp;security=tls&amp;alpn=h2,http/1.1&amp;encryption=none&amp;extra={"xPaddingBytes":"100-1000","scMaxEachPostBytes":"1000000"}&amp;insecure=0&amp;host=erori3430330.cloudwanfaired.top&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=erori3430330.cloudwanfaired.top#🔒smkn-CW-🇨🇼
+trojan://NISHIKUITAN111@88.216.66.169:443/?type=tcp&security=tls#🔒smkn-CW-🇨🇼
+trojan://bpb-trojan@45.81.58.174:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#🔒smkn-CW-🇨🇼
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@62.72.166.138:2096?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#🔒smkn-CW-🇨🇼
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@5.10.244.213:8880?encryption=none&security=none&type=ws&host=jp.laoyoutiao.link&path=%2F#🌐smkn-CW-🇨🇼
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@45.81.58.138:8880?allowInsecure=0&sni=bitget1.asdasd.click&type=ws&host=bitget1.asdasd.click&path=/?ed=2560#🌐smkn-CW-🇨🇼
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@88.216.66.213:8880?encryption=none&security=none&type=ws&host=jp.laoyoutiao.link&path=%2F#🌐smkn-CW-🇨🇼
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@62.72.166.168:8880/?type=ws&encryption=none&host=kjgx.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2560#🌐smkn-CW-🇨🇼
