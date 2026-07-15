@@ -1,3 +1,10 @@
-vless://a65d1817-49a5-449f-81b8-37e6e179dc57@154.91.157.222:8443?type=tcp&security=reality&sni=rbc.ru&fp=firefox&flow=xtls-rprx-vision&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=e3152b486a086f4e#🔒smkn-BR-🇧🇷
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.26:443/?type=ws&encryption=none&host=vc.ylka.dpdns.org#🔒smkn-BR-🇧🇷
-trojan://MiTiVPN@151.101.93.93:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2&security=none&type=ws#🌐smkn-BR-🇧🇷
+vless://26fc1d92-2188-42fa-b36e-91caa13df437@151.101.186.133:443/?type=ws&encryption=none&host=mashti.com&path=%2F%3Fed%3D2560&security=tls&sni=zmaoz.faculty.ucdavis.edu&alpn=h2%2Chttp%2F1.1&fp=chrome#🔒smkn-BR-🇧🇷
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.194.53.238:2096?encryption=none&amp;host=sni.jpmj.dev&amp;security=tls&amp;sni=sni.jpmj.dev&amp;type=ws#🔒smkn-BR-🇧🇷
+vless://f8e699e8-c856-4297-b42c-0097544121c3@154.91.157.187:8443?type=tcp&security=reality&sni=rbc.ru&fp=firefox&flow=xtls-rprx-vision&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=e3152b486a086f4e#🔒smkn-BR-🇧🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NmViN2VmOWRjMmQ3YzIz@54.207.208.139:443#🔒smkn-BR-🇧🇷
+ss://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.248.11:80/?type=ws&amp;encryption=none&amp;flow=&amp;host=Fastapi.Org&amp;path=%2F&amp;ed=2560&amp;eh=Sec-WebSocket-Protocol#🌐smkn-BR-🇧🇷
+ss://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.184.11:80/?type=ws&amp;encryption=none&amp;flow=&amp;host=Fastapi.Org&amp;path=%2F&amp;ed=2560&amp;eh=Sec-WebSocket-Protocol#🌐smkn-BR-🇧🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#🌐smkn-BR-🇧🇷
+vless://b14bc0dc-623e-42ca-b45a-383a572fa192@200.25.53.5:80?mode=auto&path=%2Fmfa&security=none&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%2232-256%22%7D&host=cdn1.mehfa.site&type=xhttp#🌐smkn-BR-🇧🇷
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.194.53.63:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-BR-🇧🇷
+trojan://MiTiVPN@151.101.251.251:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2&security=none&type=ws#🌐smkn-BR-🇧🇷
