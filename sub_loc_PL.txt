@@ -1,8 +1,5 @@
-vless://e21d22e8-6630-4bc9-8b69-3cc08681d9aa@45.194.71.186:443?flow=xtls-rprx-vision&fp=firefox&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&security=reality&sid=50e09046c0c00159&sni=storage.yandex.net&type=tcp#🔒smkn-PL-🇵🇱
-ss://94a547fc-c789-40fa-82d8-53d9760cc053@45.144.48.114:443?encryption=none&amp;fp=&amp;pbk=VWnyUuQJLQiWPYEvk43ndIPjy_WNVZbO1ItxX0NRnz8&amp;security=reality&amp;sid=db04ce8bdb8900f1&amp;sni=nvidia.com&amp;type=tcp#🔒smkn-PL-🇵🇱
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@141.101.122.222:443?security=tls&sni=aj.ylks.xyz&type=ws&host=aj.ylks.xyz&path=%2F%3Fed%3D2048#🔒smkn-PL-🇵🇱
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.123.155:443?security=tls&sni=cn.ylks.xyz&type=ws&host=cn.ylks.xyz&path=%2Fblue#🔒smkn-PL-🇵🇱
-vless://a47543fd-ae74-473f-823a-cfdf42c52190@45.144.49.64:1013?security=reality&encryption=none&pbk=pJ7lUsrHgLYa8lt7NPs0a47FaoBwHBWS6EA--iVQp0s&headerType=none&fp=firefox&type=tcp&sni=yahoo.com&sid=701d699e06514eab#🔒smkn-PL-🇵🇱
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.144.51.139:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#🔒smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.111.195:443#🔒smkn-PL-🇵🇱
-vless://98cb33a8-d6f7-41f0-8796-e4b471d65df8@144.31.5.179:443?path=%2F&security=&encryption=none&type=ws#🔒smkn-PL-🇵🇱
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@31.169.126.66:443/?type=ws&encryption=none&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&fp=chrome#🔒smkn-PL-🇵🇱
+vless://106c376f-431d-4ea0-bc61-f82308fefb4e@83.168.91.237:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=b76dcf9e1183fe1b#🔒smkn-PL-🇵🇱
+vless://e1dcc2f8-0ce5-42d5-964b-c9deea0a066e@193.200.17.251:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=aws.amazon.com&pbk=iaDh3yELcXvgVQxS2-ULCBi339vROALja6c7ScIqom0&fp=chrome#🔒smkn-PL-🇵🇱
+trojan://8r%3C%5B9%27l6hAO%238ZQi@31.169.126.66:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#🔒smkn-PL-🇵🇱
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.111.209:443#🔒smkn-PL-🇵🇱
