@@ -1,6 +1,5 @@
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@88.216.66.193:443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#🔒smkn-CW-🇨🇼
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.245.191:443?allowInsecure=1&encryption=none&fp=chrome&host=sni.my111000.tech&path=Telegram%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#🔒smkn-CW-🇨🇼
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.247.138:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#🔒smkn-CW-🇨🇼
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.60.74.138:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🔒smkn-CW-🇨🇼
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.245.191:2096?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.my111000.tech&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#🔒smkn-CW-🇨🇼
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@88.216.66.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-CW-🇨🇼
+trojan://bpb-trojan@92.60.74.143:443/?type=tcp&security=tls&sni=bpb.my79801.com#🔒smkn-CW-🇨🇼
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@5.10.245.238:2096?flow=&type=ws&host=sni.111000.cc.cd&path=/?ed%3D2560&security=tls&sni=sni.111000.cc.cd&fp=chrome&allowInsecure=0#🔒smkn-CW-🇨🇼
+vless://43158d39-8066-4df4-b74e-2ab29f207e0a@92.60.74.56:80?type=ws&host=29.alij47649.workers.dev&path=/?ed=2048&security=none#🌐smkn-CW-🇨🇼
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@5.10.246.29:8880?security=&sni=hk.laoyoutiao.link&allowInsecure=1&type=ws&path=/TelegramU0001F1E8U0001F1F3&host=hk.laoyoutiao.link&encryption=none#🌐smkn-CW-🇨🇼
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@5.10.244.213:8880?encryption=none&security=none&type=ws&host=jp.laoyoutiao.link&path=%2F#🌐smkn-CW-🇨🇼

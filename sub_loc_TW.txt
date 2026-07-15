@@ -1,4 +1,1 @@
-trojan://5a2c16f9@125.228.236.138:443?security=tls&sni=5c.hhhhh.eu.org&insecure=0&allowInsecure=0&type=ws&host=5c.hhhhh.eu.org&path=/125.228.236.138:443#🔒smkn-TW-🇹🇼
-trojan://0df905b2-a67d-48b4-b43b-894a52e0aaee@165.154.227.234:443?allowInsecure=1&sni=data.amazon-azure.com#🔒smkn-TW-🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.38:2377#🌐smkn-TW-🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@211.22.161.134:2377#🌐smkn-TW-🇹🇼
+vless://26524cce-d514-4014-a426-365fb266a14d@220.135.92.105:2087?encryption=none&security=tls&sni=wgl.cdn-c.gfw.qzz.io&fp=firefox&alpn=http%2F1.1%2C&insecure=0&allowInsecure=0&type=ws&host=wgl.cdn-c.gfw.qzz.io&path=%2Fdanfeng-jh5qzt-fk3fns-mqcd-34e34dzl%3Fed%3D2560#🔒smkn-TW-🇹🇼
