@@ -1,2 +1,6 @@
-trojan://NISHIKUITAN111@88.216.66.169:443/?type=tcp&security=tls#🔒smkn-CW-🇨🇼
-trojan://ttfang@5.10.245.216:2096?allowInsecure=1&sni=ttfang.fange.me&type=ws&host=ttfang.fange.me&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-CW-🇨🇼
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@88.216.66.193:443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#🔒smkn-CW-🇨🇼
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.245.191:443?allowInsecure=1&encryption=none&fp=chrome&host=sni.my111000.tech&path=Telegram%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#🔒smkn-CW-🇨🇼
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.247.138:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#🔒smkn-CW-🇨🇼
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.60.74.138:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&security=tls&sni=sni.111000.indevs.in&type=ws#🔒smkn-CW-🇨🇼
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.245.191:2096?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.my111000.tech&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F&security=tls&sni=sni.my111000.tech&type=ws#🔒smkn-CW-🇨🇼
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@88.216.66.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-CW-🇨🇼
