@@ -1,5 +1,2 @@
-trojan://JaFKnqNcvnBT63t3rquidGsln@94.126.225.96:443/?type=tcp&security=tls&sni=hl-freedom-1.undef.network#🔒smkn-BE-🇧🇪
-vless://d7955f3f-dfa3-45a0-a3ef-9693df439a0f@188.95.12.226:8443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=84990d01cab36213.rainzone.ir&fp=chrome&type=xhttp&sni=84990d01cab36213.rainzone.ir#🔒smkn-BE-🇧🇪
-vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.224.12:8443?encryption=none&security=tls&sni=bru-be-01.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🔒smkn-BE-🇧🇪
-vless://39eb6d15-e27a-4f2e-b865-b49a15b2d5f6@188.95.12.226:8080?path=%2F&security=&encryption=none&host=cloud.pedramhost.ir&type=httpupgrade#🌐smkn-BE-🇧🇪
-vless://78bdce0c-46e3-4cac-84a5-1320569c3790@188.95.12.226:2082?encryption=none&security=none&type=httpupgrade&headerType=none&path=/&host=lpoz.worldcups.mom#🌐smkn-BE-🇧🇪
+vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?encryption=none&type=ws&path=/?ed#🌐smkn-BE-🇧🇪
+vless://1b771dab-e581-4457-b1d9-416d48ea5d8c@151.101.8.79:80?mode=auto&path=%2F&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=7Svnlet-it-happen-khafesho-Sd.global.ssl.fastly.net&type=xhttp#🌐smkn-BE-🇧🇪
