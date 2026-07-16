@@ -1,5 +1,12 @@
-trojan://NISHIKUITAN111@190.93.247.81:443/?type=tcp&security=tls#🔒smkn-CR-🇨🇷
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.245.166:443?security=tls&sni=cg.ylks.xyz&type=ws&host=cg.ylks.xyz&path=%2Fblue#🔒smkn-CR-🇨🇷
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@190.93.247.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-CR-🇨🇷
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@190.93.245.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#🌐smkn-CR-🇨🇷
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@190.93.247.63:8880?encryption=none&security=none&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-CR-🇨🇷
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.244.181:443?security=tls&sni=lf.kpcloud.eu.org&type=ws&host=lf.kpcloud.eu.org&path=%2F%3Fed%3D2048#🔒smkn-CR-🇨🇷
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.244.53:443?security=tls&sni=ak.ylks.xyz&type=ws&host=ak.ylks.xyz&path=%2F%3Fed%3D2048#🔒smkn-CR-🇨🇷
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.247.230:443?security=tls&sni=ac.ylks.xyz&type=ws&host=ac.ylks.xyz&path=%2F%3Fed%3D2048#🔒smkn-CR-🇨🇷
+trojan://NISHIKUITAN111@190.93.246.8:443/?type=tcp&security=tls&allowInsecure=1#🔒smkn-CR-🇨🇷
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.244.18:443?allowInsecure=0&sni=lw.kpcloud.eu.org&type=ws&host=lw.kpcloud.eu.org&path=/?ed=2048security=tls#🔒smkn-CR-🇨🇷
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@190.93.246.114:443?allowInsecure=0&sni=aw.ylks.xyz&type=ws&host=aw.ylks.xyz&path=/?ed=2048security=tls#🔒smkn-CR-🇨🇷
+trojan://NISHIKUITAN222@190.93.244.41:443?security=tls&sni=in.ylks.xyz&type=ws&host=in.ylks.xyz&path=%2F#🔒smkn-CR-🇨🇷
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.245.45:443?security=tls&sni=cj.ylks.xyz&type=ws&host=cj.ylks.xyz&path=%2Fblue#🔒smkn-CR-🇨🇷
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.247.244:443?security=tls&sni=lg.ylks01.eu.org&type=ws&host=lg.ylks01.eu.org&path=%2Fblue#🔒smkn-CR-🇨🇷
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@190.93.246.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-CR-🇨🇷
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@190.93.245.213:8880?encryption=none&security=none&type=ws&host=jp.laoyoutiao.link&path=%2F#🌐smkn-CR-🇨🇷
+trojan://572e7789-76af-51c8-928b-e327d862f16c@190.93.247.152:80?path=%2Fvless&security=none&encryption=none&host=Uk1.vless.site.&type=ws#🌐smkn-CR-🇨🇷
