@@ -1,9 +1,8 @@
-vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.154:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#🔒smkn-PE-🇵🇪
-trojan://Aimer@154.219.5.55:443?security=tls&sni=epgc.aimercc.dpdns.org&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epgc.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒smkn-PE-🇵🇪
-vless://5106195e-5b35-498b-ae26-dc8a526d0074@154.219.5.112:2083?security=tls&sni=Z1.Zemestanil.IR&type=ws&host=Z1.Zemestanil.IR&path=%2FProxy-MTM%3Fed%3D2056&fp=chrome&alpn=h2,http/1.1#🔒smkn-PE-🇵🇪
+vless://a98d1e7d-e794-449c-b8a0-34fa6d4478b4@154.219.5.148:443?security=tls&sni=fourth.pinocchio1.ir&type=grpc&fp=firefox&alpn=http%2F1.1#🔒smkn-PE-🇵🇪
+vless://322bd3ff-dcbc-4cd8-b636-5e0a77d6f68f@154.219.5.59:443?security=tls&sni=second.pinocchio1.ir.&type=grpc&serviceName=%2Fcustom_config%3Fed%3D2048&fp=firefox&alpn=http/1.1#🔒smkn-PE-🇵🇪
+vless://642104de-fc7c-4931-908d-953d9796bcb2@154.219.5.83:2083?security=tls&sni=Z1.Zemestanil.IR&type=ws&host=Z1.Zemestanil.IR&path=%2FProxy-MTM%3Fed%3D2056&fp=chrome&alpn=h2,http/1.1#🔒smkn-PE-🇵🇪
+vless://642104de-fc7c-4931-908d-953d9796bcb2@154.219.5.5:2083?security=tls&sni=Z1.Zemestanil.IR&type=ws&host=Z1.Zemestanil.IR&path=%2FProxy-MTM%3Fed%3D2056&fp=chrome&alpn=h2,http/1.1#🔒smkn-PE-🇵🇪
+vless://a98d1e7d-e794-449c-b8a0-34fa6d4478b4@154.219.5.5:443?security=tls&sni=fourth.pinocchio1.ir&type=grpc&fp=firefox&alpn=http%2F1.1#🔒smkn-PE-🇵🇪
 vless://a98d1e7d-e794-449c-b8a0-34fa6d4478b4@154.219.5.149:443?security=tls&sni=fourth.pinocchio1.ir&type=grpc&fp=firefox&alpn=http%2F1.1#🔒smkn-PE-🇵🇪
-trojan://MiTiVPN@151.101.229.242:443/?type=ws&host=www.f6r.ir&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=www.f6r.ir#🔒smkn-PE-🇵🇪
-vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.166:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#🔒smkn-PE-🇵🇪
-vless://abce53a6-1461-4b66-8009-1a8522774ced@154.219.5.184:443?security=tls&sni=gosht.asve.ir&type=grpc&serviceName=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&fp=chrome&alpn=http/1.1#🔒smkn-PE-🇵🇪
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@154.219.5.92:443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#🔒smkn-PE-🇵🇪
-vless://0e3d148e-f75e-41d1-8111-b60c020bd558@154.219.5.62:2083?security=tls&sni=Z1.Zemestanil.IR&type=ws&host=Z1.Zemestanil.IR&path=%2FProxy-MTM%3Fed%3D2048&fp=chrome&alpn=h2,http/1.1#🔒smkn-PE-🇵🇪
+vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.8:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#🔒smkn-PE-🇵🇪
+vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.115:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#🔒smkn-PE-🇵🇪
