@@ -1,8 +1,2 @@
-trojan://biS%28YrwB%2C3L%24@185.143.235.5:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=mydigipay.com#🔒smkn-IR-🇮🇷
-vless://98aec3c3-d957-4363-9933-018e533c7c06@45.131.4.244:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=uk.dlaparat.ir&path=%2F&security=tls&sni=uk.dlaparat.ir&type=ws#🔒smkn-IR-🇮🇷
-vless://9b9d3913-74bb-4af2-b10d-a85656ca8a5a@185.143.235.202:443?type=ws&security=tls&sni=play.boxfilm.store&host=play.boxfilm.store&path=%2Fn%2Fwo%2Fvlpolayer&encryption=none#🔒smkn-IR-🇮🇷
-ss://bcbb541b-6e85-4115-a26a-8cf67eca09cf@185.143.233.233:443?path=%2Fvoip&amp;security=tls&amp;encryption=none&amp;insecure=1&amp;host=pishparda.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=pishparda.ir#🔒smkn-IR-🇮🇷
-vless://9b9d3913-74bb-4af2-b10d-a85656ca8a5a@185.143.235.202:80?type=ws&security=none&host=p#🌐smkn-IR-🇮🇷
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.128:80?path=Telegram%40WangCai2%2F%3Fed&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#🌐smkn-IR-🇮🇷
-vless://621c3631-ed9b-453a-b486-4068212bf483@185.143.233.233:2082?path=%2F&amp;security=none&amp;encryption=none&amp;host=meli.hoorakan-cloud.ir&amp;type=ws#🌐smkn-IR-🇮🇷
-vless://ea8ee56a-fab7-4622-8e5e-8c05bbfc5d52@185.226.142.42:80?path=/profile&security=&encryption=none&host=fonts.spsps.ir&type=ws#🌐smkn-IR-🇮🇷
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.125:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org#🔒smkn-IR-🇮🇷
+ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@185.188.104.11:443#🔒smkn-IR-🇮🇷
