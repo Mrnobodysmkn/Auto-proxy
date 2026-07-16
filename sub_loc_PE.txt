@@ -1,14 +1,2 @@
-vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.114:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#🔒smkn-PE-🇵🇪
-vless://642104de-fc7c-4931-908d-953d9796bcb2@154.219.5.82:2083?security=tls&sni=Z1.Zemestanil.IR&type=ws&host=Z1.Zemestanil.IR&path=%2FProxy-MTM%3Fed%3D2056&fp=chrome&alpn=h2,http/1.1#🔒smkn-PE-🇵🇪
-vless://5106195e-5b35-498b-ae26-dc8a526d0074@154.219.5.112:2083?security=tls&sni=Z1.Zemestanil.IR&type=ws&host=Z1.Zemestanil.IR&path=%2FProxy-MTM%3Fed%3D2056&fp=chrome&alpn=h2,http/1.1#🔒smkn-PE-🇵🇪
-vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.155:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#🔒smkn-PE-🇵🇪
-vless://a98d1e7d-e794-449c-b8a0-34fa6d4478b4@154.219.5.84:443?security=tls&sni=third.pinocchio1.ir&type=grpc&fp=firefox&alpn=http%2F1.1#🔒smkn-PE-🇵🇪
+vless://c854ace9-1dc7-4fc4-b87b-6b00db3cc4ed@154.219.5.125:443?security=tls&sni=fifth.pinocchio1.ir&type=grpc&fp=chrome&alpn=http/1.1#🔒smkn-PE-🇵🇪
 vless://abce53a6-1461-4b66-8009-1a8522774ced@154.219.5.180:443?security=tls&sni=gosht.asve.ir&type=grpc&serviceName=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&fp=chrome&alpn=http/1.1#🔒smkn-PE-🇵🇪
-vless://a98d1e7d-e794-449c-b8a0-34fa6d4478b4@154.219.5.81:443?security=tls&sni=third.pinocchio1.ir&type=grpc&fp=firefox&alpn=http%2F1.1#🔒smkn-PE-🇵🇪
-vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.9:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#🔒smkn-PE-🇵🇪
-vless://642104de-fc7c-4931-908d-953d9796bcb2@154.219.5.5:2083?security=tls&sni=Z1.Zemestanil.IR&type=ws&host=Z1.Zemestanil.IR&path=%2FProxy-MTM%3Fed%3D2056&fp=chrome&alpn=h2,http/1.1#🔒smkn-PE-🇵🇪
-vless://a98d1e7d-e794-449c-b8a0-34fa6d4478b4@154.219.5.4:443?security=tls&sni=fourth.pinocchio1.ir&type=grpc&fp=firefox&alpn=http%2F1.1#🔒smkn-PE-🇵🇪
-vless://eae02a50-e329-4647-926e-8439e685f317@154.219.5.11:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#🔒smkn-PE-🇵🇪
-vless://43c09824-e7fb-4b23-ae1e-8d26e6004de0@154.219.5.136:443?security=tls&sni=MOJ.Bklink.IR&type=grpc&serviceName=Telegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER&fp=chrome&alpn=http/1.1#🔒smkn-PE-🇵🇪
-vless://1d8886c3-dd69-4f33-b725-fe8cb905d9c4@154.219.5.222:443?security=tls&sni=MOJ.Bklink.IR&type=grpc&serviceName=Telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER&fp=chrome&alpn=http/1.1#🔒smkn-PE-🇵🇪
-vless://a98d1e7d-e794-449c-b8a0-34fa6d4478b4@154.219.5.5:443?security=tls&sni=fourth.pinocchio1.ir&type=grpc&fp=firefox&alpn=http%2F1.1#🔒smkn-PE-🇵🇪
