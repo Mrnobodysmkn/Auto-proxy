@@ -1,4 +1,5 @@
-trojan://63779501-4c22-4a03-83d3-9f611b227e7b@103.11.214.214:443?security=tls&sni=c1mc.cdncisco4.co&allowInsecure=1&type=tcp#🔒smkn-AU-🇦🇺
-vless://c82f8880-bdd8-4a35-b8e7-ad5aa880f7d0@103.169.142.91:443?security=tls&sni=vd.ylkszy.eu.org&type=ws&path=%2F#🔒smkn-AU-🇦🇺
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@103.169.142.136:443?security=tls&sni=xin667.ylks.link&type=ws&path=%2Fblue#🔒smkn-AU-🇦🇺
-vless://e31b4bae-c999-4ec0-bfe4-94148d06a656@172.105.177.96:443?mode=stream-one&path=%2F&security=none&encryption=none&type=xhttp#🔒smkn-AU-🇦🇺
+vless://3ead7294-b782-42e4-968c-f93ce3bfbdd6@1.1.1.0:443?encryption=none&security=tls&type=ws&host=v2rayge2.free3333.xyz&path=%2fray#🔒smkn-AU-🇦🇺
+trojan://NISHIKUITAN111@192.65.217.254:443/?type=tcp&security=tls#🔒smkn-AU-🇦🇺
+trojan://XG59623478@82.117.225.56:443?allowInsecure=1&sni=stirring-dane.rooster465.autos#🔒smkn-AU-🇦🇺
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@103.106.231.82:5600#🌐smkn-AU-🇦🇺
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.48.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-AU-🇦🇺

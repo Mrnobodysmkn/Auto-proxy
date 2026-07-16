@@ -1,1 +1,7 @@
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.43:8880/?type=grpc&encryption=none#🌐smkn-IT-🇮🇹
+ss://3e7f67de-648e-4871-b51a-a225214d41ee@147.45.51.160:443?security=reality&amp;encryption=none&amp;pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=api.company-target.com#🔒smkn-IT-🇮🇹
+vless://fe56cb08-6d4c-4954-808d-216fa945d3e8@31.76.113.161:445?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=IrgMA7g_C4JRT3gXWQvNXtHRd7dgC6fkSkKvxIxbfF0&security=reality&sid=c226283c4de5b1ad&sni=ads.x5.ru&type=tcp#🔒smkn-IT-🇮🇹
+vless://54cefe48-36d6-4dd6-9e73-a823a40a93db@132.243.212.14:605?type=grpc&security=reality&fp=edge&pbk=Ux2M6x46mIcoAoP2oCA8qEQnqc1O5cpa5zYRIdCNdnw&sni=www.kayak.com&mode=gun#🔒smkn-IT-🇮🇹
+vless://fe56cb08-6d4c-4954-808d-216fa945d3e8@31.76.113.161:8443?type=http&security=reality&encryption=none&sni=ads.x5.ru&pbk=IrgMA7g_C4JRT3gXWQvNXtHRd7dgC6fkSkKvxIxbfF0&sid=c226283c4de5b1ad&fp=firefox&path=%2Fa7f9d2c8&mode=stream-one#🔒smkn-IT-🇮🇹
+vless://fe56cb08-6d4c-4954-808d-216fa945d3e8@31.76.113.161:2087?sni=ads.x5.ru&type=grpc&serviceName=grpc&fp=firefox&security=tls#🔒smkn-IT-🇮🇹
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.165.237:8880?encryption=none&security=none&type=grpc#🌐smkn-IT-🇮🇹
+vmess://eyJhZGQiOiAiMjE3LjEzOC4xOTcuMTcxIiwgImFpZCI6IDY0LCAiaG9zdCI6ICJ3d3cuMjk4NzAwMTEueHl6IiwgImlkIjogIjQzNWM5NzhlLTJmNDgtNDE5NC04ZDA0LTM4Y2M3OWEyNDQyMSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcGF0aC8xOTEwMTkwNzI5MjciLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzY1x1ZGYxMHNta24tSVQtXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIn0=
