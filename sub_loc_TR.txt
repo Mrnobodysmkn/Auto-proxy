@@ -1,7 +1,9 @@
-vless://f53f1a5d-6a86-48ca-b897-f673daf45021@77.92.145.153:443?type=tcp&security=reality&pbk=Y6NJmcTdR_w9hSOlAFxPaqz37sYhbj_MhuJT3DddnCI&fp=chrome&sni=google.com&sid=bfc2e70f&spx=%2F#🔒smkn-TR-🇹🇷
-trojan://8r%3C%5B9%27l6hAO%238ZQi@45.67.202.173:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-TR-🇹🇷
+vless://bb9c6e82-a52b-4d49-bd3b-0549ba84a87d@185.226.92.132:443?path=%2F%40IRN_VPN%2C%40IRN_VPN%2C%40IRN_VPN%2C%40IRN_VPN%2C%40IRN_VPN&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=irn-vpn.irn-vpn-ay.online#🔒smkn-TR-🇹🇷
 vless://a98d1e7d-e794-449c-b8a0-34fa6d4478b4@86.38.214.52:443?security=tls&sni=fourth.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#🔒smkn-TR-🇹🇷
+vless://8e1cf581-b6d3-4e00-bc8c-cf4b58b41766@93.180.133.214:443?security=reality&encryption=none&pbk=Wy7CQ2IzF7p8HvEVo_YB4VTPyEpaHtKOqnyLzdTCLD0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.qualcomm.com&sid=90d417329fe3f214#🔒smkn-TR-🇹🇷
+ss://a7555676-0421-4307-bdaa-220b0c2299b4@213.142.134.138:443?security=reality&amp;encryption=none&amp;pbk=mBi2PpqpCcfwAy3Fkq5kqrs3SlZfS23j-dTYdMO4D1w&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.varzesh3.com&amp;sid=2c3d4e5f#🔒smkn-TR-🇹🇷
+vless://2ad2e13c-8cb1-4666-8bfb-c42b51df2f1d@86.38.214.18:443?security=tls&sni=aLi.PinobiN.iR.&type=grpc&fp=chrome&alpn=http/1.1#🔒smkn-TR-🇹🇷
+vless://dc9c00a1-eead-4c83-8719-f256c695931c@144.225.65.210:1080?encryption=none&fp=chrome&pbk=2VagXjiKGsFPA0cve0tT40JE8JOkwLpDPca9kljP23g&security=reality&sid=d6c38eb65c&sni=www.cloudflare.com&spx=%2FHfnw6j5KoMsIxSm&type=tcp#🔒smkn-TR-🇹🇷
+vless://a8fe2e9f-fde7-44c1-9cf6-9a0bdea50d99@185.226.92.106:80/?type=xhttp&encryption=none&sni=journalofbigdata.springeropen.com.p30day.ir&fp=chrome&security=reality&pbk=40P2evGAFzizxEJ7NzAbL9eBCGxJk7YE6d1le-Qij0s&sid=db86aba349ac#🔒smkn-TR-🇹🇷
 vless://394f6981-a782-4779-9a85-e6cf22935d93@169.150.215.77:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🔒smkn-TR-🇹🇷
-vless://1625be68-8ed9-47b5-ab00-0d03c27f9082@86.38.214.207:8443?encryption=none&security=tls&sni=a.tiptop-3.top&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=a.tiptop-3.top&path=%2F#🔒smkn-TR-🇹🇷
-trojan://8r%3C%5B9%27l6hAO%238ZQi@130.94.1.150:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram @WangCai2#🔒smkn-TR-🇹🇷
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@86.38.214.20:8880/?type=ws&encryption=none&host=us.laoyoutiao.link&path=%2FTelegramU0001F1E8U0001F1F3%20%40MxlShare%20%40WangCai2%20#🌐smkn-TR-🇹🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZXhOaU4xd0E3ZlZDT1Y4WWRPdkJO@77.83.245.116:9753#🌐smkn-TR-🇹🇷
