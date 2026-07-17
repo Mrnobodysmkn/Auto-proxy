@@ -1,2 +1,4 @@
-vless://15a54c93-49ca-4e6c-86e5-d337b338cd9d@45.89.60.64:443?encryption=none&type=grpc&mode=gun&security=reality&sni=ads.x5.ru&fp=safari&pbk=wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE#🔒smkn-AL-🇦🇱
-vless://3d243df5-9cda-4aac-89d5-354de77d79e2@144.31.129.45:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IarU4xicX8qiVO5nqzeHc6MK9A_Vw9YaAtnPHB4DswU&security=reality&sid=916a&sni=mirror.yandex.ru&type=tcp#🔒smkn-AL-🇦🇱
+vless://5c5a466e-f2e0-4211-8963-742afac24948@157.22.240.122:443?allow_insecure=0&fp=chrome&host=netmelivip.dpdns.org&path=%2Fxiron&security=tls&sni=netmelivip.dpdns.org&type=ws#🔒smkn-AL-🇦🇱
+vless://4efaf684-3e7b-47a6-9193-d8d8f3481210@45.82.13.82:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=6rFjs5UBwNclLg6BscH1x_aXLxsZEaLehgjS49s8fGc&security=reality&sni=api.github.com&type=tcp#🔒smkn-AL-🇦🇱
+vless://ae852d97-85f5-45cf-82a4-254eba345480@144.31.131.33:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdn.cdnjst.org&fp=chrome&security=reality&pbk=djH9iD2QV748ocK-wPH7HvDd03lu88zHhS4G-61w6Dc&sid=a120#🔒smkn-AL-🇦🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFVFVPT1FUcGRycktsbjcyVVl4d2lv@130.49.189.158:10792#🌐smkn-AL-🇦🇱
