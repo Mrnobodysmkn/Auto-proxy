@@ -1,6 +1,6 @@
+vless://49f06130-cfd4-44d6-bea4-ffc97986f61b@45.198.91.233:8443?type=tcp&security=reality&sni=storage.yandex.net&fp=firefox&flow=xtls-rprx-vision&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=f32140952ba18e18#🔒smkn-IT-🇮🇹
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@45.92.70.176:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=linek.perry.us.kg&path=%2Fblogs%2Fclip%2Fcontact&security=tls&sni=linek.perry.us.kg&type=ws#🔒smkn-IT-🇮🇹
 vless://fe56cb08-6d4c-4954-808d-216fa945d3e8@31.76.113.161:8443?&security=reality&pbk=IrgMA7g_C4JRT3gXWQvNXtHRd7dgC6fkSkKvxIxbfF0&sid=c226283c4de5b1ad&fp=firefox&sni=ads.x5.ru&type=xhttp#🔒smkn-IT-🇮🇹
 vless://fe56cb08-6d4c-4954-808d-216fa945d3e8@31.76.113.161:445?&security=reality&flow=xtls-rprx-vision&pbk=IrgMA7g_C4JRT3gXWQvNXtHRd7dgC6fkSkKvxIxbfF0&sid=c226283c4de5b1ad&fp=firefox&sni=ads.x5.ru&type=tcp&headerType=none&host=ads.x5.ru&path=%2F#🔒smkn-IT-🇮🇹
-vless://310c0eea-aecb-4b16-9281-fd45c35315e4@113.30.151.151:8443?path=%2F%40RoseCommunity&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=rose.netfre.space&type=ws&allowInsecure=0&sni=rose.netfre.space#🔒smkn-IT-🇮🇹
-vless://67b1317d-905c-42d8-abf3-dd1301c62316@45.198.91.118:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&security=reality&sid=f32140952ba18e18&sni=bitrix24.ru&type=tcp#🔒smkn-IT-🇮🇹
 vless://fe56cb08-6d4c-4954-808d-216fa945d3e8@31.76.113.161:2087?encryption=none&fp=chrome&pbk=IrgMA7g_C4JRT3gXWQvNXtHRd7dgC6fkSkKvxIxbfF0&security=reality&serviceName=grpc&sid=c226283c4de5b1ad&sni=ads.x5.ru&type=grpc#🔒smkn-IT-🇮🇹
-trojan://MiTiVPN@151.101.243.243:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2&security=none&type=ws#🌐smkn-IT-🇮🇹
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.240.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-IT-🇮🇹
