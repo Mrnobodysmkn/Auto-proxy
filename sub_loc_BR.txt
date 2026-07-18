@@ -1,4 +1,5 @@
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.181:443?path=%2F%3Fed&security=tls&encryption=none&host=sz.ylks0033.dpdns.org&type=ws&sni=sz.ylks0033.dpdns.org#🔒smkn-BR-🇧🇷
-trojan://bpb-trojan@45.194.53.231:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#🔒smkn-BR-🇧🇷
-trojan://MiTiVPN@151.101.185.242:443/?type=ws&host=www.f6r.ir&path=/?ed=2560&Telegram#🔒smkn-BR-🇧🇷
-ss://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.12.11:80/?type=ws&amp;encryption=none&amp;flow=&amp;host=Fastapi.Org&amp;path=%2F&amp;ed=2560&amp;eh=Sec-WebSocket-Protocol#🌐smkn-BR-🇧🇷
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.15.13:443?security=tls&sni=Sanjeshp.Ir&encryption=none@ShadowsocksM49&type=ws&host=Sanjeshp.Ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒smkn-BR-🇧🇷
+ss://97b11ee6-a62a-4e60-839c-de974a155089@45.194.53.207:443?security=tls&amp;sni=ttgju.org&amp;type=ws&amp;host=hj-de.ttgju.org&amp;path=%2Fhajmi%3Fed%3D2560&amp;alpn=http%2F1.1#🔒smkn-BR-🇧🇷
+ss://1478d83f-3e0b-4d96-99cc-b514495e53c6@45.192.2.173:443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=&amp;pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&amp;security=reality&amp;sid=364994a6f61fc955&amp;sni=yandex.net&amp;type=tcp#🔒smkn-BR-🇧🇷
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.12.2:443?security=tls&sni=Sanjeshp.Ir&encryption=none@ShadowsocksM38&type=ws&host=Sanjeshp.Ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒smkn-BR-🇧🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NmViN2VmOWRjMmQ3YzIz@54.207.208.139:443#🔒smkn-BR-🇧🇷
