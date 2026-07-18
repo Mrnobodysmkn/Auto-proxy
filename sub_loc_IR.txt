@@ -1,5 +1,10 @@
-vless://a26eb1e6-953b-4e29-ae25-738ee32b40ff@185.143.232.7:80?path=%2Fpathhhh&security=none&encryption=none&host=22324.44070.ir&type=ws#🌐smkn-IR-🇮🇷
-vless://a9f40576-6321-491f-bb4a-7d8a762eea27@217.114.40.12:80?security=none&encryption=none&headerType=none&type=tcp#🌐smkn-IR-🇮🇷
-vless://93455e57-7599-4d63-baca-27f5e1762832@185.143.235.235:80?type=ws&encryption=none&host=c3.novin-devs.ir&security=none#🌐smkn-IR-🇮🇷
-vless://2ed014f5-dfaa-472c-9e64-91cc915b7ac8@185.143.235.21:8080?path=%2Fpath&security=none&encryption=none&host=tr-st4.ge9.ir&type=ws#🌐smkn-IR-🇮🇷
-vless://84c17b99-0c79-48cc-82b8-3b6914801921@193.84.255.99:9000?type=tcp#🌐smkn-IR-🇮🇷
+vless://024bd761-7966-444b-a44b-255943eb67ec@185.143.233.122:443?type=ws&encryption=none&path=%2F&host=cyrus2.frtshop.ir&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=cyrus2.frtshop.ir#🔒smkn-IR-🇮🇷
+vless://23bed4af-415d-46ff-a470-41fc67d13056@185.143.233.122:8443?type=ws&encryption=none&path=%2F&host=edge.cntcloud.site&security=tls&fp=&alpn=&sni=edge.cntcloud.site#🔒smkn-IR-🇮🇷
+vless://9f366a3e-348c-492c-be54-4a0a6db94cc7@79.175.167.147:80?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#🌐smkn-IR-🇮🇷
+trojan://2Bb8zvNNJd@185.143.233.122:80?security=none&type=ws&host=wsphan.q69-cloud.ir&path=/margbaaramricas#🌐smkn-IR-🇮🇷
+ss://YWVzLTI1Ni1nY206TUdRMFlXTmlOek5qT1RjMk5USTROelZoTXpCbU5HWXpOVFJtWkdSbA@188.121.100.157:9129?prefix=%16%03%01%00%C2%A8%01%01#🌐smkn-IR-🇮🇷
+vless://3ddde24a-15f4-40ae-d17a-e931f977c619@185.143.233.122:8080?path=%2F%40foxnim&security=none&encryption=none&host=foxnim.cam&type=ws#🌐smkn-IR-🇮🇷
+trojan://7G2nYjAyik@185.143.233.122:2086?security=none&type=ws&host=max1.sohrab172.ir&path=/#🌐smkn-IR-🇮🇷
+ss://YWVzLTI1Ni1nY206T1dFNU5EZG1aalUxT1Rsa1pHVXhZekExTmpZelpUYzVPV1ExTm1ZNQ@188.121.100.157:9112?prefix=%16%03%01%00%C2%A8%01%01#🌐smkn-IR-🇮🇷
+vless://384193af-acf4-4e3d-a570-5720befa42ee@45.131.4.245:80?security=&type=ws&path=/backup&host=Okhvod.KAshTI.WOrLd&encryption=none#🌐smkn-IR-🇮🇷
+vmess://eyJhZGQiOiAiMTg1LjE0My4yMzMuMTIyIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiY2xpZW50Lmt4c29mdGRsLmNsaWNrIiwgImlkIjogIjk2OGU1YjJiLTBjMWEtNGRmNS1lZjZhLTg1OTQ2NmE4ZGI0YiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbG9nIiwgInBvcnQiOiAiODg4MCIsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUlSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
