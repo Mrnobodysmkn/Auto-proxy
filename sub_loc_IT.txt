@@ -1,6 +1,4 @@
-vless://06ef598c-1555-4887-b3f9-08214a2f6792@222.167.202.23:7443?allowInsecure=1&encryption=none&host=2026.hhhhh.eu.org&path=%2F222.167.202.23%3A7443&security=tls&sni=2026.hhhhh.eu.org&type=ws#🔒smkn-IT-🇮🇹
-vless://fe56cb08-6d4c-4954-808d-216fa945d3e8@31.76.113.161:8443?&security=reality&pbk=IrgMA7g_C4JRT3gXWQvNXtHRd7dgC6fkSkKvxIxbfF0&sid=c226283c4de5b1ad&fp=firefox&sni=ads.x5.ru&type=xhttp#🔒smkn-IT-🇮🇹
-trojan://blhwsknjxmfuydz0vhfv@146.70.73.214:53809?security=tls&headerType=none&type=tcp&sni=www.vk.com#🔒smkn-IT-🇮🇹
-vless://fe56cb08-6d4c-4954-808d-216fa945d3e8@31.76.113.161:445?&security=reality&flow=xtls-rprx-vision&pbk=IrgMA7g_C4JRT3gXWQvNXtHRd7dgC6fkSkKvxIxbfF0&sid=c226283c4de5b1ad&fp=firefox&sni=ads.x5.ru&type=tcp&headerType=none&host=ads.x5.ru&path=%2F#🔒smkn-IT-🇮🇹
-vless://fe56cb08-6d4c-4954-808d-216fa945d3e8@31.76.113.161:2087?encryption=none&fp=chrome&pbk=IrgMA7g_C4JRT3gXWQvNXtHRd7dgC6fkSkKvxIxbfF0&security=reality&serviceName=grpc&sid=c226283c4de5b1ad&sni=ads.x5.ru&type=grpc#🔒smkn-IT-🇮🇹
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKVHpqd05hOEE4YWppcXRENnNkeXRQ@147.45.51.30:443#🔒smkn-IT-🇮🇹
+trojan://8r%3C%5B9%27l6hAO%238ZQi@151.241.215.148:443?allowInsecure=0&sni=Koma-YT.PAGeS.Dev#🔒smkn-IT-🇮🇹
+ss://fb9da2e5-aee6-4108-ab57-ffc36ce85656@89.150.57.196:8443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#🌐smkn-IT-🇮🇹
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.240.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-IT-🇮🇹
+ss://e4f83b5e-2ac5-4040-ade6-afb095a8d1c2@146.75.55.172:80?encryption=none&amp;host=Fred443portlarucin.com&amp;mode=auto&amp;path=%2F1ht&amp;security=none&amp;type=xhttp#🌐smkn-IT-🇮🇹

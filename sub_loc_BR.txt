@@ -1,3 +1,2 @@
 vless://97b11ee6-a62a-4e60-839c-de974a155089@45.194.53.207:443?security=tls&sni=ttgju.org&type=ws&host=hj-de.ttgju.org&path=%2Fhajmi%3Fed%3D2560&alpn=http%2F1.1#🔒smkn-BR-🇧🇷
-vless://11e57eeb-ffdf-4983-a9fa-ad352dea7253@154.91.157.184:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=storage.yandex.net&fp=firefox&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=57f5917841a2178f&type=tcp&headerType=none#🔒smkn-BR-🇧🇷
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.15.13:443?security=tls&sni=Sanjeshp.Ir&encryption=none@ShadowsocksM49&type=ws&host=Sanjeshp.Ir&path=/H?ed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒smkn-BR-🇧🇷
+vless://cc6b985d-0362-4129-8763-38564174fb3e@45.194.53.212:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=iryiccyne.wwtraveler.com&alpn=http%2F1.1%2Ch2&fp=chrome#🔒smkn-BR-🇧🇷
