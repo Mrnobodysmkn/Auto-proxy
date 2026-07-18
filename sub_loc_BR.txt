@@ -1,5 +1,1 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.133.35.144:443?security=tls&sni=lx.ylks01.eu.org&type=ws&host=lx.ylks01.eu.org&path=%2Fblue#🔒smkn-BR-🇧🇷
-vless://1144c488-b3e9-470b-977c-a12fb75b1113@154.91.157.65:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=storage.yandex.net&fp=firefox&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=b4f3a05896b60039&packetEncoding=xudp#🔒smkn-BR-🇧🇷
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@185.133.35.98:443/?type=ws&encryption=none&host=kb.lii2010.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=kb.lii2010.us.kg&alpn=http%2F1.1#🔒smkn-BR-🇧🇷
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.133.35.104:8443?path=Telegram#🌐smkn-BR-🇧🇷
-ss://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.248.11:80/?type=ws&amp;encryption=none&amp;flow=&amp;host=Fastapi.Org&amp;path=%2F&amp;ed=2560&amp;eh=Sec-WebSocket-Protocol#🌐smkn-BR-🇧🇷
+vless://11e57eeb-ffdf-4983-a9fa-ad352dea7253@154.91.157.184:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=storage.yandex.net&fp=firefox&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=57f5917841a2178f&type=tcp&headerType=none#🔒smkn-BR-🇧🇷
