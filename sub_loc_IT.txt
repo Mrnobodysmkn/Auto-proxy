@@ -1,3 +1,6 @@
-ss://16ad976d-b5df-4b4e-87b6-87cc64ac0a8b@31.77.201.85:443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=&amp;pbk=yLDI5Qjzn4AHlXVDEXNVcLKAdr_dFeJ3p4eAScGkQjA&amp;security=reality&amp;sid=0b0aa9caed9d011e&amp;sni=ag-03.rita-cloud.com&amp;type=tcp#🔒smkn-IT-🇮🇹
-vless://43488128-319e-f480-64ea-0acdc712e2a8@95.110.210.161:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BX0Y46bstmUjnwvT8lPyy4ECQXMDF54LnGd5C7IA9EM&security=reality&sid=0c1553316a645758&sni=www.booking.com&type=tcp#🔒smkn-IT-🇮🇹
-ss://e4f83b5e-2ac5-4040-ade6-afb095a8d1c2@146.75.55.152:80?encryption=none&amp;host=Fred443portlarucin.com&amp;mode=auto&amp;path=%2F1ht&amp;security=none&amp;type=xhttp#🌐smkn-IT-🇮🇹
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@45.92.70.176:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=linek.perry.us.kg&path=%2Fblogs%2Fclip%2Fcontact&security=tls&sni=linek.perry.us.kg&type=ws#🔒smkn-IT-🇮🇹
+trojan://blhwsknjxmfuydz0vhfv@146.70.73.211:53809?security=tls&headerType=none&type=tcp&sni=www.vk.com#🔒smkn-IT-🇮🇹
+vless://54cefe48-36d6-4dd6-9e73-a823a40a93db@132.243.212.32:605?type=grpc&security=reality&fp=chrome&pbk=Ux2M6x46mIcoAoP2oCA8qEQnqc1O5cpa5zYRIdCNdnw&sid=7a3f9e2b1c8d4f6a&sni=www.kayak.com&mode=gun#🔒smkn-IT-🇮🇹
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.140.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-IT-🇮🇹
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.240.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-IT-🇮🇹
+ss://e4f83b5e-2ac5-4040-ade6-afb095a8d1c2@146.75.55.238:80?encryption=none&amp;host=Fred443portlarucin.com&amp;mode=auto&amp;path=%2F1ht&amp;security=none&amp;type=xhttp#🌐smkn-IT-🇮🇹

@@ -1,4 +1,11 @@
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@34.175.202.195:443?allowInsecure=0&sni=aw.ylks.xyz&type=ws&host=aw.ylks.xyz&path=/?ed=2048security=tls#🔒smkn-ES-🇪🇸
-vless://eece4171-e025-40a3-9027-e395036ff99d@45.198.80.209:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=28047c78b3f5ee2c&sni=storage.yandex.net&type=tcp#🔒smkn-ES-🇪🇸
-trojan://rYuChHcwQZskq9E0zdoR@103.45.245.208:2053/?type=tcp&security=tls&sni=vpn5.rnmcnm.com#🔒smkn-ES-🇪🇸
-trojan://842b5f9dd11e458d8613c907c4cc5723@65.20.102.54:443?sni=www.gpt123.one&allowInsecure=1&type=tcp#🔒smkn-ES-🇪🇸
+vless://eece4171-e025-40a3-9027-e395036ff99d@45.198.80.206:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=28047c78b3f5ee2c&sni=storage.yandex.net&type=tcp#🔒smkn-ES-🇪🇸
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.228.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-ES-🇪🇸
+ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg==@5.188.181.201:9041#🌐smkn-ES-🇪🇸
+ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@5.188.181.201:9042#🌐smkn-ES-🇪🇸
+ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA@5.188.181.201:9003#🌐smkn-ES-🇪🇸
+ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@5.188.181.201:9019#🌐smkn-ES-🇪🇸
+ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@5.188.181.201:9005#🌐smkn-ES-🇪🇸
+ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ@5.188.181.201:9000#🌐smkn-ES-🇪🇸
+ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@5.188.181.201:9030#🌐smkn-ES-🇪🇸
+ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#🌐smkn-ES-🇪🇸
+ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@5.188.181.201:9031#🌐smkn-ES-🇪🇸

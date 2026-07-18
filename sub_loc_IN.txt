@@ -1,4 +1,1 @@
-trojan://Bw5Mz7QkVp@139.84.172.132:443/?type=tcp&security=tls&sni=z-v2-077924.kailib.com#🔒smkn-IN-🇮🇳
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@152.67.190.105:443?security=tls&type=ws&path=/danfeng&host=snippet.fgfw.ye.gs&sni=snippet.fgfw.ye.gs&fp=random#🔒smkn-IN-🇮🇳
-vless://6564b639-8857-4fec-a45b-ada20d4bd315@139.59.75.181:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=139.59.75.181&encryption=none#🔒smkn-IN-🇮🇳
-trojan://MiTiVPN@151.101.158.158:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2&security=none&type=ws#🌐smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.80:2083?security=tls&sni=epgc.aimercc.dpdns.org&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epgc.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒smkn-IN-🇮🇳
