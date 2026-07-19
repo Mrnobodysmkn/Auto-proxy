@@ -1,5 +1,3 @@
-vless://5c5a466e-f2e0-4211-8963-742afac24948@91.147.92.192:443?allow_insecure=0&fp=chrome&host=netmelivip.dpdns.org&path=%2Fxiron&security=tls&sni=netmelivip.dpdns.org&type=ws#🔒smkn-KZ-🇰🇿
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.113:443?security=tls&sni=cj.ylks.xyz&type=ws&host=cj.ylks.xyz&path=%2Fblue#🔒smkn-KZ-🇰🇿
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@31.43.179.145:80?path=Telegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#🌐smkn-KZ-🇰🇿
-vless://b6412118-883e-405a-ab0f-5b93e41c93d9@194.76.18.214:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=feijige.rujiao.icu&path=Telegram#🌐smkn-KZ-🇰🇿
-vmess://eyJhZGQiOiAiMjE3Ljc2LjY0LjE5NSIsICJhaWQiOiAwLCAiaG9zdCI6ICJza3VvbmUuc2VydmVtaW5lY3JhZnQubmV0IiwgImlkIjogIjRhYmRmNThlLTA1MTYtNDY4ZC05NTcxLWZlMjVjYjQ4OTdlZiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUtaLVx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmZiIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byJ9
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.176.26.128:443?security=tls&sni=b458aB02.caa-CHaneL-Worker-Page-FReE-jHUIhnUjhPHjkl-NihGKjN.PAGES.Dev&type=ws&path=%2F#🔒smkn-KZ-🇰🇿
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@194.59.5.213:8880?encryption=none&security=none&type=ws&host=jp.laoyoutiao.link&path=%2F#🌐smkn-KZ-🇰🇿
+trojan://MiTiVPN@194.76.18.3:80?ed=2560&eh=Sec-WebSocket-Protocol&host=Nl.App-Cloud.ir&path=%2FMiTiVPN%3DNL&security=none&type=ws#🌐smkn-KZ-🇰🇿
