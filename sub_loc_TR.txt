@@ -1,10 +1,8 @@
-vless://0f3408b6-5db9-4a9b-9579-e978961d32b4@86.38.214.26:443?mode=gun&security=tls&encryption=none&alpn=http/1.1&authority=&fp=firefox&type=grpc&serviceName=%2Fcustom_config%3Fed%3D2048&sni=aLi.PinobiN.iR.#🔒smkn-TR-🇹🇷
-vless://40adcab9-ea8c-4116-a985-346191e2b4c8@138.124.107.46:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&security=reality&sid=122218f4c1f172e4&sni=tr.c2horizon.app&type=tcp#🔒smkn-TR-🇹🇷
-vless://eae02a50-e329-4647-926e-8439e685f317@86.38.214.86:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#🔒smkn-TR-🇹🇷
-vless://68f91cc2-4ef2-46fd-932a-2d0350f682c8@212.87.199.28:443?security=reality&encryption=none&pbk=MbVEbNu2iMIDhD5ziJFLKVfV0lBY7tGGpklBrwqVCyg&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=61ad#🔒smkn-TR-🇹🇷
-vless://fa-7549225089-1761680237482111@62.3.12.10:443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=steampowered.com&sid=d1d42381ba35#🔒smkn-TR-🇹🇷
-vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.232:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🔒smkn-TR-🇹🇷
-trojan://521314@103.83.87.133:443?allowInsecure=0&sni=tjplay.lxdxo.kdns.fr&ws=1&wspath=%2F#🔒smkn-TR-🇹🇷
+vless://a0e804c3-55e2-4d51-82c7-33976d6748cb@31.57.225.233:443?security=reality&encryption=none&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=9eb31eb7572c0882#🔒smkn-TR-🇹🇷
+vless://8e1cf581-b6d3-4e00-bc8c-cf4b58b41766@93.180.133.214:443?security=reality&encryption=none&pbk=Wy7CQ2IzF7p8HvEVo_YB4VTPyEpaHtKOqnyLzdTCLD0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.qualcomm.com&sid=90d417329fe3f214#🔒smkn-TR-🇹🇷
+vless://2ad2e13c-8cb1-4666-8bfb-c42b51df2f1d@86.38.214.18:443?security=tls&sni=aLi.PinobiN.iR.&type=grpc&fp=chrome&alpn=http/1.1#🔒smkn-TR-🇹🇷
+trojan://82d225c8-536b-44e9-9be7-f158b3c0b6da@185.234.66.155:443?mode=gun&security=tls&authority=@OpenSSTPVpn@OpenSSTPVpn@OpenSSTPVpn@OpenSSTPVpn@OpenSSTPVpn&type=grpc&serviceName=grpc&sni=tr1.safecdn.site#🔒smkn-TR-🇹🇷
+vless://5713fee0-2f51-4453-9502-b7fd38a657b6@38.180.105.166:443?security=reality&encryption=none&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com#🔒smkn-TR-🇹🇷
+trojan://8r%3C%5B9%27l6hAO%238ZQi@141.98.115.64:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#🔒smkn-TR-🇹🇷
+vless://8a68ccbc-4df4-4f73-922b-08e77aa8249d@185.220.226.36:56987?path=/news&security=tls&alpn=h2,h3&encryption=none&insecure=0&host=cdn-gr.hardwarenew.ir.&fp=chrome&type=ws&allowInsecure=0&sni=cdn-gr.hardwarenew.ir.#🔒smkn-TR-🇹🇷
 vless://ac41bbc1-5f69-4aca-a295-4114b15e1b1b@86.38.214.31:80?security=none&type=ws&host=1.V2rayV2ray-_-_-V2ray.Zemestanil.Ir#🌐smkn-TR-🇹🇷
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@86.38.214.29:8880/?type=ws&encryption=none&host=hk.laoyoutiao.link&path=%2FTelegramU0001F1E8U0001F1F3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#🌐smkn-TR-🇹🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFUjJ4Q2NKa21SMXBmdG1OMzAwQ05K@62.60.233.226:62763#🌐smkn-TR-🇹🇷
