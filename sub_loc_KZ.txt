@@ -1,5 +1,6 @@
 vless://5be777c2-38f7-44cd-b653-c93b19967887@194.76.18.222:443?allowInsecure=1&encryption=none&host=3b6Pv6fAQ5rpR3d5qCC33M8vNUhWzhdK.oHQliYx.WoRKeRs.DEV&path=%2FeyJqdW5rIjoiZlczclE4VDFFQnUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=tls&sni=3b6Pv6fAQ5rpR3d5qCC33M8vNUhWzhdK.oHQliYx.WoRKeRs.DEV&type=ws#🔒smkn-KZ-🇰🇿
-vless://401374e6-df77-41fb-f638-dad8184f175b@31.43.179.43:443/?type=grpc&encryption=none&security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2#🔒smkn-KZ-🇰🇿
-vless://2c5268a3-4d6b-43ec-8930-a5de3d3cbbb7@109.248.247.144:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=YPxklREENCJn2akAL8LHl9IuYYLlOv_3FG_9oJXiDXQ&security=reality&sni=wikipedia.org&type=tcp#🔒smkn-KZ-🇰🇿
-ss://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?security=reality&amp;encryption=none&amp;pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=2001#🔒smkn-KZ-🇰🇿
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@194.59.5.213:8880?encryption=none&security=none&type=ws&host=jp.laoyoutiao.link&path=%2F#🌐smkn-KZ-🇰🇿
+vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@194.87.138.159:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=web.max.ru&amp;fp=qq&amp;pbk=Cfi8a4Pk4645E8ZNKIp14GW9DeNivoXYYBG2CHr6wm4&amp;sid=45ba18f116ad1f81&amp;type=tcp&amp;headerType=none#🔒smkn-KZ-🇰🇿
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.10:443?security=tls&sni=dd.ylks.xyz&type=ws&host=dd.ylks.xyz&path=%2F%3Fproxyip%3Dproxyip.oracle.fxxk.dedyn.io#🔒smkn-KZ-🇰🇿
+vless://a6e72947-cd53-449e-8ae2-11140ea398df@45.136.58.34:443?encryption=mlkem768x25519plus.native.0rtt.nG3V55mC3ymWk7jI7HJBM4ou3sd9-9OlQpe7tsPiD0U&type=tcp&security=reality&headerType=none&sni=www.samsung.com&fp=chrome&allowInsecure=1&pbk=DMliziQZIP7k6OYcVSTi6gZ5xqK595sbyrpdzI6CdUs&sid=70e2107044b9&spx=%2F#🔒smkn-KZ-🇰🇿
+trojan://ttfang@31.43.179.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram&Host=ttfang.fange.me#🔒smkn-KZ-🇰🇿
+trojan://MiTiVPN@194.76.18.3:80?ed=2560&eh=Sec-WebSocket-Protocol&host=Nl.App-Cloud.ir&path=%2FMiTiVPN%3DNL&security=none&type=ws#🌐smkn-KZ-🇰🇿
