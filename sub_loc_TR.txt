@@ -1,5 +1,5 @@
-vless://bb9c6e82-a52b-4d49-bd3b-0549ba84a87d@185.226.92.132:443?path=%2F%40IRN_VPN%2C%40IRN_VPN%2C%40IRN_VPN%2C%40IRN_VPN%2C%40IRN_VPN&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=irn-vpn.irn-vpn-ay.online#🔒smkn-TR-🇹🇷
-vless://dc9c00a1-eead-4c83-8719-f256c695931c@144.225.65.210:1080?encryption=none&fp=chrome&pbk=2VagXjiKGsFPA0cve0tT40JE8JOkwLpDPca9kljP23g&security=reality&sid=d6c38eb65c&sni=www.cloudflare.com&spx=%2FHfnw6j5KoMsIxSm&type=tcp#🔒smkn-TR-🇹🇷
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@86.38.214.101:2096/?type=ws&encryption=none&host=juzibaipiao.5112233.xyz&path=%2F%3Fed%3D2048&security=tls&sni=juzibaipiao.5112233.xyz&fp=chrome#🔒smkn-TR-🇹🇷
-vless://576c33d8-2a0b-4ee1-bffb-3a12cae56d5b@144.225.65.15:443?encryption=none&host=play.google.com&headerType=http&type=tcp#🔒smkn-TR-🇹🇷
-ss://ed29a0e3-5a32-4a7f-8863-277e9f653629@193.31.117.25:8080?security=&amp;type=grpc&amp;encryption=none#🌐smkn-TR-🇹🇷
+vless://d5b25051-c06c-4af5-9cd6-b6000310177c@213.142.150.73:443?security=reality&sni=blog.api.www.cloudflare.com&type=tcp&fp=chrome&pbk=-FkwzDH8lJExoLie681Fqrfrnm-Wj72TQdPyshWkO1c&sid=ce310cc046141015#🔒smkn-TR-🇹🇷
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.231.75.115:443?security=tls&type=ws&path=/danfeng&host=snippet.fgfw.indevs.in&alpn=http/1.1&sni=snippet.fgfw.indevs.in&fp=random#🔒smkn-TR-🇹🇷
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@86.38.214.238:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#🔒smkn-TR-🇹🇷
+ss://ce967499-9b55-480f-9d8e-6f2d37bba843@194.116.236.222:4111?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=DW2C6G0T-udzyIjKtBHiEZFkJT1OE2AcQaGjnpI2pno&amp;fp=qq&amp;type=grpc&amp;serviceName=yourServiceName&amp;sni=www.icloud.com&amp;sid=9e0df5878ac2f3c8#🔒smkn-TR-🇹🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZXhOaU4xd0E3ZlZDT1Y4WWRPdkJO@77.83.245.116:9753#🌐smkn-TR-🇹🇷
