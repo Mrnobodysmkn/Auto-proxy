@@ -1,4 +1,1 @@
-trojan://NISHIKUITAN111@45.135.235.196:443/?type=tcp&security=tls#🔒smkn-UA-🇺🇦
-vless://401374e6-df77-41fb-f638-dad8184f175b@89.116.180.248:443/?type=grpc&encryption=none&security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2#🔒smkn-UA-🇺🇦
-trojan://NISHIKUITAN111@194.152.44.218:443/?type=tcp&security=tls&allowInsecure=1#🔒smkn-UA-🇺🇦
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.135.235.30:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vms.lifetime07.workers.dev&path=%2F&security=none&type=ws#🌐smkn-UA-🇺🇦
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@89.116.180.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-UA-🇺🇦
