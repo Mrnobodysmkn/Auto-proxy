@@ -1,2 +1,7 @@
-trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443/?type=tcp&security=tls#🔒smkn-IN-🇮🇳
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@185.149.135.20:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=cf11.evan00.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=cf11.evan00.dpdns.org&type=ws#🔒smkn-IN-🇮🇳
+vless://0d974d97-fc0f-4e31-9f86-d4972c37b565@185.149.135.102:2053?mode=auto&path=%2Fxn--q9jyb4c&security=tls&encryption=none&insecure=0&host=cdn.dns.xn--q9jyb4c&type=xhttp&allowInsecure=0&sni=cdn.dns.xn--q9jyb4c#🔒smkn-IN-🇮🇳
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@129.159.22.4:443?security=tls&sni=yq.ylks.us.kg&type=ws&path=%2F%3Fed#🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.36:2096/?type=tcp&security=tls&sni=acepo.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
+vless://8f7f0b49-ea50-4c15-937a-108f92759ba9@45.149.114.142:8104?type=tcp&security=reality&sni=rbc.ru&fp=firefox&flow=xtls-rprx-vision&pbk=yOWj4KtHTjRo6SutNETYUgiNUXES0NY-PcpE9a4MqFM&sid=0a3f199712e38f33#🔒smkn-IN-🇮🇳
+vless://c782a4b0-60d6-4540-8152-8725753fdad3@45.149.114.148:8104/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rbc.ru&fp=firefox&security=reality&pbk=yOWj4KtHTjRo6SutNETYUgiNUXES0NY-PcpE9a4MqFM&sid=f084a3b523cf0aa7#🔒smkn-IN-🇮🇳
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFQkRSbzlUSHg0Q3FpRlU3aDVnZm92NzZvTnd6WlVSQWgwWndiV2pCS2RkdFVodno=@103.120.178.193:31348#🌐smkn-IN-🇮🇳
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.71:28061#🌐smkn-IN-🇮🇳
