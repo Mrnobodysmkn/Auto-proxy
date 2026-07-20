@@ -1,6 +1,8 @@
-vless://5be777c2-38f7-44cd-b653-c93b19967887@194.76.18.222:443?allowInsecure=1&encryption=none&host=3b6Pv6fAQ5rpR3d5qCC33M8vNUhWzhdK.oHQliYx.WoRKeRs.DEV&path=%2FeyJqdW5rIjoiZlczclE4VDFFQnUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=tls&sni=3b6Pv6fAQ5rpR3d5qCC33M8vNUhWzhdK.oHQliYx.WoRKeRs.DEV&type=ws#🔒smkn-KZ-🇰🇿
-vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@194.87.138.159:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=web.max.ru&amp;fp=qq&amp;pbk=Cfi8a4Pk4645E8ZNKIp14GW9DeNivoXYYBG2CHr6wm4&amp;sid=45ba18f116ad1f81&amp;type=tcp&amp;headerType=none#🔒smkn-KZ-🇰🇿
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.10:443?security=tls&sni=dd.ylks.xyz&type=ws&host=dd.ylks.xyz&path=%2F%3Fproxyip%3Dproxyip.oracle.fxxk.dedyn.io#🔒smkn-KZ-🇰🇿
-vless://a6e72947-cd53-449e-8ae2-11140ea398df@45.136.58.34:443?encryption=mlkem768x25519plus.native.0rtt.nG3V55mC3ymWk7jI7HJBM4ou3sd9-9OlQpe7tsPiD0U&type=tcp&security=reality&headerType=none&sni=www.samsung.com&fp=chrome&allowInsecure=1&pbk=DMliziQZIP7k6OYcVSTi6gZ5xqK595sbyrpdzI6CdUs&sid=70e2107044b9&spx=%2F#🔒smkn-KZ-🇰🇿
-trojan://ttfang@31.43.179.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram&Host=ttfang.fange.me#🔒smkn-KZ-🇰🇿
-trojan://MiTiVPN@194.76.18.3:80?ed=2560&eh=Sec-WebSocket-Protocol&host=Nl.App-Cloud.ir&path=%2FMiTiVPN%3DNL&security=none&type=ws#🌐smkn-KZ-🇰🇿
+trojan://Aimer@31.43.179.27:443/?type=tcp&security=tls&sni=agepw.ambercc.filegear-sg.me#🔒smkn-KZ-🇰🇿
+vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@31.43.179.20:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=cf11.evan00.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=cf11.evan00.dpdns.org&type=ws#🔒smkn-KZ-🇰🇿
+vless://5c5a466e-f2e0-4211-8963-742afac24948@91.147.92.192:443?allow_insecure=0&fp=chrome&host=netmelivip.dpdns.org&path=%2Fxiron&security=tls&sni=netmelivip.dpdns.org&type=ws#🔒smkn-KZ-🇰🇿
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.26.102:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒smkn-KZ-🇰🇿
+ss://359b9ad3-0009-4655-8872-d0ab566751d3@31.43.179.111:2096?path=%2Fws%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=newgen14.hozheen.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=d03298146e8e2fe6.hozheen.ir#🔒smkn-KZ-🇰🇿
+vless://467f4f5e-adb3-4724-ad0d-245bbc296789@149.33.0.214:14302?encryption=none&flow=xtls-rprx-vision&fp=&pbk=lw7-Msn5E2O6HbBdqMw9SvoDJgbDIvHss0UVQ9iZFRc&security=reality&sid=106f1604d65bb70c&sni=www.samsung.com&type=tcp#🔒smkn-KZ-🇰🇿
+vless://bb5f4b63-0b91-4f2c-8a02-66c3f99c1aaa@194.76.18.2:8880?&type=ws&headerType=none&host=yellow-mouse-fcce.400-318.workers.dev&path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#🌐smkn-KZ-🇰🇿
+vless://b6412118-883e-405a-ab0f-5b93e41c93d9@194.76.18.214:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=feijige.rujiao.icu&path=Telegram#🌐smkn-KZ-🇰🇿
