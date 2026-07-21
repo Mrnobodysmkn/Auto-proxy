@@ -1,4 +1,6 @@
 vless://eae02a50-e329-4647-926e-8439e685f317@86.38.214.86:443?security=tls&sni=first.pinocchio1.ir.&type=grpc&fp=chrome&alpn=http/1.1#🔒smkn-TR-🇹🇷
-vless://235def37-b0da-4fc3-a0a6-c951529af316@31.210.53.125:443?mode=gun&security=reality&encryption=none&pbk=LhsVnjJZaNTqGU0vQCHayqDG3YeB9ejZ8T6f_EKPzVg&fp=firefox&spx=%2F&type=grpc&serviceName=grpc&sni=trrr-istrr-3.blook.network&sid=6bb2f9b5#🔒smkn-TR-🇹🇷
-vless://870d3183-17a1-4a87-9021-e12e3ac2939f@185.181.209.209:443?flow=xtls-rprx-vision&fp=firefox&host=bia_telegram%40marambashi_marambashi_marambashi_marambashi_marambashi&pbk=L0acYoTxKR5ix7LXAmP10cy06n2JjgkXTojGjtWAqww&security=reality&sid=ed7b9bdfedb9b8e5&sni=gateway.icloud.com&type=tcp#🔒smkn-TR-🇹🇷
-vless://64f4fbf0-b0b1-4bb4-b925-75c2513a13c4@213.142.156.169:443?mode=gun&security=none&encryption=none&type=grpc&serviceName=443vless#🔒smkn-TR-🇹🇷
+trojan://bpb-trojan@86.38.214.132:443/?type=ws&host=bpb.my79801.com&path=%2Ftr%3Fed&security=tls&sni=bpb.my79801.com#🔒smkn-TR-🇹🇷
+vless://394f6981-a782-4779-9a85-e6cf22935d93@169.150.215.77:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🔒smkn-TR-🇹🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnQjdPZU5aVkNPc1pHS1RodkpsY085SnVpVnNVZ0xQYThRSGpBREZobzVjdkd5NHY=@5.188.168.230:31348?type=tcp#🌐smkn-TR-🇹🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@31.210.78.66:1080#🌐smkn-TR-🇹🇷
+vmess://eyJhZGQiOiAiOTQuMTMxLjEwOC4zNiIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiOTg1NWYxZjAtYTgwMC00MGQ0LThiMzgtYzdkM2ViNzkzMDJkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzY1x1ZGYxMHNta24tVFItXHVkODNjXHVkZGY5XHVkODNjXHVkZGY3IiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIn0=
