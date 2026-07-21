@@ -1,2 +1,2 @@
-trojan://v2raydia@140.248.69.255:443?mode=auto&path=/v2raydia&security=tls&extra={"xPaddingBytes":"100-1000"}&insecure=1&host=khre.global.ssl.fastly.net&fp=chrome&type=xhttp&allowInsecure=1&sni=api.imgur.com#🔒smkn-DK-🇩🇰
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.40.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-DK-🇩🇰
+vless://82dbc26e-2dcc-436a-84ee-f57d098209cd@193.233.253.238:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Su5ULcRQKF-0DJIHZeTNEnXHBpyQtizmUrcNIYhZI0E&security=reality&sid=afee962d&sni=dn.launch.tel&type=tcp#🔒smkn-DK-🇩🇰
+trojan://rYuChHcwQZskq9E0zdoR@193.180.209.21:443/?type=tcp&security=tls&sni=vpn5.rnmcnm.com#🔒smkn-DK-🇩🇰
