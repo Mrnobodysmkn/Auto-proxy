@@ -1,1 +1,4 @@
-vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528#🌐smkn-CN-🇨🇳
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@123.138.202.49:443/?type=ws&encryption=none&host=vlee.amclubs.nyc.mn&security=tls&sni=vlee.amclubs.nyc.mn&fp=chrome#🔒smkn-CN-🇨🇳
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.124.223.238:443?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#🔒smkn-CN-🇨🇳
+vless://12345678-1234-1234-1234-123456789123@77.105.163.54:2096?path=%2Fsnippets&security=tls&encryption=none&host=sni.aizrf.com&type=ws&sni=sni.aizrf.com#🔒smkn-CN-🇨🇳
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@176.124.223.238:2096?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=sni.jpmj.dev&amp;type=ws&amp;allowInsecure=0&amp;sni=sni.jpmj.dev#🔒smkn-CN-🇨🇳
