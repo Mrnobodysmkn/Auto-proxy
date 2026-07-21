@@ -1,4 +1,2 @@
-vless://40730d97-ffa7-1108-2c53-761516eb5fda@166.1.131.2:443?security=reality&encryption=none&pbk=UvQ2HZFkQXrBiaprbcmks-aFo1dvnfPlHXcUKcl-i04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#🔒smkn-UA-🇺🇦
-vless://9f487abf-c202-4eb9-bdb7-314be6ff7c8d@78.159.240.136:5443?type=raw&security=reality&sni=api-maps.yandex.ru&fp=qq&flow=xtls-rprx-vision&pbk=tya4DcpvPQGX-uqI_5rtracOiRxX2fwxj_R7D_b7nyI&sid=be764f2de39f4a63#🔒smkn-UA-🇺🇦
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime09.workers.dev&packetEncoding=xudp&encryption=none#🌐smkn-UA-🇺🇦
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.40:8880/?type=ws&encryption=none&flow=&host=vms.lifetime09.workers.dev&path=%2F%3Fed%3D2560#🌐smkn-UA-🇺🇦
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.180.130:2053?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#🔒smkn-UA-🇺🇦
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@45.135.235.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-UA-🇺🇦
