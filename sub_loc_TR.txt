@@ -1,4 +1,6 @@
-vless://3146eb6f-8422-4b3f-810b-c0fc251c8e08@62.60.233.176:443?security=reality&amp;encryption=none&amp;pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=google.com#🔒smkn-TR-🇹🇷
-vless://ac41bbc1-5f69-4aca-a295-4114b15e1b1b@86.38.214.31:80?security=none&type=ws&host=1.V2rayV2ray-_-_-V2ray.Zemestanil.Ir#🌐smkn-TR-🇹🇷
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@86.38.214.3:8880/?type=ws&encryption=none&host=bitget1.asdasd.click&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-TR-🇹🇷
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@86.38.214.213:8880/?type=httpupgrade&encryption=none&host=nufillter.jtip.sbs.&path=%2F#🌐smkn-TR-🇹🇷
+vless://7221e360-b025-45c6-87af-f42c256d778f@86.38.214.33:2053?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=dl5.torian.ir#🔒smkn-TR-🇹🇷
+vless://1625be68-8ed9-47b5-ab00-0d03c27f9082@86.38.214.33:8443?encryption=none&security=tls&type=ws&headerType=none&path=/&host=b.tiptop-3.top&sni=b.tiptop-3.top&fp=chrome&alpn=http/1.1#🔒smkn-TR-🇹🇷
+vless://1625be68-8ed9-47b5-ab00-0d03c27f9082@86.38.214.33:2096?encryption=none&security=tls&type=xhttp&headerType=none&path=/&host=a.tiptop-3.top&mode=auto&sni=a.tiptop-3.top&fp=chrome#🔒smkn-TR-🇹🇷
+vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.246:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🔒smkn-TR-🇹🇷
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@141.98.115.65:8443?allowInsecure=1&amp;encryption=none&amp;host=sni.111000.v6.rocks&amp;security=tls&amp;sni=sni.111000.v6.rocks&amp;type=ws#🔒smkn-TR-🇹🇷
+ss://ed29a0e3-5a32-4a7f-8863-277e9f653629@193.31.117.25:8080?security=&amp;type=grpc&amp;encryption=none#🌐smkn-TR-🇹🇷
