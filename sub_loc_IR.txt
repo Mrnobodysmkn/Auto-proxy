@@ -1,9 +1,6 @@
-vless://92242a82-76e7-4bba-87d7-c46800b4e6c8@94.183.157.85:443?security=reality&encryption=none&pbk=zkHwU8tTZmJ7yftCmqYlUh-t9qGZlpgHvE1E7X9HUmA&headerType=none&fp=chrome&type=tcp&sni=verlangerung.de&sid=d5d82fbb0de315ac#🔒smkn-IR-🇮🇷
+trojan://diCyRX1d@193.151.134.182:443?flow=xtls-rprx-direct&security=xtls&sni=iprostable.enterprises&type=tcp&headerType=none#🔒smkn-IR-🇮🇷
 vless://b4bd0613-ff7c-4f2f-954d-185915e6ddad@194.50.216.61:443?type=ws&security=tls&host=rule.kermanshahi.org&sni=rule.kermanshahi.org&path=%2F%40JavidnamanIran%2FJavid-SHAH-KingRezaPahlavi%2F&alpn=h2,http/1.1#🔒smkn-IR-🇮🇷
-vless://cc06d694-3d3f-4149-97de-4693ce3478f8@185.143.234.113:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=fiarsh.parhamm2.ir&sni=fiarsh.parhamm2.ir&fp=random#🔒smkn-IR-🇮🇷
-vless://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.121.118.55:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=ViRgInIaVpN-Nl.PaGeS.DeV&type=ws&sni=vIrGiNiAvPn-nL.pAgEs.dEv#🔒smkn-IR-🇮🇷
-trojan://8r%3C%5B9%27l6hAO%238ZQi@88.135.36.245:8443?path=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&insecure=1&host=Koma-YT.PAGeS.Dev&type=ws&allowInsecure=1&sni=Koma-YT.PAGeS.Dev#🔒smkn-IR-🇮🇷
-trojan://ttfang@45.131.4.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram&Host=ttfang.fange.me#🔒smkn-IR-🇮🇷
 vless://feade342-9a00-427e-b049-752a4e584ba5@85.133.161.168:443?security=none&amp;encryption=none&amp;host=fsn.bestlive.ir&amp;headerType=http&amp;type=tcp#🔒smkn-IR-🇮🇷
-vless://8b09d94f-4a96-4aa7-9bd2-f7ac14515e1d@79.127.70.120:443?security=none&encryption=none&host=doostihaa.com&headerType=http&type=tcp#🔒smkn-IR-🇮🇷
-vless://bd311d15-955f-4f6e-a328-c54ca514b5c5@95.38.242.205:8443?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#🌐smkn-IR-🇮🇷
+ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@185.188.104.10:443#🔒smkn-IR-🇮🇷
+vless://244f43cb-3e03-4f00-8a27-9422b7259e46@185.143.233.232:80?encryption=none&type=ws&path=%2F&host=api.angrydevs.ir#🌐smkn-IR-🇮🇷
+vless://bc2c9bea-93f6-448a-9162-0077b4c0dd6f@185.143.233.217:80?path=%2Fws&security=none&encryption=none&host=me.chehre-negar.ir&type=ws#🌐smkn-IR-🇮🇷
