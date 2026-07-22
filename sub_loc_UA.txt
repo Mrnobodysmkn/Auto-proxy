@@ -1,4 +1,3 @@
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.180.161:443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#🔒smkn-UA-🇺🇦
-vless://6801b462-3ae8-4004-b33e-f450f30acddb@78.159.240.24:2087?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=firefox&flow=xtls-rprx-vision&pbk=8OMXO2-lBxnEKksbelz7dK6M4Jj2yq7q5UTlxRXTYz8&sid=50#🔒smkn-UA-🇺🇦
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.138:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#🔒smkn-UA-🇺🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@194.54.80.37:1080#🌐smkn-UA-🇺🇦
+vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.54:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🔒smkn-UA-🇺🇦
+vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.55:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🔒smkn-UA-🇺🇦
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.40:8880/?type=ws&encryption=none&flow=&host=vms.lifetime09.workers.dev&path=%2F%3Fed%3D2560#🌐smkn-UA-🇺🇦
