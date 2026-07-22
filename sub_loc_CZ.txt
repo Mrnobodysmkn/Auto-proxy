@@ -1,2 +1,5 @@
-vless://578c8541-16a0-40b7-bf72-9508d547f856@46.8.183.6:443?type=tcp&headerType=none&security=reality&encryption=none&sni=dl.google.com&fp=chrome&pbk=_hx2cPzds51UclHtP7e1qums7HY9o-bs9NElOvSXTFs&sid=e596c845ebf64ee5&spx=%2F&flow=xtls-rprx-vision#🔒smkn-CZ-🇨🇿
-trojan://Aimer@37.157.192.61:9902/?type=tcp&security=tls&sni=amepo.ambercc.filegear-sg.me&allowInsecure=1#🔒smkn-CZ-🇨🇿
+vless://063f7847-1945-4e05-8a77-958643625a6a@92.61.71.167:443?type=http&security=reality&path=%2F&sni=api.vk.com&fp=chrome&pbk=52QyRfw92BbFAY3fy9ScXu5TBRYyAS5Cu_5mGZIPmj4&sid=9c3bfff6a4678dc0#🔒smkn-CZ-🇨🇿
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.229.138:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#🔒smkn-CZ-🇨🇿
+vless://9aff9c52-b2ee-44b9-a5f0-9f11a3aeca8e@78.159.247.166:7444?sni=ads.x5.ru&flow=xtls-rprx-vision-udp443&fp=ios&security=tls#🔒smkn-CZ-🇨🇿
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@14.102.229.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-CZ-🇨🇿
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@185.156.174.106:1080#🌐smkn-CZ-🇨🇿
