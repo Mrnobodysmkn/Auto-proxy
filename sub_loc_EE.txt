@@ -1,8 +1,5 @@
-vless://5c5a466e-f2e0-4211-8963-742afac24948@159.253.23.164:443?allow_insecure=0&fp=chrome&host=netmelivip.dpdns.org&path=%2Fxiron&security=tls&sni=netmelivip.dpdns.org&type=ws#🔒smkn-EE-🇪🇪
-vless://8fef09bc-a48a-44ae-95cd-118e58ab796a@31.76.55.163:443?encryption=none&security=reality&sni=www.amd.com&fp=firefox&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&sid=635a76c25a4b1820&type=grpc&authority=&serviceName=grpc-api-v2&mode=gun#🔒smkn-EE-🇪🇪
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@45.80.108.20:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=cf11.evan00.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=cf11.evan00.dpdns.org&type=ws#🔒smkn-EE-🇪🇪
-vless://822cae5e-2fbf-4d4d-8f20-e9c89593e1ee@23.230.179.168:443?type=tcp&security=reality&path=%2F&sni=eh.vk.com&fp=chrome&flow=xtls-rprx-vision&pbk=J2yJCkBI-GDKHgH0OuRP0Bm0aqZ8qL_fXhITn4titAg&sid=a20d3ed244c76426#🔒smkn-EE-🇪🇪
-vless://d9c1a649-1cbe-42c7-a619-af38c944fa72@5.175.178.155:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ss02uq_fJvSOaFODaNs9xywXPhxRBXZdBUiazqhY1wM&security=reality&sid=e5758e5f&sni=vk.com&type=tcp#🔒smkn-EE-🇪🇪
-trojan://8r%3C%5B9%27l6hAO%238ZQi@95.85.243.194:8443?fp=chrome&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#🔒smkn-EE-🇪🇪
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.80.110.19:80?security=none&type=ws&path=Twitterfreecodes#🌐smkn-EE-🇪🇪
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.110.253:8880?encryption=none&host=joss.jak.biz.id&path=%2FFree-VPN-CF-Geo-Project%2FHK&security=none&type=ws#🌐smkn-EE-🇪🇪
+vless://41abecd9-8096-4142-a75c-4e1d36d990bd@45.80.108.253:443/?type=ws&encryption=none&host=mmdserver.us.kg&path=%2F%3Fed%3D2048&security=tls&sni=mmdserver.us.kg&alpn=h3%2Ch2%2Chttp%2F1.1&fp=ios#🔒smkn-EE-🇪🇪
+vless://ef9d2063-0140-472b-8b17-ba02ba4b4435@45.80.108.236:443/?type=ws&encryption=none&flow=&host=lively-resonance-4e12.electrocellco-cf-059.workers.dev&path=%2Fproxyip%3D167.71.48.187&security=tls&sni=lively-resonance-4e12.electrocellco-cf-059.workers.dev&fp=chrome#🔒smkn-EE-🇪🇪
+vless://1149be91-5a4f-47de-995f-66f8d7d64498@45.80.108.244:2096?security=tls&sni=GeR14.SimAnSaNat.iR.&type=ws&host=GeR14.SimAnSaNat.iR.&fp=chrome&alpn=h2#🔒smkn-EE-🇪🇪
+trojan://ICVPNN@45.80.108.236:8443?path=%2Fapii&security=tls&insecure=0&host=ntlfy.letknow.shop&fp=random&type=ws&allowInsecure=0&sni=ntlfy.letknow.shop#🔒smkn-EE-🇪🇪
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@45.80.110.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-EE-🇪🇪
