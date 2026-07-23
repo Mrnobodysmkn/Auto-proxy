@@ -1,2 +1,5 @@
-trojan://NISHIKUITAN111@14.102.228.61:443/?type=ws&host=zb.ylks.xyz&path=%2F&security=tls&sni=zb.ylks.xyz#🔒smkn-CZ-🇨🇿
+vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@14.102.228.201:443?security=tls&type=ws&path=%2Fa8Kp92LmQx&host=app.zynuro.ir&packetEncoding=xudp&alpn=h2%2Chttp%2F1.1&sni=app.zynuro.ir&fp=chrome#🔒smkn-CZ-🇨🇿
+vless://13b55e8e-fbea-4ee1-b6b7-115fa3043182@46.8.113.22:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cz.srv.anti-zapret.com&sid=17faf32cb516c9cb#🔒smkn-CZ-🇨🇿
+vless://17565eb3-3535-4fc1-bbaa-e9fbd94b2f0c@14.102.228.80:2053?security=tls&sni=fi1.v2vless.xyz&type=ws&host=fi1.v2vless.xyz&fp=chrome&alpn=h3,h2,http/1.1#🔒smkn-CZ-🇨🇿
+vless://85fd43b9-0906-451d-a78e-ae47086a5538@31.77.236.73:443?security=reality&encryption=none&pbk=Hr-1WENbZqjmq6WSlm9aJShW3z_UcV5Xb8coI1ZpR10&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=download.docker.com&sid=72d4b5a2f4c4e310#🔒smkn-CZ-🇨🇿
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@14.102.228.210:2096?encryption=none&security=tls&type=ws&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#🔒smkn-CZ-🇨🇿
