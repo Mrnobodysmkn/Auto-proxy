@@ -1,12 +1,2 @@
-vless://9bef38a5-31a7-4e36-af48-01697fae00a2@80.211.136.16:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=it2.krasivogame.ru&type=tcp#🔒smkn-IT-🇮🇹
-vless://a5fe029b-ed4d-4caf-b53f-2f8584c1a103@45.155.68.38:443?type=grpc&security=reality&sni=api-maps.yandex.ru&pbk=jlmxRScmPJjKpqZdLdBtaZxkucMZPkj9kUJ3ktTBTF8#🔒smkn-IT-🇮🇹
-vless://a2415a12-3f92-4636-9823-9828d3ceb818@132.243.255.213:443?encryption=none&security=reality&sni=www.sony.com&fp=chrome&pbk=lZf2K14GxiyyUM4zovDM20iuvkYQcGrXbPd18F3Jyzo&sid=1ab2&packetEncoding=xudp#🔒smkn-IT-🇮🇹
-vless://fe56cb08-6d4c-4954-808d-216fa945d3e8@31.76.113.161:2087?security=reality&type=grpc&mode=gun&serviceName=grpc&packetEncoding=xudp&sni=ads.x5.ru&fp=firefox&sid=c226283c4de5b1ad&pbk=IrgMA7g_C4JRT3gXWQvNXtHRd7dgC6fkSkKvxIxbfF0&encryption=none#🔒smkn-IT-🇮🇹
-vless://b1a689fa-20c3-43b4-a107-4af64f8a7cf3@57.131.16.36:6300?security=reality&sni=play.google.com&type=tcp&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo#🔒smkn-IT-🇮🇹
-vless://fe56cb08-6d4c-4954-808d-216fa945d3e8@31.76.113.161:445?&security=reality&flow=xtls-rprx-vision&pbk=IrgMA7g_C4JRT3gXWQvNXtHRd7dgC6fkSkKvxIxbfF0&sid=c226283c4de5b1ad&fp=firefox&sni=ads.x5.ru&type=tcp&headerType=none&host=ads.x5.ru&path=%2F#🔒smkn-IT-🇮🇹
-vless://fe56cb08-6d4c-4954-808d-216fa945d3e8@31.76.113.161:8443?&security=reality&pbk=IrgMA7g_C4JRT3gXWQvNXtHRd7dgC6fkSkKvxIxbfF0&sid=c226283c4de5b1ad&fp=firefox&sni=ads.x5.ru&type=xhttp#🔒smkn-IT-🇮🇹
-vless://f3a0a8f0-2ae7-4b02-a08c-c90d529a5648@172.232.218.59:443?security=none&encryption=none&headerType=none&type=tcp#🔒smkn-IT-🇮🇹
-vless://e4f83b5e-2ac5-4040-ade6-afb095a8d1c2@146.75.55.102:80?mode=auto&path=%2F1ht&security=&encryption=none&host=Fred443portlarucin.com&type=xhttp#🌐smkn-IT-🇮🇹
-vless://e4f83b5e-2ac5-4040-ade6-afb095a8d1c2@146.75.55.83:80?mode=auto&path=%2F1ht&security=&encryption=none&host=Fred443portlarucin.com&type=xhttp#🌐smkn-IT-🇮🇹
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.240.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-IT-🇮🇹
-ss://fb9da2e5-aee6-4108-ab57-ffc36ce85656@89.150.57.196:8443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#🌐smkn-IT-🇮🇹
+vless://2d1470a0-fa48-4d3b-8378-b827b744ac00@147.45.51.209:443?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=o2uLRBkgcAPCavo12l6VUzaSnSmxjUvod-NBSiUPdy8&sid=85&sni=www.tesla.com&servername=www.tesla.com&spx=%2F&fp=ios#🔒smkn-IT-🇮🇹
+vless://33509502-dd58-46bf-b574-985ca9a53964@116.204.164.60:7443?path=%2F%40Marisa_kristi&security=tls&encryption=none&host=8n9qi6t-owl.gevc9s4n60cc3wzcmwhjyezydpmbchocxp.workers.dev&fp=chrome&type=ws&sni=8n9qi6t-owl.gevc9s4n60cc3wzcmwhjyezydpmbchocxp.workers.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#🔒smkn-IT-🇮🇹
