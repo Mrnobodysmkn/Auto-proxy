@@ -1,10 +1,6 @@
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.131.6.224:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2#🔒smkn-BZ-🇧🇿
-trojan://NISHIKUITAN111@45.131.5.226:443/?type=tcp&security=tls#🔒smkn-BZ-🇧🇿
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.209.126:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#🔒smkn-BZ-🇧🇿
-vless://54c85e0d-2b86-4109-8cbc-41526c1e38a7@45.131.5.238:2096?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=nurenburs.appleseraj.ir&type=ws&allowInsecure=0&sni=nurenburs.appleseraj.ir#🔒smkn-BZ-🇧🇿
-vless://b6224dd6-234c-4477-b510-dbf6465f4156@45.131.210.31:80?path=%2Fbackup&security=none&encryption=none&host=TecHnoLOGY.Dl-vScodE.Com&type=ws#🌐smkn-BZ-🇧🇿
-vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.5.99:80?path=%2F&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#🌐smkn-BZ-🇧🇿
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.7.64:80/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2FChannel%20id%3A%20%40ShadowProxy66%2F%3Fed%3D2560#🌐smkn-BZ-🇧🇿
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.131.208.130:80/?type=ws&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&path=Telegram%40V2ray_Alpha%2F%3Fed%3D2560#🌐smkn-BZ-🇧🇿
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@45.131.208.221:8880/?type=httpupgrade&encryption=none&host=nufillter.jtip.sbs.&path=%2F#🌐smkn-BZ-🇧🇿
-vmess://eyJhZGQiOiAiMjAzLjMwLjE5MS4yMCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiNWY2NGZhNjUtN2IxNC00OWM1LTk1NGQtYWExNWM2YmZjYWNkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9kb25ndGFpd2FuZy5jb20iLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzY1x1ZGYxMHNta24tQlotXHVkODNjXHVkZGU3XHVkODNjXHVkZGZmIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIn0=
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.131.211.189:2083?security=tls&sni=PPal03.YoSIf-jAhriEl.wOrkERS.dev&type=ws&host=PPAl03.yosIf-jaHriel.WORKerS.DeV&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#🔒smkn-BZ-🇧🇿
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.6.5:443?security=tls&type=ws&path=/&host=vpn47.cc.cd&packetEncoding=xudp&sni=vpn47.cc.cd&fp=chrome&encryption=none#🔒smkn-BZ-🇧🇿
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.211.34:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#🔒smkn-BZ-🇧🇿
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.211.204:2053?path=%2F&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=dl1-tr-cdn.easy-upload.org#🔒smkn-BZ-🇧🇿
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.6.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&security=tls&sni=sni.jpmj.dev&type=ws#🔒smkn-BZ-🇧🇿
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.211.135:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2FChannel%20id%3A%20%40ShadowProxy66%3Fed%3D2560#🌐smkn-BZ-🇧🇿
