@@ -1,8 +1,5 @@
-trojan://bpb-trojan@86.38.214.132:443/?type=ws&host=bpb.my79801.com&path=%2Ftr%3Fed&security=tls&sni=bpb.my79801.com#🔒smkn-TR-🇹🇷
-vless://235def37-b0da-4fc3-a0a6-c951529af316@31.210.53.125:443?mode=gun&security=reality&encryption=none&pbk=LhsVnjJZaNTqGU0vQCHayqDG3YeB9ejZ8T6f_EKPzVg&fp=firefox&spx=%2F&type=grpc&serviceName=grpc&sni=trrr-istrr-3.blook.network&sid=6bb2f9b5#🔒smkn-TR-🇹🇷
-vless://3146eb6f-8422-4b3f-810b-c0fc251c8e08@62.60.233.176:443?security=reality&amp;encryption=none&amp;pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=google.com#🔒smkn-TR-🇹🇷
-vless://0f3408b6-5db9-4a9b-9579-e978961d32b4@86.38.214.26:443?mode=gun&security=tls&encryption=none&alpn=http/1.1&authority=&fp=firefox&type=grpc&serviceName=%2Fcustom_config%3Fed%3D2048&sni=aLi.PinobiN.iR.#🔒smkn-TR-🇹🇷
-vless://eaf28b90-7c6c-4b27-8406-7b2511ae1e13@130.185.120.181:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🔒smkn-TR-🇹🇷
-vless://ac41bbc1-5f69-4aca-a295-4114b15e1b1b@86.38.214.31:80?security=none&type=ws&host=1.V2rayV2ray-_-_-V2ray.Zemestanil.Ir#🌐smkn-TR-🇹🇷
-trojan://d0d98c51-c542-447e-959f-d8cf6a6b7a9c@153.56.171.118:3001?allowInsecure=1&sni=avargon.site&ws=1&wspath=%2Fvpn#🌐smkn-TR-🇹🇷
+vless://dd280dbb-75ec-4631-9979-d65237e27185@5.175.136.134:2053?encryption=none&security=reality&sni=www.yahoo.com&fp=chrome&pbk=AsmltIw-2fVcbpcbckmIJZrWiVyDW_Kid8VIvHkcmC4&sid=81053c0bc6adc9&type=xhttp&path=%2F&mode=auto#🔒smkn-TR-🇹🇷
+vless://c491dac3-4703-4a6b-8046-4da19a72271a@130.185.120.150:443?security=reality&sni=www.google.com&type=tcp&fp=chrome&pbk=VuyYaqsAVTmgCmC18RjTQ20zbRgsm_WhdUO5VmdJY30&sid=7d60185f0e8935a5#🔒smkn-TR-🇹🇷
+vless://7b102311-43fd-4e8f-877e-8090623c101d@103.215.218.43:2087?type=ws&security=tls&sni=vp26.cc.cd&fp=chrome&path=%2F&host=vp26.cc.cd#🔒smkn-TR-🇹🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnQjdPZU5aVkNPc1pHS1RodkpsY085SnVpVnNVZ0xQYThRSGpBREZobzVjdkd5NHY=@5.188.168.230:31348?type=tcp#🌐smkn-TR-🇹🇷
 vmess://eyJhZGQiOiAiNDUuOTQuMTY5LjE0MiIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiODI0YzU4YjEtNjViYS00NjgwLWE2MDktNjYzYTAwMGRiYjkyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi93c3MxMzg4OSIsICJwb3J0IjogNDQzLCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1UUi1cdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZjciLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8ifQ==
