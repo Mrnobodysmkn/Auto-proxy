@@ -1,3 +1,7 @@
-vless://a8846b47-4eb9-4646-a69c-c04de0c1a798@185.143.233.250:8880?path=%2F&security=&encryption=none&host=mah.zabuza.ir&type=httpupgrade#🌐smkn-IR-🇮🇷
-vless://9aef9fc7-f901-4234-d8f5-f5980fb664d2@94.183.149.168:8880?path=%2F&security=none&encryption=none&type=ws#🌐smkn-IR-🇮🇷
-vless://392c0d0a-157f-4fe0-b528-11586477cbe0@185.213.165.81:38024?security=none&encryption=none&headerType=none&type=tcp#🌐smkn-IR-🇮🇷
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.125:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org#🔒smkn-IR-🇮🇷
+vless://cc06d694-3d3f-4149-97de-4693ce3478f8@185.143.234.113:443?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=fiarsh.parhamm2.ir&sni=fiarsh.parhamm2.ir&fp=random#🔒smkn-IR-🇮🇷
+vless://29631d28-ea31-4ffa-99d3-7816adc92fb5@193.201.66.124:1025?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&encryption=mlkem768x25519plus.native.0rtt.u11XaDVDY8NRKpRGCtbksuhnefKg6RZBQfg5m2OepyI&security=tls&type=xhttp&headerType=none&flow=xtls-rprx-vision&path=/?ed=2560/v2ray&mode=auto&extra={"xPaddingBytes":"100-1000"}&sni=neranald.jonghafteh.ir&fp=chrome&alpn=h2,http/1.1#🔒smkn-IR-🇮🇷
+vless://4088e698-69fd-4d15-98bc-f1fe4c071642@45.131.4.194:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=none&encryption=none&host=digitalscientificresearchgroup.ir&type=ws#🌐smkn-IR-🇮🇷
+vless://9ca58ed5-31b3-4c7f-92bd-47602d0ef516@5.61.29.51:4130?type=tcp&encryption=none&security=none#🌐smkn-IR-🇮🇷
+vless://384193af-acf4-4e3d-a570-5720befa42ee@45.131.4.245:80?security=&type=ws&path=/backup&host=Okhvod.KAshTI.WOrLd&encryption=none#🌐smkn-IR-🇮🇷
+vmess://eyJhZGQiOiAiMTg1Ljg0LjE1OC40MyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJhbWlyLmFtaXJwb3J0LnNicyIsICJpZCI6ICIzY2NkN2M5Ni1mYzRiLTQ5MjEtYmYzMy0yNmZlZjY5YzAwNGEiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiODg4MCIsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUlSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICItLS0iLCAidiI6ICIyIn0=
