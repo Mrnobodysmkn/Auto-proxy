@@ -1,2 +1,4 @@
-vless://2d1470a0-fa48-4d3b-8378-b827b744ac00@147.45.51.209:443?mode=multi&security=reality&encryption=none&type=tcp&flow=xtls-rprx-vision&pbk=o2uLRBkgcAPCavo12l6VUzaSnSmxjUvod-NBSiUPdy8&sid=85&sni=www.tesla.com&servername=www.tesla.com&spx=%2F&fp=ios#🔒smkn-IT-🇮🇹
-vless://33509502-dd58-46bf-b574-985ca9a53964@116.204.164.60:7443?path=%2F%40Marisa_kristi&security=tls&encryption=none&host=8n9qi6t-owl.gevc9s4n60cc3wzcmwhjyezydpmbchocxp.workers.dev&fp=chrome&type=ws&sni=8n9qi6t-owl.gevc9s4n60cc3wzcmwhjyezydpmbchocxp.workers.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#🔒smkn-IT-🇮🇹
+vless://34d87d6c-418e-4387-a1e3-2bb477c0b363@45.198.91.52:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&security=reality&sid=4ffc99daad0f261f&sni=rbc.ru&type=tcp#🔒smkn-IT-🇮🇹
+vless://34d87d6c-418e-4387-a1e3-2bb477c0b363@45.198.91.52:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&security=reality&sid=f32140952ba18e18&sni=rbc.ru&type=tcp#🔒smkn-IT-🇮🇹
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.22:8880?security=none&type=grpc#🌐smkn-IT-🇮🇹
+ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.117:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#🌐smkn-IT-🇮🇹

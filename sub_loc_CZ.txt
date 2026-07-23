@@ -1,5 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.191:443?allowInsecure=1&encryption=none&host=sni.my111000.tech&path=%2F&security=tls&sni=sni.my111000.tech&type=ws#🔒smkn-CZ-🇨🇿
-vless://50e75c0f-801a-4291-9d98-80e77b787fd5@195.85.23.236:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960001.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#🔒smkn-CZ-🇨🇿
-vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@195.85.23.21:2087?alpn=h2,http/1.1&encryption=none&fp=firefox&host=ch-de.sdcards.ir&mode=auto&path=/?Telegram-WangCai2&security=tls&sni=ch-de.sdcards.ir&type=xhttp#🔒smkn-CZ-🇨🇿
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.191:2096?allowInsecure=1&encryption=none&host=sni.my111000.tech&security=tls&sni=sni.my111000.tech&type=ws#🔒smkn-CZ-🇨🇿
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@14.102.229.188:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-CZ-🇨🇿
+vless://578c8541-16a0-40b7-bf72-9508d547f856@46.8.183.6:443?type=tcp&headerType=none&security=reality&encryption=none&sni=dl.google.com&fp=chrome&pbk=_hx2cPzds51UclHtP7e1qums7HY9o-bs9NElOvSXTFs&sid=e596c845ebf64ee5&spx=%2F&flow=xtls-rprx-vision#🔒smkn-CZ-🇨🇿
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.23.138:2096?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#🔒smkn-CZ-🇨🇿
