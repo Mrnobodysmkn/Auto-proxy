@@ -1,5 +1,2 @@
-vless://492f2fa0-92d7-48f6-90fc-000c6aea7607@1.1.1.1:443?encryption=none&security=tls&type=ws&headerType=none&path=%2Fidea&sni=af985d4fa38e059d.mygoldiran.com#🔒smkn-AU-🇦🇺
-vless://e8f25e87-f17f-4b38-9ba8-3d3ffd345186@139.180.178.98:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&type=tcp#🔒smkn-AU-🇦🇺
-vless://9a794b73-d16d-4d20-8dfa-14985c8b97be@1.1.1.1:2082?mode=auto&path=%2F&security=&encryption=none&type=xhttp#🌐smkn-AU-🇦🇺
-vless://8f5f5150-33e5-41e9-a164-c10d778112ed@1.1.1.1:2087?security=none&type=tcp&headerType=http&path=/&host=play.google.com#🌐smkn-AU-🇦🇺
-vless://2d0c58db-8e93-41b4-bc37-00e27e6f83f7@1.1.1.1:80?security=none&type=tcp&headerType=none&path=&host=#🌐smkn-AU-🇦🇺
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@103.169.142.244:443?security=tls&sni=zdyc.kpcloud.eu.org&type=ws&path=%2Fblue#🔒smkn-AU-🇦🇺
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@103.169.142.188:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-AU-🇦🇺
