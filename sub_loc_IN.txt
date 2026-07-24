@@ -1,3 +1,5 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.198.173.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#🔒smkn-IN-🇮🇳
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.149.135.238:2096?type=ws&security=tls&sni=&host=sni.jpmj.dev&path=%2F%253Fed%253D2560%2526Telegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%252B%2540WangCai2#🔒smkn-IN-🇮🇳
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.100.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.202:2083/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org#🔒smkn-IN-🇮🇳
+vless://ab01d17f-ed9f-4546-afda-434adfd71401@45.89.105.72:443?encryption=none&security=reality&sni=www.google.com&fp=chrome&pbk=pwaWnYpE_MEvgwRxITFmHeSCiRJaYGyUBWh4zwDLn2w&sid=0acd50cd4ee97bb6&type=grpc&serviceName=b02b809d4d1b4f502c6fc275#🔒smkn-IN-🇮🇳
+vless://8d5911d9-f9f9-484f-8f67-5729ab5fd1af@108.165.152.29:2096?path=%2Fsnippets%3Fip%3Dtw.tp81.netlib.re%3A81&security=tls&encryption=none&host=saas.cfliu.filegear-sg.me&type=ws&sni=saas.cfliu.filegear-sg.me#🔒smkn-IN-🇮🇳
+trojan://MiTiVPN@151.101.211.211:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2&security=none&type=ws#🌐smkn-IN-🇮🇳
+vmess://eyJhZGQiOiAiMTUyLjY3LjguMjA1IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICI5ZGI0YzcwOC1hZWY4LTQzNTktODIxYi0zOGU0Nzk5MGJlMGQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogODAsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUlOLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmMyIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwgInNuaSI6ICIxNTIuNjcuOC4yMDUiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8ifQ==
