@@ -1,9 +1,7 @@
-vless://e258977b-e413-4718-a3af-02d75492c349@82.21.84.99:443?alpn=http%2F1.1&ed=2095&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=ww1.aniuge.qzz.io&path=%2F&security=tls&sni=ww1.aniuge.qzz.io&type=ws#🔒smkn-HK-🇭🇰
-vless://7b102311-43fd-4e8f-877e-8090623c101d@38.190.210.250:443?encryption=none&security=tls&sni=vp10.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vp10.pages.dev&path=%2F#🔒smkn-HK-🇭🇰
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@156.225.72.152:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg%40zdyz2#🔒smkn-HK-🇭🇰
-trojan://HW85960347@185.244.208.59:443?security=tls&sni=top-goshawk.rooster465.autos&type=tcp&path=/&allow_insecure=1#🔒smkn-HK-🇭🇰
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.207.157.130:443?alpn=h2,http/1.1&encryption=none&fp=firefox&security=tls&sni=sca12.afterdomain.shop&type=grpc#🔒smkn-HK-🇭🇰
-trojan://9879f2da-5bb6-41c3-af04-0770332f34f5@16.162.45.199:443/?type=tcp&security=tls&sni=dl-hk5.steamdownload.top&allowInsecure=1#🔒smkn-HK-🇭🇰
-trojan://666@176.98.181.71:443?security=tls&sni=7rdf6.h3mc.4f7.hh.hhhdl.kdns.fr&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=7rdf6.h3mc.4f7.hh.hhhdl.kdns.fr&path=%2Fglasspanel%2Fguest000_0_5de14443985f%2F#🔒smkn-HK-🇭🇰
+vless://ee82810b-3a46-40ab-8fa3-0a3a9ecb4b7f@46.20.109.165:443?security=reality&encryption=none&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=icloud.cdn-apple.com#🔒smkn-HK-🇭🇰
+trojan://92435aa8-f3b6-466a-ad58-c55cbb6d2acf@45.149.92.71:443?type=tcp&security=tls&sni=hinet.mjt000.com&fp=chrome&alpn=http%2F1.1#🔒smkn-HK-🇭🇰
+ss://9c64064c-aaaf-449f-9344-77632fc9ff1c@38.207.177.236:443?security=reality&amp;encryption=none&amp;pbk=maES4RMEtsm5emBCixDRa6Y5GvmVwmwZNBL2G4Q03D4&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=47de54e71fee3451#🔒smkn-HK-🇭🇰
 vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@85.11.161.8:444/?type=grpc&encryption=none&flow=&serviceName=web.max.ru&sni=web.max.ru&fp=chrome&security=reality&pbk=lxq7uAa7l0ozobBgTRrQIF_aCxDeJqZZFaNv8CFA9TQ&sid=8622176789abcdef#🔒smkn-HK-🇭🇰
-vmess://eyJhZGQiOiAiMTE4LjEwNy40Ni4xNzMiLCAiYWlkIjogNjQsICJob3N0IjogIiIsICJpZCI6ICI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3BhdGgvMDgwNzEyMzQyMzEwIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUhLLVx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byJ9
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@27.50.49.232:8443?encryption=none&security=tls&type=ws&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#🔒smkn-HK-🇭🇰
+trojan://IQ68037294@91.199.84.86:443?sni=dynamic-grubworm.rooster465.autos&fp=chrome&type=tcp&path=%2f#🔒smkn-HK-🇭🇰
+ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@212.192.15.52:20166#🌐smkn-HK-🇭🇰
