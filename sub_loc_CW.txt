@@ -1,8 +1,1 @@
-vless://981fca81-5be1-41f8-ac9b-d138e8109943@5.10.244.231:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=babayaga-6i7.pages.dev&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=babayaga-6i7.pages.dev&type=ws#🔒smkn-CW-🇨🇼
-vless://41abecd9-8096-4142-a75c-4e1d36d990bd@92.60.74.100:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=mmdserver.us.kg&type=ws&sni=mmdserver.us.kg#🔒smkn-CW-🇨🇼
-trojan://NISHIKUITAN111@5.10.246.119:443/?type=tcp&security=tls#🔒smkn-CW-🇨🇼
-trojan://8r%3C%5B9%27l6hAO%238ZQi@5.10.244.253:443?allowInsecure=1&host=Koma-YT.PAGeS.Dev&path=%2Ftr+%7C+%E5%85%8D%E8%B4%B9%E6%9C%BA%E5%9C%BATG%40proxyshareCN+%7C+&sni=Koma-YT.PAGeS.Dev&type=ws#🔒smkn-CW-🇨🇼
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.244.253:8880?encryption=none&host=joss.jak.biz.id&path=%2FFree-VPN-CF-Geo-Project%2FHK&security=none&type=ws#🌐smkn-CW-🇨🇼
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@62.72.166.177:8880/?type=ws&encryption=none&host=ip.langmanshanxi.top&path=%2FTelegram%40WangCai2%2F%3Fed%3D2560#🌐smkn-CW-🇨🇼
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@5.10.245.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-CW-🇨🇼
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@5.10.244.213:8880?encryption=none&security=none&type=ws&host=jp.laoyoutiao.link&path=%2F#🌐smkn-CW-🇨🇼
+vless://StableInternet@5.10.245.17:2053?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=StableInternet&allowInsecure=0&sni=grc.accuratenetworkchecker.ir#🔒smkn-CW-🇨🇼
