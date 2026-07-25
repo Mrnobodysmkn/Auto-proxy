@@ -1,5 +1,6 @@
-vless://6033ee9d-7c2a-4f37-a055-0c0d2d8487f0@207.148.82.140:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&security=reality&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.googleapis.com&type=tcp#🔒smkn-AU-🇦🇺
-trojan://FC60532879@82.117.225.26:443?sni=neat-whale.rooster465.autos&fp=chrome&type=tcp&path=/#🔒smkn-AU-🇦🇺
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@103.169.142.244:443?security=tls&sni=zdyc.kpcloud.eu.org&type=ws&path=%2Fblue#🔒smkn-AU-🇦🇺
+trojan://63779501-4c22-4a03-83d3-9f611b227e7b@103.11.214.214:443?security=tls&sni=c1mc.cdncisco4.co&allowInsecure=1&type=tcp#🔒smkn-AU-🇦🇺
 trojan://WG39087154@82.117.225.46:443?sni=humorous-llama.rooster465.autos&fp=chrome&type=tcp&path=/#🔒smkn-AU-🇦🇺
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@103.75.119.38:990#🌐smkn-AU-🇦🇺
-trojan://MiTiVPN@151.101.83.83:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2&security=none&type=ws#🌐smkn-AU-🇦🇺
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@103.169.142.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-AU-🇦🇺
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.136.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-AU-🇦🇺
+trojan://MiTiVPN@151.101.31.31:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2&security=none&type=ws#🌐smkn-AU-🇦🇺
