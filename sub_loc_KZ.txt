@@ -1,4 +1,8 @@
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@31.43.179.234:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#🔒smkn-KZ-🇰🇿
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@31.43.179.163:443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=vpn47.cc.cd#🔒smkn-KZ-🇰🇿
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.176.26.61:2087?encryption=none&security=tls&type=ws&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#🔒smkn-KZ-🇰🇿
-vless://d59cf172-f818-42dd-b3bb-086f34b27b38@37.151.92.38:14297?security=reality&encryption=none&pbk=hfsB_yoAK5udF1CEOMRoEAZNfWZkYX8W40cSHd2ozGo&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=3bfb35ef#🔒smkn-KZ-🇰🇿
+vless://401374e6-df77-41fb-f638-dad8184f175b@31.43.179.43:443/?type=grpc&encryption=none&security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2#🔒smkn-KZ-🇰🇿
+vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@194.87.138.159:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.max.ru&fp=chrome&pbk=Cfi8a4Pk4645E8ZNKIp14GW9DeNivoXYYBG2CHr6wm4&sid=45ba18f116ad1f81&type=tcp&headerType=none#🔒smkn-KZ-🇰🇿
+vless://70ef0e6e-0492-4132-a226-1689aff3e3eb@194.76.18.70:8080?security=none&type=httpupgrade&host=mahil1.hal-ma.info&path=/?ed%3D2087#🌐smkn-KZ-🇰🇿
+vless://d0f9437f-3c49-45c6-976b-ebea24158b39@194.76.18.58:2082?security=none&type=httpupgrade&host=finhztco.nipytee.info&path=%2F#🌐smkn-KZ-🇰🇿
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@185.176.26.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-KZ-🇰🇿
+ss://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#🌐smkn-KZ-🇰🇿
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@31.43.179.177:8880/?type=ws&encryption=none&host=ip.langmanshanxi.top&path=%2FTelegram%40WangCai2%2F%3Fed%3D2560#🌐smkn-KZ-🇰🇿
+vmess://eyJhZGQiOiAiMjE3Ljc2LjY0LjE5NSIsICJhaWQiOiAwLCAiaG9zdCI6ICJza3VvbmUuc2VydmVtaW5lY3JhZnQubmV0IiwgImlkIjogIjRhYmRmNThlLTA1MTYtNDY4ZC05NTcxLWZlMjVjYjQ4OTdlZiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUtaLVx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmZiIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byJ9

@@ -1,1 +1,4 @@
-ss://5098e189-3462-4ff7-8ddd-4aaecfd060ea@45.192.2.157:443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=&amp;pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&amp;security=reality&amp;sid=f34818a561dfd1fe&amp;sni=yandex.net&amp;type=tcp#🔒smkn-BR-🇧🇷
+vless://401374e6-df77-41fb-f638-dad8184f175b@45.194.53.43:443/?type=grpc&encryption=none&security=tls&sni=pqh44v2.hiddendom.shop&alpn=h2#🔒smkn-BR-🇧🇷
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@185.133.35.144:443?security=tls&sni=lx.ylks01.eu.org&type=ws&host=lx.ylks01.eu.org&path=%2Fblue#🔒smkn-BR-🇧🇷
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.194.53.238:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.jpmj.dev&path=%2F&security=tls&sni=sni.jpmj.dev&type=ws#🔒smkn-BR-🇧🇷
+trojan://MiTiVPN@151.101.251.251:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2&security=none&type=ws#🌐smkn-BR-🇧🇷
