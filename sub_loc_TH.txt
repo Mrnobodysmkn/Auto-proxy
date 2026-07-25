@@ -1,3 +1,1 @@
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@154.83.2.32:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒smkn-TH-🇹🇭
-ss://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.54:2096?encryption=none&amp;security=tls&amp;sni=vle.amclubsapp.dpdns.org&amp;type=ws&amp;host=vle.amclubsapp.dpdns.org#🔒smkn-TH-🇹🇭
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.164.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-TH-🇹🇭
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@154.83.2.64:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org#🔒smkn-TH-🇹🇭
