@@ -1,6 +1,4 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.120.18:443?allowInsecure=0&sni=lw.kpcloud.eu.org&type=ws&host=lw.kpcloud.eu.org&path=/?ed=2048security=tls#🔒smkn-PL-🇵🇱
-vless://93ba8914-7fbe-11ed-b274-e3ee5edfa72f@51.83.131.145:443?path=%2Fvless&security=tls&encryption=none&host=51.83.131.145&type=ws&sni=xljuni.xjvpn.net#🔒smkn-PL-🇵🇱
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.120.199:443?security=tls&sni=lk.ylks01.eu.org&type=ws&host=lk.ylks01.eu.org&path=%2Fblue#🔒smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.110.167:443#🔒smkn-PL-🇵🇱
-trojan://8r%253C%255B9%2527l6hAO%25238ZQi@193.42.36.84:443?allowInsecure=0&sni=Koma-YT.PAGeS.Dev#🔒smkn-PL-🇵🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@2.59.163.104:2222#🌐smkn-PL-🇵🇱
+vless://576993a0-3b23-4c65-8c6d-2165b098826b@144.31.1.91:443?allowInsecure=1&encryption=none&security=tls&sni=plcdn6.dramatorg.net&type=tcp#🔒smkn-PL-🇵🇱
+vless://ea057aa8-6c6f-44f4-d347-7a87e835c0dc@45.149.63.112:2053?encryption=none&security=tls&sni=us2.wxgqlfx.icu&type=ws&host=us2.wxgqlfx.icu&path=%2FTG%40wxgqlfx&fp=chrome&alpn=http%2F1.1#🔒smkn-PL-🇵🇱
+vless://2c5268a3-4d6b-43ec-8930-a5de3d3cbbb7@2.27.57.48:5443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Z-YjJMUiR-xIvm4rr0p6-CQjg8TzkvZkjG1PARUaJR0&security=reality&sid=aad2031b6b7d7440&sni=wikipedia.org&type=tcp#🔒smkn-PL-🇵🇱
+trojan://FC60532879@62.112.222.200:443?sni=helped-buck.rooster465.autos&fp=chrome&type=tcp&path=/#🔒smkn-PL-🇵🇱
