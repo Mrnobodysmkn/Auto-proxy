@@ -1,1 +1,2 @@
-trojan://Aimer@154.219.5.242:2053?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#🔒smkn-PE-🇵🇪
+trojan://Aimer@154.219.5.55:443?security=tls&sni=epgc.aimercc.dpdns.org&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epgc.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw#🔒smkn-PE-🇵🇪
+vless://abce53a6-1461-4b66-8009-1a8522774ced@154.219.5.181:443?security=tls&sni=gosht.asve.ir&type=grpc&serviceName=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&fp=chrome&alpn=http/1.1#🔒smkn-PE-🇵🇪

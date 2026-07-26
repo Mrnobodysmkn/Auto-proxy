@@ -1,8 +1,8 @@
-vless://1e8d112e-fed0-4f7c-91ec-df914ad49906@83.168.91.235:443?type=tcp&security=reality&sni=ads.x5.ru&fp=chrome&flow=xtls-rprx-vision&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=b76dcf9e1183fe1b#🔒smkn-PL-🇵🇱
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.15:2053/?type=grpc&serviceName=m3u8&security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#🔒smkn-PL-🇵🇱
-ss://a34b5e88-cf0d-4c01-8199-2d1002d3c787@95.85.229.113:443?security=reality&amp;encryption=none&amp;pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.wikihow.com#🔒smkn-PL-🇵🇱
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.133.0.103:2053?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#🔒smkn-PL-🇵🇱
-vless://8fef09bc-a48a-44ae-95cd-118e58ab796a@2.26.224.100:443/?type=grpc&encryption=none&flow=&serviceName=grpc-api-v2&sni=www.amd.com&fp=firefox&security=reality&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&sid=635a76c25a4b1820#🔒smkn-PL-🇵🇱
-vless://42e2dd45-2323-4929-9ab7-98f43591416e@82.38.65.88:443?encryption=none&security=tls&sni=yykir7al.ndaiwcu.workers.dev&fp=chrome&type=ws&host=yykir7al.ndaiwcu.workers.dev&path=/&max_early_data=2560&early_data_header_name=Sec-WebSocket-Protocol&packetEncoding=xudp#🔒smkn-PL-🇵🇱
-vless://b29e92ab-ec3d-4776-88ed-aa8c804aa961@144.31.0.194:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2#🔒smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.110.171:443#🔒smkn-PL-🇵🇱
+vless://ea057aa8-6c6f-44f4-d347-7a87e835c0dc@45.149.63.112:2053?encryption=none&security=tls&sni=us2.wxgqlfx.icu&type=ws&host=us2.wxgqlfx.icu&path=%2FTG%40wxgqlfx&fp=chrome&alpn=http%2F1.1#🔒smkn-PL-🇵🇱
+vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@144.31.1.42:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&security=reality&sid=feedbacc&sni=pl.fasti.win&type=tcp#🔒smkn-PL-🇵🇱
+vless://6f34a071-9a87-4665-b01a-4b5a5c95e552@31.76.87.210:8443?encryption=none&security=tls&sni=pl1.gobalance.live&fp=chrome&insecure=1&allowInsecure=1&type=xhttp&path=%2Fapi%2Fv1%2Fevents&mode=auto#🔒smkn-PL-🇵🇱
+vless://e08e7045-abd0-47aa-aa52-2820c4b869be@146.70.161.33:14304?security=reality&type=grpc&headerType=&serviceName=api&authority=&mode=gun&sni=www.apple.com&fp=qq&pbk=JXTa4KFDYIaOu9zwHosqTFvERbnxRW6qpo4dUJRIQkA&sid=503b0853f3b2460d#🔒smkn-PL-🇵🇱
+trojan://8r%3C%5B9%27l6hAO%238ZQi@213.134.31.130:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#🔒smkn-PL-🇵🇱
+trojan://WG39087154@62.112.222.121:443?sni=primary-leech.rooster465.autos&fp=chrome&type=tcp&path=/#🔒smkn-PL-🇵🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1U0tPbUpWSXg5RHpIdldNRzNiUGUw@77.83.246.74:443#🔒smkn-PL-🇵🇱
+vless://TELEGRAM-NUFiLTER@141.101.120.104:8880?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D8880&security=none&encryption=none&host=Gawazn.asve.iR.&type=httpupgrade#🌐smkn-PL-🇵🇱
