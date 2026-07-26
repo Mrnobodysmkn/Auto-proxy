@@ -1,2 +1,2 @@
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@154.83.2.64:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org#🔒smkn-TH-🇹🇭
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#🌐smkn-TH-🇹🇭
+trojan://a4408756-1d34-4df0-a6c9-e63226e0ab93@203.159.92.232:443/?type=tcp&security=tls&sni=data.amazon-azure.com&allowInsecure=1#🔒smkn-TH-🇹🇭
+vless://StableInternet@154.83.2.49:2053?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=StableInternet&allowInsecure=0&sni=grc.accuratenetworkchecker.ir#🔒smkn-TH-🇹🇭

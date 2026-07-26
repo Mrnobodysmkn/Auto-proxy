@@ -1,14 +1,2 @@
-vless://c685435e-2963-b072-6dce-ee095ee6b2f8@45.131.4.118:2053?encryption=none&security=tls&sni=infinityconfig.infinityconfig1.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=infinityconfig.infinityconfig1.workers.dev&path=%2Fsync#🔒smkn-IR-🇮🇷
-vless://dead34c4-6d5b-5c47-a995-cdbf23a239b5@185.143.235.100:443/?encryption=none&type=ws&path=%2Fp%2Ftr%2F2%2Fl%2Fw%2Fcc7f78c1cf232369%2F0%2BRFwVsdAiCjDgJN&host=vod.ufduiudud.site&security=tls&alpn=http%2F1.1&fp=chrome&sni=vod.ufduiudud.site#🔒smkn-IR-🇮🇷
-ss://05877950-c650-ecda-3a72-f94af411f4fd@45.131.4.118:443?path=%2Fsync&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=meow.infinityconfig.workers.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=meow.infinityconfig.workers.dev#🔒smkn-IR-🇮🇷
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.67:2053?path=%2F&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=dl1-tr-cdn.easy-upload.org#🔒smkn-IR-🇮🇷
-vless://2ba60505-4b97-43d3-8ebf-8e0218d651e5@45.131.4.145:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=&sni=nhtfjyytf.mic-mokhaderat-irancell-shatel-irancel.shop#🔒smkn-IR-🇮🇷
-vless://00ef126a-28a5-4d40-9395-2e9e636f74ce@45.131.4.118:8443?path=%2F&encryption=none&sni=get.gigimystore.ir&insecure=0&host=get.gigimystore.ir&extra=%7B%0A%20%20%22mode%22%20%3A%20%22auto%22%2C%0A%20%20%22xPaddingBytes%22%20%3A%20%22100-1000%22%0A%7D&allowInsecure=0&alpn=h2%2Chttp%2F1.1%2Ch3&mode=auto&fp=chrome&security=tls&type=xhttp#🔒smkn-IR-🇮🇷
-ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@185.188.105.10:443#🔒smkn-IR-🇮🇷
-ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@185.188.105.11:443#🔒smkn-IR-🇮🇷
-vless://93455e57-7599-4d63-baca-27f5e1762832@185.143.235.235:80?type=ws&encryption=none&host=c3.novin-devs.ir&security=none#🌐smkn-IR-🇮🇷
-vless://244f43cb-3e03-4f00-8a27-9422b7259e46@185.143.233.232:80?encryption=none&type=ws&path=%2F&host=api.angrydevs.ir#🌐smkn-IR-🇮🇷
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.161:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560&security=none&encryption=none&host=redfree8.pooriashop.ir&type=ws#🌐smkn-IR-🇮🇷
-vless://a3aff9fa-0e17-4b39-c80d-19fa9c038214@45.131.4.67:2086/?type=httpupgrade&encryption=none&host=cdn44.almass22.ir&path=%2FAar%2Cd-F%3Fed%3D2086#🌐smkn-IR-🇮🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0S1JMKzNWRXNtbzZ1S05EMXB3UTZtK2JhVmRPZ1MzR1oxMW8vd1dLRGJBPQ@185.84.158.4:51570#🌐smkn-IR-🇮🇷
-vless://de8f907c-53cc-40da-b9eb-87775b31258e@185.143.233.222:8080?security=none&allowInsecure=0&encryption=none&type=ws&host=free.tradepal.ir&path=%2F#🌐smkn-IR-🇮🇷
+vless://4580ab2d-c0ad-4295-894d-f29c78c45d69@188.121.100.147:443?security=none&encryption=none&headerType=http&type=tcp#🔒smkn-IR-🇮🇷
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6aUZ4bHRxc2NKVkxKZEh1blpYUENtYjRUb0hON0xoa29lWXdwUWNVL1Bibz0@193.151.128.97:443#🔒smkn-IR-🇮🇷

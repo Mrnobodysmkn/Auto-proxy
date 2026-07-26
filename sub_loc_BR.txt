@@ -1,3 +1,2 @@
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.12.41:443?security=tls&sni=mefa.ir&type=ws&host=mefa.ir&path=%2FH%3Fed%3D2560&fp=randomized&alpn=h2,http/1.1#🔒smkn-BR-🇧🇷
-vless://1d16c6e0-1bbe-435b-b661-90043fee999c@45.194.53.123:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=notls.lukongtou.eu.org&path=Telegram-WangCai2#🔒smkn-BR-🇧🇷
-trojan://MiTiVPN@151.101.251.251:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2&security=none&type=ws#🌐smkn-BR-🇧🇷
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.26:443/?type=ws&encryption=none&host=vc.ylka.dpdns.org#🔒smkn-BR-🇧🇷
+vmess://eyJhZGQiOiAiMTcyLjIzMy4xOS4xNDMiLCAiYWlkIjogMSwgImhvc3QiOiAiMTcyLjIzMy4xOS4xNDMiLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzY1x1ZGYxMHNta24tQlItXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3IiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIn0=
