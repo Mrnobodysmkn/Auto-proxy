@@ -1,9 +1,1 @@
-vless://3130fccb-e72e-468d-b2ce-0721bb3058c8@152.53.18.126:443?encryption=none&fp=chrome&pbk=HPZgMgE84lwWqVlbLyyGXRMHPG7BxS1TFkbNsWz2nk8&security=reality&sid=d46fa6&sni=www.apple.com&type=tcp#🔒smkn-AT-🇦🇹
-ss://1bfd045c-3c64-4f27-874f-8e0b9da23fc8@130.49.219.126:443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=&amp;pbk=fp_r7Tz3YdOZUY1wmo21U5xAoqyhHhb8l0q-py3JARo&amp;security=reality&amp;sid=f5e89824&amp;sni=sun6-22.userapi.com&amp;type=tcp#🔒smkn-AT-🇦🇹
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@212.183.88.81:443?security=tls&sni=ld.ylks01.eu.org&type=ws&host=ld.ylks01.eu.org&path=%2F%3Fed%3D2560#🔒smkn-AT-🇦🇹
-trojan://8r%3C%5B9%27l6hAO%238ZQi@46.102.156.144:2053/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-AT-🇦🇹
-ss://18167dd6-2c24-4f6b-a416-64bac693127a@104.143.0.254:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=fvpPs49YdpPvrAr7xyminj-wzGaRnB7CRVfYDalewkY&amp;fp=chrome&amp;type=grpc&amp;serviceName=ebl&amp;sni=optim.tildacdn.pub&amp;sid=db78dafb7cd886fb#🔒smkn-AT-🇦🇹
-vless://2ee2b77f-e4cd-4e5d-af22-f9d919eeadd5@130.49.219.126:8443?alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&security=tls&sni=at16.fastlanehosting.ru&type=tcp#🔒smkn-AT-🇦🇹
-vless://859cb825-0458-4af9-8f21-4ff142dc69a9@130.49.219.126:5443/?type=xhttp&encryption=none&flow=&host=at16.fastlanehosting.ru&path=%2Fmovies&mode=auto&sni=ivi.ru&fp=chrome&security=reality&pbk=xVWSScN9YLNPwJDaFhna5MvWruhT31pMEuOJdmJe0Eg&sid=7685dfed#🔒smkn-AT-🇦🇹
-vless://219ee52a-0e91-4f36-93a5-3e28a4830a7a@62.60.238.211:8443?security=reality&encryption=none&pbk=os2QbCQyqdqE4vr-vVWTQMBiqxFXEDSLhMncRy5RIwg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bunny.net&sid=f8d8d12585198cb5#🔒smkn-AT-🇦🇹
-trojan://MiTiVPN@199.232.17.242:80?host=www.f6r.ir&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=none&type=ws#🌐smkn-AT-🇦🇹
+vless://bcc094e4-1a85-8a25-f8e1-5b08b9af841c@152.53.46.27:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=stackoverflow.com&fp=firefox&pbk=LaGTRJ1CJnnYV7FnyqQnU28I0xFTPFKI8xmUFwig5ic&sid=c410508e9721512b&packetEncoding=xudp#🔒smkn-AT-🇦🇹
