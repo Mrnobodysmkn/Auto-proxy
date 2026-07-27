@@ -1,5 +1,11 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.43.179.238:443?allowInsecure=1&encryption=none&fp=chrome&host=sni.jpmj.dev&path=%2F&security=tls&sni=sni.jpmj.dev&type=ws#🔒smkn-KZ-🇰🇿
-vless://7612dd26-d0ce-4fe0-be7c-d093bb8645da@31.43.179.20:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=cf11.evan00.dpdns.org&path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=cf11.evan00.dpdns.org&type=ws#🔒smkn-KZ-🇰🇿
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.62:443?security=tls&sni=cp.ylks.xyz&type=ws&host=cp.ylks.xyz&path=%2Fblue#🔒smkn-KZ-🇰🇿
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.43.179.238:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&path=%2F&security=tls&sni=sni.jpmj.dev&type=ws#🔒smkn-KZ-🇰🇿
-ss://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?security=reality&amp;encryption=none&amp;pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=2001#🔒smkn-KZ-🇰🇿
+vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@194.87.138.159:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.max.ru&fp=chrome&pbk=Cfi8a4Pk4645E8ZNKIp14GW9DeNivoXYYBG2CHr6wm4&sid=45ba18f116ad1f81&type=tcp&headerType=none#🔒smkn-KZ-🇰🇿
+ss://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@31.43.179.42:443?sni=cfed.tgzdyz2.top&amp;type=ws&amp;host=cfed.tgzdyz2.top&amp;path=tg@zdyz2fp=chrome&amp;security=tls#🔒smkn-KZ-🇰🇿
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@185.176.26.128:443?security=tls&sni=b458aB02.caa-CHaneL-Worker-Page-FReE-jHUIhnUjhPHjkl-NihGKjN.PAGES.Dev&type=ws&path=%2F#🔒smkn-KZ-🇰🇿
+ss://e4e7b149-8bd8-4266-8cbb-0987604dbc87@31.43.179.131:443?encryption=none&amp;security=tls&amp;type=ws&amp;sni=toujiediansigema.5112233.xyz&amp;host=toujiediansigema.5112233.xyz&amp;path=tg%40juzibaipiao%e5%81%b7%e8%8a%82%e7%82%b9%e6%ad%bb%e5%90%97#🔒smkn-KZ-🇰🇿
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.26.102:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=tg@zdyz2#🔒smkn-KZ-🇰🇿
+vless://9d6104a5-fc6d-4fe6-95b7-80d8f699e09d@194.59.5.21:2087?encryption=none&security=tls&sni=ch-de.sdcards.ir&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=xhttp&host=ch-de.sdcards.ir&path=/?Telegram-WangCai2&mode=auto#🔒smkn-KZ-🇰🇿
+trojan://ttfang@31.43.179.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram&Host=ttfang.fange.me#🔒smkn-KZ-🇰🇿
+vless://555a68f2-381f-4632-836e-9c2e74192b32@185.176.26.252:80?security=none&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=2048&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&encryption=none#🌐smkn-KZ-🇰🇿
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@31.43.179.251:8880?allowInsecure=0&sni=cf.d3z.net&type=ws&host=cf.d3z.net&path=/Telegram#🌐smkn-KZ-🇰🇿
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@185.176.26.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#🌐smkn-KZ-🇰🇿
+vless://11c89ba7-b173-4372-9976-c9e8b97557aa@31.43.179.201:8080?path=%2Ftelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%2Ctelegram-EXPRESSVPN_420%3Fed%3D80&security=none&encryption=none&host=Kk78.4qwertyuiopasdfGhjklzxcvbnmmnbvccjzlkjhgfdsapoiuytre010751.Academigroup.iR.&type=ws#🌐smkn-KZ-🇰🇿
