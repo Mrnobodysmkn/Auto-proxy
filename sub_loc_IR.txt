@@ -1,6 +1,12 @@
-vless://e36a6452-2eab-4085-ac23-f55e56041659@185.137.27.165:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=dl-it.eth0.lat&type=ws&sni=dl-it.eth0.lat#🔒smkn-IR-🇮🇷
-vless://9b9d3913-74bb-4af2-b10d-a85656ca8a5a@185.143.235.202:443?type=ws&security=tls&sni=play.boxfilm.store&host=play.boxfilm.store&path=%2Fn%2Fwo%2Fvlpolayer&encryption=none#🔒smkn-IR-🇮🇷
-vless://98aec3c3-d957-4363-9933-018e533c7c06@45.131.4.176:443?allowInsecure=1&encryption=none&host=uk.dlaparat.ir&path=%2F&security=tls&sni=uk.dlaparat.ir&type=ws#🔒smkn-IR-🇮🇷
-vless://9b9d3913-74bb-4af2-b10d-a85656ca8a5a@185.143.235.202:80?type=ws&security=none&host=p#🌐smkn-IR-🇮🇷
+vless://c685435e-2963-b072-6dce-ee095ee6b2f8@45.131.4.118:2053?encryption=none&security=tls&sni=infinityconfig.infinityconfig1.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=infinityconfig.infinityconfig1.workers.dev&path=%2Fsync#🔒smkn-IR-🇮🇷
+vless://7bfea81d-c865-4423-8d71-5c4fe77a8d2d@81.12.35.12:443?encryption=none&type=tcp&security=tls&headerType=none&sni=afr-data-15.myket.ir&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1&flow=xtls-rprx-vision#🔒smkn-IR-🇮🇷
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.125:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org#🔒smkn-IR-🇮🇷
+ss://05877950-c650-ecda-3a72-f94af411f4fd@45.131.4.118:443?path=%2Fsync&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=meow.infinityconfig.workers.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=meow.infinityconfig.workers.dev#🔒smkn-IR-🇮🇷
+trojan://diCyRX1d@193.151.134.182:443?flow=xtls-rprx-direct&security=xtls&sni=iprostable.enterprises&type=tcp&headerType=none#🔒smkn-IR-🇮🇷
+vless://00ef126a-28a5-4d40-9395-2e9e636f74ce@45.131.4.118:8443?path=%2F&encryption=none&sni=get.gigimystore.ir&insecure=0&host=get.gigimystore.ir&extra=%7B%0A%20%20%22mode%22%20%3A%20%22auto%22%2C%0A%20%20%22xPaddingBytes%22%20%3A%20%22100-1000%22%0A%7D&allowInsecure=0&alpn=h2%2Chttp%2F1.1%2Ch3&mode=auto&fp=chrome&security=tls&type=xhttp#🔒smkn-IR-🇮🇷
+vless://94d1b793-0670-405a-af31-d1270b582427@185.206.95.101:2096?encryption=none&security=none&type=ws&path=%2F#🌐smkn-IR-🇮🇷
+vless://2130291f-50e9-43d4-d415-c85b34134d4f@193.242.125.18:80?security=none&encryption=none&headerType=none&type=tcp#🌐smkn-IR-🇮🇷
+vless://dbbb5ffe-b5ce-4ce5-b731-6377dc90712d@185.143.232.122:2052?path=%2Fnews&security=none&encryption=none&host=cdn-gr.pasargardnet.ir&type=ws#🌐smkn-IR-🇮🇷
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.128:80?path=Telegram%40WangCai2%2F%3Fed&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#🌐smkn-IR-🇮🇷
-vless://00190fe1-5d57-4735-badd-caa854c8caa6@188.213.198.238:7080?security=none&encryption=none&headerType=none&type=tcp#🌐smkn-IR-🇮🇷
+vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?encryption=none&security=none&type=tcp&headerType=none#🌐smkn-IR-🇮🇷
+vless://8a68ccbc-4df4-4f73-922b-08e77aa8249d@185.143.232.122:8080?type=ws&encryption=none&path=/news&host=cdn-2.connect37.org&security=none#🌐smkn-IR-🇮🇷
