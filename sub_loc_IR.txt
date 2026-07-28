@@ -1,7 +1,2 @@
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.249:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org#🔒smkn-IR-🇮🇷
-trojan://ttfang@45.131.4.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram&Host=ttfang.fange.me#🔒smkn-IR-🇮🇷
-ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@185.188.104.11:443#🔒smkn-IR-🇮🇷
-vless://e358c5c6-0b2f-e6ce-5d5f-c8c11a194a92@94.182.134.52:443?security=none&type=tcp&host=divarcdn.com&path=/&headerType=http#🔒smkn-IR-🇮🇷
-ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@185.188.105.11:443#🔒smkn-IR-🇮🇷
-ss://YWVzLTI1Ni1nY206TmpCallUZ3pObUV3TmpjMk1EUXlOREU1T0RZME1UWmpaRGxrWldKaQ@95.38.166.233:11104#🌐smkn-IR-🇮🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSb0drdk1tUXVvOHZKais5MnVGMmNMUFc5Zm1ORXZsNmFsTDBNeUxnZUkwPQ==@91.186.193.46:56985?type=tcp#🌐smkn-IR-🇮🇷
+vless://157e4763-6153-4798-9b25-c53cbc1b5b01@185.143.232.5:8880?encryption=none&security=none&type=ws&headerType=none&path=/&host=res.cho4.ir#🌐smkn-IR-🇮🇷
+vless://157e4763-6153-4798-9b25-c53cbc1b5b01@185.143.232.5:8080?encryption=none&security=none&type=ws&headerType=none&path=/&host=Re2.cho4.ir#🌐smkn-IR-🇮🇷
