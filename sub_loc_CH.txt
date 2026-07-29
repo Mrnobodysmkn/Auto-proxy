@@ -1,3 +1,5 @@
-vless://2231ffa1-3d98-4849-998a-0aed095f6718@195.15.253.247:443?security=reality&encryption=none&pbk=xfFtXn8eIYgILiGMvwYorrrHMiH-KBDPIa8uwEDWkik&headerType=none&fp=chrome&spx=%2F6F1VS1poMaNhMSa&type=tcp&sni=store.steampowered.com&sid=723f912a60ed8b#🔒smkn-CH-🇨🇭
-vless://571bd439-e05a-4273-9f9f-d1e7de8f8d41@213.176.18.183:443?security=reality&encryption=none&pbk=mChFHtaRmeuO2aDuDPqZvBFaCz6f34sVJIKuJcAR130&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=free2.tunnely.ru&sid=fc45029be9d08fdc#🔒smkn-CH-🇨🇭
-vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@193.108.52.82:8082?security=reality&sni=id.vk.com&type=grpc&serviceName=vless-grpc-reality&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒smkn-CH-🇨🇭
+vless://19d597c4-b031-4d44-8a37-44fbe6620a19@195.15.243.23:443?mode=gun&security=reality&encryption=none&pbk=QQRq8pNyb-7woX7mXDuhB2lHiIeUPN7fCruufvoYil8&fp=chrome&spx=/&type=grpc&sni=www.speedtest.net&sid=c43431c287c0#🔒smkn-CH-🇨🇭
+vless://02b1557c-2e83-4405-ae9a-c7e1b6f532c8@152.233.31.72:16923?encryption=none&type=grpc&serviceName=neurex&security=reality&sni=api-maps.yandex.ru&fp=firefox&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#🔒smkn-CH-🇨🇭
+vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@83.228.197.195:8082?security=reality&sni=id.vk.com&type=grpc&serviceName=vless-grpc-reality&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒smkn-CH-🇨🇭
+vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@83.228.197.106:8082?security=reality&sni=id.vk.com&type=grpc&serviceName=vless-grpc-reality&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒smkn-CH-🇨🇭
+ss://YWVzLTEyOC1nY206bHZ4dWoxMXg4c2ZndDlndDZtamY=@86.106.84.196:13263#🌐smkn-CH-🇨🇭

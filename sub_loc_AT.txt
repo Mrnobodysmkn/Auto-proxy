@@ -1,3 +1,4 @@
-vless://8b04b31b-6435-472e-a598-90705c575afc@152.53.44.105:443?flow=xtls-rprx-vision&fp=chrome&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&security=reality&sid=8718c58d3d51db59&sni=au3.greenzone12.com#🔒smkn-AT-🇦🇹
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@212.183.88.158:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sni.111000.de5.net&fp=chrome&type=ws&sni=sni.111000.de5.net#🔒smkn-AT-🇦🇹
-vless://f9e651bc-690f-4b29-9871-43ac06ffcde0@91.227.33.114:8880?path=%2Fbatman&security=none&encryption=none&type=ws#🌐smkn-AT-🇦🇹
+vless://1bfd045c-3c64-4f27-874f-8e0b9da23fc8@130.49.219.126:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&fp=chrome&security=reality&pbk=fp_r7Tz3YdOZUY1wmo21U5xAoqyhHhb8l0q-py3JARo&sid=f5e89824#🔒smkn-AT-🇦🇹
+vless://bcc094e4-1a85-8a25-f8e1-5b08b9af841c@152.53.46.27:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=stackoverflow.com&fp=firefox&pbk=LaGTRJ1CJnnYV7FnyqQnU28I0xFTPFKI8xmUFwig5ic&sid=c410508e9721512b&packetEncoding=xudp#🔒smkn-AT-🇦🇹
+trojan://humanity@212.183.88.136:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#🔒smkn-AT-🇦🇹
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.146.222:1080#🌐smkn-AT-🇦🇹
