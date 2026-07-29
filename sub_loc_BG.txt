@@ -1,8 +1,7 @@
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.142.120.15:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org#🔒smkn-BG-🇧🇬
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.142.120.243:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#🔒smkn-BG-🇧🇬
-ss://0b9bcbc1-b289-4a64-86fa-a5b731b65384@93.152.205.216:444?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=BIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;pbk=X-YL5VNtlMNIaBrwaHt3hJCeF_gMT9gPRDDlK1Qg7Tc&amp;fp=chrome&amp;type=grpc&amp;serviceName=web.max.ru&amp;sni=web.max.ru&amp;sid=8321461729abcdef#🔒smkn-BG-🇧🇬
-trojan://ttfang@45.142.120.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🔒smkn-BG-🇧🇬
+vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@185.82.219.152:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eu-central.cendora.ru&fp=qq&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083&type=tcp&headerType=none#🔒smkn-BG-🇧🇬
+vless://fc1b3bda-b226-452a-8c5c-b0e36a1f8f88@185.82.219.152:13443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=auto.cendora.ru&fp=qq&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&type=tcp&headerType=none#🔒smkn-BG-🇧🇬
+vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@147.78.140.159:2096/?type=ws&encryption=none&host=ScGiYaSk.rOcKsToNeY.InFo&path=%2F&security=tls&sni=ScGiYaSk.rOcKsToNeY.InFo&fp=chrome#🔒smkn-BG-🇧🇬
+vless://f75566a5-4744-4806-ac2e-ccaefe1b1080@185.246.131.170:2044?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🌐smkn-BG-🇧🇬
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@146.75.0.11:80?type=ws&host=Fastapi.Org&path=%2F#🌐smkn-BG-🇧🇬
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.142.120.156:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=kjgx.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-BG-🇧🇬
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.142.120.50:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=Telegram%40ShadowProxy66%2F%3Fed%3D2560#🌐smkn-BG-🇧🇬
-vmess://eyJhZGQiOiAiMTQ3Ljc4LjE0MC4yMzEiLCAiYWlkIjogMCwgImhvc3QiOiAibGxvdy1kaXNrLTRiN2IuYmlnYXBheDQ4MS53b3JrZXJzLmRldiIsICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL25pbmEuYm9uZC9saW5rdndzIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUJHLVx1ZDgzY1x1ZGRlN1x1ZDgzY1x1ZGRlYyIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byJ9
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@38.244.132.14:5499#🌐smkn-BG-🇧🇬
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@45.142.120.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=%2F#🌐smkn-BG-🇧🇬
