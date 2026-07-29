@@ -1,5 +1,2 @@
-trojan://8r%3C%5B9%27l6hAO%238ZQi@91.108.189.152:2053/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-LV-🇱🇻
-trojan://8r%3C%5B9%27l6hAO%238ZQi@188.215.31.110:2053/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-LV-🇱🇻
-trojan://8r%3C%5B9%27l6hAO%238ZQi@217.145.79.119:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-LV-🇱🇻
-vless://4b8d8d7f-a8b4-4e44-80a9-6f13c3149b52@45.130.214.192:53231?security=reality&sni=yahoo.com&allowInsecure=1&fp=chrome&pbk=3mRweaWR6pK4HsbEtu874rNG9qBgdOMmSsKE4RkWSmk&sid=4ffbd0f3117c6f&type=tcp&packetEncoding=xudp&encryption=none#🔒smkn-LV-🇱🇻
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.196.205:2090?security=&alpn=http%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🌐smkn-LV-🇱🇻
+trojan://8r%3C%5B9%27l6hAO%238ZQi@5.178.96.130:2053/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-LV-🇱🇻
+vless://09bbcf46-3896-4385-8bb2-b44284efb2f2@31.57.107.238:2090?encryption=none&host=play.google.com&headerType=none&type=tcp#🌐smkn-LV-🇱🇻
