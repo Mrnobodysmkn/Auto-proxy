@@ -1,4 +1,8 @@
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@31.43.179.234:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#🔒smkn-KZ-🇰🇿
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.26.216:443?path=tg@VPNine1&security=tls&encryption=none&type=ws&sni=cfed.tgzdyz2.top#🔒smkn-KZ-🇰🇿
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@194.76.18.129:443/?type=tcp&security=tls&sni=icecream.955850.xyz#🔒smkn-KZ-🇰🇿
-ss://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#🌐smkn-KZ-🇰🇿
+vless://401374e6-df77-41fb-f638-dad8184f175b@31.43.179.38:443?security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2&type=grpc&encryption=none#🔒smkn-KZ-🇰🇿
+trojan://blue2024@185.176.26.193:443/?type=tcp&security=tls&sni=b.promote.icu#🔒smkn-KZ-🇰🇿
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.176.26.61:2087?encryption=none&security=tls&type=ws&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#🔒smkn-KZ-🇰🇿
+trojan://vpn@45.82.14.144:2025?sni=dns.google.com&type=ws#🌐smkn-KZ-🇰🇿
+vless://19be7308-1f67-4f47-a09a-48543a741f12@194.76.18.109:2082/?type=httpupgrade&encryption=none&host=Join-bede-CONFIGT.wordperessweb.ir&path=%2FChannel-CONFIGT%3Fed%3D2082#🌐smkn-KZ-🇰🇿
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@31.43.179.177:8880/?type=ws&encryption=none&host=ip.langmanshanxi.top&path=%2FTelegram%40WangCai2%2F%3Fed%3D2560#🌐smkn-KZ-🇰🇿
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@31.43.179.29:8880/?type=ws&encryption=none&host=hk.laoyoutiao.link&path=%2FTelegramU0001F1E8U0001F1F3#🌐smkn-KZ-🇰🇿
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@31.43.179.188:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-KZ-🇰🇿
