@@ -1,5 +1,10 @@
-vless://35a23d16-4117-42e7-8489-a1cedd670374@31.76.37.2:443?encryption=none&fp=chrome&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&security=reality&sni=pro-it.emrata.top&type=tcp#🔒smkn-LV-🇱🇻
+vless://13a894b0-e414-5459-a0fa-9309209c386b@185.113.139.103:443/?type=ws&encryption=none&host=185.113.139.103&path=%2Fvless&security=tls&sni=185.113.139.103&fp=chrome#🔒smkn-LV-🇱🇻
+vless://742e841d-140d-4795-9f16-3cf119129fec@185.145.245.227:443?encryption=none&fp=firefox&pbk=epKxGHvul2A8tNMFsEDFN2P71B-WbEEwbqbPLyNlYFg&security=reality&serviceName=web-grpc&sid=e549af0908&sni=dzen.ru&type=grpc#🔒smkn-LV-🇱🇻
+trojan://8r%3C%5B9%27l6hAO%238ZQi@188.215.31.36:2053/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-LV-🇱🇻
+vless://e5bd3d75-06b3-490e-9651-930b1dc29cdb@45.145.163.115:39771/?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=GMnXK7wz7qTo_IFmPy--pQcODPhYJG_CLaY2Sh4fTCI&sid=33f2#🔒smkn-LV-🇱🇻
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.107.41:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-LV-🇱🇻
+vless://Telegram:@Free_VPN_CH@109.248.163.226:8443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#🔒smkn-LV-🇱🇻
 vless://7e5964d036b843ff885b86c4d3bfd466@85.159.228.250:25703?encryption=none&security=none&type=tcp&headerType=none#🌐smkn-LV-🇱🇻
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@46.8.237.98:2090?security=none&encryption=none&headerType=none&type=tcp#🌐smkn-LV-🇱🇻
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@195.123.209.159:1080#🌐smkn-LV-🇱🇻
+vless://6bc19aa1-d94b-488c-9b25-47214d371851@213.232.204.196:200?security=none&type=tcp&headerType=http&path=/&host=play.google.com&encryption=none#🌐smkn-LV-🇱🇻
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@213.232.204.196:2090?alpn=http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🌐smkn-LV-🇱🇻
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.57.107.38:2090?security=&alpn=http%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#🌐smkn-LV-🇱🇻
