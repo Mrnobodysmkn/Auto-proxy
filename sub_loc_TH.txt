@@ -1,5 +1,4 @@
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@154.83.2.237:2053?path=%2F&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=dl1-uk-cdn.easy-upload.org#🔒smkn-TH-🇹🇭
-vless://e4f229c9-bd67-45d4-873b-b85a43a2be54@165.154.247.187:2053?encryption=none&security=reality&sni=www.amazon.com&fp=chrome&pbk=TdKxVjGKYJt4GU5cEXvsOplgYwji6ac7ryCUBBwr-kw&sid=e3b9f430320df1&spx=%2F926d66b01e29824&type=tcp&headerType=none#🔒smkn-TH-🇹🇭
-vless://fe962226-fe1c-4391-a5ba-7b7c62adda19@154.83.2.200:443?encryption=none&security=tls&sni=am-tunnel-6fs.pages.dev&type=ws&host=am-tunnel-6fs.pages.dev&path=%2F#🔒smkn-TH-🇹🇭
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@119.59.98.58:990#🌐smkn-TH-🇹🇭
+trojan://amclubs@154.83.2.61:8443/?type=ws&path=%2F%3Fed%3D2560&security=tls&sni=tran.amclubstest.nyc.mn#🔒smkn-TH-🇹🇭
+ss://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.54:2096?encryption=none&amp;security=tls&amp;sni=vle.amclubsapp.dpdns.org&amp;type=ws&amp;host=vle.amclubsapp.dpdns.org#🔒smkn-TH-🇹🇭
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@154.83.2.188:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-TH-🇹🇭
+vless://9abf5e0c-e98a-44a3-bd0b-1a6dd065eb0f@157.85.96.11:8443/?type=tcp&encryption=none&flow=#🌐smkn-TH-🇹🇭
