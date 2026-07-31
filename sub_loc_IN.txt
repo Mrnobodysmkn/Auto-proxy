@@ -1,2 +1,2 @@
-vless://6564b639-8857-4fec-a45b-ada20d4bd315@139.59.75.181:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=139.59.75.181&encryption=none#🔒smkn-IN-🇮🇳
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.104.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-IN-🇮🇳
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@108.165.152.30:8880?security=none&type=ws&path=/&host=vms.lifetime61.workers.dev&packetEncoding=xudp&encryption=none#🌐smkn-IN-🇮🇳
+vless://8820e16b-fbc2-49d3-90e4-eeeb8301c83c@151.101.158.71:80?security=none&type=ws&host=anycast.leslie.ch&path=%2F%3Fed%3D2560#🌐smkn-IN-🇮🇳
