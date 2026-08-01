@@ -1,13 +1,5 @@
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.51:2053?path=%2F&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=dl1-uk-cdn.easy-upload.org#🔒smkn-IR-🇮🇷
-vless://f298ea36-c97f-4eb9-bb40-5d7a1ebb21b8@194.146.69.85:2081?security=reality&encryption=none&pbk=OncWhxWwzrKOFH21JT9WxcenacQuc7ZmuQy_rZFJ8xg&headerType=none&fp=chrome&spx=/&type=tcp&sni=login.yahoo.com&sid=c6e19c434dc87df7#🔒smkn-IR-🇮🇷
-vless://cd7365e1-5397-411c-9979-fc81d3a5ccbf@78.157.53.161:80?mode=auto&path=/?ed=2560/v2ray&security=tls&alpn=h2,http/1.1&encryption=none&extra={"xPaddingBytes":"100-1000"}&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=g2.ostorehstore.ir#🔒smkn-IR-🇮🇷
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.4.173:8443?encryption=none&security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&alpn=h3%2Ch2&fp=chrome&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=%2F#🔒smkn-IR-🇮🇷
-ss://2a54636c-20ab-42cd-b725-f0da347c50e2@94.101.176.12:443?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#🔒smkn-IR-🇮🇷
-vless://71618681-e249-4da8-89d2-c659d979b6f2@45.89.223.219:443?security=none&encryption=mlkem768x25519plus.xorpub.0rtt.cq6hRK_ArflOb0vsw1pepsRro3fy2TixB9wx8P-eGxQ&headerType=none&type=tcp#🔒smkn-IR-🇮🇷
-ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@185.188.105.11:443#🔒smkn-IR-🇮🇷
+trojan://ttfang@45.131.4.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🔒smkn-IR-🇮🇷
+vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?encryption=none&security=none&type=tcp&headerType=none#🌐smkn-IR-🇮🇷
 vless://c5293efa-28f8-4a0f-8f34-541078970cee@45.131.4.33:80?path=%2F&security=none&encryption=none&host=gozargah.validbv7996.ir&type=ws#🌐smkn-IR-🇮🇷
-vless://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.234.238:2086?encryption=none&security=none&type=ws&host=parsi.parsi.sbs&path=/#🌐smkn-IR-🇮🇷
-vless://8fc836e4-f72f-40d7-8a55-8677324a2079@185.143.234.122:80/?type=ws&encryption=none&flow=&host=S4.koremusic.ir&path=%2F#🌐smkn-IR-🇮🇷
-trojan://humanity@2.144.21.112:40443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#🌐smkn-IR-🇮🇷
-vless://e3c0b438-a4e7-4a38-8316-7512f6044eb3@78.109.198.25:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&type=tcp#🌐smkn-IR-🇮🇷
+ss://YWVzLTI1Ni1nY206TmpSbFl6a3lPRFkyWWprNE9UQXpOREUyT1daa01qRXhPR0pqWWpVMg@95.38.186.235:9147?prefix=%16%03%01%00%C2%A8%01%01#🌐smkn-IR-🇮🇷
 vmess://eyJhZGQiOiAiMTg1LjE0My4yMzMuMTIyIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiY2xpZW50Lmt4c29mdGRsLmNsaWNrIiwgImlkIjogIjk2OGU1YjJiLTBjMWEtNGRmNS1lZjZhLTg1OTQ2NmE4ZGI0YiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbG9nIiwgInBvcnQiOiAiODg4MCIsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUlSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIn0=
