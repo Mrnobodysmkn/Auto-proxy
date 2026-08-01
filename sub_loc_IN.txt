@@ -1,10 +1,9 @@
-trojan://Aimer@108.165.152.78:2083/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org#🔒smkn-IN-🇮🇳
-vless://9c9f29d5-cf0d-49be-97fd-643e866752da@194.61.31.126:2053?type=tcp&security=reality&encryption=none&fp=chrome&pbk=f5Z_ywk2z0Yuj7ksyjawYC36qgxQngD8yGXEIPFNVGM&sid=30ed89c317118330&sni=www.apple.com#🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.104:2053/?type=tcp&security=tls&sni=epccs.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
 vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@152.67.190.105:443?security=tls&type=ws&path=/danfeng&host=snippet.fgfw.ye.gs&sni=snippet.fgfw.ye.gs&fp=random#🔒smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.36:2096/?type=tcp&security=tls&sni=acepo.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.239:8443/?type=tcp&security=tls&sni=epccd.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.71:443/?type=tcp&security=tls&sni=epcch.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.65:8443/?type=tcp&security=tls&sni=ngepy.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
 trojan://4db91b7d-5cc8-4943-8cac-7af8d45ea2d5@72.60.204.88:24407?sni=v1in2.stableq.top&type=tcp&fp=chrome#🌐smkn-IN-🇮🇳
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.208.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-IN-🇮🇳
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.156.11:80?type=ws&host=Fastapi.Org&path=%2F#🌐smkn-IN-🇮🇳
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.104.11:80?type=ws&host=Fastapi.Org&path=%2F#🌐smkn-IN-🇮🇳
 trojan://4db91b7d-5cc8-4943-8cac-7af8d45ea2d5@72.60.204.88:24408?sni=v1in2.stableq.top&type=tcp&fp=chrome#🌐smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.143:2087?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#🌐smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.40:2096?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#🌐smkn-IN-🇮🇳
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.104.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-IN-🇮🇳
