@@ -1,8 +1,7 @@
-trojan://NISHIKUITAN111@31.43.179.32:443/?type=tcp&security=tls&allowInsecure=1#🔒smkn-KZ-🇰🇿
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@31.43.179.34:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#🔒smkn-KZ-🇰🇿
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@194.76.18.129:443/?type=tcp&security=tls&sni=icecream.955850.xyz#🔒smkn-KZ-🇰🇿
+vless://c46e2605-be24-4555-b7db-0fc6773ad004@91.217.10.163:443?security=reality&type=tcp&sni=yahoo.com&fp=firefox&flow=xtls-rprx-vision&pbk=CC8vVe5trg8COtHkcR-cC3rl7hJh-Tr0RI5KmzzBNWo&encryption=none#🔒smkn-KZ-🇰🇿
 vless://158d03db-e5d7-4540-a31c-b2daa7aa4964@38.180.39.171:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=web.max.ru&security=reality&pbk=7ReQIe2kMtP4rCrptgH5glkOM-JGcSAPzHNxOED-Z0s&sid=247fd6dab1a34a48#🔒smkn-KZ-🇰🇿
-vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@194.87.138.159:443?security=reality&flow=xtls-rprx-vision&sni=web.max.ru&type=tcp&fp=qq&pbk=Cfi8a4Pk4645E8ZNKIp14GW9DeNivoXYYBG2CHr6wm4&sid=45ba18f116ad1f81#🔒smkn-KZ-🇰🇿
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@194.76.18.130:443?encryption=none&security=tls&sni=ap.ylks.xyz&type=ws&host=ap.ylks.xyz&path=%2Fblue#🔒smkn-KZ-🇰🇿
-vless://15355fa6-97da-50ee-8194-3950e3b917a5@170.168.101.188:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&sni=www.google.com&pbk=nbqjqTP64c9derysLf962AQvLBrTSFQ833YtllsVHCg&sid=a875a9a7#🔒smkn-KZ-🇰🇿
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@194.76.18.83:443/?type=ws&encryption=none&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=in.youlingkais.filegear-sg.me&packetEncoding=xudp#🔒smkn-KZ-🇰🇿
+vless://8ef19221-6d5e-4bce-baa1-7c043eae3309@176.12.73.168:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=stats.vk-portal.net&pbk=6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do&sid=3c6fc84d#🔒smkn-KZ-🇰🇿
+vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065/?type=tcp&channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&sid=fa#🔒smkn-KZ-🇰🇿
 vless://19be7308-1f67-4f47-a09a-48543a741f12@194.76.18.109:2082/?type=httpupgrade&encryption=none&host=Join-bede-CONFIGT.wordperessweb.ir&path=%2FChannel-CONFIGT%3Fed%3D2082#🌐smkn-KZ-🇰🇿
+vmess://eyJhZGQiOiAiMjE3Ljc2LjY0LjE5NSIsICJhaWQiOiAwLCAiaG9zdCI6ICJza3VvbmUuc2VydmVtaW5lY3JhZnQubmV0IiwgImlkIjogIjRhYmRmNThlLTA1MTYtNDY4ZC05NTcxLWZlMjVjYjQ4OTdlZiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUtaLVx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmZiIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byJ9
