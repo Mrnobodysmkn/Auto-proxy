@@ -1,8 +1,6 @@
-trojan://bpb-trojan@195.85.23.232:443/?type=tcp&security=tls&sni=bpb.my79801.com#🔒smkn-CZ-🇨🇿
-vless://a77cedab-f429-40bb-b6d4-fd9dd681e675@103.119.18.192:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OrLSHSvLuAgKZqxfnPszRZdZvYVTPNozRP6-NX3JGDI&security=reality&sid=5c83ae5368d1f1b5&sni=amd.com&type=tcp#🔒smkn-CZ-🇨🇿
-vless://87337a16-94c4-4288-94b5-c2108874ed49@46.8.113.253:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=simracing.su&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#🔒smkn-CZ-🇨🇿
 vless://7b46f7aa-f682-429d-98eb-d5513d843d8d@46.8.113.235:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=sevastopol.su&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#🔒smkn-CZ-🇨🇿
-vless://cc6b985d-0362-4129-8763-38564174fb3e@14.102.228.209:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=iryiccyne.wwtraveler.com&alpn=http%2F1.1%2Ch2&fp=chrome#🔒smkn-CZ-🇨🇿
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@143.244.58.102:443#🔒smkn-CZ-🇨🇿
-vless://85a15603-7fb2-4c53-967c-4e3c63523a41@14.102.229.179:80/?type=ws&encryption=none&host=Www.speedtest.net.sPeedtest2.sbs.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048#🌐smkn-CZ-🇨🇿
-vless://b49d8a13-12f6-4613-bb0d-3e2f6244f29c@14.102.228.75:80/?type=ws&encryption=none&host=ov-canada1.09vpn.com&path=%2Fvless%2F#🌐smkn-CZ-🇨🇿
+vless://0adfbdbb-2c50-42ac-b3a0-d87f5277b1ba@67.159.18.30:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HdM7NNWeW6queFno-hF8CET0i-ykrQJ9X4vqzGhaQ3E&security=reality&sid=74c69f639fff6340&sni=expats.cz&type=tcp#🔒smkn-CZ-🇨🇿
+vless://cc6b985d-0362-4129-8763-38564174fb3e@14.102.228.172:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=iryiccyne.wwtraveler.com&alpn=http%2F1.1%2Ch2&fp=chrome#🔒smkn-CZ-🇨🇿
+trojan://ttfang@14.102.229.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🔒smkn-CZ-🇨🇿
+vless://3ffe2ab7-5657-466f-ad71-75aa1717f51b@194.87.52.81:53844?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=24IQtal3G9sIlVqj2_fO-No3Oo6Sxofan80ivMLW_UY&security=reality&sid=893dd72a6ccb9fd0&sni=apple.com&type=tcp#🔒smkn-CZ-🇨🇿
+vless://334a7b29-8289-4d92-978b-73597062c9cb@2.26.160.121:55256?security=reality&encryption=none&pbk=fskGEVlsRytBg5WBgJtJb7NWR1LUzf9sFIz5-m1u9DY&headerType=none&fp=chrome&spx=%2FWcODgTOjmXYZ32v&type=tcp&sni=www.amd.com&sid=c689fb969b#🔒smkn-CZ-🇨🇿
