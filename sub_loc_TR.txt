@@ -1,9 +1,5 @@
-vless://dd280dbb-75ec-4631-9979-d65237e27185@5.175.136.134:2053/?type=xhttp&encryption=none&flow=&path=%2F&mode=auto&sni=www.yahoo.com&fp=chrome&security=reality&pbk=AsmltIw-2fVcbpcbckmIJZrWiVyDW_Kid8VIvHkcmC4&sid=81053c0bc6adc9#🔒smkn-TR-🇹🇷
-trojan://bpb-trojan@86.38.214.132:443/?type=ws&host=bpb.my79801.com&path=%2Ftr%3Fed&security=tls&sni=bpb.my79801.com#🔒smkn-TR-🇹🇷
-vless://e996abc7-cff3-4d9f-a9dc-0d717048a345@82.26.198.131:443?security=reality&flow=xtls-rprx-vision&sni=android.com&encryption=mlkem768x25519plus.native.0rtt.W3jtn31noFtT345Wnc8qHneslfsv5jHyqQ9Vpx-TBTw&type=tcp&fp=chrome&pbk=wn5rNzAvTsOpmc6hHkw_woqwYGkFml8Uv2Klx9iydXI&sid=da7004e7e7a2de#🔒smkn-TR-🇹🇷
-vless://e1bc0b88-6fa2-4dd7-a936-d5fff3ebfe6c@64.49.15.67:8080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=qq&pbk=VhsxX3w5SvS-XTnHi_xg85bq9aoIU79NrmEg9Aig52w&sid=79472fefa9c9f227&type=tcp&headerType=none#🔒smkn-TR-🇹🇷
-vless://1f29762d-3f23-4207-9e39-f774de5d49ba@185.39.204.155:8443?encryption=none&type=grpc&serviceName=grpc&packetEncoding=xudp#🌐smkn-TR-🇹🇷
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@86.38.214.177:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-TR-🇹🇷
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@86.38.214.20:8880/?type=ws&encryption=none&host=us.laoyoutiao.link&path=%2FTelegramU0001F1E8U0001F1F3%20%40MxlShare%20%40WangCai2%20#🌐smkn-TR-🇹🇷
-ss://ed29a0e3-5a32-4a7f-8863-277e9f653629@193.31.117.25:8080?security=&amp;type=grpc&amp;encryption=none#🌐smkn-TR-🇹🇷
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#🌐smkn-TR-🇹🇷
+vless://aea30a00-4cbb-4acc-b1c2-cb53a7522d09@45.144.214.53:443?security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru%3A443&type=tcp&host=v2rayNplus--v2rayNplus--v2rayNplus&fp=qq&pbk=dQ1UuZtHmkxbOa0CuhzD8xx5l2oX3PTYvEWWE7C2Djk#🔒smkn-TR-🇹🇷
+vless://fb3d8829-d22b-475c-b12d-b46eb24e95fb@185.181.208.67:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=play.google.com&fp=chrome&pbk=KK2KcDUl_hs5Bmhm13I2P65iipwjd1B9snBu32DVCwY&sid=85875ddb6cdfc9d5#🔒smkn-TR-🇹🇷
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.231.75.115:443?security=tls&type=ws&path=/danfeng&host=snippet.fgfw.indevs.in&alpn=http/1.1&sni=snippet.fgfw.indevs.in&fp=random#🔒smkn-TR-🇹🇷
+vless://29498268-55f3-4b51-ba1a-1eba23f4ab63@38.180.112.246:52315?type=ws#🌐smkn-TR-🇹🇷
+vmess://eyJhZGQiOiAiMTQ0LjIyNS42NS4yMTYiLCAiYWlkIjogMCwgImhvc3QiOiAiMTQ0LjIyNS42NS4yMTYiLCAiaWQiOiAiMjU0Njc4OTktOGQ0Mi00OTA3LTlhZGQtY2M3Yjk5MjA4ZGRmIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi93cyIsICJwb3J0IjogNDQzLCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1UUi1cdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZjciLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8ifQ==
