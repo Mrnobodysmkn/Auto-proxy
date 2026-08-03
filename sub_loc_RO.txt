@@ -1,1 +1,2 @@
-vless://15355fa6-97da-50ee-8194-3950e3b917a5@178.214.211.52:443?type=tcp&amp;security=reality&amp;flow=xtls-rprx-vision&amp;fp=firefox&amp;sni=www.google.com&amp;pbk=1a2wyM1FELzNiPmJAYAx3Is4VN4UrefZbZhbMDZHt0U&amp;sid=602c802a#🔒smkn-RO-🇷🇴
+vless://15355fa6-97da-50ee-8194-3950e3b917a5@178.214.211.52:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&sni=www.google.com&pbk=1a2wyM1FELzNiPmJAYAx3Is4VN4UrefZbZhbMDZHt0U&sid=602c802a#🔒smkn-RO-🇷🇴
+vless://2a088d58-eb38-47bd-b74d-ac392ee12ccd@87.58.205.70:6437?type=grpc&headerType=none&security=reality&encryption=none&sni=tesla.com&fp=chrome&pbk=pHQke94AM1SmUNRlA7CNyXL4dK9-O1mTZoNVJKVFTk0&sid=1dbf8a58bc15d4b0&serviceName=grpc#🔒smkn-RO-🇷🇴
