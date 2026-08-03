@@ -1,3 +1,6 @@
 vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@84.32.209.210:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=statusdetector404.ru&security=reality&pbk=Zq6qL8R76CWAsWlI1m_684JcC6Jw_kFAZNshxfjivB0&sid=6ba85179e30d4fc2#🔒smkn-LT-🇱🇹
+vless://04b9e828-43ed-4faf-8952-41069ec08355@93.115.25.139:443?type=tcp&security=tls&encryption=none&fp=firefox&sni=ddc-chr2.astralweb.tech#🔒smkn-LT-🇱🇹
+vless://575739e8-6069-45c4-9581-4cc67cfd012e@144.31.243.195:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CMTA5uuaIVIeqHslZMT3CbFwP8F5ysMLii72ybsTlyY&sid=e2a4c6b8&sni=dl.google.com&spx=/#🔒smkn-LT-🇱🇹
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@80.208.229.140:443?encryption=none&security=tls&sni=vpn47.cc.cd&insecure=0&allowInsecure=0&type=ws&host=vpn47.cc.cd&path=%2F#🔒smkn-LT-🇱🇹
+vless://51d22c42-5342-4715-a927-1b76226dd4cf@89.116.250.75:8443?security=tls&sni=join-telegram-channel-vipv2rey.mamare.ir&type=grpc&serviceName=@vipv2rey@vipv2rey@vipv2rey&encryption=none#🔒smkn-LT-🇱🇹
 vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@84.32.209.210:7443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=statusdetector404.ru&allowInsecure=1&fp=chrome&security=reality&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&sid=6ba85179e30d4fc2#🔒smkn-LT-🇱🇹
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@88.216.69.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram#🌐smkn-LT-🇱🇹

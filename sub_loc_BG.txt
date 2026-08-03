@@ -1,5 +1,4 @@
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.142.120.243:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#🔒smkn-BG-🇧🇬
-trojan://Aimer@45.134.21.8:2053/?type=tcp&security=tls&sni=epcch.ambercc.filegear-sg.me#🔒smkn-BG-🇧🇬
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.142.120.124:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#🔒smkn-BG-🇧🇬
-vless://c61a813a-3429-4a20-8b7f-f7a3cd795b24@45.134.21.8:8443?encryption=none&security=tls&sni=ft76mv43.b1gqbrn7f2j6degb6bgs.workers.dev&fp=chrome&type=ws&host=ft76mv43.b1gqbrn7f2j6degb6bgs.workers.dev&path=%2Fdata%2Flist%2Fout.php%3Fed%3D2560#🔒smkn-BG-🇧🇬
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.142.120.226:2053?path=%2F&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=dl1-tr-cdn.easy-upload.org#🔒smkn-BG-🇧🇬
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@89.117.112.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-BG-🇧🇬
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@147.78.140.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-BG-🇧🇬
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.117.112.40:8880?security=none&type=ws&host=vms.lifetime11.workers.dev&path=%2F#🌐smkn-BG-🇧🇬
