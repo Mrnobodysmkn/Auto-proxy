@@ -1,9 +1,6 @@
-trojan://share.mjj-home.com@185.212.56.168:443?security=tls&sni=tw.softbank.mjj-home.com&type=tcp#🔒smkn-JP-🇯🇵
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@168.138.50.249:443?encryption=none&security=tls&sni=dp.ylks.xyz&type=ws&host=dp.ylks.xyz&path=%2Fblue#🔒smkn-JP-🇯🇵
-trojan://7d0f1f83-0f2f-4b90-930e-de44ac233fef@20.210.234.145:443/?type=tcp&security=tls&sni=in.stablize.top&allowInsecure=1&fp=chrome#🔒smkn-JP-🇯🇵
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@82.40.42.204:8443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#🔒smkn-JP-🇯🇵
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@170.205.39.165:8443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#🔒smkn-JP-🇯🇵
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.75.118.144:2053?&security=tls&fp=random&sni=snippet.fgfw.ye.gs&type=ws&headerType=none&host=snippet.fgfw.ye.gs&path=/danfeng#🔒smkn-JP-🇯🇵
+trojan://a3fa58b581353bb375d2ddad0f327938@184.168.127.50:443/?type=tcp&security=tls#🔒smkn-JP-🇯🇵
+vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:11452?flow=xtls-rprx-vision&security=reality&encryption=none&sni=www.apple.com&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&type=tcp&path=/#🔒smkn-JP-🇯🇵
+vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:12683?security=reality&type=tcp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#🔒smkn-JP-🇯🇵
 vless://42add63b-deda-4e71-aa48-ddd288181858@155.248.177.246:50443?encryption=none&security=tls&sni=edtunnel-eiz.pages.dev&type=ws&host=edtunnel-eiz.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#🔒smkn-JP-🇯🇵
-trojan://8r%3C%5B9%27l6hAO%238ZQi@140.83.34.214:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-JP-🇯🇵
-trojan://HutaoCloud@185.220.238.77:11543/?type=ws&path=/api&security=tls&sni=185.220.238.77&allowInsecure=1&fp=chrome#🔒smkn-JP-🇯🇵
-vmess://eyJhZGQiOiAiNDUuNzYuMjAyLjQ1IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogImNocm9tZSIsICJob3N0IjogIiIsICJpZCI6ICIwNzFhOGE3MS1jNjU2LTRmYjYtYTkwOC00ZTQyZWI3MjI0M2QiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvbGlrc3V6Y3AiLCAicGNzIjogIiIsICJwb3J0IjogNDAxMCwgInBzIjogIlx1ZDgzY1x1ZGYxMHNta24tSlAtXHVkODNjXHVkZGVmXHVkODNjXHVkZGY1IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ2IjogIjIiLCAidmNuIjogIiJ9
+vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@45.76.49.112:8443?&security=tls&fp=chrome&sni=rubifen.adaspoloandco.com&type=ws&headerType=none&host=rubifen.adaspoloandco.com&path=%2FGOrbEh#🔒smkn-JP-🇯🇵

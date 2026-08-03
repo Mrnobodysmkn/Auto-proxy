@@ -1,9 +1,7 @@
-vless://26524cce-d514-4014-a426-365fb266a14d@82.152.91.210:443?encryption=none&security=tls&sni=wgl.cdn-c.gfw.qzz.io&fp=firefox&alpn=http%2F1.1%2C&insecure=0&allowInsecure=0&type=ws&host=wgl.cdn-c.gfw.qzz.io&path=%2Fdanfeng-jh5qzt-fk3fns-mqcd-34e34dzl%3Fed%3D2560#🔒smkn-TW-🇹🇼
-vless://2add6241-8fe8-3922-8347-da25e8ced601@103.137.62.229:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tesla.com&fp=random&security=reality&pbk=zRZhlkKjUeqtIk9j6yy95aX-2krqQVyWORLv5tQkQGM&sid=#🔒smkn-TW-🇹🇼
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@125.227.152.109:3462/?type=tcp&security=tls&sni=a03.taipeicitygovernment.cn.ua&allowInsecure=1#🔒smkn-TW-🇹🇼
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.250.152.208:8443/?type=tcp&security=tls&sni=official.taipeicitygovernment.chernovtsy.ua&allowInsecure=1#🔒smkn-TW-🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@61.216.165.233:2377?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3D%28TG%20%40WangCai2%29aee97b7%3A155033#🔒smkn-TW-🇹🇼
-trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@60.250.152.208:3462/?type=tcp&security=tls&sni=45.32.28.232#🔒smkn-TW-🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@118.163.198.43:2377#🌐smkn-TW-🇹🇼
+trojan://3ac6a6ca99f74941b1eaf892818e2ddb@85.237.207.189:443?security=tls#🔒smkn-TW-🇹🇼
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.250.152.230:8443/?type=tcp&security=tls&sni=official.taipeicitygovernment.ivano-frankivsk.ua&allowInsecure=1#🔒smkn-TW-🇹🇼
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@60.250.152.230:3462/?type=tcp&security=tls&sni=a03.taipeicitygovernment.cn.ua&allowInsecure=1#🔒smkn-TW-🇹🇼
 vless://431fe973-a43a-4fac-bf83-2a772e0d0625@60.249.101.14:10000#🌐smkn-TW-🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@118.163.200.40:2377#🌐smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@125.227.86.44:2377#🌐smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.28.137:2377#🌐smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@125.227.86.46:2377#🌐smkn-TW-🇹🇼

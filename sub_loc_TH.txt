@@ -1,5 +1,2 @@
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@154.83.2.18:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#🔒smkn-TH-🇹🇭
-trojan://amclubs@154.83.2.94:2053/?type=ws&path=%2F%3Fed%3D2560&security=tls&sni=tran.amclubstest.nyc.mn#🔒smkn-TH-🇹🇭
-trojan://amclubs@154.83.2.125:2087/?type=tcp&security=tls&sni=tran.amclubstest.nyc.mn#🔒smkn-TH-🇹🇭
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.164.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-TH-🇹🇭
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@154.83.2.188:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-TH-🇹🇭
+trojan://NISHIKUITAN111@154.83.2.121:443/?type=tcp&security=tls#🔒smkn-TH-🇹🇭
+vmess://eyJhZGQiOiAiMTU0LjgzLjIuMTIxIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImlwMTguNjkyOTE5OC54eXoiLCAiaWQiOiAiNWYzZjA5YWQtODljYi00ZTk0LWE3YWQtYWE4MjM5OTEzNTU1IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9naXRodWIuY29tL0FsdmluOTk5OSIsICJwb3J0IjogIjIwODIiLCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1USC1cdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZWQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
