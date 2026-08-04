@@ -1,6 +1,6 @@
-vless://0718d4d6-42ea-4388-a41c-2069a49761f5@152.233.53.7:443?type=tcp&headerType=none&security=reality&encryption=none&sni=api-maps.yandex.ru&fp=firefox&pbk=DAdWhCSXRRcho_XopxBKq2-KDupbSY_i2r-FJCy58kY&sid=5a3874f1&flow=xtls-rprx-vision#🔒smkn-TR-🇹🇷
+vless://dd280dbb-75ec-4631-9979-d65237e27185@5.175.136.134:2053?encryption=none&security=reality&sni=www.yahoo.com&fp=chrome&pbk=AsmltIw-2fVcbpcbckmIJZrWiVyDW_Kid8VIvHkcmC4&sid=81053c0bc6adc9&type=xhttp&path=%2F&mode=auto#🔒smkn-TR-🇹🇷
+vless://9175264d-11b6-431f-86a7-69adf9fa24f2@84.32.230.160:443?security=reality&sni=ftp.debian.org&fp=chrome&pbk=cY7T3CiF0ysvFgyTXliMsXSTBM0Icd_VOhuDkxM9nFY&sid=75e19bf5087c4f0c&type=grpc&serviceName=T0wremSR3w3SOIHUGuPda&encryption=none#🔒smkn-TR-🇹🇷
 vless://caeb0482-d3d9-4271-8fbe-bc2cfe694efa@2.26.94.2:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=da5UVhoC5QOCDm84AxB-RRxf0z2nySZ3lOemgqizLS4&sni=pro-tr.emrata.top#🔒smkn-TR-🇹🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@188.41.249.20:1080#🌐smkn-TR-🇹🇷
-vless://0103cdc9-3927-44f0-88aa-e1162b7fedaf@86.38.214.33:80?encryption=none&security=none&type=xhttp&host=cdn.torexa.ir&path=/?ed=2048&mode=auto#🌐smkn-TR-🇹🇷
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@86.38.214.3:8880/?type=ws&encryption=none&host=bitget1.asdasd.click&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-TR-🇹🇷
-vless://1f29762d-3f23-4207-9e39-f774de5d49ba@185.39.204.155:8443?mode=gun&security=none&encryption=none&type=grpc&serviceName=grpc#🌐smkn-TR-🇹🇷
+vless://e1bc0b88-6fa2-4dd7-a936-d5fff3ebfe6c@64.49.15.67:8080?encryption=none&flow=xtls-rprx-vision&security=reality&sni=play.google.com&fp=qq&pbk=VhsxX3w5SvS-XTnHi_xg85bq9aoIU79NrmEg9Aig52w&sid=79472fefa9c9f227&type=tcp&headerType=none#🔒smkn-TR-🇹🇷
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@86.38.214.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=%2FTelegram#🌐smkn-TR-🇹🇷
+vmess://eyJhZGQiOiAiMTQ0LjIyNS42NS4yMTYiLCAiYWlkIjogMCwgImhvc3QiOiAiMTQ0LjIyNS42NS4yMTYiLCAiaWQiOiAiMjU0Njc4OTktOGQ0Mi00OTA3LTlhZGQtY2M3Yjk5MjA4ZGRmIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi93cyIsICJwb3J0IjogNDQzLCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1UUi1cdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZjciLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8ifQ==
