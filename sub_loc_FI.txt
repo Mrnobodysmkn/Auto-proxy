@@ -1,4 +1,10 @@
-vless://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@138.124.6.176:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=hRllSmqS51Qaj-QyVKUxaB3NxHXY6yi-eITBeFPqnXQ&sid=825d392c67e4&sni=fw.ch-moltisanti.ru#🔒smkn-FI-🇫🇮
-trojan://88939272-790a-441f-b12b-8ce531aca810@65.108.205.61:443/?type=tcp&security=tls&sni=polo01.kctr2038.icu&allowInsecure=1#🔒smkn-FI-🇫🇮
-vless://8787dd0a-095a-414e-804f-a7d16a1ae166@138.124.244.77:8443?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=firefox&sni=fi1.hys.braidx.tech#🔒smkn-FI-🇫🇮
-vmess://eyJhZGQiOiAiOTUuMjE2LjE4Ni4xOTEiLCAiYWlkIjogMCwgImhvc3QiOiAiZ29vZ2xlLmNvbSIsICJpZCI6ICIyYWFjNzdkZS1iM2U0LTQwMTctODQ1Yy1jYTEzODBmMmU4ZDAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3RlbGVncmFtLWlkLSIsICJwb3J0IjogODAsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUZJLVx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRlZSIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byJ9
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.247.86:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🔒smkn-FI-🇫🇮
+vless://749a5df1-2d12-45cf-80f3-f85ea6b2e405@31.76.53.0:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&security=reality&pbk=Fp0-VrMBeaQe9xOrehDYHt0mqTZL-5CdfuMEzoXkOE8&sid=#🔒smkn-FI-🇫🇮
+vless://896efe15-7363-4d6c-97aa-cb0bb5499228@95.217.240.156:443?security=reality&sni=www.speedtest.net&fp=chrome&pbk=gB2mHBv8PQXA0HSxOlOcB91nq5luio58GPdkjAgmk2M&sid=10ff054b&type=tcp&flow=xtls-rprx-vision&encryption=none#🔒smkn-FI-🇫🇮
+ss://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.198.108.152:443?_t=94268a25&flow=xtls-rprx-vision&fp=firefox&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&security=reality&sid=d020b987f84eb78a&sni=storage.yandex.net&type=tcp#🔒smkn-FI-🇫🇮
+vless://0a76a766-d141-44b8-944e-dff757d7116f@163.5.153.153:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=aB_2Tcf0A5LoiIEZHztR_l-ZOFeJKxYRH67s_OVQ9C0&security=reality&sid=a91045bc&sni=www.samsung.com&type=tcp#🔒smkn-FI-🇫🇮
+trojan://8r%3C%5B9%27l6hAO%238ZQi@144.31.79.168:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-FI-🇫🇮
+vless://06f364d4-3d0c-4c60-84e9-a3009f1b0050@2.26.85.202:6443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8&sid=332d021eb872d2db&sni=ign.com#🔒smkn-FI-🇫🇮
+trojan://8r%3C%5B9%27l6hAO%238ZQi@45.38.139.214:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-FI-🇫🇮
+trojan://32b2m2w7hsdd93z7@83.143.112.140:443?sni=83.143.112.140.cdn-one.org&type=grpc&serviceName=/56227/rSnUrv2yXU&mode=gun&fp=chrome#🔒smkn-FI-🇫🇮
+ss://f5a25ee5-ff24-41b0-80e8-ccafdc866614@193.233.23.121:40611?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#🌐smkn-FI-🇫🇮
