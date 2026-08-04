@@ -1,9 +1,5 @@
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.26:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#🔒smkn-IT-🇮🇹
-vless://3ad1d277-5715-4ca1-84db-5baea72f822d@31.77.154.67:443?type=tcp&security=tls&encryption=none&fp=firefox&sni=it1-akn.astralweb.tech#🔒smkn-IT-🇮🇹
-vless://a1368205-7481-4228-bf24-00f24ad7b267@104.105.64.121:50327/?type=tcp&encryption=mlkem768x25519plus.native.0rtt.z26m5q7KIaYsLQKcYn-2zCDFNFgFbZQRAH9h680euh8&security=reality&pbk=JW1dY-aGVyM0KlwrVBF1YX0HuCmm-MASUCj2vsniHg4&fp=chrome&sni=www.icloud.com&sid=b1de9b77b14b9d85&spx=%2F#🔒smkn-IT-🇮🇹
-vless://0f2765c2-1845-4545-987e-337c7cfb4e52@116.204.164.5:7443?encryption=none&security=tls&sni=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&fp=chrome&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=c6dbx99g6stb418qeo.t3jmlj0r152zji4htdkm9.workers.dev&path=%2F%40Marisa_kristi#🔒smkn-IT-🇮🇹
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@91.193.5.112:1080#🌐smkn-IT-🇮🇹
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.173:8880?encryption=none&type=grpc&mode=gun#🌐smkn-IT-🇮🇹
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.178:8880?type=grpc#🌐smkn-IT-🇮🇹
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.252:8880?encryption=none&security=none&type=grpc#🌐smkn-IT-🇮🇹
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.166.53:8880?encryption=none&type=grpc&security=none#🌐smkn-IT-🇮🇹
+ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0@57.131.28.246:2083#🔒smkn-IT-🇮🇹
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.17:8880?type=grpc#🌐smkn-IT-🇮🇹
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.167.6:8880?encryption=none&security=none&type=grpc#🌐smkn-IT-🇮🇹
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.43:8880/?type=grpc&encryption=none#🌐smkn-IT-🇮🇹
+vmess://eyJhZGQiOiAiMjE3LjEzOC4xOTcuMTcxIiwgImFpZCI6IDY0LCAiaG9zdCI6ICJ3d3cuMjk4NzAwMTEueHl6IiwgImlkIjogIjQzNWM5NzhlLTJmNDgtNDE5NC04ZDA0LTM4Y2M3OWEyNDQyMSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcGF0aC8xOTEwMTkwNzI5MjciLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzY1x1ZGYxMHNta24tSVQtXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5IiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIn0=
