@@ -1,8 +1,6 @@
-vless://13a894b0-e414-5459-a0fa-9309209c386b@185.113.139.103:443/?type=ws&encryption=none&host=185.113.139.103&path=%2Fvless&security=tls&sni=185.113.139.103&fp=chrome#🔒smkn-LV-🇱🇻
-vless://1306f56b-b1bf-4a65-937a-83815b5e4210@31.56.196.199:443?security=reality&encryption=none&pbk=YXxP82id54of4lztQ7KqNS0i1RCYVtMXpCSxIgPLinM&headerType=none&fp=chrome&spx=/97d955ed715e2e4&type=tcp&sni=www.lg.com&sid=76a578be#🔒smkn-LV-🇱🇻
-vless://20fda433-1864-433b-b3dd-8f119fe4cafd@195.135.254.75:443/?type=ws&encryption=none&host=happy.mianfeicf.lol&path=%2F%3Fed%3D2560&security=tls&sni=happy.mianfeicf.lol#🔒smkn-LV-🇱🇻
-vless://0c0a91de-5250-4d6c-9922-f3594d99f096@31.76.123.34:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sni=pro-fi.emrata.top#🔒smkn-LV-🇱🇻
+trojan://8r%3C%5B9%27l6hAO%238ZQi@188.215.31.98:2053/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-LV-🇱🇻
+trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.92.251:2053/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-LV-🇱🇻
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.105.39:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-LV-🇱🇻
-vless://a3bf5677-eaa6-42c5-959c-38cfdcd58d48@104.252.53.195:42282?encryption=none&fp=chrome&pbk=CiKtn_6x0VptZJdHbe7wW_9yetDMfZ6RhqRVTsfP1Bg&security=reality&sid=9ff38a&sni=googlecommerce.com&spx=/0Tc4CSlP9EyeMp3&type=tcp#🔒smkn-LV-🇱🇻
-vless://a3bf5677-eaa6-42c5-959c-38cfdcd58d48@104.252.53.195:32060?&security=reality&pbk=GSpAiLgZ-6A9NENbg5Rnx_Eba051Lh4NvLhFu_hohlA&sid=fcb96465a1&fp=chrome&sni=brb.yahoo.net&type=tcp&headerType=none&host=brb.yahoo.net&path=%2F#🔒smkn-LV-🇱🇻
-vless://eab915bc-d2df-73d1-47d0-6eb240497055@213.232.204.172:2090?&type=tcp&headerType=none&path=%2F#🌐smkn-LV-🇱🇻
+trojan://8r%3C%5B9%27l6hAO%238ZQi@188.215.31.98:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-LV-🇱🇻
+trojan://8r%3C%5B9%27l6hAO%238ZQi@195.135.252.148:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-LV-🇱🇻
+trojan://8r%3C%5B9%27l6hAO%238ZQi@217.145.79.119:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-LV-🇱🇻
