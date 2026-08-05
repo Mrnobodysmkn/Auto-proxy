@@ -1,2 +1,4 @@
+vless://18bb7397-9f8c-4c26-a316-69b38515e8e6@144.31.242.69:443?type=tcp&security=reality&sni=ger.hatvpn.org&flow=xtls-rprx-vision&pbk=V3uMWEfDQAPFP6o5ED8Jtk0rJBPs7IlOLf_Wh8w_jXc&sid=76132b3b39704c44&fp=firefox#🔒smkn-DK-🇩🇰
 trojan://rYuChHcwQZskq9E0zdoR@193.180.209.21:443/?type=tcp&security=tls&sni=vpn5.rnmcnm.com#🔒smkn-DK-🇩🇰
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.40.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-DK-🇩🇰
+vless://89f8f53c-2ec5-11f1-bffe-46c4782ac1a7@193.233.253.77:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&sid=cafe01234567#🔒smkn-DK-🇩🇰
+vmess://eyJhZGQiOiAiMTkzLjI5LjEwNy4yMzciLCAiYWlkIjogNjQsICJob3N0IjogInd3dy42NzE3MDIyNy54eXoiLCAiaWQiOiAiMmU5NjdkZDUtOGQyNC00MDk5LWE5MDEtNDEyZGNiNDAyNGZkIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9wYXRoLzE5MTAxOTA3MjkyNyIsICJwb3J0IjogMzAwMDAsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLURLLVx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRmMCIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byJ9
