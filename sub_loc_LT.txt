@@ -1,5 +1,2 @@
-vless://7603c601-efbd-4070-804b-cc8a4d6ee414@45.81.254.65:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=goo.su&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#🔒smkn-LT-🇱🇹
-trojan://bpb-trojan@89.116.250.94:443/?type=tcp&security=tls&sni=bpb.my79801.com#🔒smkn-LT-🇱🇹
-vless://8bba3194-4856-46d1-8319-075817d87eb1@2.59.162.56:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=lt2.cyphervpn.pro&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&sid=8f9d033ad6d2cebf&fp=chrome&alpn=http/1.1#🔒smkn-LT-🇱🇹
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@89.116.250.203:2053?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=dl1-tr-cdn.easy-upload.org#🔒smkn-LT-🇱🇹
-vless://497631c4-a1a4-0009-a86a-f42873473bb6@2.59.162.116:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&fp=qq&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🔒smkn-LT-🇱🇹
+vless://04b9e828-43ed-4faf-8952-41069ec08355@93.115.25.139:443?encryption=none&security=tls&sni=ddc-chr2.astralweb.tech&fp=firefox&alpn=h2&insecure=0&allowInsecure=0&type=tcp&headerType=none#🔒smkn-LT-🇱🇹
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@89.116.250.78:80?path=Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2560&security=none&encryption=none&host=ipsycho.suex12.ir&type=ws#🌐smkn-LT-🇱🇹
