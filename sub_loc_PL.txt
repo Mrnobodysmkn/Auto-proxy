@@ -1,12 +1,5 @@
-vless://5d8eb33a-2166-4daf-88fe-4be5799c493b@141.101.120.73:443?encryption=none&fp=chrome&host=noisy-term-e657.airdrop2014aa5168.workers.dev&path=%2F&security=tls&sni=noisy-term-e657.airdrop2014aa5168.workers.dev&type=ws#🔒smkn-PL-🇵🇱
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@2.26.148.70:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.wikihow.com&fp=firefox&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&type=tcp&headerType=none#🔒smkn-PL-🇵🇱
-vless://42e2dd45-2323-4929-9ab7-98f43591416e@91.224.75.127:2053?encryption=none&security=tls&sni=yykir7al.ndaiwcu.workers.dev&fp=chrome&type=ws&host=yykir7al.ndaiwcu.workers.dev&path=/&max_early_data=2560&early_data_header_name=Sec-WebSocket-Protocol&packetEncoding=xudp#🔒smkn-PL-🇵🇱
-trojan://4b040268-f3a5-4136-b1a9-506012e8e3d9@141.101.120.10:443/?type=tcp&security=tls&sni=ssp2.100896.xyz#🔒smkn-PL-🇵🇱
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.132:443/?type=ws&encryption=none&host=1750120447146.wk.by.ktff.ssl.com.kokk.cn.cdnktff.pp.ua&path=%2F%3Fed%3D2048&security=tls&sni=1750120447146.wk.by.ktff.ssl.com.kokk.cn.cdnktff.pp.ua#🔒smkn-PL-🇵🇱
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.15:2053/?type=grpc&serviceName=m3u8&security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#🔒smkn-PL-🇵🇱
-vless://83ab4443-ec22-4b3d-a587-53090be7beb2@45.198.96.153:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&security=reality&pbk=9Y-_jCI3Z1x6SXK2tHdZ6V1CN9IJPNPnoxSW0cbXxD8&sid=764f497dda21c4fc#🔒smkn-PL-🇵🇱
-vless://17228651-b902-4364-bdd6-ccf31d78542b@144.31.4.29:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=pl.quattro-tech.ru&type=tcp#🔒smkn-PL-🇵🇱
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.197:2053/?type=grpc&security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#🔒smkn-PL-🇵🇱
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@89.125.84.43:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&sni=pl03.skorostnet.space#🔒smkn-PL-🇵🇱
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@84.17.55.151:8443/?type=tcp&encryption=none&security=tls&sni=pl1.fromblancwithlove.com#🔒smkn-PL-🇵🇱
-ss://f3a21b24-5963-495a-a82f-1f62cb459335@82.40.62.103:1234?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#🌐smkn-PL-🇵🇱
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@31.169.126.66:443/?type=ws&encryption=none&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&fp=chrome#🔒smkn-PL-🇵🇱
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.102:2053/?type=ws&encryption=none&host=1749734195126.wk.by.ktff.ssl.com.kokk.cn.aliyun.cdnktff.pp.ua&path=%2F%3Fed%3D2048&security=tls&sni=1749734195126.wk.by.ktff.ssl.com.kokk.cn.aliyun.cdnktff.pp.ua&fp=randomized#🔒smkn-PL-🇵🇱
+trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:443/?type=tcp&security=tls&sni=pl1.trojanvh.xyz#🔒smkn-PL-🇵🇱
+trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80/?type=tcp&security=tls&sni=pl1.trojanvh.xyz#🔒smkn-PL-🇵🇱
+vless://f50822b7-02ec-4611-83bd-ff29411e0e10@2.59.163.54:2086?type=grpc&security=reality&fp=firefox&pbk=B_Thzq96IJQtpCkmfFO-MR531UQcasQN5GD8j6AJyjE&sid=7ba8267bdc423e63&sni=2ip.ru&serviceName=api.v1.telemetry.EventStream#🔒smkn-PL-🇵🇱
