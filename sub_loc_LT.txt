@@ -1,6 +1,4 @@
-vless://7603c601-efbd-4070-804b-cc8a4d6ee414@45.81.254.65:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=goo.su&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#🔒smkn-LT-🇱🇹
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@89.116.250.49:2053?path=%2F&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=dl1-tr-cdn.easy-upload.org#🔒smkn-LT-🇱🇹
 vless://322ffd77-9adc-4e10-8302-a8bcc14555a0@144.31.243.161:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=max.ru&fp=qq&pbk=jkJjVvjbZmS5Nq-5Oz7GTRSZ_qXfChO7b5Ee8yYglzw&sid=23c0b9cc8395ab36#🔒smkn-LT-🇱🇹
-vless://8bba3194-4856-46d1-8319-075817d87eb1@2.59.162.56:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=lt2.cyphervpn.pro&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&sid=8f9d033ad6d2cebf&fp=chrome&alpn=http/1.1#🔒smkn-LT-🇱🇹
-vless://c1d62d53-2fcd-4951-ab96-c81486f59775@84.32.215.2:443?security=reality&flow=xtls-rprx-vision&sni=w-mebel.pro&type=tcp&fp=firefox&pbk=3ioSDy998cS2J-O6M9rzh8fDaybnOJ2PDPfd7ulFpH4&sid=51941b7edff5bc55#🔒smkn-LT-🇱🇹
-vless://497631c4-a1a4-0009-a86a-f42873473bb6@2.59.162.116:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&fp=qq&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🔒smkn-LT-🇱🇹
-vless://05d9de8a-5cc1-4906-b8a0-e813fca5a45b@212.24.107.219:37801?encryption=mlkem768x25519plus.native.0rtt.IiGsoDr-_kzB_Q070YWKe1YVWwgdZCUpD5QG6-590Dg&amp;type=tcp&amp;headerType=http&amp;host=play.google.com#🌐smkn-LT-🇱🇹
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@88.216.69.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🌐smkn-LT-🇱🇹
+vless://05d9de8a-5cc1-4906-b8a0-e813fca5a45b@212.24.107.219:37801?encryption=mlkem768x25519plus.native.0rtt.IiGsoDr-_kzB_Q070YWKe1YVWwgdZCUpD5QG6-590Dg&type=tcp&headerType=http&host=play.google.com#🌐smkn-LT-🇱🇹
