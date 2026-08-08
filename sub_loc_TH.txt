@@ -1,4 +1,2 @@
-trojan://amclubs@154.83.2.94:2053/?type=ws&path=%2F%3Fed%3D2560&security=tls&sni=tran.amclubstest.nyc.mn#🔒smkn-TH-🇹🇭
-vless://fe962226-fe1c-4391-a5ba-7b7c62adda19@154.83.2.200:443?encryption=none&security=tls&sni=am-tunnel-6fs.pages.dev&type=ws&host=am-tunnel-6fs.pages.dev&path=%2F#🔒smkn-TH-🇹🇭
-vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.164.1.23:666/?type=ws&encryption=none&flow=&host=43.164.1.23&path=/proxy&security=tls&sni=43.164.1.23&allowInsecure=1&packetEncoding=xudp#🔒smkn-TH-🇹🇭
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@154.83.2.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2520%40WangCai2%2520%2F#🌐smkn-TH-🇹🇭
+vless://9abf5e0c-e98a-44a3-bd0b-1a6dd065eb0f@157.85.96.11:8443/?type=tcp&encryption=none&flow=#🌐smkn-TH-🇹🇭
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@154.83.2.188:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-TH-🇹🇭
