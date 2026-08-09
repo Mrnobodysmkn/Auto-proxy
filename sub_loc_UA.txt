@@ -1,2 +1,4 @@
-trojan://2e7d3f13-be1b-479c-94ff-0e95c2bd565d@89.116.180.158:443?security=tls&sni=3us2.pqjc.buzz&type=tcp#🔒smkn-UA-🇺🇦
-trojan://ttfang@45.135.235.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🔒smkn-UA-🇺🇦
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.180.130:2053?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#🔒smkn-UA-🇺🇦
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@194.147.149.54:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=b8k86.z3xq.fzi.hh.vavava.kdns.fr&path=/&security=tls&sni=b8k86.z3xq.fzi.hh.vavava.kdns.fr&type=ws#🔒smkn-UA-🇺🇦
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@194.152.44.71:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org#🔒smkn-UA-🇺🇦
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@89.116.180.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-UA-🇺🇦
