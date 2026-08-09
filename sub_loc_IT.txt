@@ -1,3 +1,3 @@
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.26:443?security=reality&encryption=none&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&sid=7a3f9e2b1c8d4f6a#🔒smkn-IT-🇮🇹
-vless://6f93f3eb-8ff2-4da4-837b-8a333c281ff3@31.77.154.77:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=f6lqLBe6F_9QDEn8G7v58Wxq8qqTKgEAfuyMxn6_2Qk&sid=dbf867415845f0ac&sni=owa.ozon.ru#🔒smkn-IT-🇮🇹
-vless://d7d2f22f-0cbc-4348-93a9-cf860f6eca49@45.137.201.8:8443?mode=multi&security=reality&encryption=none&authority=ads.x5.ru&pbk=yqj8AYjVT7UR-ATWSMJCGHqL73PnDrdiApjXsH1k-lY&fp=qq&type=grpc&serviceName=%2Fapi%2Fv1%2Fsync&sni=ads.x5.ru&sid=a2b223d4#🔒smkn-IT-🇮🇹
+vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&security=reality&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&sid=79a1e14b#🔒smkn-IT-🇮🇹
+vless://1a6d2f60-6c75-470b-891a-457b13d70a8e@57.131.18.86:6500?security=reality&sni=play.google.com&type=tcp&fp=qq&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo#🔒smkn-IT-🇮🇹
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086/?type=raw&encryption=none#🌐smkn-IT-🇮🇹
