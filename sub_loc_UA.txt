@@ -1,6 +1,5 @@
-vless://401374e6-df77-41fb-f638-dad8184f175b@89.116.180.248:443/?type=grpc&encryption=none&security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2#🔒smkn-UA-🇺🇦
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@194.152.44.71:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org#🔒smkn-UA-🇺🇦
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.180.130:2053?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#🔒smkn-UA-🇺🇦
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@176.103.113.235:443?path=/GOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&fp=chrome&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#🔒smkn-UA-🇺🇦
-trojan://NISHIKUITAN111@45.135.235.196:443/?type=tcp&security=tls#🔒smkn-UA-🇺🇦
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@89.116.180.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-UA-🇺🇦
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@194.147.149.54:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=b8k86.z3xq.fzi.hh.vavava.kdns.fr&path=/&security=tls&sni=b8k86.z3xq.fzi.hh.vavava.kdns.fr&type=ws#🔒smkn-UA-🇺🇦
+vless://13eee6d2-5b9f-408c-aaab-07caf8497ea3@78.159.240.31:26443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jOBo4R259-p0H2EcHMPO_R1uPZ8hyM_Yj1K5Nejch2U&security=reality&sid=d681ac08&sni=shopping-api-gateway.cdek.shopping&type=raw#🔒smkn-UA-🇺🇦
+vless://13eee6d2-5b9f-408c-aaab-07caf8497ea3@78.159.240.31:27443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jOBo4R259-p0H2EcHMPO_R1uPZ8hyM_Yj1K5Nejch2U&security=reality&sid=d681ac08&sni=api.acquisition-gwe.plus.yandex.ru&type=raw#🔒smkn-UA-🇺🇦
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@89.116.180.156:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=kjgx.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-UA-🇺🇦
+vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@89.116.180.7:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=/?ed=8880-@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🌐smkn-UA-🇺🇦
