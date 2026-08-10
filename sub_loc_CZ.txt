@@ -1,5 +1,8 @@
-trojan://blue2024@14.102.229.63:443/?type=tcp&security=tls&sni=b.promote.icu#🔒smkn-CZ-🇨🇿
+vless://7b46f7aa-f682-429d-98eb-d5513d843d8d@46.8.113.235:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=sevastopol.su&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#🔒smkn-CZ-🇨🇿
 vless://13b55e8e-fbea-4ee1-b6b7-115fa3043182@46.8.113.21:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cz.srv.anti-zapret.com&sid=17faf32cb516c9cb#🔒smkn-CZ-🇨🇿
-vless://87337a16-94c4-4288-94b5-c2108874ed49@46.8.113.253:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=simracing.su&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#🔒smkn-CZ-🇨🇿
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@195.85.23.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-CZ-🇨🇿
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.222.126:1080#🌐smkn-CZ-🇨🇿
+vless://7603c601-efbd-4070-804b-cc8a4d6ee414@46.8.113.251:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=nashaplaneta.su&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#🔒smkn-CZ-🇨🇿
+trojan://blue2024@14.102.229.63:443/?type=tcp&security=tls&sni=b.promote.icu#🔒smkn-CZ-🇨🇿
+vless://4f4c3977-3f71-4c1d-a5b7-1c9118fbc1cb@188.130.208.4:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ravenol.su&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=%2F#🔒smkn-CZ-🇨🇿
+vless://13b55e8e-fbea-4ee1-b6b7-115fa3043182@46.8.113.17:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cz.srv.anti-zapret.com&sid=17faf32cb516c9cb#🔒smkn-CZ-🇨🇿
+vless://f84401df-5064-485f-a5c5-d17fe7032ef6@78.159.247.213:7444?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&sni=ads.x5.ru#🔒smkn-CZ-🇨🇿
+vless://070b81db-1954-4767-bfa5-26d2c3598273@194.87.52.142:8443?encryption=none&security=reality&sni=ads.x5.ru&fp=chrome&pbk=zRVSRinqebogFvlL5GWcaYfLlKGueXknigEI-f-tKAI&sid=d82c4b67f9a13e5c&type=grpc&authority=&serviceName=grpc&mode=gun#🔒smkn-CZ-🇨🇿
