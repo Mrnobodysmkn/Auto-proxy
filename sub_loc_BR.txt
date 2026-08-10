@@ -1,8 +1,6 @@
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@185.133.35.160:443/?type=tcp&security=tls&sni=icecream.955850.xyz#🔒smkn-BR-🇧🇷
+vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.238:443/?type=ws&encryption=none&path=%2F%3Fed&security=tls&sni=cl.bgm2024.dpdns.org#🔒smkn-BR-🇧🇷
 vless://cc6b985d-0362-4129-8763-38564174fb3e@45.194.53.212:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=iryiccyne.wwtraveler.com&alpn=http%2F1.1%2Ch2&fp=chrome#🔒smkn-BR-🇧🇷
-trojan://bpb-trojan@45.194.53.231:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#🔒smkn-BR-🇧🇷
-vless://cc6b985d-0362-4129-8763-38564174fb3e@45.194.53.216:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=iryiccyne.wwtraveler.com&alpn=http%2F1.1%2Ch2&fp=chrome#🔒smkn-BR-🇧🇷
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.26:443/?type=ws&encryption=none&host=vc.ylka.dpdns.org#🔒smkn-BR-🇧🇷
-vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.242:443/?type=ws&encryption=none&host=uu.vs2024.us.kg#🔒smkn-BR-🇧🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplekcyTHF4OFNTNjg@147.45.116.44:443#🔒smkn-BR-🇧🇷
+vless://ad2d0f18-7c2b-43b5-aeb3-dbfa6f501962@199.232.13.59:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=JoinBede-ELiV2.Ray.io&type=ws#🌐smkn-BR-🇧🇷
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.184.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-BR-🇧🇷
 vless://03517ec0-976e-4cac-b84b-146fc4c7b023@199.232.13.32:80?path=%2FTelegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry%3Fed%3D2048&security=&encryption=none&host=Apple-SIB.ir&type=ws#🌐smkn-BR-🇧🇷
-vmess://eyJhZGQiOiAiMTcyLjIzMy4xOS4xNDMiLCAiYWlkIjogMSwgImhvc3QiOiAiMTcyLjIzMy4xOS4xNDMiLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzY1x1ZGYxMHNta24tQlItXHVkODNjXHVkZGU3XHVkODNjXHVkZGY3IiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIn0=

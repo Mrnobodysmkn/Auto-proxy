@@ -1,11 +1,5 @@
-vless://cc6b985d-0362-4129-8763-38564174fb3e@14.102.228.209:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=iryiccyne.wwtraveler.com&alpn=http%2F1.1%2Ch2&fp=chrome#🔒smkn-CZ-🇨🇿
-vless://33a31dc6-6bbc-46c0-9685-fb5e327d3c7d@152.233.66.68:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=TXwYCrwkhTEeqtxTf3ZYmXNwYcmVtR9eVXJRo7Kvxmk&sid=8c5041b3&sni=api-maps.yandex.ru#🔒smkn-CZ-🇨🇿
+trojan://blue2024@14.102.229.63:443/?type=tcp&security=tls&sni=b.promote.icu#🔒smkn-CZ-🇨🇿
+vless://13b55e8e-fbea-4ee1-b6b7-115fa3043182@46.8.113.21:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cz.srv.anti-zapret.com&sid=17faf32cb516c9cb#🔒smkn-CZ-🇨🇿
 vless://87337a16-94c4-4288-94b5-c2108874ed49@46.8.113.253:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=simracing.su&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#🔒smkn-CZ-🇨🇿
-vless://0adfbdbb-2c50-42ac-b3a0-d87f5277b1ba@67.159.18.30:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HdM7NNWeW6queFno-hF8CET0i-ykrQJ9X4vqzGhaQ3E&security=reality&sid=74c69f639fff6340&sni=expats.cz&type=tcp#🔒smkn-CZ-🇨🇿
-vless://7603c601-efbd-4070-804b-cc8a4d6ee414@46.8.113.251:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=nashaplaneta.su&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#🔒smkn-CZ-🇨🇿
-vless://f84401df-5064-485f-a5c5-d17fe7032ef6@78.159.247.213:7444?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&sni=ads.x5.ru#🔒smkn-CZ-🇨🇿
-vless://3ffe2ab7-5657-466f-ad71-75aa1717f51b@194.87.52.81:53844?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=24IQtal3G9sIlVqj2_fO-No3Oo6Sxofan80ivMLW_UY&security=reality&sid=893dd72a6ccb9fd0&sni=apple.com&type=tcp#🔒smkn-CZ-🇨🇿
-trojan://ttfang@14.102.228.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🔒smkn-CZ-🇨🇿
-vless://070b81db-1954-4767-bfa5-26d2c3598273@194.87.52.142:8443?encryption=none&security=reality&sni=ads.x5.ru&fp=chrome&pbk=zRVSRinqebogFvlL5GWcaYfLlKGueXknigEI-f-tKAI&sid=d82c4b67f9a13e5c&type=grpc&authority=&serviceName=grpc&mode=gun#🔒smkn-CZ-🇨🇿
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@14.102.229.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-CZ-🇨🇿
-vless://d11fd54a-8fd4-4886-bad2-8264cb317ead@14.102.228.77:2052/?type=ws&encryption=none&host=sPeedtest2.sbs.se.vless.sitespeedtest.net&path=%2Fvless%23%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL%2C%40V2RAY_SPATIAL#🌐smkn-CZ-🇨🇿
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@195.85.23.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-CZ-🇨🇿
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.222.126:1080#🌐smkn-CZ-🇨🇿
