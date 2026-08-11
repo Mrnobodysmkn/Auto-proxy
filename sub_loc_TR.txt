@@ -1,11 +1,5 @@
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@103.231.75.115:443?security=tls&type=ws&path=/danfeng&host=snippet.fgfw.indevs.in&alpn=http/1.1&sni=snippet.fgfw.indevs.in&fp=random#🔒smkn-TR-🇹🇷
 vless://e996abc7-cff3-4d9f-a9dc-0d717048a345@82.26.198.131:443?security=reality&flow=xtls-rprx-vision&sni=android.com&encryption=mlkem768x25519plus.native.0rtt.W3jtn31noFtT345Wnc8qHneslfsv5jHyqQ9Vpx-TBTw&type=tcp&fp=chrome&pbk=wn5rNzAvTsOpmc6hHkw_woqwYGkFml8Uv2Klx9iydXI&sid=da7004e7e7a2de#🔒smkn-TR-🇹🇷
-ss://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&amp;security=reality&amp;encryption=none&amp;pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&amp;type=xhttp&amp;sni=www.google.com&amp;sid=44#🔒smkn-TR-🇹🇷
-trojan://ac8ae2c29cd149eb85cae990572f0d59@195.162.69.238:9443/?type=tcp&security=tls&sni=apple.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#🔒smkn-TR-🇹🇷
-vless://a8fe2e9f-fde7-44c1-9cf6-9a0bdea50d99@185.226.92.106:80/?type=xhttp&encryption=none&sni=journalofbigdata.springeropen.com.p30day.ir&fp=chrome&security=reality&pbk=40P2evGAFzizxEJ7NzAbL9eBCGxJk7YE6d1le-Qij0s&sid=db86aba349ac#🔒smkn-TR-🇹🇷
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@86.38.214.29:8880/?type=ws&encryption=none&host=hk.laoyoutiao.link&path=%2FTelegramU0001F1E8U0001F1F3%20%40MxlShare%20%40WangCai2%20%2F%3Fed%3D2560#🌐smkn-TR-🇹🇷
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@86.38.214.20:8880/?type=ws&encryption=none&host=us.laoyoutiao.link&path=%2FTelegramU0001F1E8U0001F1F3%20%40MxlShare%20%40WangCai2%20#🌐smkn-TR-🇹🇷
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@86.38.214.213:8880/?type=httpupgrade&encryption=none&host=nufillter.jtip.sbs.&path=%2F#🌐smkn-TR-🇹🇷
-ss://ed29a0e3-5a32-4a7f-8863-277e9f653629@193.31.117.25:8080?security=&amp;type=grpc&amp;encryption=none#🌐smkn-TR-🇹🇷
-vmess://eyJhZGQiOiAiMTQ0LjIyNS42NS4yMTYiLCAiYWlkIjogMCwgImhvc3QiOiAiMTQ0LjIyNS42NS4yMTYiLCAiaWQiOiAiMjU0Njc4OTktOGQ0Mi00OTA3LTlhZGQtY2M3Yjk5MjA4ZGRmIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi93cyIsICJwb3J0IjogNDQzLCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1UUi1cdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZjciLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8ifQ==
-vmess://eyJhZGQiOiAiNDUuOTQuMTY5LjE0MiIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiODI0YzU4YjEtNjViYS00NjgwLWE2MDktNjYzYTAwMGRiYjkyIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi93c3MxMzg4OSIsICJwb3J0IjogNDQzLCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1UUi1cdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZjciLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8ifQ==
+trojan://tunnel-ljlcf@193.124.46.134:8441?sni=tr-1.stunnel.cc&fp=chrome&type=tcp&path=/#🌐smkn-TR-🇹🇷
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#🌐smkn-TR-🇹🇷
+vless://35a6946a-2003-448f-9c1b-911efaa8c9a7@45.74.178.48:20828?security=none&type=ws&host=nl-bl-nl.karmatel.ir&path=%2F#🌐smkn-TR-🇹🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtdGVsZWdyYW0taWJhaGFk@193.124.46.134:8444#🌐smkn-TR-🇹🇷
