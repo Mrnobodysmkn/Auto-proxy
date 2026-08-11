@@ -1,7 +1,11 @@
-trojan://ttfang@20.235.105.146:443/?type=ws&path=%2F&security=tls&sni=ttfang.fange.me#🔒smkn-IN-🇮🇳
 trojan://Aimer@108.165.152.207:443/?type=tcp&security=tls&sni=epcca.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.241:2053/?type=tcp&security=tls&sni=acepo.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.93:2083/?type=tcp&security=tls&sni=epccc.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@108.165.152.30:8880?security=none&type=ws&path=/&host=vms.lifetime61.workers.dev&packetEncoding=xudp&encryption=none#🌐smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.66:2083/?type=tcp&security=tls&sni=epccd.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
+trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443/?type=tcp&security=tls#🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.202:2083/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org#🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.225:2083/?type=tcp&security=tls&sni=epcco.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.59:2087/?type=tcp&security=tls&sni=epccq.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.36:2096/?type=tcp&security=tls&sni=acepo.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
+vless://Parsashonam-337@151.101.105.226:80?mode=auto&path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam&security=none&encryption=none&host=Free-V2ray-Bot-Parsashonam4.global.ssl.fastly.net&type=xhttp#🌐smkn-IN-🇮🇳
+vless://2a45f87c-ab4b-4d51-9347-89b937960121@151.101.158.204:80?path=/olem/ws?ed=64&serviceName=Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH--Telegram--FILTERK0SH&security=none&alpn=h2,http/1.1&encryption=none&host=fatmelo.com&fp=chrome&type=ws&sni=zmaoz.faculty.ucdavis.edu.#🌐smkn-IN-🇮🇳
 trojan://Aimer@108.165.152.40:2096?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#🌐smkn-IN-🇮🇳
 vless://8820e16b-fbc2-49d3-90e4-eeeb8301c83c@151.101.158.71:80?security=none&type=ws&host=anycast.leslie.ch&path=%2F%3Fed%3D2560#🌐smkn-IN-🇮🇳
