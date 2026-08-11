@@ -1,7 +1,3 @@
-vless://ac5313ae-803b-4104-a047-94c97ecb621e@85.159.229.77:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=lHCkAu_DOVFtE-iL2JGrPt44QeTCFijXuRfuGaSni3Q&security=reality&sid=9e4eced6e98ed4d4&sni=ie.orpheous.ru&type=tcp#🔒smkn-IE-🇮🇪
-vless://5c5a466e-f2e0-4211-8963-742afac24948@34.240.243.226:443?allow_insecure=0&fp=chrome&host=netmelivip.dpdns.org&path=%2Fxiron&security=tls&sni=netmelivip.dpdns.org&type=ws#🔒smkn-IE-🇮🇪
-vless://c7e9c591-2764-423a-afca-efbd010fd396@52.19.138.237:2053?fp=chrome&host=forfreeuse.sub-flow.online&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&type=ws#🔒smkn-IE-🇮🇪
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@45.141.234.219:13868?type=tcp&amp;security=reality&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;fp=firefox&amp;pbk=XkqVl2cyWFosUZRHlg55Iek6KzLEoT_OPzuoErgWfWg&amp;sid=e852dc&amp;sni=amd.com#🔒smkn-IE-🇮🇪
-vless://c9399d16-a0ae-451a-d069-39280bc363f4@52.19.138.237:8443?&security=tls&fp=chrome&sni=us2.wxgqlfx.icu&type=ws&headerType=&host=us2.wxgqlfx.icu&path=%2FTG%40wxgqlfx#🔒smkn-IE-🇮🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2eGtHQ1lrcm01UXhWZ0JW@68.219.96.61:443#🔒smkn-IE-🇮🇪
-trojan://ND91608427@54.217.133.71:443?allowInsecure=1#🔒smkn-IE-🇮🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWDI5N0FzMzFiUU1Sc0xQ@20.123.9.48:443#🔒smkn-IE-🇮🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@84.247.48.78:1080#🌐smkn-IE-🇮🇪
+vmess://eyJhZGQiOiAiMTg1LjEwOC4xMjguNTciLCAiYWlkIjogNjQsICJob3N0IjogInd3dy4xNDYwMTE3Ni54eXoiLCAiaWQiOiAiNWFhYjM5MzYtMTZkNy00Mzc3LThjMzMtMGQ3N2YyZDI5NWVlIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9wYXRoLzE5MTAxOTA3MjkyNyIsICJwb3J0IjogMzAwMDAsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUlFLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRlYSIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byJ9
