@@ -1,4 +1,7 @@
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@89.116.250.49:2053?path=%2F&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=dl1-tr-cdn.easy-upload.org#🔒smkn-LT-🇱🇹
-vless://f692629b-3557-488a-9c9b-60775331e423@144.31.243.37:443?encryption=none&amp;fp=&amp;pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&amp;security=reality&amp;serviceName=fi1cosmos&amp;sni=fi1-cosmostechnology.ru&amp;type=grpc#🔒smkn-LT-🇱🇹
-trojan://humanity@194.135.80.192:443?path=/assignment&security=tls&sni=www.calmlunch.com&type=ws&sni=www.calmlunch.com#🔒smkn-LT-🇱🇹
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@89.116.250.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2F#🌐smkn-LT-🇱🇹
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@84.32.209.210:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=statusdetector404.ru&security=reality&pbk=Zq6qL8R76CWAsWlI1m_684JcC6Jw_kFAZNshxfjivB0&sid=6ba85179e30d4fc2#🔒smkn-LT-🇱🇹
+ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@89.116.250.135:443?path=%2Frdfgtws&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=vangoghhh.info&amp;type=ws&amp;allowInsecure=0&amp;sni=vangoghhh.info#🔒smkn-LT-🇱🇹
+vless://322ffd77-9adc-4e10-8302-a8bcc14555a0@144.31.243.161:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=max.ru&fp=qq&pbk=jkJjVvjbZmS5Nq-5Oz7GTRSZ_qXfChO7b5Ee8yYglzw&sid=23c0b9cc8395ab36#🔒smkn-LT-🇱🇹
+vless://c1d62d53-2fcd-4951-ab96-c81486f59775@84.32.215.2:443?security=reality&flow=xtls-rprx-vision&sni=w-mebel.pro&type=tcp&fp=firefox&pbk=3ioSDy998cS2J-O6M9rzh8fDaybnOJ2PDPfd7ulFpH4&sid=51941b7edff5bc55#🔒smkn-LT-🇱🇹
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@84.32.209.210:7443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=statusdetector404.ru&allowInsecure=1&fp=chrome&security=reality&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&sid=6ba85179e30d4fc2#🔒smkn-LT-🇱🇹
+vless://3a3de813-bfaa-4355-bc47-05c7245431d2@89.116.250.135:8880?encryption=none&type=httpupgrade&path=%2F%3Fed%3D2082&host=FFar.9.postshup.ir#🌐smkn-LT-🇱🇹
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@88.216.69.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram#🌐smkn-LT-🇱🇹
