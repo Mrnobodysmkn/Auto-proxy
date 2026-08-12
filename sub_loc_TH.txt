@@ -1,2 +1,1 @@
-trojan://amclubs@154.83.2.94:2053/?type=ws&path=%2F%3Fed%3D2560&security=tls&sni=tran.amclubstest.nyc.mn#🔒smkn-TH-🇹🇭
-vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@165.101.64.218:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=DU06BFOa3xeqOPxjAxQMi00LvvJ5i1qnjFBJGFv03Q4&security=reality&sid=591076636be970d0&sni=th.cryptoofarm.com&type=tcp#🔒smkn-TH-🇹🇭
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@154.83.2.18:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#🔒smkn-TH-🇹🇭
