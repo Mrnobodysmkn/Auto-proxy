@@ -1,11 +1,6 @@
-vless://08155912-2886-4d85-b041-804923a48077@81.17.18.106:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=infokam.su&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=%2F#🔒smkn-CH-🇨🇭
+vless://19d597c4-b031-4d44-8a37-44fbe6620a19@195.15.243.23:443?mode=gun&security=reality&encryption=none&pbk=QQRq8pNyb-7woX7mXDuhB2lHiIeUPN7fCruufvoYil8&fp=chrome&spx=/&type=grpc&sni=www.speedtest.net&sid=c43431c287c0#🔒smkn-CH-🇨🇭
 vless://2a77a470-315c-493d-b690-59b814a804cb@178.83.226.55:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=sellflow.org&type=tcp#🔒smkn-CH-🇨🇭
-trojan://rYuChHcwQZskq9E0zdoR@103.63.30.230:443/?type=tcp&security=tls&sni=vpn5.rnmcnm.com#🔒smkn-CH-🇨🇭
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@91.245.225.17:443?host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560&security=tls&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr&type=ws#🔒smkn-CH-🇨🇭
-vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@83.228.197.143:8082?security=reality&sni=id.vk.com&type=grpc&serviceName=vless-grpc-reality&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒smkn-CH-🇨🇭
-vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@193.108.52.167:8082?security=reality&sni=id.vk.com&type=grpc&serviceName=vless-grpc-reality&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒smkn-CH-🇨🇭
-vless://05a01432-0302-439f-a88d-8442cd27b7d5@45.197.134.51:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&security=reality&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=445ab326fc7c90ac#🔒smkn-CH-🇨🇭
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@140.238.214.247:443/?type=ws&encryption=none&host=pvg.aghabeiki.homes&path=%3Fed%3D2744&security=tls&sni=pvg.aghabeiki.homes#🔒smkn-CH-🇨🇭
 vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@193.108.52.99:8082?security=reality&sni=id.vk.com&type=grpc&serviceName=vless-grpc-reality&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒smkn-CH-🇨🇭
-vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@195.15.213.253:8082?security=reality&sni=id.vk.com&type=grpc&serviceName=vless-grpc-reality&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒smkn-CH-🇨🇭
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.26.156:1080#🌐smkn-CH-🇨🇭
+vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@83.228.197.246:8082?security=reality&sni=id.vk.com&type=grpc&serviceName=vless-grpc-reality&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒smkn-CH-🇨🇭
 vmess://eyJhZGQiOiAiMTg2LjE5MC4yMTUuNzUiLCAiYWlkIjogMSwgImhvc3QiOiAiMTg2LjE5MC4yMTUuNzUiLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogImxpbmt2d3MiLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzY1x1ZGYxMHNta24tQ0gtXHVkODNjXHVkZGU4XHVkODNjXHVkZGVkIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIn0=
