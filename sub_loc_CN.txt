@@ -1,2 +1,6 @@
-trojan://humanity@43.169.18.179:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#🔒smkn-CN-🇨🇳
-trojan://Aimer@176.124.223.40:2053/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#🔒smkn-CN-🇨🇳
+trojan://Aimer@176.124.223.92:443/?type=tcp&security=tls&sni=epccx.ambercc.filegear-sg.me#🔒smkn-CN-🇨🇳
+trojan://a13820c547fa34c5c45515c12f0cd576@117.149.198.190:10051/?type=tcp&security=tls&sni=zz6.91js.pw&allowInsecure=1#🔒smkn-CN-🇨🇳
+trojan://Aimer@176.124.223.133:2096/?type=tcp&security=tls&sni=epccj.ambercc.filegear-sg.me#🔒smkn-CN-🇨🇳
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@176.124.223.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560#🌐smkn-CN-🇨🇳
+vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528?security=none&encryption=none&headerType=none&type=tcp#🌐smkn-CN-🇨🇳
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@77.105.163.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-CN-🇨🇳
