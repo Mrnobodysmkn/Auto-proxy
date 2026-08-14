@@ -1,7 +1,7 @@
-vless://8bba3194-4856-46d1-8319-075817d87eb1@2.59.162.56:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=lt2.cyphervpn.pro&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&sid=8f9d033ad6d2cebf&fp=chrome&alpn=http/1.1#🔒smkn-LT-🇱🇹
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@80.208.229.140:443?encryption=none&security=tls&sni=vpn47.cc.cd&insecure=0&allowInsecure=0&type=ws&host=vpn47.cc.cd&path=%2F#🔒smkn-LT-🇱🇹
 vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&security=reality&sni=dartsearch-cn.net&type=tcp#🔒smkn-LT-🇱🇹
+vless://7603c601-efbd-4070-804b-cc8a4d6ee414@45.81.254.65:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=goo.su&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#🔒smkn-LT-🇱🇹
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@89.116.250.49:2053?path=%2F&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=dl1-tr-cdn.easy-upload.org#🔒smkn-LT-🇱🇹
+vless://cd1673b3-7cec-4fe6-bedf-b534eb54e647@46.166.167.222:443?type=tcp&security=tls&encryption=none&fp=firefox&sni=ddc-chr-lt2.astralweb.tech#🔒smkn-LT-🇱🇹
 vless://497631c4-a1a4-0009-a86a-f42873473bb6@2.59.162.116:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&fp=qq&security=reality&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🔒smkn-LT-🇱🇹
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@88.216.69.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🌐smkn-LT-🇱🇹
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@89.116.250.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2F#🌐smkn-LT-🇱🇹
-ss://YWVzLTI1Ni1jZmI6cVlFTjVIWDRKS2VWQ2RFQw==@195.238.126.84:9039#🌐smkn-LT-🇱🇹
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@88.216.69.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/Telegram#🌐smkn-LT-🇱🇹
