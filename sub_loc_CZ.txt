@@ -1,3 +1,5 @@
-vless://a77cedab-f429-40bb-b6d4-fd9dd681e675@103.119.18.192:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=OrLSHSvLuAgKZqxfnPszRZdZvYVTPNozRP6-NX3JGDI&security=reality&sid=5c83ae5368d1f1b5&sni=amd.com&type=tcp#🔒smkn-CZ-🇨🇿
+ss://e2cd1f88-8582-4ab9-9497-de59de37b626@195.133.35.81:443?security=reality&amp;encryption=none&amp;pbk=8R53x47787bPBVJnKyLkOhTztNW6djdTh0WEWph8710&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.amd.com&amp;sid=7479#🔒smkn-CZ-🇨🇿
 ss://406d8436-0eb9-4eb2-84fb-960e076ffba6@14.102.228.76:2083?mode=stream-one&amp;path=%2Fde&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1&amp;encryption=none&amp;insecure=1&amp;host=de.lezzatzone.ir&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=1&amp;sni=de.lezzatzone.ir#🔒smkn-CZ-🇨🇿
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@14.102.228.210:2096?encryption=none&security=tls&type=ws&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#🔒smkn-CZ-🇨🇿
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@195.85.23.54:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#🔒smkn-CZ-🇨🇿
+vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@103.119.18.115:443?&security=reality&flow=xtls-rprx-vision&pbk=V-B12dvv0fVIwcmcRNdMQIcc4nmqsYB_PR_3X4VVB0A&sid=91a7a393d805f5c6&fp=firefox&sni=ch1.murhost.network&type=tcp&headerType=none&host=ch1.murhost.network&path=%2F#🔒smkn-CZ-🇨🇿
+trojan://Aimer@37.157.192.61:9902/?type=tcp&security=tls&sni=amepo.ambercc.filegear-sg.me&allowInsecure=1#🔒smkn-CZ-🇨🇿
