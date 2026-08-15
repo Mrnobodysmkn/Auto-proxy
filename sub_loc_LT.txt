@@ -1,2 +1,5 @@
-vless://04b9e828-43ed-4faf-8952-41069ec08355@93.115.25.139:443?encryption=none&security=tls&sni=ddc-chr2.astralweb.tech&fp=firefox&alpn=h2&insecure=0&allowInsecure=0&type=tcp&headerType=none#🔒smkn-LT-🇱🇹
-vless://51d22c42-5342-4715-a927-1b76226dd4cf@89.116.250.75:8443?security=tls&sni=join-telegram-channel-vipv2rey.mamare.ir&type=grpc&serviceName=@vipv2rey@vipv2rey@vipv2rey&encryption=none#🔒smkn-LT-🇱🇹
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@89.116.250.49:2053?path=%2F&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=dl1-tr-cdn.easy-upload.org#🔒smkn-LT-🇱🇹
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@84.32.209.210:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Zq6qL8R76CWAsWlI1m_684JcC6Jw_kFAZNshxfjivB0&security=reality&sid=6ba85179e30d4fc2&sni=statusdetector404.ru&type=tcp#🔒smkn-LT-🇱🇹
+vless://7603c601-efbd-4070-804b-cc8a4d6ee414@45.81.254.65:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=goo.su&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32#🔒smkn-LT-🇱🇹
+vless://8bba3194-4856-46d1-8319-075817d87eb1@2.59.162.56:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=lt2.cyphervpn.pro&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&sid=8f9d033ad6d2cebf&fp=chrome&alpn=http/1.1#🔒smkn-LT-🇱🇹
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@84.32.209.210:7443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=statusdetector404.ru&sid=6ba85179e30d4fc2#🔒smkn-LT-🇱🇹
