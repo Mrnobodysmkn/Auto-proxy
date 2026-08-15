@@ -1,6 +1,4 @@
-trojan://humanity@45.130.125.112:443/?type=ws&path=%2Fassignment&security=tls&sni=www.calmlunch.com&fp=chrome#🔒smkn-SC-🇸🇨
-vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?mode=auto&path=/v2raylink&security=tls&encryption=none&insecure=0&host=germany4.alibaba1405.org&fp=chrome&type=xhttp&allowInsecure=0&sni=germany4.alibaba1405.org#🔒smkn-SC-🇸🇨
-vless://41f33146-7eb4-11f1-855a-d60b69bb56c6@200.165.235.43:2053?encryption=none&pbk=j8OW1foMwfeiy3VMbNPHLgTXgy_ZPdFFxv-H3HrbNF0&security=reality&serviceName=grpc-direct&sid=2c60309fa586eb60&sni=dzen.ru&type=grpc&fp=firefox#🔒smkn-SC-🇸🇨
-vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.162:2053?encryption=none&security=tls&sni=po.fastbrokencompony.com&alpn=h3h2http/1.1&type=ws&host=po.fastbrokencompony.com&path=/#🔒smkn-SC-🇸🇨
-vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@200.165.228.114:9871?type=grpc&security=reality&encryption=none&sni=dl.google.com&serviceName=grpc-tunnel&fp=qq&pbk=Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0&sid=aabb#🔒smkn-SC-🇸🇨
-vless://1435f6f7-f53c-422e-b9ba-4eef2fa8d5f9@45.130.125.162:8443?mode=auto&path=/?ed=80&security=tls&alpn=h2&encryption=none&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}&fp=chrome&type=xhttp&sni=vh.mojaz-persian-music.ir#🔒smkn-SC-🇸🇨
+vless://965fef48-24c7-4727-b51e-6d3b2b8873c8@45.130.125.158:443?mode=auto&path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=mahsa97.manhamunamkeyeruz.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=mahsa97.manhamunamkeyeruz.ir#🔒smkn-SC-🇸🇨
+vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.158:2053/?type=ws&encryption=none&host=po.fastbrokencompony.com&path=%2F&security=tls&sni=po.fastbrokencompony.com#🔒smkn-SC-🇸🇨
+vless://3d7c04ea-0d63-4847-b916-1103cc6a488f@45.130.125.192:8443?mode=auto&path=/?ed=80&security=tls&alpn=h2&encryption=none&insecure=1&fp=chrome&type=xhttp&allowInsecure=1&sni=vh.mojaz-persian-music.ir#🔒smkn-SC-🇸🇨
+trojan://ttfang@45.130.125.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🔒smkn-SC-🇸🇨

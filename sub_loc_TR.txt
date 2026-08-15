@@ -1,7 +1,4 @@
-vless://0718d4d6-42ea-4388-a41c-2069a49761f5@152.233.53.7:443?type=tcp&headerType=none&security=reality&encryption=none&sni=api-maps.yandex.ru&fp=firefox&pbk=DAdWhCSXRRcho_XopxBKq2-KDupbSY_i2r-FJCy58kY&sid=5a3874f1&flow=xtls-rprx-vision#🔒smkn-TR-🇹🇷
-vless://953358cb-82ba-4296-960d-6d2ec3468f4c@195.162.69.203:8443?security=tls&type=tcp&sni=195-162-69-203.sslip.io&fp=firefox&encryption=none#🔒smkn-TR-🇹🇷
+vless://mahanvpn-mahanvpn@2.56.127.137:443?type=ws&security=tls&encryption=none&path=%2F%3Fed%3D2560&host=mAhaNrEaliteAm.MaHkHan.iR&sni=mAhaNrEaliteAm.MaHkHan.iR&fp=chrome&headerType=none#🔒smkn-TR-🇹🇷
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@86.38.214.101:2096/?type=ws&encryption=none&host=juzibaipiao.5112233.xyz&path=%2F%3Fed%3D2048&security=tls&sni=juzibaipiao.5112233.xyz&fp=chrome#🔒smkn-TR-🇹🇷
-trojan://ac8ae2c29cd149eb85cae990572f0d59@195.162.69.238:9443/?type=tcp&security=tls&sni=apple.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#🔒smkn-TR-🇹🇷
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@86.38.214.168:8880/?type=ws&encryption=none&host=kjgx.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2560#🌐smkn-TR-🇹🇷
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@86.38.214.177:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-TR-🇹🇷
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@86.38.214.213:8880/?type=httpupgrade&encryption=none&host=nufillter.jtip.sbs.&path=%2F#🌐smkn-TR-🇹🇷
+vless://f8fd2381-40ea-4b46-973b-f9dab2eed50b@146.103.26.96:37211?encryption=none&fp=edge&pbk=2dpt8KZvY90iXmpdsCMkvK_00uHIhNbnz0VYrVFcJ3k&security=reality&sid=aa6f080efb8928f9&sni=www.google.com&type=tcp#🔒smkn-TR-🇹🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVNXVCWFJiTGhaZHZyNnYwbWRBdmph@107.161.174.240:8388#🌐smkn-TR-🇹🇷
