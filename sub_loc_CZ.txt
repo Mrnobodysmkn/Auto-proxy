@@ -1,8 +1,6 @@
-vless://a6f6d9c9-9d43-4d0e-bf95-4b87cc5bbaac@103.119.18.115:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ch1.murhost.network&allowInsecure=1&fp=chrome&security=reality&pbk=V-B12dvv0fVIwcmcRNdMQIcc4nmqsYB_PR_3X4VVB0A&sid=91a7a393d805f5c6&packetEncoding=xudp#🔒smkn-CZ-🇨🇿
-vless://33a31dc6-6bbc-46c0-9685-fb5e327d3c7d@152.233.66.68:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=TXwYCrwkhTEeqtxTf3ZYmXNwYcmVtR9eVXJRo7Kvxmk&sid=8c5041b3&sni=api-maps.yandex.ru#🔒smkn-CZ-🇨🇿
-vless://cc6b985d-0362-4129-8763-38564174fb3e@14.102.228.172:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=iryiccyne.wwtraveler.com&alpn=http%2F1.1%2Ch2&fp=chrome#🔒smkn-CZ-🇨🇿
-vless://cc6b985d-0362-4129-8763-38564174fb3e@14.102.228.209:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=iryiccyne.wwtraveler.com&alpn=http%2F1.1%2Ch2&fp=chrome#🔒smkn-CZ-🇨🇿
+trojan://blue2024@14.102.229.63:443/?type=tcp&security=tls&sni=b.promote.icu#🔒smkn-CZ-🇨🇿
+vless://e2cd1f88-8582-4ab9-9497-de59de37b626@195.133.35.81:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8R53x47787bPBVJnKyLkOhTztNW6djdTh0WEWph8710&security=reality&sid=7479&sni=www.amd.com&type=tcp#🔒smkn-CZ-🇨🇿
+vless://13b55e8e-fbea-4ee1-b6b7-115fa3043182@46.8.113.17:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cz.srv.anti-zapret.com&sid=17faf32cb516c9cb#🔒smkn-CZ-🇨🇿
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@14.102.228.210:2096?encryption=none&security=tls&type=ws&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#🔒smkn-CZ-🇨🇿
-trojan://Aimer@37.157.192.61:9902/?type=tcp&security=tls&sni=amepo.ambercc.filegear-sg.me&allowInsecure=1#🔒smkn-CZ-🇨🇿
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.222.126:1080#🌐smkn-CZ-🇨🇿
+trojan://ttfang@14.102.228.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🔒smkn-CZ-🇨🇿
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@14.102.228.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F#🌐smkn-CZ-🇨🇿
