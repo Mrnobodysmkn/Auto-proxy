@@ -1,3 +1,5 @@
-vless://2cb6b4d9-0c74-45e2-a4fb-645bb8ac532a@200.165.225.234:443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=firefox&amp;pbk=V2JprbR_aJkS7uX6anyU3nrswGxdvDQT2HpY4WnzuC8&amp;security=reality&amp;sid=5629431325884ff0&amp;sni=rf6.o4ka-internet.com&amp;type=tcp#🔒smkn-BR-🇧🇷
-vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@168.222.251.122:711?type=grpc&security=reality&fp=firefox&pbk=ADsaY9WkhwRaspXqF1JUt4Wg_Aw15h8h679K7Kt9GUU&sni=who.int#🔒smkn-BR-🇧🇷
+vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.238:443/?type=ws&encryption=none&path=%2F%3Fed&security=tls&sni=cl.bgm2024.dpdns.org#🔒smkn-BR-🇧🇷
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@199.232.13.4:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=Channel-ELiV2RAY-ELiV2RAY.nET&type=ws&sni=Channel-ELiV2RAY-ELiV2RAY.nET#🔒smkn-BR-🇧🇷
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.248.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-BR-🇧🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#🌐smkn-BR-🇧🇷
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.176.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-BR-🇧🇷

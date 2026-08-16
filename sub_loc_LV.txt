@@ -1,2 +1,14 @@
-vless://7b6c6542-f3f2-4ca8-aa37-38428cb3bc3a@91.204.75.198:34499?encryption=none&fp=firefox&pbk=pXqtZamxC_qxublGTL8rVZqNI_tt3Ul_GHhcKJPaoQ0&security=reality&serviceName=grpc&sni=m.vk.com&type=grpc#🔒smkn-LV-🇱🇻
-vless://7b6c6542-f3f2-4ca8-aa37-38428cb3bc3a@91.204.75.198:24499?encryption=none&fp=firefox&pbk=pXqtZamxC_qxublGTL8rVZqNI_tt3Ul_GHhcKJPaoQ0&security=reality&serviceName=grpc&sni=static.rutube.ru&type=grpc#🔒smkn-LV-🇱🇻
+vless://57b575f7-f738-42c3-8151-e6bacc8c6717@31.76.123.43:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sni=pro-fi.emrata.top#🔒smkn-LV-🇱🇻
+vless://c8425da6-9ada-0032-8180-c1b4a6aa17c7@13.143.142.16:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=uRuW2K9JNw64jgAVEdV39NMh_udtVD6xxEV-dQFATHY&sni=free-de-03.la-la-land.top#🔒smkn-LV-🇱🇻
+vless://b67ddb53-9e46-492a-84be-0f5b752d7e83@31.56.206.70:443/?type=tcp&encryption=none&sni=yahoo.com&fp=firefox&security=reality&pbk=s7Ai9wZFZdDEA3ox2FSjMAqaugUFKja-7TMNCu2GYmo&sid=c6d0465acae1#🔒smkn-LV-🇱🇻
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2083?security=tls&type=grpc&mode=gun&serviceName=grpc&sni=laoye.in-gect.fun&fp=ios#🔒smkn-LV-🇱🇻
+vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@72.56.52.30:443?security=reality&encryption=none&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=lv.rexten.cc#🔒smkn-LV-🇱🇻
+vless://02ae7872-1c03-4214-8b95-14c126da831e@31.76.37.7:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sni=pro-it.emrata.top#🔒smkn-LV-🇱🇻
+vless://57b575f7-f738-42c3-8151-e6bacc8c6717@31.76.123.25:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sni=pro-fi.emrata.top#🔒smkn-LV-🇱🇻
+vless://0c0a91de-5250-4d6c-9922-f3594d99f096@31.76.123.31:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sni=pro-fi.emrata.top#🔒smkn-LV-🇱🇻
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2053/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=vk.ru&allowInsecure=1&fp=chrome&security=reality&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&sid=d26f4703cdd30f4e&packetEncoding=xudp#🔒smkn-LV-🇱🇻
+vless://f71e29f8-0608-4705-99b9-33e0e128ca6d@217.60.3.119:8765?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=V08eH6wKELK6STU4lGdjvV89rWLE0B7yG8fbsmK8fh4&security=reality&sid=b87857f8cc3bd8dc&sni=www.linkedin.com&type=tcp#🔒smkn-LV-🇱🇻
+vless://4b056394-2f40-11f1-bffe-46c4782ac1a7@31.57.29.7:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&sid=cafe01234567&sni=www.apple.com&path=&host=#🔒smkn-LV-🇱🇻
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:8443?security=reality&type=xhttp&path=%2F&host=laoye.in-gect.fun&packetEncoding=none&sni=laoye.in-gect.fun&fp=firefox&pbk=Z3adeet9wvavdQ8mY6BZYgoXe22BV5DFcsyFChWYNUM&mode=stream-one#🔒smkn-LV-🇱🇻
+trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.105.39:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-LV-🇱🇻
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2096?security=none&type=ws&path=%2F&host=laoye.in-gect.fun&sni=laoye.in-gect.fun#🌐smkn-LV-🇱🇻
