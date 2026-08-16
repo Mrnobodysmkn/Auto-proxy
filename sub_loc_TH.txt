@@ -1,6 +1,2 @@
-trojan://NISHIKUITAN111@154.83.2.121:443/?type=tcp&security=tls#🔒smkn-TH-🇹🇭
-vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@165.101.64.218:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=DU06BFOa3xeqOPxjAxQMi00LvvJ5i1qnjFBJGFv03Q4&security=reality&sid=591076636be970d0&sni=th.cryptoofarm.com&type=tcp#🔒smkn-TH-🇹🇭
-vless://b93efa30-e2c5-401c-9ec7-22e30266cc60@157.85.102.28:1083?security=&encryption=none&headerType=none&type=tcp#🌐smkn-TH-🇹🇭
-vless://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@143.14.11.236:80?encryption=none&security=none&type=ws&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&path=%2F#🌐smkn-TH-🇹🇭
-trojan://Rm6JhT-Rz8H6Mjy3dtSglA@157.85.102.28:1084?security=none&headerType=none&type=tcp#🌐smkn-TH-🇹🇭
-vmess://eyJhZGQiOiAiMTU0LjgzLjIuMTIxIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImlwMTguNjkyOTE5OC54eXoiLCAiaWQiOiAiNWYzZjA5YWQtODljYi00ZTk0LWE3YWQtYWE4MjM5OTEzNTU1IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9naXRodWIuY29tL0FsdmluOTk5OSIsICJwb3J0IjogIjIwODIiLCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1USC1cdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZWQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
+vless://fe962226-fe1c-4391-a5ba-7b7c62adda19@154.83.2.200:443?encryption=none&security=tls&sni=am-tunnel-6fs.pages.dev&type=ws&host=am-tunnel-6fs.pages.dev&path=%2F#🔒smkn-TH-🇹🇭
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.156:8880?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#🌐smkn-TH-🇹🇭
