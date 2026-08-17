@@ -1,2 +1,2 @@
-trojan://amclubs@154.83.2.61:8443/?type=ws&path=%2F%3Fed%3D2560&security=tls&sni=tran.amclubstest.nyc.mn#🔒smkn-TH-🇹🇭
-ss://f55ce6cc-3f6b-40fc-9e3b-abe26db17009@18.239.134.69:80?&amp;type=ws&amp;headerType=none&amp;host=d2e1v87ko56lyw.cloudfront.net:assets.opensignal.com&amp;path=%2F#🌐smkn-TH-🇹🇭
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@154.83.2.64:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org#🔒smkn-TH-🇹🇭
+vless://89c3b66f-c849-4602-a5a8-84b6f06af478@157.85.105.179:80?&type=ws&headerType=none&host=d2pwbkmfr5lxa4.cloudfront.net&path=%2F#🌐smkn-TH-🇹🇭
