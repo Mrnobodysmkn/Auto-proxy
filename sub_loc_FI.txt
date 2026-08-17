@@ -1,6 +1,5 @@
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.247.217:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🔒smkn-FI-🇫🇮
-vless://896efe15-7363-4d6c-97aa-cb0bb5499228@95.217.240.156:443?security=reality&sni=www.speedtest.net&fp=chrome&pbk=gB2mHBv8PQXA0HSxOlOcB91nq5luio58GPdkjAgmk2M&sid=10ff054b&type=tcp&flow=xtls-rprx-vision&encryption=none#🔒smkn-FI-🇫🇮
-vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@65.109.118.175:443/?type=tcp&encryption=none&security=tls&sni=app.chandplus.com&alpn=h3%2Ch2%2Chttp%2F1.1#🔒smkn-FI-🇫🇮
-vless://000f16e8-cc68-4951-b336-acd81996efde@77.221.159.165:40443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=6AOnobBShzL_N96JRBNMfbL84_3myz8ZbKfZUEqRXiY&sni=deepl.com#🔒smkn-FI-🇫🇮
-vless://439613a1-d448-4d91-a996-4c7a97e74482@78.40.209.79:49579?type=tcp&security=reality&encryption=none&fp=firefox&pbk=tBJpi0MemmZnx1FGDt-ORooooEQrv7EuCgLzN9xH2i4&sid=aa&sni=github.com#🔒smkn-FI-🇫🇮
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ@31.76.30.79:10808#🌐smkn-FI-🇫🇮
+vless://4829c2f5-f45a-4330-9b3c-d381b9efdbec@2.27.53.234:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dl.google.com&fp=firefox&security=reality&pbk=CMTA5uuaIVIeqHslZMT3CbFwP8F5ysMLii72ybsTlyY&sid=e2a4c6b8#🔒smkn-FI-🇫🇮
+vless://487273f5-4aeb-4631-b197-2e169dffc285@2.26.91.98:1443?path=%2F%40Marisa_kristi&security=tls&encryption=none&host=8n9qi6t-owl.gevc9s4n60cc3wzcmwhjyezydpmbchocxp.workers.dev&fp=chrome&type=ws&sni=8n9qi6t-owl.gevc9s4n60cc3wzcmwhjyezydpmbchocxp.workers.dev&ech=cloudflare-ech.com+https://dns.alidns.com/dns-query#🔒smkn-FI-🇫🇮
+vless://0b0915d7-6800-4580-a44b-77d84f105e6a@185.79.138.71:448/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=chrome&security=reality&pbk=CsDgNRcCwCkPIslfZpKTIK71KFpIFNsotbdzKcZVoH8&sid=cd21e552537c7c0b#🔒smkn-FI-🇫🇮
+trojan://8r%3C%5B9%27l6hAO%238ZQi@77.110.98.16:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-FI-🇫🇮
+vless://7f3c6d59-e19f-47e4-8004-5facb77b1211@65.109.181.6:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#🌐smkn-FI-🇫🇮

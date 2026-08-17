@@ -1,2 +1,1 @@
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@212.183.88.194:443/?type=ws&path=%2Fproxyip%3D212.183.88.194%3A443&security=tls&sni=icecream.955850.xyz#🔒smkn-AT-🇦🇹
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@212.183.88.29:443/?type=ws&encryption=none&host=kb.lii2010.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=kb.lii2010.us.kg&alpn=http%2F1.1#🔒smkn-AT-🇦🇹
+vless://2ee2b77f-e4cd-4e5d-af22-f9d919eeadd5@87.251.69.48:8443?security=tls&type=tcp&packetEncoding=xudp&alpn=h2%2Chttp%2F1.1&sni=at16.fastlanehosting.ru&fp=chrome&encryption=none#🔒smkn-AT-🇦🇹
