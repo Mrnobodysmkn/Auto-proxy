@@ -1,5 +1,4 @@
-trojan://2e7d3f13-be1b-479c-94ff-0e95c2bd565d@89.116.180.158:443?security=tls&sni=3us2.pqjc.buzz&type=tcp#🔒smkn-UA-🇺🇦
 trojan://NISHIKUITAN111@194.152.44.218:443/?type=tcp&security=tls&allowInsecure=1#🔒smkn-UA-🇺🇦
-vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@91.224.87.22:9882?type=grpc&amp;security=reality&amp;fp=chrome&amp;pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&amp;sid=aabb&amp;sni=dl.google.com&amp;serviceName=grpc-tunnel#🔒smkn-UA-🇺🇦
 vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@91.224.87.22:9873?type=grpc&security=reality&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sni=dl.google.com&serviceName=grpc-tunnel#🔒smkn-UA-🇺🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@194.54.80.37:1080#🌐smkn-UA-🇺🇦
+vless://2a650f3b-d95b-4bd6-aadf-16ccc0717155@91.224.87.22:9882?type=grpc&security=reality&fp=chrome&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&sni=dl.google.com&serviceName=grpc-tunnel#🔒smkn-UA-🇺🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@91.218.49.99:1080#🌐smkn-UA-🇺🇦
