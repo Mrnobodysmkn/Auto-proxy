@@ -1,8 +1,5 @@
-vless://eece4171-e025-40a3-9027-e395036ff99d@45.198.80.214:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=28047c78b3f5ee2c&sni=storage.yandex.net&type=tcp#🔒smkn-ES-🇪🇸
-vless://eece4171-e025-40a3-9027-e395036ff99d@45.198.80.93:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=28047c78b3f5ee2c&sni=storage.yandex.net&type=tcp#🔒smkn-ES-🇪🇸
-vless://eece4171-e025-40a3-9027-e395036ff99d@45.198.80.179:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=28047c78b3f5ee2c#🔒smkn-ES-🇪🇸
-trojan://humanity@185.18.250.245:443/?type=tcp&security=tls&sni=www.calmlunch.com#🔒smkn-ES-🇪🇸
-vless://c6f220ed-41f2-21ba-438c-80f05ebbf92a@170.168.97.5:8443/?type=grpc&encryption=none&flow=&serviceName=TunService&sni=download.nvidia.com&allowInsecure=1&fp=chrome&security=reality&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&sid=&packetEncoding=xudp#🔒smkn-ES-🇪🇸
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@138.124.62.87:13868?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=W24D31y_1ZaASX1bq3d85DQaQd_3NcJQCvg1wmCn-Uo&sid=e852dc&sni=www.ea.com#🔒smkn-ES-🇪🇸
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@138.124.181.51:13868?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=W24D31y_1ZaASX1bq3d85DQaQd_3NcJQCvg1wmCn-Uo&sid=e852dc&sni=www.ea.com#🔒smkn-ES-🇪🇸
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#🌐smkn-ES-🇪🇸
+trojan://humanity@185.114.72.31:2053?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🔒smkn-ES-🇪🇸
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.18.250.185:2053?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#🔒smkn-ES-🇪🇸
+vless://eece4171-e025-40a3-9027-e395036ff99d@45.198.80.154:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=28047c78b3f5ee2c&sni=storage.yandex.net&type=tcp#🔒smkn-ES-🇪🇸
+vless://eece4171-e025-40a3-9027-e395036ff99d@45.198.80.100:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=28047c78b3f5ee2c&sni=storage.yandex.net&type=tcp#🔒smkn-ES-🇪🇸
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.18.250.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-ES-🇪🇸
