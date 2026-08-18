@@ -1,6 +1,4 @@
-vless://fe962226-fe1c-4391-a5ba-7b7c62adda19@154.83.2.200:443?encryption=none&security=tls&sni=am-tunnel-6fs.pages.dev&type=ws&host=am-tunnel-6fs.pages.dev&path=%2F#🔒smkn-TH-🇹🇭
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@154.83.2.237:2053?path=%2F&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=dl1-uk-cdn.easy-upload.org#🔒smkn-TH-🇹🇭
+trojan://NISHIKUITAN111@154.83.2.121:443/?type=tcp&security=tls#🔒smkn-TH-🇹🇭
 trojan://amclubs@154.83.2.94:2053/?type=ws&path=%2F%3Fed%3D2560&security=tls&sni=tran.amclubstest.nyc.mn#🔒smkn-TH-🇹🇭
-vless://16ab4d4a-fd81-4535-9b7b-346677226ce8@165.101.64.218:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=DU06BFOa3xeqOPxjAxQMi00LvvJ5i1qnjFBJGFv03Q4&security=reality&sid=591076636be970d0&sni=th.cryptoofarm.com&type=tcp#🔒smkn-TH-🇹🇭
-vless://f988794c-cdb2-4842-b604-06e65cf6d040@154.83.2.212:8443/?type=grpc&encryption=none&serviceName=%F0%9F%91%A8%E2%80%8D%F0%9F%9A%80Free%F0%9F%91%A8%E2%80%8D%F0%9F%9A%80&security=tls&sni=societshaia7rysv.aminho3ien.ir#🔒smkn-TH-🇹🇭
-vless://ff0c1cde-6f94-4bf1-9774-ab25c6b4977d@157.85.97.238:80/?type=ws&encryption=none&flow=&host=d7iwyzy9wpvuu.cloudfront.net&path=/knl8#🌐smkn-TH-🇹🇭
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.164.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-TH-🇹🇭
+vmess://eyJhZGQiOiAiMTU0LjgzLjIuMTIxIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImlwMTguNjkyOTE5OC54eXoiLCAiaWQiOiAiNWYzZjA5YWQtODljYi00ZTk0LWE3YWQtYWE4MjM5OTEzNTU1IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9naXRodWIuY29tL0FsdmluOTk5OSIsICJwb3J0IjogIjIwODIiLCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1USC1cdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZWQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
