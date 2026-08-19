@@ -1,2 +1,5 @@
-trojan://amclubs@154.83.2.94:2053/?type=ws&path=%2F%3Fed%3D2560&security=tls&sni=tran.amclubstest.nyc.mn#🔒smkn-TH-🇹🇭
-ss://d6b8011a-c725-435a-9fec-bf6d3530392c@154.83.2.54:2096?encryption=none&amp;security=tls&amp;sni=vle.amclubsapp.dpdns.org&amp;type=ws&amp;host=vle.amclubsapp.dpdns.org#🔒smkn-TH-🇹🇭
+trojan://NISHIKUITAN111@154.83.2.121:443/?type=tcp&security=tls#🔒smkn-TH-🇹🇭
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@154.83.2.237:2053?path=%2F&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=dl1-uk-cdn.easy-upload.org#🔒smkn-TH-🇹🇭
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@154.83.2.47:2053?path=%2F&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=dl1-tr-cdn.easy-upload.org#🔒smkn-TH-🇹🇭
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@154.83.2.156:8880?path=/&security=none&encryption=none&host=redw.pooriam.ir&type=ws#🌐smkn-TH-🇹🇭
+vmess://eyJhZGQiOiAiMTU0LjgzLjIuMTIxIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImlwMTguNjkyOTE5OC54eXoiLCAiaWQiOiAiNWYzZjA5YWQtODljYi00ZTk0LWE3YWQtYWE4MjM5OTEzNTU1IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9naXRodWIuY29tL0FsdmluOTk5OSIsICJwb3J0IjogIjIwODIiLCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1USC1cdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZWQiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
