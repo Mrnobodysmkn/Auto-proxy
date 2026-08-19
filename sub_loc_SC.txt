@@ -1,7 +1,5 @@
-trojan://humanity@45.130.125.75:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#🔒smkn-SC-🇸🇨
-vless://fd6fb48f-b324-4a82-9dcd-f8bdb1bd5301@45.130.125.114:443/?type=ws&encryption=none&host=NeTRINo-GermN-2bUAAMBt.DoMnewConFSOB1.org&path=%2Fws-vlees&security=tls&sni=NeTRINo-GermN-2bUAAMBt.DoMnewConFSOB1.org&fp=chrome#🔒smkn-SC-🇸🇨
-vless://f3b8c2a1-9d4e-4b7f-a6c5-2e8d1f0b4a93@45.130.125.114:8443?path=/&security=tls&encryption=none&insecure=0&host=srv10.perfectbulk.info&fp=chrome&type=ws&allowInsecure=0&sni=srv10.perfectbulk.info#🔒smkn-SC-🇸🇨
-trojan://ttfang@45.130.125.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🔒smkn-SC-🇸🇨
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.30:8880?security=none&type=ws&path=/&host=vms.lifetime58.workers.dev&allowInsecure=1&sni=vms.lifetime58.workers.dev#🌐smkn-SC-🇸🇨
-vless://e2c5f1a9-b3d4-4e78-9f2a-1c3d4e5f6a7b@45.130.125.114:80?encryption=none&type=ws&host=new-scale08-cdn.sabzi.name.ng.&path=/&packetEncoding=xudp#🌐smkn-SC-🇸🇨
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.209:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#🌐smkn-SC-🇸🇨
+vless://AlfredConfig@45.130.125.66:443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=alfi.yas-nowin.ir&fp=chrome&type=ws&allowInsecure=0&sni=alfi.yas-nowin.ir#🔒smkn-SC-🇸🇨
+vless://1435f6f7-f53c-422e-b9ba-4eef2fa8d5f9@45.130.125.162:8443?mode=auto&path=/?ed=80&security=tls&alpn=h2&encryption=none&extra={"scMaxEachPostBytes":1000000,"scMaxConcurrentPosts":100,"scMinPostsIntervalMs":30,"xPaddingBytes":"100-1000","noGRPCHeader":false}&fp=chrome&type=xhttp&sni=vh.mojaz-persian-music.ir#🔒smkn-SC-🇸🇨
+vless://e3a625d4-5adb-463d-bbff-bbe06b8e2c5c@200.165.228.51:2200?encryption=none&type=ws&path=%2Fv1&security=none#🌐smkn-SC-🇸🇨
+vless://e3a625d4-5adb-463d-bbff-bbe06b8e2c5c@200.165.228.51:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#🌐smkn-SC-🇸🇨
+vless://5383fb97-1178-4709-9a25-b767b743e911@200.165.234.62:4100?encryption=none&type=ws&path=%2Fv1&security=none#🌐smkn-SC-🇸🇨
