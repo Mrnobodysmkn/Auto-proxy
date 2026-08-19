@@ -1,1 +1,9 @@
+trojan://humanity@45.130.125.75:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#🔒smkn-SC-🇸🇨
+trojan://humanity@45.130.125.96:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#🔒smkn-SC-🇸🇨
+trojan://humanity@45.130.125.126:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.multiplydose.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#🔒smkn-SC-🇸🇨
+vless://41f33146-7eb4-11f1-855a-d60b69bb56c6@200.165.235.43:2053?encryption=none&pbk=j8OW1foMwfeiy3VMbNPHLgTXgy_ZPdFFxv-H3HrbNF0&security=reality&serviceName=grpc-direct&sid=2c60309fa586eb60&sni=dzen.ru&type=grpc&fp=firefox#🔒smkn-SC-🇸🇨
+trojan://ttfang@45.130.125.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🔒smkn-SC-🇸🇨
+ss://f106648e-0644-40bc-974c-6edc966fe18d@45.130.125.101:8443?mode=auto&amp;path=%2F%3Fed&amp;security=tls&amp;alpn=h3%2Ch2&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=cji.new-persian-song.ir#🔒smkn-SC-🇸🇨
+vless://e3a625d4-5adb-463d-bbff-bbe06b8e2c5c@200.165.228.51:2200?encryption=none&type=ws&path=%2Fv1&security=none#🌐smkn-SC-🇸🇨
+vless://e3a625d4-5adb-463d-bbff-bbe06b8e2c5c@200.165.228.51:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#🌐smkn-SC-🇸🇨
 vless://6620ef58-9c62-43fe-9596-ff862b200958@200.165.228.47:4100/?type=ws&encryption=none&flow=&host=live.ok.ru&path=%2Fv1#🌐smkn-SC-🇸🇨
