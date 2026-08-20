@@ -1,10 +1,8 @@
 trojan://biS(YrwB,3L$@185.143.235.5:443/?type=tcp&security=tls&sni=mydigipay.com#🔒smkn-IR-🇮🇷
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.125:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org#🔒smkn-IR-🇮🇷
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.51:2053?path=%2F&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=dl1-uk-cdn.easy-upload.org#🔒smkn-IR-🇮🇷
-vless://5e9d217c-0f9f-4c8c-aa79-a600baa8765b@2.144.22.87:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=api.bgp6.ir&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api.bgp6.ir#🔒smkn-IR-🇮🇷
-trojan://dTaXAtuoQF@185.143.235.200:443/?type=tcp&security=tls&sni=nginx-4561f180e2-anssdsfsdf.apps.ir-northwest1.arvancaas.ir#🔒smkn-IR-🇮🇷
-vless://96a1b724-68d2-4f4d-ab25-38ecd83577bc@45.131.4.173:8443?encryption=none&security=tls&sni=QtRkJtLt27.pRiMeXaD.OrG&alpn=h3%2Ch2&fp=chrome&type=ws&host=QtRkJtLt27.pRiMeXaD.OrG&path=%2F#🔒smkn-IR-🇮🇷
-ss://2a54636c-20ab-42cd-b725-f0da347c50e2@94.101.176.12:443?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#🔒smkn-IR-🇮🇷
-vless://6b7cc59c-deb1-41b7-8758-c582c00c1fe3@185.143.235.200:2095?encryption=none&security=none&type=ws&host=Tu5.pokerpings.com&path=/#🌐smkn-IR-🇮🇷
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.36:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#🔒smkn-IR-🇮🇷
+vless://4e6fe6c7-fef1-4030-9faf-1345155999f2@185.218.139.222:500?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2F&pbk=dWoPr-hBM4I7ykmsnSn2LnivT7rZcmzaPCAsryiVMn4&security=reality&sid=42a518&sni=www.sony.com&spx=%2FCubmyCKA9BaiK7Y&type=xhttp&x_padding_bytes=100-1000#🔒smkn-IR-🇮🇷
+vless://fc7d5074-cf6d-42bc-9cf4-a76811aca6c0@95.38.135.155:8443/?type=ws&encryption=none&path=%2F&security=tls&sni=proxys46.elcom.sbs#🔒smkn-IR-🇮🇷
+vless://440d1fb3-7a10-4569-82c2-71602cef26c7@87.236.38.139:2036?security=tls&type=ws&path=%2F&host=world.ashahan.ir&sni=world.ashahan.ir&fp=chrome&encryption=none#🔒smkn-IR-🇮🇷
+vless://fe5734ba-8c8e-40ee-9fcd-3b6f6059c1ef@46.100.133.5:8443?encryption=none&security=tls&sni=web.dicomviewer.shop&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#🔒smkn-IR-🇮🇷
 vless://93455e57-7599-4d63-baca-27f5e1762832@185.143.235.235:80?type=ws&encryption=none&host=c3.novin-devs.ir&security=none#🌐smkn-IR-🇮🇷
-vless://e3c0b438-a4e7-4a38-8316-7512f6044eb3@78.109.198.25:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&type=tcp#🌐smkn-IR-🇮🇷

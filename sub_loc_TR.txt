@@ -1,7 +1,5 @@
-vless://629f88a6-b20b-4489-a22f-4d8b418c0488@212.64.201.33:2053?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=RwtMzZtTCmy9WRq3_27xeGF8-1l_qPXRVG3yIFp-6Go&sid=c0d1d1776fed0f6d&sni=tr-t.vinnypuxtomoon.today#🔒smkn-TR-🇹🇷
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@45.141.148.11:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fyOnHd_PZ6UjxCLPDFfxrT3XIJnjTpHXyluFakC3v14&security=reality&sid=95d36da964f4e951&sni=tr.savesafe.cc&type=tcp#🔒smkn-TR-🇹🇷
-trojan://Aimer@86.38.214.186:443/?type=tcp&security=tls&sni=agepj.ambercc.filegear-sg.me#🔒smkn-TR-🇹🇷
-vless://f0b1b21b-b047-47d6-917a-06ac48b56dec@78.135.77.164:8443?fp=chrome&spx=/2731f58ded48c8e&encryption=none&pbk=sfniYcyPB45tdyS_VcPEIqlePCF43RNL8qp9L7THXAA&security=reality&sid=ef27fd&sni=www.speedtest.net&headerType=none&type=tcp#🔒smkn-TR-🇹🇷
-trojan://tunnel-telegram-ibahad@193.124.46.134:8441?security=tls&alpn=http%2F1.1&host=tr-1.stunnel.cc&headerType=none&type=tcp&sni=creativecommons.org#🔒smkn-TR-🇹🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtdGVsZWdyYW0taWJhaGFk@193.124.46.134:8444#🌐smkn-TR-🇹🇷
-vless://470c7664-3262-afbb-2bef-f6f0f5e83815@185.226.94.191:80?path=%2F&security=&encryption=none&type=ws&sni=185.226.94.203#🌐smkn-TR-🇹🇷
+trojan://bpb-trojan@86.38.214.132:443/?type=ws&host=bpb.my79801.com&path=%2Ftr%3Fed&security=tls&sni=bpb.my79801.com#🔒smkn-TR-🇹🇷
+vless://35a6946a-2003-448f-9c1b-911efaa8c9a7@45.74.178.48:20828?security=none&type=ws&host=nl-bl-nl.karmatel.ir&path=%2F#🌐smkn-TR-🇹🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@188.41.249.20:1080#🌐smkn-TR-🇹🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTdFp3TDd5dUdKTDcwbTM5RDFVcXV2cnFmMzJwRkF2dw@212.87.198.109:1080#🌐smkn-TR-🇹🇷
+ss://7e8f7489-e65f-4be6-93ed-867a74ec6759@185.39.204.155:8443?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc&amp;serviceName=grpc#🌐smkn-TR-🇹🇷
