@@ -1,7 +1,8 @@
+vless://0c0a91de-5250-4d6c-9922-f3594d99f096@31.76.37.2:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sni=pro-it.emrata.top#🔒smkn-LV-🇱🇻
+vless://2dafa8da-8c69-4d05-a772-8a5f853a012d@13.143.142.82:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=uRuW2K9JNw64jgAVEdV39NMh_udtVD6xxEV-dQFATHY&sni=free-de-05.latop.top#🔒smkn-LV-🇱🇻
+vless://0c0a91de-5250-4d6c-9922-f3594d99f096@31.76.123.31:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sni=pro-fi.emrata.top#🔒smkn-LV-🇱🇻
 vless://0c0a91de-5250-4d6c-9922-f3594d99f096@31.76.123.34:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sni=pro-fi.emrata.top#🔒smkn-LV-🇱🇻
-vless://13a894b0-e414-5459-a0fa-9309209c386b@185.113.139.103:443/?type=ws&encryption=none&host=185.113.139.103&path=%2Fvless&security=tls&sni=185.113.139.103&fp=chrome#🔒smkn-LV-🇱🇻
-trojan://8r%3C%5B9%27l6hAO%238ZQi@188.215.31.98:2053/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-LV-🇱🇻
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2083?security=tls&type=grpc&mode=gun&serviceName=grpc&sni=laoye.in-gect.fun&fp=ios#🔒smkn-LV-🇱🇻
+vless://631ee34f-4faf-4ad7-b49d-e6f50403cf0e@188.92.78.81:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=93ae75024604f796&sni=anyfile2file.com&fp=firefox#🔒smkn-LV-🇱🇻
 vless://02ae7872-1c03-4214-8b95-14c126da831e@31.76.37.7:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sni=pro-it.emrata.top#🔒smkn-LV-🇱🇻
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2053/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=vk.ru&allowInsecure=1&fp=chrome&security=reality&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&sid=d26f4703cdd30f4e&packetEncoding=xudp#🔒smkn-LV-🇱🇻
-vless://Telegram:@Free_VPN_CH@109.248.163.226:8443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#🔒smkn-LV-🇱🇻
+trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.107.41:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-LV-🇱🇻
+trojan://8r%3C%5B9%27l6hAO%238ZQi@195.135.252.148:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-LV-🇱🇻
