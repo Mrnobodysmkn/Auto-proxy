@@ -1,9 +1,4 @@
-vless://0c0a91de-5250-4d6c-9922-f3594d99f096@31.76.37.2:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sni=pro-it.emrata.top#🔒smkn-LV-🇱🇻
-vless://c7e9c591-2764-423a-afca-efbd010fd396@185.92.183.41:2053?type=ws&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online#🔒smkn-LV-🇱🇻
-vless://57b575f7-f738-42c3-8151-e6bacc8c6717@31.76.123.43:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sni=pro-fi.emrata.top#🔒smkn-LV-🇱🇻
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.227.49:2053/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-LV-🇱🇻
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.62.167:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eu-west.cendora.ru&security=reality&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&sid=dd3ff38418d29d22#🔒smkn-LV-🇱🇻
-trojan://8r%3C%5B9%27l6hAO%238ZQi@213.232.204.28:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-LV-🇱🇻
-trojan://8r%3C%5B9%27l6hAO%238ZQi@217.145.79.119:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-LV-🇱🇻
-vless://Telegram:@Free_VPN_CH@109.248.163.226:8443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#🔒smkn-LV-🇱🇻
-vless://f71e29f8-0608-4705-99b9-33e0e128ca6d@217.19.4.31:8765?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=LnjkhQCakAyx77WVex3Sk4ei-0aebfCWgqbXPhn7C1E&security=reality&sid=c3346ebaa0dc0530&sni=www.google.com&type=tcp#🔒smkn-LV-🇱🇻
+vless://18f71148-a3c7-40c7-b02a-be04da72efe3@31.76.123.22:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sni=pro-fi.emrata.top#🔒smkn-LV-🇱🇻
+vless://20fda433-1864-433b-b3dd-8f119fe4cafd@77.73.71.103:443/?type=ws&encryption=none&host=happy.mianfeicf.lol&path=%2F&security=tls&sni=happy.mianfeicf.lol#🔒smkn-LV-🇱🇻
+trojan://8r%3C%5B9%27l6hAO%238ZQi@188.215.31.98:2053/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-LV-🇱🇻
+trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.107.41:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-LV-🇱🇻
