@@ -1,3 +1,7 @@
-trojan://humanity@45.130.125.112:443/?type=ws&path=%2Fassignment&security=tls&sni=www.calmlunch.com&fp=chrome#🔒smkn-SC-🇸🇨
-trojan://humanity@45.130.125.75:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#🔒smkn-SC-🇸🇨
-trojan://ttfang@45.130.125.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🔒smkn-SC-🇸🇨
+vless://ac006062-f051-43c6-bd4c-f409285c8635@45.130.125.6:443?mode=auto&path=/v2raylink&security=tls&encryption=none&insecure=0&host=germany4.alibaba1405.org&fp=chrome&type=xhttp&allowInsecure=0&sni=germany4.alibaba1405.org#🔒smkn-SC-🇸🇨
+trojan://VPNCUSTOMIZE@45.130.125.2:443/?type=xhttp&host=bvck-oizksj-swin-usje-c-o.offers.de5.net&path=%2Fconfig&mode=stream-one&security=tls&sni=ww.offers.de5.net#🔒smkn-SC-🇸🇨
+trojan://humanity@45.130.125.76:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&alpn=http%2F1.1#🔒smkn-SC-🇸🇨
+vless://b37be529-83c9-4851-a3cf-73d7d05bf308@45.130.125.76:8443?path=/&security=tls&encryption=none&insecure=0&host=drrfddgbv.turbooserver.net.tr&type=ws&allowInsecure=0&sni=drrfddgbv.turbooserver.net.tr#🔒smkn-SC-🇸🇨
+vless://41d332a3-9dac-499b-ad2c-503798302981@45.130.125.2:2095?encryption=none&type=ws&host=consTRUCTIVe-legGo8CQXbAc5.neWGENereaTiOnGAMe.oNliNE.&path=/&max_early_data=2048&early_data_header_name=Sec-WebSocket-Protocol&packetEncoding=xudp#🌐smkn-SC-🇸🇨
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.30:8880?security=none&type=ws&path=/&host=vms.lifetime58.workers.dev&allowInsecure=1&sni=vms.lifetime58.workers.dev#🌐smkn-SC-🇸🇨
+vless://dc8a9493-c54a-459e-d060-81a700000001@45.130.125.201:80?security=none&type=ws&path=%2Fsync&host=nahan-core.netizo09.workers.dev&packetEncoding=none#🌐smkn-SC-🇸🇨
