@@ -1,3 +1,4 @@
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@154.83.2.18:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#🔒smkn-TH-🇹🇭
-vless://401374e6-df77-41fb-f638-dad8184f175b@154.83.2.167:443/?type=grpc&encryption=none&security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2#🔒smkn-TH-🇹🇭
-vless://89c3b66f-c849-4602-a5a8-84b6f06af478@157.85.105.179:80?&type=ws&headerType=none&host=d2pwbkmfr5lxa4.cloudfront.net&path=%2F#🌐smkn-TH-🇹🇭
+trojan://amclubs@154.83.2.61:8443/?type=ws&path=%2F%3Fed%3D2560&security=tls&sni=tran.amclubstest.nyc.mn#🔒smkn-TH-🇹🇭
+vless://19668b6f-e215-41e6-8102-b8d29fb5b8ae@18.172.202.92:80?&sni=duatoup3wk8q2.cloudfront.net&type=ws&headerType=none&host=duatoup3wk8q2.cloudfront.net&path=%2Ffnet50#🌐smkn-TH-🇹🇭
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkN3poMmxNclhOSDUrOCs4cEt6bHhpQ1U5Tk4wMjJpaCt1QXl4ajVkNHFvPQ==@102.129.229.85:31700#🌐smkn-TH-🇹🇭
