@@ -1,9 +1,6 @@
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@31.43.179.16:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org#🔒smkn-KZ-🇰🇿
-vless://401374e6-df77-41fb-f638-dad8184f175b@31.43.179.43:443/?type=grpc&encryption=none&security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2#🔒smkn-KZ-🇰🇿
-vless://4eb871d0-20b7-42a1-9cd1-2447eca55735@92.46.41.247:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kuzya.api.dznn.net&sid=19aa22f681923dc8#🔒smkn-KZ-🇰🇿
-vless://62a08ea5-0564-47b4-a92c-25be07ad6358@109.248.18.63:443?type=grpc&security=reality&fp=firefox&pbk=ne8wv6o6AYcQoVvz30PiTjSxviGa3_Kw5ClIEDdg-3A&sid=6ba85179e30d4fc2&sni=360.yandex.ru&serviceName=grpc&spx=/#🔒smkn-KZ-🇰🇿
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@194.76.18.243:443/?type=ws&encryption=none&path=%2Fblue&security=tls&sni=lk.kpcloud.eu.org#🔒smkn-KZ-🇰🇿
+vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@77.240.38.85:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_-iZt_zsuSnYKNldfwXQlnH6SqbLJILP4qApHbaKax0&sid=3e70d5cbb01bddfd&sni=savesafe.kz#🔒smkn-KZ-🇰🇿
 vless://8ef19221-6d5e-4bce-baa1-7c043eae3309@176.12.73.168:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=stats.vk-portal.net&pbk=6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do&sid=3c6fc84d#🔒smkn-KZ-🇰🇿
-vless://ae564d93-0a3f-40b6-9137-4b73da4432c5@194.76.18.46:2052/?type=httpupgrade&encryption=none&host=ch-configt1.nipytee.info#🌐smkn-KZ-🇰🇿
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@185.176.26.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-KZ-🇰🇿
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzOExiSkNnVWlHWGVDS1ZjNjN0SEpQ@94.198.220.183:64674#🌐smkn-KZ-🇰🇿
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@185.176.26.134:2053?path=%2F&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=dl1-tr-cdn.easy-upload.org#🔒smkn-KZ-🇰🇿
+vless://06f364d4-3d0c-4c60-84e9-a3009f1b0050@5.180.42.202:6443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8&sid=41444f03bd84a905&sni=ign.com#🔒smkn-KZ-🇰🇿
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.176.26.61:2087?encryption=none&security=tls&type=ws&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#🔒smkn-KZ-🇰🇿
+vless://fe604665-7c82-44cf-a067-869fe9b2abae@45.43.159.153:7443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=zOPjTJV8xgGMmD0Mg0jWsRYSOsa_2pp7SSs88EFK6nw&sni=rbc.ru#🔒smkn-KZ-🇰🇿

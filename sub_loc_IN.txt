@@ -1,8 +1,9 @@
-trojan://Bw5Mz7QkVp@139.84.172.132:443/?type=tcp&security=tls&sni=z-v2-077924.kailib.com#🔒smkn-IN-🇮🇳
-vless://ec31f6d7-c71a-413d-93aa-24296805a594@128.128.90.72:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.bing.com&fp=chrome&security=reality&pbk=FL9zvOg48NhHk_YWJMcDXNOseisuzeBW7d8KitUaAQM&sid=dc941fb0778384e2&packetEncoding=xudp#🔒smkn-IN-🇮🇳
-vless://72ea5a91-ffcc-43d2-9297-5993c3abf186@148.113.5.44:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=QLjTpkXRB453R9fXhJzKkc_q_gSm2MZrIOuxW4uW-mI&sni=www.cloudflare.com&sid=221873918e0bb74d#🔒smkn-IN-🇮🇳
-trojan://ttfang@20.235.105.146:443/?type=ws&path=%2F&security=tls&sni=ttfang.fange.me#🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.71:443/?type=tcp&security=tls&sni=epcch.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
+vless://6564b639-8857-4fec-a45b-ada20d4bd315@139.59.75.181:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=139.59.75.181&encryption=none#🔒smkn-IN-🇮🇳
+trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443/?type=tcp&security=tls#🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.91:2083/?type=tcp&security=tls&sni=epccd.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.175:2096/?type=tcp&security=tls&sni=epcct.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
+vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&sni=deepl.com&sid=68a8#🔒smkn-IN-🇮🇳
 trojan://Aimer@108.165.152.239:8443/?type=tcp&security=tls&sni=epccd.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.249:2087/?type=tcp&security=tls&sni=epccz.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
-vless://8820e16b-fbc2-49d3-90e4-eeeb8301c83c@151.101.158.71:80?security=none&type=ws&host=anycast.leslie.ch&path=%2F%3Fed%3D2560#🌐smkn-IN-🇮🇳
-vmess://eyJhZGQiOiAiMTA4LjE2NS4xNTIuMjQ5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIlRHLldhbmdDYWkyLnMyLmRiLWxpbmswMi50b3AiLCAiaWQiOiAiNDE2NjBlMTctMDNlNC0zN2FhLWIyMjItOGVkNDQxOGUyNzM5IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9kYWJhaSZUZWxlZ3JhbVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRmM0BXYW5nQ2FpMi8/ZWQ9MjU2MCIsICJwb3J0IjogIjg4ODAiLCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1JTi1cdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjMiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
+vless://f71e29f8-0608-4705-99b9-33e0e128ca6d@5.253.28.39:8765/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.google.com&fp=chrome&security=reality&pbk=s2xfanNw56S8d-wd2Y8XDlXSvX3ioBMwOsKPJihm9Bw&sid=c317cb25c1dba396#🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.36:2096/?type=tcp&security=tls&sni=acepo.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
