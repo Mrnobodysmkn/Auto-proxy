@@ -1,8 +1,10 @@
-vless://5e19b3c8-c1dc-4163-95e2-895319c15d6c@5.180.40.9:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=06GvG7PU5F3Hgq-vUH24tU0tpsbGMCCt26BSvlaBNUE&security=reality&sid=dfbfa87e9f37f1f0&sni=cloud.mail.ru&type=tcp#🔒smkn-KZ-🇰🇿
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@194.76.18.130:443?encryption=none&security=tls&sni=ap.ylks.xyz&type=ws&host=ap.ylks.xyz&path=%2Fblue#🔒smkn-KZ-🇰🇿
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@31.43.179.213:2053?path=%2F&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=dl1-tr-cdn.easy-upload.org#🔒smkn-KZ-🇰🇿
 vless://7e8825a4-86ac-486f-a06c-0917ced9dfcd@94.198.221.64:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=nrt.eagrocket.org&fp=firefox&flow=xtls-rprx-vision&pbk=7VDaTbO6QMT8ZkkYSqFTiKLdu7RQGADy0u8pecwLF3A#🔒smkn-KZ-🇰🇿
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@31.43.179.34:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#🔒smkn-KZ-🇰🇿
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@194.76.18.83:443/?type=ws&encryption=none&host=in.youlingkais.filegear-sg.me&path=%2F%3Fed%3D2560&security=tls&sni=in.youlingkais.filegear-sg.me&packetEncoding=xudp#🔒smkn-KZ-🇰🇿
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@31.43.179.83:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org#🔒smkn-KZ-🇰🇿
+vless://401374e6-df77-41fb-f638-dad8184f175b@31.43.179.43:443/?type=grpc&encryption=none&security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2#🔒smkn-KZ-🇰🇿
 trojan://blue2024@185.176.26.193:443/?type=tcp&security=tls&sni=b.promote.icu#🔒smkn-KZ-🇰🇿
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@185.176.26.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-KZ-🇰🇿
-vless://5ed7b151-b781-4dba-800d-e3f824f1416f@193.124.204.145:49853?encryption=none&headerType=none&type=tcp#🌐smkn-KZ-🇰🇿
+trojan://NISHIKUITAN111@31.43.179.32:443/?type=tcp&security=tls&allowInsecure=1#🔒smkn-KZ-🇰🇿
+vless://probabblynot-ch@194.76.18.126:2087?alpn=http/1.1&encryption=none&fp=chrome&host=probabblynot.fazelextremeisreal.com&path=/@probabblynot&security=tls&sni=probabblynot.fazelextremeisreal.com&type=ws#🔒smkn-KZ-🇰🇿
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@31.43.179.168:8880/?type=ws&encryption=none&host=kjgx.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2560#🌐smkn-KZ-🇰🇿
+vless://c8fe846a-f71f-4000-a760-17e26be5f9e5@185.176.26.252:80?security=none&type=ws&path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=2048&host=unlimiteddev.xn--9iqr0tm1r4wg.co.&encryption=none#🌐smkn-KZ-🇰🇿
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@31.43.179.251:8880?allowInsecure=0&sni=cf.d3z.net&type=ws&host=cf.d3z.net&path=/Telegram#🌐smkn-KZ-🇰🇿
