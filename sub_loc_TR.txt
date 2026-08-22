@@ -1,14 +1,10 @@
-trojan://8bS8vVC5CQ2GsckhM8hIT1jv@193.124.46.65:443?security=tls&amp;sni=193.124.46.65&amp;fp=chrome&amp;allowinsecure=0&amp;type=tcp&amp;headerType=none#🔒smkn-TR-🇹🇷
-vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@216.9.224.172:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=firefox&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&sni=us.rexten.cc#🔒smkn-TR-🇹🇷
-trojan://Aimer@86.38.214.186:443/?type=tcp&security=tls&sni=agepj.ambercc.filegear-sg.me#🔒smkn-TR-🇹🇷
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@45.141.148.11:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fyOnHd_PZ6UjxCLPDFfxrT3XIJnjTpHXyluFakC3v14&security=reality&sid=95d36da964f4e951&sni=tr.savesafe.cc&type=tcp#🔒smkn-TR-🇹🇷
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@86.38.214.101:2096/?type=ws&encryption=none&host=juzibaipiao.5112233.xyz&path=%2F%3Fed%3D2048&security=tls&sni=juzibaipiao.5112233.xyz&fp=chrome#🔒smkn-TR-🇹🇷
-vless://68bdc1ee-c6ee-4d91-ab52-35ce0d368302@193.124.46.65:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=193.124.46.65&fp=chrome#🔒smkn-TR-🇹🇷
-vless://dd5cba91-634a-4ca9-a52d-5294487a74cf@130.185.120.239:80?encryption=none&host=2.naxm.ir&path=%2F&security=none&type=wsoliver soul#🌐smkn-TR-🇹🇷
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@86.38.214.213:8880/?type=httpupgrade&encryption=none&host=nufillter.jtip.sbs.&path=%2F#🌐smkn-TR-🇹🇷
-vless://762e148f-39f7-4ef3-a348-c3584bf436d2@86.38.214.30:8080/?type=ws&encryption=none&host=sNaPp.MaStErSrV.ir.&path=%2F#🌐smkn-TR-🇹🇷
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@86.38.214.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=%2FTelegram#🌐smkn-TR-🇹🇷
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@86.38.214.177:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-TR-🇹🇷
-vless://35a6946a-2003-448f-9c1b-911efaa8c9a7@45.74.178.48:20828?security=none&type=ws&host=nl-bl-nl.karmatel.ir&path=%2F#🌐smkn-TR-🇹🇷
-vless://4dbc9705-e9d6-53c5-818d-ea62e57bd784@86.38.214.30:2095/?type=httpupgrade&encryption=none&host=Ge.PcStorEaRsOft.iR.&path=%2Fegram---AR_ore--tem--ar_sre--egram--AR_st_n--tegram--ar_orE_pn--tgram----aR_tre_pN%3Fed%3D2048#🌐smkn-TR-🇹🇷
-vless://5b97592b-1e9c-7747-e571-b4291f98c6ab@86.38.214.30:8880/?type=httpupgrade&encryption=none&host=LondoN-Ar-25.pcsTorearsOft.iR.&path=%2Fwww.fast.com.live.skornorth.com.zula.ir%3Fed%3D2048#🌐smkn-TR-🇹🇷
+vless://e15b0798-45e6-4a02-8385-80dc4b0faa70@82.26.94.13:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=FYKh5rWtirmY23OjNuhNlQFJb7DI5J79E7T-gkyYNHo&sid=80bfd8cae4850bc9&sni=mywebsite.whit3.net#🔒smkn-TR-🇹🇷
+vless://mahanvpn-mahanvpn@2.56.127.137:443?type=ws&security=tls&encryption=none&path=%2F%3Fed%3D2560&host=mAhaNrEaliteAm.MaHkHan.iR&sni=mAhaNrEaliteAm.MaHkHan.iR&fp=chrome&headerType=none#🔒smkn-TR-🇹🇷
+vless://629f88a6-b20b-4489-a22f-4d8b418c0488@212.64.201.33:2053?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=RwtMzZtTCmy9WRq3_27xeGF8-1l_qPXRVG3yIFp-6Go&sid=c0d1d1776fed0f6d&sni=tr-t.vinnypuxtomoon.today#🔒smkn-TR-🇹🇷
+vless://953358cb-82ba-4296-960d-6d2ec3468f4c@195.162.69.203:8443?type=tcp&security=tls&encryption=none&fp=firefox&sni=195-162-69-203.sslip.io#🔒smkn-TR-🇹🇷
+vless://13efddd3-1a20-49f3-bbbe-f5b530398bb6@158.94.216.61:24949?type=tcp&security=reality&encryption=none&fp=firefox&pbk=qjRHJ5qtLh5zJymurmhkrpBHl1yN0EeRByRznftR3Hw&sid=e5cdac&sni=www.yahoo.com#🔒smkn-TR-🇹🇷
+vless://2ef9a86d-2fc8-4edd-82f4-10727f529f7c@158.94.216.232:9145?security=reality&encryption=none&pbk=Fw1tpKBQ_bT_eSTbaCSYBthpXAQ76kujwfywvjgpUA0&headerType=none&fp=qq&type=tcp&sni=www.python.org&sid=5e06032a9c448538#🔒smkn-TR-🇹🇷
+vless://13efddd3-1a20-49f3-bbbe-f5b530398bb6@158.94.216.61:57728?security=reality&sni=www.yahoo.com&type=tcp&fp=chrome&pbk=_msWT9DtUixMc55dabeo7IqbWGikrSNz35GkoGllFBM&sid=85436cc1#🔒smkn-TR-🇹🇷
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@86.38.214.20:8880/?type=ws&encryption=none&host=us.laoyoutiao.link&path=%2FTelegramU0001F1E8U0001F1F3%20%40MxlShare%20%40WangCai2%20#🌐smkn-TR-🇹🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@188.41.249.20:1080#🌐smkn-TR-🇹🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVNXVCWFJiTGhaZHZyNnYwbWRBdmph@107.161.174.240:8388/?outline=1#🌐smkn-TR-🇹🇷

@@ -1,5 +1,6 @@
-vless://401374e6-df77-41fb-f638-dad8184f175b@14.102.228.18:443/?type=grpc&encryption=none&security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2#🔒smkn-CZ-🇨🇿
-trojan://bpb-trojan@195.85.23.232:443/?type=tcp&security=tls&sni=bpb.my79801.com#🔒smkn-CZ-🇨🇿
-vless://3ffe2ab7-5657-466f-ad71-75aa1717f51b@194.87.52.81:53844?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=24IQtal3G9sIlVqj2_fO-No3Oo6Sxofan80ivMLW_UY&security=reality&sid=893dd72a6ccb9fd0&sni=apple.com&type=tcp#🔒smkn-CZ-🇨🇿
+trojan://blue2024@14.102.229.63:443/?type=tcp&security=tls&sni=b.promote.icu#🔒smkn-CZ-🇨🇿
+vless://cd9d4675-82ab-4d73-85f2-0af98074b5bb@78.159.247.235:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=f6aiEkCa2WOzwaKQjpbrDAZlqVpT1lNcP5hAlKV9PG0&security=reality&sid=7a1373222576ba4d&sni=smartcaptcha.yandexcloud.net&type=raw#🔒smkn-CZ-🇨🇿
+vless://f95706c5-16a0-481b-b6ca-69446130da5e@78.159.247.99:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=GkHB79Vhb0L7LCG9P2MNFfkHxwut2Qql1dQ8zz74pgM&security=reality&sid=0fafb2da2621&sni=smartcaptcha.yandexcloud.net&type=raw#🔒smkn-CZ-🇨🇿
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@14.102.228.210:2096?encryption=none&security=tls&type=ws&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#🔒smkn-CZ-🇨🇿
-trojan://CJ4fBUazRDFd62OxsdClTw%3D%3D@212.192.210.192:14078?host=&path=%2F&security=none&type=ws#🌐smkn-CZ-🇨🇿
+vless://f84401df-5064-485f-a5c5-d17fe7032ef6@78.159.247.213:7444?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&sni=ads.x5.ru#🔒smkn-CZ-🇨🇿
+vless://070b81db-1954-4767-bfa5-26d2c3598273@194.87.52.142:8443?encryption=none&security=reality&sni=ads.x5.ru&fp=chrome&pbk=zRVSRinqebogFvlL5GWcaYfLlKGueXknigEI-f-tKAI&sid=d82c4b67f9a13e5c&type=grpc&authority=&serviceName=grpc&mode=gun#🔒smkn-CZ-🇨🇿
