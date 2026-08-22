@@ -1,3 +1,2 @@
-vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=partner.g2.com#🔒smkn-NO-🇳🇴
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@54.240.174.87:443?security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=d1yxsk0zprgivr.cloudfront.net#🔒smkn-NO-🇳🇴
-vless://157448af-8ecf-4075-a9e9-b23a6a94899b@95.173.205.70:8443/?type=tcp&encryption=none&security=tls&sni=osl-no-01.fromblancwithlove.com&alpn=h2#🔒smkn-NO-🇳🇴
+vless://8384341b-cd89-4a21-a022-cc4bd4e648ca@46.29.238.139:40443?encryption=none&type=raw&headerType=none&security=reality&fp=firefox&pbk=7i4Y7v80NVAIi_4_9roDkqcXmexIHli87dfZuFaQMUI&sni=deepl.com&sid=68da#🔒smkn-NO-🇳🇴
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.236.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-NO-🇳🇴
