@@ -1,4 +1,1 @@
-vless://fa98f221-29e1-4a7e-8797-3bf294aeda35@31.76.5.19:443?type=grpc&security=reality&fp=firefox&pbk=ne8wv6o6AYcQoVvz30PiTjSxviGa3_Kw5ClIEDdg-3A&sid=6ba85179e30d4fc2&sni=360.yandex.ru&serviceName=grpc#🔒smkn-NO-🇳🇴
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@54.240.174.87:443?security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=d1yxsk0zprgivr.cloudfront.net#🔒smkn-NO-🇳🇴
-vless://63a0b5e2-b684-4b05-b964-686aa416a868@194.110.207.195:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=lerring.no&type=tcp#🔒smkn-NO-🇳🇴
-vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=partner.g2.com#🔒smkn-NO-🇳🇴
+vless://157448af-8ecf-4075-a9e9-b23a6a94899b@95.173.205.70:8443/?type=tcp&encryption=none&security=tls&sni=osl-no-01.fromblancwithlove.com&alpn=h2#🔒smkn-NO-🇳🇴
