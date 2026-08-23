@@ -1,5 +1,14 @@
-trojan://bpb-trojan@45.194.53.231:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#🔒smkn-BR-🇧🇷
 ss://9638a83e-f1f7-4cc8-a602-924965d9534f@23.251.56.78:443?security=reality&amp;encryption=none&amp;pbk=E6Y9lNizCXo8tJ6EXwLYQIjyIwmxIs4foyRlY2MgkjA&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=59ccabb0a1483c4b#🔒smkn-BR-🇧🇷
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@185.133.35.26:443/?type=ws&encryption=none&host=vc.ylka.dpdns.org#🔒smkn-BR-🇧🇷
+vless://c396fa08-e07a-459b-b894-389456fd6a82@23.251.55.216:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&fp=firefox&security=reality&pbk=m89wjPa2LxODyi8U5pRVI4E1fwVawIaftC3fLY0ZLw4&sid=9ea177c3c147119b#🔒smkn-BR-🇧🇷
+trojan://MiTiVPN@185.133.35.22:443/?type=ws&host=Finl.App-Cloud.ir&path=%2FMiTiVPN%3DfL&security=tls&sni=Finl.App-Cloud.ir&alpn=http%2F1.1&fp=chrome#🔒smkn-BR-🇧🇷
+vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@168.222.251.122:711?type=grpc&security=reality&fp=firefox&pbk=ADsaY9WkhwRaspXqF1JUt4Wg_Aw15h8h679K7Kt9GUU&sni=who.int#🔒smkn-BR-🇧🇷
+vless://55520747-311e-4015-83ce-be46e2060ce3@185.133.35.242:443/?type=ws&encryption=none&host=uu.vs2024.us.kg#🔒smkn-BR-🇧🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplekcyTHF4OFNTNjg@147.45.116.44:443#🔒smkn-BR-🇧🇷
+vless://ad2d0f18-7c2b-43b5-aeb3-dbfa6f501962@199.232.13.59:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=JoinBede-ELiV2.Ray.io&type=ws#🌐smkn-BR-🇧🇷
+vless://716903b1-e6bf-4420-9e27-65e4451692e9@201.24.49.19:2200?encryption=none&security=none&sni=rzd.ru&type=ws&path=%2Fv1#🌐smkn-BR-🇧🇷
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.133.35.251:8880?path=/Telegramًں‡¨ًں‡³&security=none&encryption=none&host=cf.d3z.net&type=ws&sni=Telegram-channel-WangCai2#🌐smkn-BR-🇧🇷
+vless://33965d4f-f9bd-4437-8867-ed705b435518@201.24.49.53:4100?encryption=none&security=none&type=ws&host=live.ok.ru&path=/v1#🌐smkn-BR-🇧🇷
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.184.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-BR-🇧🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#🌐smkn-BR-🇧🇷
+vless://2cd5f052-6455-4153-b7d3-0545184dc64c@201.24.49.69:4100?encryption=none&type=ws&path=%2Fv1&security=none#🌐smkn-BR-🇧🇷
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Vk5aVTI2eUN1NUoxVGFYUTlJZEphc0tIb3BCVXpjMnh0K0pVbDlFQ0IrZz0@150.230.229.189:59319#🌐smkn-BR-🇧🇷
+vless://03517ec0-976e-4cac-b84b-146fc4c7b023@199.232.13.32:80?path=%2FTelegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry%3Fed%3D2048&security=&encryption=none&host=Apple-SIB.ir&type=ws#🌐smkn-BR-🇧🇷
