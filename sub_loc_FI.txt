@@ -1,3 +1,9 @@
-vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@65.109.118.175:443/?type=tcp&encryption=none&security=tls&sni=app.chandplus.com&alpn=h3%2Ch2%2Chttp%2F1.1#🔒smkn-FI-🇫🇮
-vless://9ec52cb8-8daa-0021-ac36-d38295a25e5b@5.61.91.207:443?security=reality&flow=xtls-rprx-vision&sni=www.amd.com&type=tcp&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=a7b2c9d4&alpn=http/1.1#🔒smkn-FI-🇫🇮
-trojan://8r%3C%5B9%27l6hAO%238ZQi@194.164.235.62:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-FI-🇫🇮
+vless://20595050-84c7-40e6-b9e3-cf90c99f8a4c@81.177.214.150:443?&security=tls&fp=chrome&sni=fin4.wba-pn.ru&type=ws&headerType=none&path=/#🔒smkn-FI-🇫🇮
+ss://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;encryption=none&amp;headerType=none&amp;type=tcp&amp;sni=local.rogsoftwaregroup.com#🔒smkn-FI-🇫🇮
+vless://8d44a812-229a-4c54-a461-8109b29621a7@45.149.147.231:443?encryption=none&amp;security=reality&amp;sni=dl.google.com&amp;fp=firefox&amp;pbk=HFTFARa1OS53m4HWnjwtZ0J3lu7aoKkE7OujIyM62QI&amp;sid=2a236a7fcbe0ce61&amp;type=grpc&amp;authority=&amp;serviceName=grpc-tunnel&amp;mode=gun#🔒smkn-FI-🇫🇮
+vless://7f97131b-0d9d-4be9-b7b4-3fa21403cffa@94.156.116.5:443?security=reality&encryption=none&pbk=b2wRFAmT2Mm6a_EXPfWBu4BYw-wNGlXHWoO3lPqGoXw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=86#🔒smkn-FI-🇫🇮
+vless://2edfd299-fd54-4056-9d79-3c99f19bdae1@132.243.223.227:2101?encryption=none&amp;fp=firefox&amp;security=tls&amp;serviceName=fi-grpc-test&amp;sni=132-243-223-227.sslip.io&amp;type=grpc#🔒smkn-FI-🇫🇮
+vless://20575207-142b-42bd-a7de-74fbd4a1c620@65.109.211.136:30551?security=&encryption=none&headerType=&type=tcp#🌐smkn-FI-🇫🇮
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206cUZQWlY0NEFremNyTWZVU3krbksvaHl6L1Zra05MMmVrc1BUc1hYdXowQT06SGdrR0ZyRlB1dm1haUU5MFZhKzJKd1VnaUdBcURFWjUxWW5rc090Q01BST0@65.109.211.136:58008#🌐smkn-FI-🇫🇮
+vless://@Cooonfig@@65.109.210.106:13470?security=&encryption=none&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#🌐smkn-FI-🇫🇮
+trojan://HgkGFrFPuvmaiE90Va%2B2JwUgiGAqDEZ51YnksOtCMAI%3D@65.109.211.136:22002?security=none&amp;headerType=&amp;type=tcp#🌐smkn-FI-🇫🇮
