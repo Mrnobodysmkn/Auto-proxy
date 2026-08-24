@@ -1,8 +1,9 @@
-trojan://NISHIKUITAN111@14.102.228.61:443/?type=ws&host=zb.ylks.xyz&path=%2F&security=tls&sni=zb.ylks.xyz#🔒smkn-CZ-🇨🇿
-vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@5.39.202.105:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cz.freeinternat.com&security=reality&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88#🔒smkn-CZ-🇨🇿
-vless://583c01d5-de48-4274-be39-2a6a817d37c4@109.172.9.128:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=tCux7YMjtkkTbZnLtq1YFw4lMJX0MDZB-P9Qp2oavT8&sid=6b63d61072197015&sni=czechia.metricpipe.space#🔒smkn-CZ-🇨🇿
-vless://070b81db-1954-4767-bfa5-26d2c3598273@194.87.52.142:8443?encryption=none&security=reality&sni=ads.x5.ru&fp=chrome&pbk=zRVSRinqebogFvlL5GWcaYfLlKGueXknigEI-f-tKAI&sid=d82c4b67f9a13e5c&type=grpc&authority=&serviceName=grpc&mode=gun#🔒smkn-CZ-🇨🇿
-vless://f84401df-5064-485f-a5c5-d17fe7032ef6@78.159.247.213:7444?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&sni=ads.x5.ru#🔒smkn-CZ-🇨🇿
+trojan://blue2024@14.102.229.63:443/?type=tcp&security=tls&sni=b.promote.icu#🔒smkn-CZ-🇨🇿
+vless://8bbf020e-653f-4a82-9900-1214e4e37dab@103.119.18.158:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.microsoft.com&security=reality&pbk=gXc2c9NIWxhUTb7HoBCjvo-uB1L4iQj4TH38g4YhxHE&sid=fcd9787f#🔒smkn-CZ-🇨🇿
+vless://13b55e8e-fbea-4ee1-b6b7-115fa3043182@45.151.183.222:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cz.srv.anti-zapret.com&sid=17faf32cb516c9cb#🔒smkn-CZ-🇨🇿
+vless://4f4c3977-3f71-4c1d-a5b7-1c9118fbc1cb@188.130.208.4:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ravenol.su&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&sid=428ef87fd47a3a32&spx=%2F#🔒smkn-CZ-🇨🇿
+vless://04fbe278-69c4-4f31-991f-7bc1700758da@85.137.25.49:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ops.gx.nvidia.com&fp=firefox&pbk=TcDTltrrg2CtLhmNcIXRQRp4NKPfb66Niv_I4O2yNQo&sid=fd&type=tcp&headerType=none#🔒smkn-CZ-🇨🇿
+vless://3ffe2ab7-5657-466f-ad71-75aa1717f51b@194.87.52.81:53844?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=24IQtal3G9sIlVqj2_fO-No3Oo6Sxofan80ivMLW_UY&security=reality&sid=893dd72a6ccb9fd0&sni=apple.com&type=tcp#🔒smkn-CZ-🇨🇿
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@143.244.58.102:443#🔒smkn-CZ-🇨🇿
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@195.85.23.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-CZ-🇨🇿
-vless://b49d8a13-12f6-4613-bb0d-3e2f6244f29c@14.102.228.75:80/?type=ws&encryption=none&host=ov-canada1.09vpn.com&path=%2Fvless%2F#🌐smkn-CZ-🇨🇿
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.222.126:1080#🌐smkn-CZ-🇨🇿
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@14.102.228.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F#🌐smkn-CZ-🇨🇿
