@@ -1,6 +1,5 @@
-vless://13b55e8e-fbea-4ee1-b6b7-115fa3043182@46.8.113.17:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cz.srv.anti-zapret.com&sid=17faf32cb516c9cb#🔒smkn-CZ-🇨🇿
-vless://33a31dc6-6bbc-46c0-9685-fb5e327d3c7d@152.233.66.68:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=TXwYCrwkhTEeqtxTf3ZYmXNwYcmVtR9eVXJRo7Kvxmk&sid=8c5041b3&sni=api-maps.yandex.ru#🔒smkn-CZ-🇨🇿
-trojan://ttfang@14.102.228.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🔒smkn-CZ-🇨🇿
-trojan://Aimer@37.157.192.61:9902/?type=tcp&security=tls&sni=amepo.ambercc.filegear-sg.me&allowInsecure=1#🔒smkn-CZ-🇨🇿
-vless://85a15603-7fb2-4c53-967c-4e3c63523a41@14.102.229.179:80/?type=ws&encryption=none&host=Www.speedtest.net.sPeedtest2.sbs.&path=%2F-LiV2ry%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL-%40LIGHTNING6-TEL--%40LIGHTNING6-JOIN-%40LIGHTNING6-TEL--%40LIGHTNING6%3Fed%3D2048#🌐smkn-CZ-🇨🇿
-vless://b49d8a13-12f6-4613-bb0d-3e2f6244f29c@14.102.228.75:80/?type=ws&encryption=none&host=ov-canada1.09vpn.com&path=%2Fvless%2F#🌐smkn-CZ-🇨🇿
+vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@5.39.202.105:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cz.freeinternat.com&security=reality&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88#🔒smkn-CZ-🇨🇿
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@195.85.23.54:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#🔒smkn-CZ-🇨🇿
+vless://cd9d4675-82ab-4d73-85f2-0af98074b5bb@78.159.247.235:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=f6aiEkCa2WOzwaKQjpbrDAZlqVpT1lNcP5hAlKV9PG0&security=reality&sid=7a1373222576ba4d&sni=smartcaptcha.yandexcloud.net&type=raw#🔒smkn-CZ-🇨🇿
+vless://4d91916f-a7fd-419b-8b90-640bb8d4b3f2@195.85.23.229:443/?type=ws&encryption=none&host=myphotograpicpicture.ir&path=%2FfJBvsL0uR2MtzRig&security=tls&sni=mypHOtoGRAPICpIctUre.iR&alpn=http%2F1.1#🔒smkn-CZ-🇨🇿
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@195.85.23.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-CZ-🇨🇿

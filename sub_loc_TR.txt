@@ -1,8 +1,6 @@
-trojan://bpb-trojan@86.38.214.132:443/?type=ws&host=bpb.my79801.com&path=%2Ftr%3Fed&security=tls&sni=bpb.my79801.com#🔒smkn-TR-🇹🇷
-vless://18f71148-a3c7-40c7-b02a-be04da72efe3@2.26.94.13:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=da5UVhoC5QOCDm84AxB-RRxf0z2nySZ3lOemgqizLS4&sni=pro-tr.emrata.top#🔒smkn-TR-🇹🇷
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@155.103.70.160:443?security=reality&amp;encryption=none&amp;pbk=fyOnHd_PZ6UjxCLPDFfxrT3XIJnjTpHXyluFakC3v14&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=tr.savesafe.cc&amp;sid=95d36da964f4e951#🔒smkn-TR-🇹🇷
-vless://0718d4d6-42ea-4388-a41c-2069a49761f5@152.233.53.7:443?type=tcp&headerType=none&security=reality&encryption=none&sni=api-maps.yandex.ru&fp=firefox&pbk=DAdWhCSXRRcho_XopxBKq2-KDupbSY_i2r-FJCy58kY&sid=5a3874f1&flow=xtls-rprx-vision#🔒smkn-TR-🇹🇷
+vless://629f88a6-b20b-4489-a22f-4d8b418c0488@212.64.201.33:2053?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=RwtMzZtTCmy9WRq3_27xeGF8-1l_qPXRVG3yIFp-6Go&sid=c0d1d1776fed0f6d&sni=tr-t.vinnypuxtomoon.today#🔒smkn-TR-🇹🇷
+vless://133f016d-81ad-4ed3-8fe1-e431a4134dca@155.103.69.93:443?path=/&security=tls&alpn=h2,http/1.1,h3&encryption=none&insecure=0&host=plan.tabrizonlinemaku.ir&fp=chrome&type=ws&allowInsecure=0&sni=plan.tabrizonlinemaku.ir#🔒smkn-TR-🇹🇷
+vless://29b24e2d-a4b6-4785-ac90-e384b6c0b0b6@176.223.66.221:7007?security=reality&encryption=none&pbk=7wBuF3nDHbcxPy3nr9Rmf6vDLB-gu7XQZqVvkiPlnh0&headerType=none&fp=ios&type=tcp&sni=amp-api-edge.apps.apple.com#🔒smkn-TR-🇹🇷
 vless://953358cb-82ba-4296-960d-6d2ec3468f4c@195.162.69.203:8443?type=tcp&security=tls&encryption=none&fp=firefox&sni=195-162-69-203.sslip.io#🔒smkn-TR-🇹🇷
-vless://f0fd40df-8103-4c95-a03e-351f5f212fce@155.103.70.197:777?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=-Fabk_ZjEdrtOJZVTVRe4UJDik05fhzJ2SRDBoV45C8&sid=76&sni=www.cloudflare.com#🔒smkn-TR-🇹🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVNXVCWFJiTGhaZHZyNnYwbWRBdmph@107.161.174.240:8388/?outline=1#🌐smkn-TR-🇹🇷
-vless://b4469373-b425-4902-80d4-a00e00ada7de@91.124.63.210:50303?path=/&security=none&encryption=none&host=play.google.com&type=ws#🌐smkn-TR-🇹🇷
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@86.38.214.101:2096/?type=ws&encryption=none&host=juzibaipiao.5112233.xyz&path=%2F%3Fed%3D2048&security=tls&sni=juzibaipiao.5112233.xyz&fp=chrome#🔒smkn-TR-🇹🇷
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@86.38.214.213:8880/?type=httpupgrade&encryption=none&host=nufillter.jtip.sbs.&path=%2F#🌐smkn-TR-🇹🇷
