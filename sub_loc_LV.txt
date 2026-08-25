@@ -1,8 +1,6 @@
-trojan://8r%3C%5B9%27l6hAO%238ZQi@46.8.238.49:2053/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-LV-🇱🇻
-vless://20fda433-1864-433b-b3dd-8f119fe4cafd@195.135.254.75:443/?type=ws&encryption=none&host=happy.mianfeicf.lol&path=%2F%3Fed%3D2560&security=tls&sni=happy.mianfeicf.lol#🔒smkn-LV-🇱🇻
-vless://02ae7872-1c03-4214-8b95-14c126da831e@31.76.37.7:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sni=pro-it.emrata.top#🔒smkn-LV-🇱🇻
-trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.227.49:2053/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-LV-🇱🇻
-vless://c7e9c591-2764-423a-afca-efbd010fd396@95.156.205.244:443?fp=chrome&host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru&type=ws#🔒smkn-LV-🇱🇻
-vless://c8425da6-9ada-0032-8180-c1b4a6aa17c7@13.143.142.118:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=uRuW2K9JNw64jgAVEdV39NMh_udtVD6xxEV-dQFATHY&sni=free-de-03.la-la-land.top#🔒smkn-LV-🇱🇻
-vless://f71e29f8-0608-4705-99b9-33e0e128ca6d@31.58.137.218:8765?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Tx7eNA47CmM50tAouMV_FscUKn8rJIiAY21F0Wzo5EE&security=reality&sid=c39f10b02f809a88&sni=www.google.com&type=tcp#🔒smkn-LV-🇱🇻
-vless://2181d0c8-448a-4f75-b848-1718029baef9@185.220.223.61:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=-Dg4mGAAM5Lwe9ri7Bx5WlYdPBsyYJy-Pai2Z0FGlyc&sid=afee962d&sni=max.ru&fp=chrome#🔒smkn-LV-🇱🇻
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2083?security=tls&type=grpc&mode=gun&serviceName=grpc&sni=laoye.in-gect.fun&fp=ios#🔒smkn-LV-🇱🇻
+vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@72.56.52.30:443?security=reality&encryption=none&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=lv.rexten.cc#🔒smkn-LV-🇱🇻
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2053?encryption=none&flow=xtls-rprx-vision&fp=&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&security=reality&sid=d26f4703cdd30f4e&sni=vk.ru&type=tcp#🔒smkn-LV-🇱🇻
+vless://631ee34f-4faf-4ad7-b49d-e6f50403cf0e@188.92.78.81:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&sid=93ae75024604f796&sni=anyfile2file.com&fp=firefox#🔒smkn-LV-🇱🇻
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2096?path=/&security=none&encryption=none&type=ws#🌐smkn-LV-🇱🇻
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@31.56.204.102:2090?security=none&encryption=none&headerType=none&type=tcp#🌐smkn-LV-🇱🇻
