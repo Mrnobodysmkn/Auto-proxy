@@ -1,6 +1,4 @@
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@89.116.250.49:2053?path=%2F&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=dl1-tr-cdn.easy-upload.org#🔒smkn-LT-🇱🇹
-vless://04b9e828-43ed-4faf-8952-41069ec08355@93.115.25.139:443?encryption=none&security=tls&sni=ddc-chr2.astralweb.tech&fp=firefox&alpn=h2&insecure=0&allowInsecure=0&type=tcp&headerType=none#🔒smkn-LT-🇱🇹
-vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=firefox&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&sni=dartsearch-cn.net#🔒smkn-LT-🇱🇹
-vless://27dcb3a9-c82d-4628-a8c4-bae39e6cb4f4@88.119.176.146:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=RP93KQEzBP7wvvhwYy5c87IiQbV6xnsx7XgJpajevTA&sid=bc599ecdd54c1b3f&sni=unas.denegnet.cc#🔒smkn-LT-🇱🇹
+vless://27dcb3a9-c82d-4628-a8c4-bae39e6cb4f4@88.119.176.121:443?security=reality&type=tcp&sni=unas.denegnet.cc&fp=firefox&flow=xtls-rprx-vision&sid=bc599ecdd54c1b3f&pbk=RP93KQEzBP7wvvhwYy5c87IiQbV6xnsx7XgJpajevTA&encryption=none#🔒smkn-LT-🇱🇹
+trojan://bpb-trojan@89.116.250.94:443/?type=tcp&security=tls&sni=bpb.my79801.com#🔒smkn-LT-🇱🇹
+vless://9e1d737e-f3c1-4757-84b2-3dcf66a468ed@144.31.243.148:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=firefox&pbk=3wa3ZmMniymkL-58bPtY7baWPxdJ6n2UaJMG7YiLiGo&sni=dl.google.com#🔒smkn-LT-🇱🇹
 vless://51d22c42-5342-4715-a927-1b76226dd4cf@89.116.250.75:8443?security=tls&sni=join-telegram-channel-vipv2rey.mamare.ir&type=grpc&serviceName=@vipv2rey@vipv2rey@vipv2rey&encryption=none#🔒smkn-LT-🇱🇹
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@88.216.69.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🌐smkn-LT-🇱🇹
