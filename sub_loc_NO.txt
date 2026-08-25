@@ -1,2 +1,2 @@
-vless://57d437b6-d25d-4956-a297-07f066174d62@151.242.168.181:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=firefox&pbk=urD2miGxEfHylELSqqggBKCYIMSNXNTbdPijru7-eAQ&sni=kibi-institut.de&sid=46babe29a750b634#🔒smkn-NO-🇳🇴
-vless://8384341b-cd89-4a21-a022-cc4bd4e648ca@46.29.238.139:40443?encryption=none&type=raw&headerType=none&security=reality&fp=firefox&pbk=7i4Y7v80NVAIi_4_9roDkqcXmexIHli87dfZuFaQMUI&sni=deepl.com&sid=68da#🔒smkn-NO-🇳🇴
+vless://bd44419a-02a9-4c03-9cb8-a7f8ffd3ae68@144.31.128.197:2053?type=grpc&security=reality&fp=firefox&pbk=w92oaftiqLJOMFy47hUWBixZEKwWJpHF4apaFTrh71w&sni=api-maps.yandex.ru&mode=multi&serviceName=MapsYandexAPI#🔒smkn-NO-🇳🇴
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.236.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-NO-🇳🇴
