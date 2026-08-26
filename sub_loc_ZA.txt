@@ -1,3 +1,6 @@
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.17:443/?type=ws&encryption=none&host=bn.ylks0033.dpdns.org&path=%2F%3Fed%3D2560&security=tls&sni=bn.ylks0033.dpdns.org#🔒smkn-ZA-🇿🇦
-vless://3e4d70e5-7ec9-48f9-a4e0-48c44c6063fd@102.129.165.81:48905?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XIubADu7punjUa2oUfHj2vTmUzUJXN_xDrGsmf_LslY&sni=gaming.radeon.com#🔒smkn-ZA-🇿🇦
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@160.123.255.216:443?security=tls&sni=kke.ylks.xyz&type=ws&path=/?proxyip#🔒smkn-ZA-🇿🇦
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@139.84.235.99:443?type=ws&encryption=none&host=1-jk1.pages.dev&path=/&headerType=none&quicSecurity=none&serviceName=&security=tls&flow=&fp=chrome&insecure=1&sni=1-jk1.pages.dev#🔒smkn-ZA-🇿🇦
+trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443/?type=tcp&security=tls&sni=38.54.64.247&allowInsecure=1&fp=chrome#🔒smkn-ZA-🇿🇦
 vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.224.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-ZA-🇿🇦
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.172.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-ZA-🇿🇦

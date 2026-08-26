@@ -1,3 +1,3 @@
-vless://31107c01-eb9a-49f1-aeee-1529838ee043@13.143.252.1:443?type=tcp&security=reality&fp=firefox&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y&sni=cloudrynth.com#🔒smkn-RO-🇷🇴
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#🌐smkn-RO-🇷🇴
-vless://e25486c7-3342-4777-a82d-89d485f844dc@45.13.151.46:48689/?type=httpupgrade&encryption=none&flow=&host=www.filimo.com&path=/host#🌐smkn-RO-🇷🇴
+vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.80:8443?encryption=none&security=tls&sni=buh-ro-01.fromblancwithlove.com&type=tcp#🔒smkn-RO-🇷🇴
+vless://b57f66c0-3a33-4445-b360-026c00a5922c@87.58.205.55:27965?flow=xtls-rprx-vision&fp=chrome&pbk=b2_we-U9dxdV_L_-RCNhpTbWtS89pggEPSbNQVbQhkw&security=reality&sid=a8fa&sni=blog.api.www.cloudflare.com&type=tcp&encryption=none#🔒smkn-RO-🇷🇴
+vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.199.120:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&fp=chrome&security=tls#🔒smkn-RO-🇷🇴
