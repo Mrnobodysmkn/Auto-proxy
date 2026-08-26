@@ -1,8 +1,4 @@
-vless://fca01448-d84a-436e-9aec-3be1ebdfb350@45.194.53.13:2053?encryption=none&security=tls&sni=SB-1U6.PAgEs.dev&type=ws&host=SB-1U6.PAgEs.dev&path=%2Ffltcxoo6grqvat6v%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#🔒smkn-BR-🇧🇷
-vless://263497fb-9ae2-4f7b-94c6-b0179e480448@199.232.15.225:443/?type=ws&encryption=none&host=azadnet.ir&path=%2FYFeRT11KL9V669C0%3Fed%3D2560&security=tls&sni=www.speedtest.net&alpn=h2%2Chttp%2F1.1&fp=randomized#🔒smkn-BR-🇧🇷
-vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@168.222.251.122:711?type=grpc&security=reality&fp=firefox&pbk=ADsaY9WkhwRaspXqF1JUt4Wg_Aw15h8h679K7Kt9GUU&sni=who.int#🔒smkn-BR-🇧🇷
-vless://af412668-578c-4296-bc8c-8fac6a8d9003@201.24.49.237:2200?encryption=none&type=ws&host=rzd.ru&path=%2Fv1&security=none#🌐smkn-BR-🇧🇷
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.176.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-BR-🇧🇷
-vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@201.24.49.233:2200?encryption=none&type=ws&security=none&path=%2Fv1&host=rzd.ru#🌐smkn-BR-🇧🇷
-vless://ad2d0f18-7c2b-43b5-aeb3-dbfa6f501962@199.232.13.59:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=JoinBede-ELiV2.Ray.io&type=ws#🌐smkn-BR-🇧🇷
-vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@201.24.49.233:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru#🌐smkn-BR-🇧🇷
+vless://26fc1d92-2188-42fa-b36e-91caa13df437@151.101.186.133:443/?type=ws&encryption=none&host=mashti.com&path=%2F%3Fed%3D2560&security=tls&sni=zmaoz.faculty.ucdavis.edu&alpn=h2%2Chttp%2F1.1&fp=chrome#🔒smkn-BR-🇧🇷
+trojan://bpb-trojan@45.194.53.231:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#🔒smkn-BR-🇧🇷
+vless://3b4274c1-4744-452e-9903-e11ccc0c9900@201.24.49.79:2200?encryption=none&type=ws&path=%2Fv1&security=none#🌐smkn-BR-🇧🇷
+vless://3b4274c1-4744-452e-9903-e11ccc0c9900@201.24.49.79:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru&fp=edge#🌐smkn-BR-🇧🇷
