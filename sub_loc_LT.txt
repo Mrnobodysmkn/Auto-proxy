@@ -1,3 +1,7 @@
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@89.116.250.49:2053?path=%2F&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=dl1-tr-cdn.easy-upload.org#🔒smkn-LT-🇱🇹
-vless://cd1673b3-7cec-4fe6-bedf-b534eb54e647@46.166.167.222:443?type=tcp&security=tls&encryption=none&fp=firefox&sni=ddc-chr-lt2.astralweb.tech#🔒smkn-LT-🇱🇹
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@80.208.229.140:443?encryption=none&security=tls&sni=vpn47.cc.cd&insecure=0&allowInsecure=0&type=ws&host=vpn47.cc.cd&path=%2F#🔒smkn-LT-🇱🇹
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.250.6:2083?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#🔒smkn-LT-🇱🇹
+vless://c7e9c591-2764-423a-afca-efbd010fd396@85.206.161.200:443?fp=chrome&host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru&type=ws#🔒smkn-LT-🇱🇹
+vless://9e1d737e-f3c1-4757-84b2-3dcf66a468ed@144.31.243.148:443?flow=xtls-rprx-vision&fp=firefox&pbk=3wa3ZmMniymkL-58bPtY7baWPxdJ6n2UaJMG7YiLiGo&security=reality&sni=dl.google.com&type=tcp#🔒smkn-LT-🇱🇹
+vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@45.81.252.80:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=web.max.ru&fp=qq&pbk=wcBiDeIWXUMKp2lkwYGnSOxHLVxS0IDEYeTGaEraUy8&sid=15aa18f816ad1f81&type=tcp&headerType=none&host=v2rayNplus--v2rayNplus--v2rayNplus#🔒smkn-LT-🇱🇹
+vless://b827f606-137d-4d50-b478-43527304b393@212.24.107.219:37801?security=&encryption=mlkem768x25519plus.native.0rtt.IiGsoDr-_kzB_Q070YWKe1YVWwgdZCUpD5QG6-590Dg&host=amp-api-edge.apps.apple.com&headerType=http&type=tcp#🌐smkn-LT-🇱🇹
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@88.216.69.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🌐smkn-LT-🇱🇹
