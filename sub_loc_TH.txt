@@ -1,2 +1,2 @@
-vless://fe962226-fe1c-4391-a5ba-7b7c62adda19@154.83.2.200:443?encryption=none&security=tls&sni=am-tunnel-6fs.pages.dev&type=ws&host=am-tunnel-6fs.pages.dev&path=%2F#🔒smkn-TH-🇹🇭
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.164.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-TH-🇹🇭
+trojan://Rm6JhT-Rz8H6Mjy3dtSglA@157.85.102.28:1084?security=none&headerType=none&type=tcp#🌐smkn-TH-🇹🇭
+vless://b93efa30-e2c5-401c-9ec7-22e30266cc60@157.85.102.28:1083?encryption=none&headerType=none&type=tcp#🌐smkn-TH-🇹🇭
