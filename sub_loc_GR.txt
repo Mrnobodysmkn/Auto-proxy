@@ -1,2 +1,1 @@
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@91.250.248.151:443?&security=tls&fp=chrome&sni=josni.hoyes.cloudns.ch&type=ws&headerType=none&host=josni.hoyes.cloudns.ch&path=%2Fsg-melbi%2F#🔒smkn-GR-🇬🇷
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@85.90.197.131:13443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0&sni=auto.cendora.ru#🔒smkn-GR-🇬🇷
+vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@85.90.197.91:443?security=reality&type=tcp&sni=gr.freeinternat.com&fp=firefox&flow=xtls-rprx-vision&sid=ff776ff77be48b88&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&encryption=none#🔒smkn-GR-🇬🇷
