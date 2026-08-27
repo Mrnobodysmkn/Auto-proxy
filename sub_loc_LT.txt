@@ -1,9 +1,2 @@
-trojan://bpb-trojan@89.116.250.94:443/?type=tcp&security=tls&sni=bpb.my79801.com#🔒smkn-LT-🇱🇹
-vless://c8d1c6d3-388f-48fc-a8f0-ed90d955d096@194.87.106.31:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&security=reality&sid=6ba85179e30d4fc2&sni=www.google.com&type=tcp#🔒smkn-LT-🇱🇹
-vless://04b9e828-43ed-4faf-8952-41069ec08355@93.115.25.139:443?encryption=none&security=tls&sni=ddc-chr2.astralweb.tech&fp=firefox&alpn=h2&insecure=0&allowInsecure=0&type=tcp&headerType=none#🔒smkn-LT-🇱🇹
-vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@89.116.250.128:443?security=tls&sni=cfed.tgzdyz2.top&type=ws&path=%2Ftg%40zdyz2#🔒smkn-LT-🇱🇹
-vless://9e1d737e-f3c1-4757-84b2-3dcf66a468ed@144.31.243.148:443?flow=xtls-rprx-vision&fp=firefox&pbk=3wa3ZmMniymkL-58bPtY7baWPxdJ6n2UaJMG7YiLiGo&security=reality&sni=dl.google.com&type=tcp#🔒smkn-LT-🇱🇹
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@80.208.229.140:443?encryption=none&security=tls&sni=vpn47.cc.cd&insecure=0&allowInsecure=0&type=ws&host=vpn47.cc.cd&path=%2F#🔒smkn-LT-🇱🇹
-vless://f692629b-3557-488a-9c9b-60775331e423@144.31.243.37:443?encryption=none&fp=&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&security=reality&serviceName=fi1cosmos&sni=fi1-cosmostechnology.ru&type=grpc#🔒smkn-LT-🇱🇹
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.250.138:2096?allowInsecure=1&encryption=none&fp=chrome&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#🔒smkn-LT-🇱🇹
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.216.69.30:8880?security=none&type=ws&path=/&host=vms.lifetime06.workers.dev&packetEncoding=xudp#🌐smkn-LT-🇱🇹
+vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=dartsearch-cn.net&fp=chrome&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&type=tcp&headerType=none#🔒smkn-LT-🇱🇹
