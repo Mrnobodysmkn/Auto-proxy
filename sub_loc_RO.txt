@@ -1,3 +1,2 @@
-vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@82.152.132.14:443?&security=tls&fp=chrome&sni=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&type=ws&headerType=none&host=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&path=%2Fpg%2F10086-dfc816f117c49173#🔒smkn-RO-🇷🇴
-vless://43488128-319e-f480-64ea-0acdc712e2a8@91.199.50.37:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.alibaba.com&fp=chrome&security=reality&pbk=kkRsTNjRh_XrrTM6eZllllldzoL5Z9IqlBkDtmYLMhw&sid=c906f73d3ba8211f#🔒smkn-RO-🇷🇴
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@154.46.31.106:443#🔒smkn-RO-🇷🇴
+vless://92e41c23-4b39-464a-bbff-63ef84f317da@95.173.199.110:443?security=reality&encryption=none&pbk=DxMGwax3l0UxFYZE349Fs15huyc4Jwzj6MG7Qrj0HQ0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=735093d7#🔒smkn-RO-🇷🇴
+vless://a704443d-655e-4d9f-8ce6-12eeb17a9a08@95.173.199.110:9443?type=grpc&security=reality&fp=firefox&pbk=DxMGwax3l0UxFYZE349Fs15huyc4Jwzj6MG7Qrj0HQ0&sid=735093d7&sni=api-maps.yandex.ru&serviceName=grpc#🔒smkn-RO-🇷🇴
