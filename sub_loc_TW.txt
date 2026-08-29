@@ -1,10 +1,7 @@
-vless://b8ca2900-3ed7-4b58-970e-060d0a6cbf99@35.187.156.27:443?&security=reality&pbk=HsoG0C19O-NY_EcFpK0ybZv9lFol0MjDJLzjDzWAGXs&sid=d79d3dc3816c329d&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#🔒smkn-TW-🇹🇼
-vless://3a62a0c2-ba80-43a9-b757-9aca88b0552e@104.199.134.231:28364?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=NPhCET0GkjSZuKg4vWsPHLvjYGHW9w99Ucxvavu0-1I&sid=7241c359c2dfab&sni=www.sony.com#🔒smkn-TW-🇹🇼
-vless://7b15ec5b-8aea-4742-963e-78b18363c2d4@104.155.197.135:12069?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=KrOnvDlG7ZH3x6uwWqfhnyIr-L8yjCtLm9MBkQCuJCw&sid=a4ccdd0ffbb8ab3f&sni=www.amd.com#🔒smkn-TW-🇹🇼
-vless://bf8cc771-51a0-4395-810f-1f135325cfc1@34.81.129.171:34376?&security=reality&flow=xtls-rprx-vision&pbk=Atq4Fo_Mg48QtKXagBW9jnhaQSDUCiKgnATB2EU6OHU&sid=8dbafb690450d8a9&fp=firefox&sni=www.sony.com&type=tcp&headerType=none&host=www.sony.com&path=%2F#🔒smkn-TW-🇹🇼
-vless://5859f6a7-cda1-47c2-8353-fcdee281f31d@104.199.219.172:40800?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=zohUbvPLKVBwzuDmZNsaXXFYZSKA9_xEhdUyURChrgo&sid=186e4c2732d61a3d&sni=www.intel.com#🔒smkn-TW-🇹🇼
+vless://b76630cc-5b12-4a76-8a1a-a7097f4a0e30@35.229.150.105:29465?flow=xtls-rprx-vision&security=reality&sni=www.nvidia.com&fp=chrome&pbk=kKqDTc16crLdoQHb4X13-rUHEc83bY7eWtn1kwAaqSE&sid=74f639401060da1f&type=tcp&path=/#🔒smkn-TW-🇹🇼
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.250.152.230:8443/?type=tcp&security=tls&sni=official.taipeicitygovernment.ivano-frankivsk.ua&allowInsecure=1#🔒smkn-TW-🇹🇼
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@60.250.152.230:3462/?type=tcp&security=tls&sni=a03.taipeicitygovernment.cn.ua&allowInsecure=1#🔒smkn-TW-🇹🇼
+vless://572782aa-48eb-42f1-b164-8c1e2381cf9c@35.221.252.60:50665?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=2d8lBXxyxrcHKjy3NLycQBgkstKpHwgont5rD9hUvAQ&sid=a700726f35329a4e&sni=www.amd.com#🔒smkn-TW-🇹🇼
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg@2.58.241.42:443#🔒smkn-TW-🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@125.227.86.47:2377#🌐smkn-TW-🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.39:2377#🌐smkn-TW-🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.28.138:2377#🌐smkn-TW-🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@125.227.86.46:2377#🌐smkn-TW-🇹🇼
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@220.130.75.248:10000?&type=tcp&headerType=none&path=%2F#🌐smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@125.227.86.44:2377#🌐smkn-TW-🇹🇼

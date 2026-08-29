@@ -1,5 +1,8 @@
-vless://cc6b985d-0362-4129-8763-38564174fb3e@45.194.53.212:443/?type=grpc&encryption=none&serviceName=michi&security=tls&sni=iryiccyne.wwtraveler.com&alpn=http%2F1.1%2Ch2&fp=chrome#🔒smkn-BR-🇧🇷
-trojan://bpb-trojan@45.194.53.231:443/?type=tcp&security=tls&sni=bpb.my79801.com&allowInsecure=1#🔒smkn-BR-🇧🇷
-vless://fc898b52-ff3f-488b-8ef8-ab6bb2108504@24.152.37.183:40379?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=firefox&pbk=mrx7ZxuUz4aON74DU6ylqadNokiUc95AxZq2SQNFwEo&sni=www.sony.com&sid=ee2880689d8068#🔒smkn-BR-🇧🇷
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.133.35.140:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&amp;security=none&amp;encryption=none&amp;host=s5.868001.xyz&amp;type=ws#🌐smkn-BR-🇧🇷
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.12.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-BR-🇧🇷
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@185.133.35.98:443/?type=ws&encryption=none&host=kb.lii2010.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=kb.lii2010.us.kg&alpn=http%2F1.1#🔒smkn-BR-🇧🇷
+vless://09f2e2f4-3225-4342-bc92-cb58ee841f72@201.24.49.228:2200?encryption=none&type=ws&path=%2Fv1&security=none#🌐smkn-BR-🇧🇷
+vless://03517ec0-976e-4cac-b84b-146fc4c7b023@199.232.13.32:80?path=%2FTelegram-ipV2Ry-Telegram-ipV2Ry-Telegram-ipV2Ry%3Fed%3D2048&security=&encryption=none&host=Apple-SIB.ir&type=ws#🌐smkn-BR-🇧🇷
+ss://33965d4f-f9bd-4437-8867-ed705b435518@201.24.49.53:4100?type=ws&amp;security=none&amp;path=/v1#🌐smkn-BR-🇧🇷
+vless://2e228435-33a0-47d1-a1d8-9a34b5a03c45@201.24.49.117:2200?&sni=201.24.49.117&type=ws&headerType=none&host=rzd.ru&path=%2Fv1#🌐smkn-BR-🇧🇷
+vless://af412668-578c-4296-bc8c-8fac6a8d9003@201.24.49.237:2200?encryption=none&type=ws&host=rzd.ru&path=%2Fv1&security=none#🌐smkn-BR-🇧🇷
+vless://aa7d939b-feaa-4ad3-9615-74216f490807@201.24.49.240:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru&fp=edge#🌐smkn-BR-🇧🇷
+vless://2cd5f052-6455-4153-b7d3-0545184dc64c@201.24.49.69:4100?encryption=none&type=ws&path=%2Fv1&security=none#🌐smkn-BR-🇧🇷
