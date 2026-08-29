@@ -1,2 +1,3 @@
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@85.155.176.154:8443?&security=tls&fp=firefox&sni=rubifen.adaspoloandco.com&type=ws&headerType=none&host=rubifen.adaspoloandco.com&path=%2FGOrbEh#🔒smkn-KR-🇰🇷
-vless://10dd7b2d-eda2-4a47-9f6e-5093a3cd7ded@3.38.1.152:19179?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=firefox&pbk=BabvzCKB_cqCz56qFQhOWIypFKFhEWo9Eyn_JPZIAxA&sni=www.intel.com&sid=fa1e592603c283#🔒smkn-KR-🇰🇷
+trojan://xxoo@3.34.6.217:443?security=tls#🔒smkn-KR-🇰🇷
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@158.247.209.57:443/?type=ws&encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr#🔒smkn-KR-🇰🇷
+vless://83efc3a0-05c6-462b-89f7-07c430f73c03@221.155.195.197:10000?&security=reality&flow=xtls-rprx-vision&pbk=kdlgIBl7R_1DIWtJIrOqYwt65nedPCbz6XoomdpQIXM&fp=chrome&sni=apple.com&type=tcp&headerType=none&host=apple.com&path=%2F#🔒smkn-KR-🇰🇷

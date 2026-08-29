@@ -1,4 +1,8 @@
-vless://8ff82100-8aad-4281-bf41-f318519d7182@185.24.151.32:443?security=reality&type=tcp&sni=ca.jobinvest.ru&fp=firefox&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒smkn-IR-🇮🇷
-vless://8ff82100-8aad-4281-bf41-f318519d7182@185.24.151.243:443?security=reality&type=tcp&sni=de.jobinvest.ru&fp=firefox&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#🔒smkn-IR-🇮🇷
+vless://494613dc-2999-4893-a09b-406e088e458d@45.131.4.156:443/?type=ws&encryption=none&host=azarandooz.awebcontent.workers.dev&path=%2F%40AzarAndoozVPNbot&security=tls&sni=azarandooz.awebcontent.workers.dev&fp=chrome#🔒smkn-IR-🇮🇷
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.199:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org#🔒smkn-IR-🇮🇷
+vless://e0e49d1c-c56b-4347-9053-6cbed0966124@81.12.54.134:5050?path=/&security=tls&encryption=mlkem768x25519plus.native.0rtt.xsgWa17yg5fJYQ9pJ7WZWh8gcxREtb9PuXjnIgV0Ghs&insecure=0&host=tr.begooserver.xyz&fp=chrome&ech=AGX+DQBhAAAgACApzIl6tYbaaw/tgSCpR2Z4HZ9Qzd/EfewgX27QfLn/bAAkAAEAAQABAAIAAQADAAIAAQACAAIAAgADAAMAAQADAAIAAwADABJ0ci5iZWdvb3NlcnZlci54eXoAAA==&type=ws&allowInsecure=0&sni=tr.begooserver.xyz#🔒smkn-IR-🇮🇷
 ss://2a54636c-20ab-42cd-b725-f0da347c50e2@94.101.176.12:443?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#🔒smkn-IR-🇮🇷
-vless://8cf73792-0b3e-8e8b-f833-e86067f7a22c@45.131.4.5:2052/?type=httpupgrade&encryption=none&host=2.v2.www.speedtest.net.blue99shop.ir.&path=%2F#🌐smkn-IR-🇮🇷
+ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@185.188.104.12:443#🔒smkn-IR-🇮🇷
+ss://YWVzLTI1Ni1nY206WlRJeU9EZzVPVEF3TkdabFpERTFOekF3TldFMlpEUmpZamRrTWpFeQ@95.38.167.78:9112#🌐smkn-IR-🇮🇷
+vless://a9f40576-6321-491f-bb4a-7d8a762eea27@217.114.40.12:80?security=none&encryption=none&headerType=none&type=tcp#🌐smkn-IR-🇮🇷
+vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@185.143.232.224:80?path=%2Fnews&security=none&encryption=none&host=bama.ir.usa.cdnir.org&type=ws#🌐smkn-IR-🇮🇷
