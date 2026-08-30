@@ -1,4 +1,6 @@
-trojan://AE62539071@87.121.33.82:443?security=tls#🔒smkn-AU-🇦🇺
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@103.169.142.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560#🌐smkn-AU-🇦🇺
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.169.142.30:8880?&type=ws&headerType=none&host=vms.lifetime38.workers.dev&path=%2F#🌐smkn-AU-🇦🇺
-vmess://eyJhZGQiOiAiMS4xLjEuMSIsICJhaWQiOiAwLCAiaG9zdCI6ICJ1c2JrLmNmaXAudG9wIiwgImlkIjogIjM2ZjcxYjAyLTA0YmYtNGFiNi04ZjE3LTg1MGEwMDJiNDQ4ZCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvY2N0djEzL2hkLm0zdTgiLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzY1x1ZGYxMHNta24tQVUtXHVkODNjXHVkZGU2XHVkODNjXHVkZGZhIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIn0=
+trojan://81d93f62-15a2-4994-adb9-0b5d906aac7e@103.224.212.211:443?security=tls&sni=60.72img.xyz&allowInsecure=1#🔒smkn-AU-🇦🇺
+vless://a14b736b-a92a-48d6-a596-5d31f7378ded@51.161.204.242:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=a2qGjvUPq6Nz5FTbn_MSHp-055q2h8YXqIL5VIJ5zwE&sni=www.cloudflare.com&sid=d15c17cef9b2e456#🔒smkn-AU-🇦🇺
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVVdYNkNPTFpZbWFIbFVHaUt3RGFO@45.79.238.129:443#🔒smkn-AU-🇦🇺
+trojan://AE62539071@87.121.33.238:443?allowInsecure=0&sni=wanted-marmoset.rooster465.autos#🔒smkn-AU-🇦🇺
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@103.169.142.188:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-AU-🇦🇺
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.136.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-AU-🇦🇺
