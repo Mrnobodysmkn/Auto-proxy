@@ -1,1 +1,2 @@
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@45.134.26.97:443?type=tcp&amp;security=reality&amp;sni=nordic.cendora.ru&amp;pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&amp;sid=2186a755ed67b034&amp;fp=chrome&amp;encryption=none&amp;flow=xtls-rprx-vision#🔒smkn-BY-🇧🇾
+trojan://8qCNZU2XdtefT7uB4uPxgRR839btqMG8@178.172.227.178:500?type=grpc&security=tls&fp=chrome&sni=by01.botovod.space&mode=gun&alpn=h2,http/1.1#🔒smkn-BY-🇧🇾
+vless://67f06be5-3ebc-48f4-942b-94b5bdc7349b@186.246.54.124:26146?type=tcp&security=reality&encryption=none&fp=firefox&pbk=gX3_zVtbvWNZH7lXyrsBBCcyCVKkkr_LMw9JRqpAmmQ&sid=be&sni=www.vk.ru#🔒smkn-BY-🇧🇾
