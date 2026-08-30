@@ -1,10 +1,6 @@
-trojan://humanity@185.18.250.245:443/?type=tcp&security=tls&sni=www.calmlunch.com#🔒smkn-ES-🇪🇸
-vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@141.253.194.63:443?&security=tls&fp=chrome&sni=eded-52n.pages.dev&type=ws&headerType=none&host=eded-52n.pages.dev&path=/#🔒smkn-ES-🇪🇸
-trojan://humanity@185.18.250.252:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&allowInsecure=1#🔒smkn-ES-🇪🇸
-trojan://SSorg@185.114.72.148:443/?type=tcp&security=tls&sni=ssjj.esslh.filegear-sg.me#🔒smkn-ES-🇪🇸
-vless://fdeab34b-0a84-4b1d-ac7b-0ca7737353e6@2.27.26.42:26819?type=grpc&security=reality&fp=firefox&pbk=G5ssqwHdO3WY07IIqqJ3eszJbUm2NfshymcbQU5CEw4&sid=1a6b1f9d0e&sni=www.nvidia.com&serviceName=api/v1/sync/#🔒smkn-ES-🇪🇸
-vless://dd7429eb-b77b-4a8d-be86-c34cac86faf7@185.253.152.198:34710?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=firefox&pbk=MXOVePed0T2SVOfYSEtecn2yApnsVC12dJ6nkujWTVU&sni=www.nvidia.com&sid=14b0eb7919eb7d#🔒smkn-ES-🇪🇸
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.32.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-ES-🇪🇸
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.18.250.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-ES-🇪🇸
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.250.138:80?encryption=none&security=none&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=TG%40juzibaipiao-juzi#🌐smkn-ES-🇪🇸
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#🌐smkn-ES-🇪🇸
+vless://d5b44b89-ca73-4b82-a494-a72054c31df3@45.196.208.16:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=28047c78b3f5ee2c&sni=storage.yandex.net#🔒smkn-ES-🇪🇸
+vless://4c1b7e3f-6a2d-493f-b6c4-4ef37db6fcfc@193.238.154.39:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=G7hjy9PEKopcPUP4mQXhwIaKIO9TCra_5LHZWuM_RjM&security=reality&sid=641a87d5ecdfaeb3&sni=www.cloudflare.com&type=tcp#🔒smkn-ES-🇪🇸
+ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ==@5.188.181.201:9042#🌐smkn-ES-🇪🇸
+ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@5.188.181.201:9031#🌐smkn-ES-🇪🇸
+ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037#🌐smkn-ES-🇪🇸
+ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA@5.188.181.201:9003#🌐smkn-ES-🇪🇸
