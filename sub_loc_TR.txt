@@ -1,9 +1,4 @@
-vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@188.132.232.192:2053?&security=tls&fp=chrome&sni=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&type=ws&headerType=none&host=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&path=%2Fpg%2F10086-dfc816f117c49173#🔒smkn-TR-🇹🇷
-vless://35c92faf-ac12-4ded-ab2e-7cf3ed671bc8@62.133.63.102:443?security=reality&type=tcp&sni=tr.pink-service.ru&fp=firefox&flow=xtls-rprx-vision&sid=86b80f1e713a33ad&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&encryption=none#🔒smkn-TR-🇹🇷
+vless://caeb0482-d3d9-4271-8fbe-bc2cfe694efa@2.26.94.2:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=da5UVhoC5QOCDm84AxB-RRxf0z2nySZ3lOemgqizLS4&sni=pro-tr.emrata.top#🔒smkn-TR-🇹🇷
 vless://b052df40-d51c-456c-9bd6-57af01a87e4e@156.67.63.231:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sync-bridge.org&fp=chrome&pbk=PTqeBbbr2xJ1L3V1PyYjKjxanMKKqJHU-wtnpYmFQCI&sid=5606d4a25c99e7af&type=tcp&headerType=none#🔒smkn-TR-🇹🇷
-vless://18f71148-a3c7-40c7-b02a-be04da72efe3@2.26.94.13:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=da5UVhoC5QOCDm84AxB-RRxf0z2nySZ3lOemgqizLS4&sni=pro-tr.emrata.top#🔒smkn-TR-🇹🇷
-vless://96172b09-2ec8-418d-a539-7e9fb118caf8@91.228.227.172:443?encryption=none&security=none&type=tcp&headerType=none#🔒smkn-TR-🇹🇷
-vless://9e2ef48d-fdba-4278-9f7c-e9d75bd57e3e@91.228.227.172:110?security=none&amp;type=tcp&amp;headerType=none&amp;encryption=none#🌐smkn-TR-🇹🇷
-vless://470c7664-3262-afbb-2bef-f6f0f5e83815@185.226.94.191:80?path=%2F&security=&encryption=none&type=ws&sni=185.226.94.203#🌐smkn-TR-🇹🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVNXVCWFJiTGhaZHZyNnYwbWRBdmph@107.161.174.240:8388/?outline=1#🌐smkn-TR-🇹🇷
-vmess://eyJhZGQiOiAiMTAzLjgzLjg3LjIyOSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiYzBkNjY2N2EtZDI1Ny00NzI0LWJjYTAtMThjMzNmZGQ2YjRhIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwY3MiOiAiIiwgInBvcnQiOiAiMzE5NzMiLCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1UUi1cdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZjciLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAidmNuIjogIiJ9
+vless://29b24e2d-a4b6-4785-ac90-e384b6c0b0b6@176.223.66.221:7007?security=reality&encryption=none&pbk=7wBuF3nDHbcxPy3nr9Rmf6vDLB-gu7XQZqVvkiPlnh0&headerType=none&fp=ios&type=tcp&sni=amp-api-edge.apps.apple.com#🔒smkn-TR-🇹🇷
+vless://b4469373-b425-4902-80d4-a00e00ada7de@91.124.63.210:50303?path=/&security=none&encryption=none&host=play.google.com&type=ws#🌐smkn-TR-🇹🇷
