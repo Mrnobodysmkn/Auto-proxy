@@ -1,8 +1,10 @@
 trojan://981db44e-9f07-49eb-9ba0-6ab4939919a2@61.220.126.180:443?security=tls&sni=twnode11.oportal.cc&type=tcp&headerType=none#🔒smkn-TW-🇹🇼
-vless://19d5a678-8396-4e3b-93da-ece618d0e83a@118.167.224.189:24215?&security=reality&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&fp=firefox&sni=addons.mozilla.org&type=tcp&headerType=none&host=addons.mozilla.org&path=%2F#🔒smkn-TW-🇹🇼
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.250.152.209:8443/?type=tcp&security=tls&sni=official.taipeicitygovernment.net.ua&allowInsecure=1&fp=chrome#🔒smkn-TW-🇹🇼
-trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@60.250.152.209:3462/?type=tcp&security=tls&sni=a12.taipeicitygovernment.org.ua&allowInsecure=1#🔒smkn-TW-🇹🇼
-vless://64d77a12-ad6b-4d85-a349-bd287535af1c@35.194.157.16:43450?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=HNPJBiUbqYVC3ylvu1GA7fCHLTaHO7S13Bex1nm0O1o&sid=e65d010354bdad73&sni=www.amd.com#🔒smkn-TW-🇹🇼
-vless://41b96ee9-ee5e-455f-9753-187a9dead97a@35.221.158.209:32981?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=JSn0GPz1WOSTUDBxN_XYnhgb2Jpjc2LpfBTzX1j3V2E&sid=70f4b7a4c40636&sni=www.sony.com#🔒smkn-TW-🇹🇼
-vless://6f361c37-bc54-43dd-8c8b-0f59354745a5@220.130.75.250:10000/?type=tcp&encryption=none&flow=&packetEncoding=xudp#🌐smkn-TW-🇹🇼
+vless://bf8cc771-51a0-4395-810f-1f135325cfc1@34.81.129.171:34376?&security=reality&flow=xtls-rprx-vision&pbk=Atq4Fo_Mg48QtKXagBW9jnhaQSDUCiKgnATB2EU6OHU&sid=8dbafb690450d8a9&fp=firefox&sni=www.sony.com&type=tcp&headerType=none&host=www.sony.com&path=%2F#🔒smkn-TW-🇹🇼
+vless://b0342e8a-a25e-4e30-b598-d9391b0df4c9@34.80.184.198:44848?flow=xtls-rprx-vision&security=reality&sni=www.tesla.com&fp=ios&pbk=w9vWLOHjl46krA8IEpGoPI9scTL0rFdjCtjdukJDciU&sid=2338740580a5de&type=tcp&path=%2f#🔒smkn-TW-🇹🇼
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@60.250.152.229:3462/?type=tcp&security=tls&sni=a03.taipeicitygovernment.cn.ua&allowInsecure=1#🔒smkn-TW-🇹🇼
+vless://0234cdd9-35ee-40a5-b698-9820f09a04f5@1.165.25.108:35991?security=reality&flow=xtls-rprx-vision&pbk=7Uvr0TZMgPREo4M4w-CJ5ih53HnHe5yTRu5QR_-GUgc&sid=89b39d3075794c&fp=chrome&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=/#🔒smkn-TW-🇹🇼
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@61.222.160.199:3462/?type=tcp&security=tls&sni=a03.taipeicitygovernment.cn.ua&allowInsecure=1#🔒smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@125.227.86.47:2377#🌐smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.38:2377#🌐smkn-TW-🇹🇼
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@220.130.75.248:10000?&type=tcp&headerType=none&path=%2F#🌐smkn-TW-🇹🇼
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.28.137:2377#🌐smkn-TW-🇹🇼
