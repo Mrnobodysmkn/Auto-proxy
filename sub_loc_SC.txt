@@ -1,8 +1,5 @@
-trojan://humanity@45.130.125.160:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#🔒smkn-SC-🇸🇨
-trojan://humanity@45.130.125.76:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&alpn=http%2F1.1#🔒smkn-SC-🇸🇨
-vless://41f33146-7eb4-11f1-855a-d60b69bb56c6@200.165.235.43:2053?encryption=none&pbk=j8OW1foMwfeiy3VMbNPHLgTXgy_ZPdFFxv-H3HrbNF0&security=reality&serviceName=grpc-direct&sid=2c60309fa586eb60&sni=dzen.ru&type=grpc&fp=firefox#🔒smkn-SC-🇸🇨
+vless://3d7c04ea-0d63-4847-b916-1103cc6a488f@45.130.125.192:8443?mode=auto&path=/?ed=80&security=tls&alpn=h2&encryption=none&insecure=1&fp=chrome&type=xhttp&allowInsecure=1&sni=vh.mojaz-persian-music.ir#🔒smkn-SC-🇸🇨
 ss://f106648e-0644-40bc-974c-6edc966fe18d@45.130.125.101:8443?mode=auto&amp;path=%2F%3Fed&amp;security=tls&amp;alpn=h3%2Ch2&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=cji.new-persian-song.ir#🔒smkn-SC-🇸🇨
-vless://b37be529-83c9-4851-a3cf-73d7d05bf308@45.130.125.76:8443?path=/&security=tls&encryption=none&insecure=0&host=drrfddgbv.turbooserver.net.tr&type=ws&allowInsecure=0&sni=drrfddgbv.turbooserver.net.tr#🔒smkn-SC-🇸🇨
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.30:8880?security=none&type=ws&path=/&host=vms.lifetime58.workers.dev&allowInsecure=1&sni=vms.lifetime58.workers.dev#🌐smkn-SC-🇸🇨
-vless://dca945d2-6d9b-434f-8754-3626a6a75e21@45.130.125.160:2095?path=/?ed=2096&security=none&encryption=none&host=aza002.vaslbash.site&type=httpupgrade#🌐smkn-SC-🇸🇨
-vless://22c15b3f-e205-48e2-9b30-1a2c3480e7b2@45.130.125.160:80?path=/&security=none&encryption=none&host=sRv79.hAMiIbaR.CoM&type=ws#🌐smkn-SC-🇸🇨
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.209:80?path=%2Fhttp&security=none&encryption=none&host=de.vpnbase.net&type=ws#🌐smkn-SC-🇸🇨
+ss://936b7663-a841-4b42-b639-6e3fab1dbf45@200.165.234.119:2200?path=%2Fv1&amp;security=none&amp;type=ws#🌐smkn-SC-🇸🇨
+vless://099f0859-cb81-4a57-b6d8-2c8e18030627@200.165.234.119:4100?encryption=none&amp;type=ws&amp;security=none&amp;path=/v1&amp;host=live.ok.ru#🌐smkn-SC-🇸🇨
