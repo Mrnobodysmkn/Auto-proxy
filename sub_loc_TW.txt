@@ -1,5 +1,11 @@
+vless://b8ca2900-3ed7-4b58-970e-060d0a6cbf99@35.187.156.27:443?&security=reality&pbk=HsoG0C19O-NY_EcFpK0ybZv9lFol0MjDJLzjDzWAGXs&sid=d79d3dc3816c329d&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#🔒smkn-TW-🇹🇼
+vless://47a97b7f-044d-43d6-86b0-8b256873d1b5@45.121.50.241:50159?&security=reality&flow=xtls-rprx-vision&pbk=E9gCs_C_mSDcHmlCZSMk1kSXpmua48DhgsT_aDpZ1WE&sid=4c3f80051030ba1b&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#🔒smkn-TW-🇹🇼
+vless://572782aa-48eb-42f1-b164-8c1e2381cf9c@35.221.252.60:50665?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=2d8lBXxyxrcHKjy3NLycQBgkstKpHwgont5rD9hUvAQ&sid=a700726f35329a4e&sni=www.amd.com#🔒smkn-TW-🇹🇼
 vless://85a6bd94-83a9-4e80-849f-c06d7011d1a4@35.201.163.218:30837?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=LXPNhrAGxr_QE4YCdJfKE40ebsPNIHnLbydhl6bipCo&sid=97101ba788915e5a&sni=www.sony.com#🔒smkn-TW-🇹🇼
-vless://6f361c37-bc54-43dd-8c8b-0f59354745a5@220.130.75.250:10000/?type=tcp&encryption=none&flow=&packetEncoding=xudp#🌐smkn-TW-🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@59.125.75.115:2377#🌐smkn-TW-🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@211.22.161.135:2377#🌐smkn-TW-🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.3:2377#🌐smkn-TW-🇹🇼
+vless://5859f6a7-cda1-47c2-8353-fcdee281f31d@104.199.219.172:40800?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=zohUbvPLKVBwzuDmZNsaXXFYZSKA9_xEhdUyURChrgo&sid=186e4c2732d61a3d&sni=www.intel.com#🔒smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.28.60:2377#🌐smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.28.59:2377#🌐smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@59.125.62.188:2377#🌐smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.39:2377#🌐smkn-TW-🇹🇼
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@220.130.75.248:10000?&type=tcp&headerType=none&path=%2F#🌐smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@125.227.86.47:2377#🌐smkn-TW-🇹🇼
