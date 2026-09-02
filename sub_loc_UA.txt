@@ -1,2 +1,5 @@
-trojan://f18d6149-e214-8554-e737-f7523c8b2eea@89.116.180.49:443?path=/sync&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=0403.infinityconfig4.workers.dev#🔒smkn-UA-🇺🇦
-vless://064a967e-0862-4cea-bdbd-9458cb7b6070@91.224.86.107:9830?encryption=none&type=grpc&security=reality&sni=dl.google.com&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aa&fp=qq&serviceName=grpc-tunnel#🔒smkn-UA-🇺🇦
+trojan://NISHIKUITAN111@45.135.235.196:443/?type=tcp&security=tls#🔒smkn-UA-🇺🇦
+ss://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.87.22:9873?mode=multi&amp;security=reality&amp;encryption=none&amp;pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&amp;fp=firefox&amp;type=grpc&amp;serviceName=grpc-tunnel&amp;sni=dl.google.com&amp;sid=aabbccdd#🔒smkn-UA-🇺🇦
+vless://3e4d70e5-7ec9-48f9-a4e0-48c44c6063fd@130.0.234.197:48905?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XIubADu7punjUa2oUfHj2vTmUzUJXN_xDrGsmf_LslY&sni=gpuopen.com#🔒smkn-UA-🇺🇦
+ss://76186f1e-3062-4a2b-98c2-fab3c61a9511@91.224.87.22:9882?mode=multi&amp;security=reality&amp;encryption=none&amp;pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&amp;fp=qq&amp;type=grpc&amp;serviceName=grpc-tunnel&amp;sni=dl.google.com&amp;sid=aabb#🔒smkn-UA-🇺🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@91.218.49.99:1080#🌐smkn-UA-🇺🇦
