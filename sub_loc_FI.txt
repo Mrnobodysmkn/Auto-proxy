@@ -1,10 +1,7 @@
-vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@85.192.49.151:443?security=reality&encryption=none&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.servers.gracevpnbuy.com&sid=b91a73752053b039#🔒smkn-FI-🇫🇮
-ss://99e5e9a0-1c6b-4cb0-805d-a810fd47eb15@185.69.123.106:443?security=reality&amp;encryption=none&amp;pbk=30eHXS9LpzFg443EtLaGLuDFo2QGa4zvLM7WdT-tSiM&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.google.com&amp;sid=35debf0dc757d053#🔒smkn-FI-🇫🇮
+vless://31216f81-3139-0021-bac4-646680314264@185.218.194.69:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=e1f8a3b6&type=tcp&headerType=none#🔒smkn-FI-🇫🇮
+vless://f5a3bf49-07ca-0021-a96b-9606781e3600@2.26.147.116:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=6e3f0a5b&sni=www.amd.com#🔒smkn-FI-🇫🇮
 vless://9ec52cb8-8daa-0021-ac36-d38295a25e5b@5.61.91.207:443?security=reality&flow=xtls-rprx-vision&sni=www.amd.com&type=tcp&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=a7b2c9d4&alpn=http/1.1#🔒smkn-FI-🇫🇮
-vless://f5a3bf49-07ca-0021-a96b-9606781e3600@185.218.194.70:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&security=reality&sid=6e3f0a5b&sni=www.amd.com&type=tcp#🔒smkn-FI-🇫🇮
-vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@2.27.26.140:443?encryption=none&type=tcp&security=reality&pbk=HKkU-5UanGjWdmX8E-EGulXMk1BnidkFsVveyyOlTg8&sid=90f9d05bf95cb335&sni=aq.cdn-global.pro&fp=chrome&flow=xtls-rprx-vision#🔒smkn-FI-🇫🇮
-vless://Telegram:@Free_VPN_CH@194.164.235.8:443?encryption=none&security=tls&sni=tn1rr.qzz.io&insecure=0&allowInsecure=0&type=ws&host=tn1rr.qzz.io&path=/sg-lnd#🔒smkn-FI-🇫🇮
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.247.217:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🔒smkn-FI-🇫🇮
+trojan://8r%3C%5B9%27l6hAO%238ZQi@193.109.84.103:2053/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-FI-🇫🇮
 vless://758f49d3-5f5f-47e7-bfa4-4ce96faf800d@2.26.122.101:8443?encryption=none&fp=firefox&pbk=NI5Rkfn6zO_gF-UC1nuvJwu4SDakCXh3ygJOKU1EITU&security=reality&sid=f747a7a5793b5714&sni=cdn.shopify.com&type=grpc#🔒smkn-FI-🇫🇮
-vless://8b2075d9-ddf0-428c-bcc6-5bd93cec18e6@193.29.225.249:4443?security=tls&type=ws&path=/@Marisa_kristi&host=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&sni=ke859ch2gse1iery3hiz.e3q4a5mjld11kpj0zj8dq.workers.dev&fp=chrome&encryption=none#🔒smkn-FI-🇫🇮
-vless://ed7a7629-09b5-4e9a-c56b-d418f1a1388e@37.27.254.247:80/?type=tcp&security=reality&pbk=BuoQdx6Rpxdhn58FNJ5PtW4TqsVZQtcZ9Zj7J_1aaFY&fp=chrome&sni=refersion.com&sid=&spx=/HAJIMAMADVPN#🔒smkn-FI-🇫🇮
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@157.180.71.202:10048/?type=ws&encryption=none&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&fp=chrome#🔒smkn-FI-🇫🇮
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@179.198.50.131:8443#🌐smkn-FI-🇫🇮

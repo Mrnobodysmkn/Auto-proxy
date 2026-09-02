@@ -1,3 +1,7 @@
-vless://02ae7872-1c03-4214-8b95-14c126da831e@31.76.37.7:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sni=pro-it.emrata.top#🔒smkn-LV-🇱🇻
-vless://20fda433-1864-433b-b3dd-8f119fe4cafd@77.73.71.103:443/?type=ws&encryption=none&host=happy.mianfeicf.lol&path=%2F&security=tls&sni=happy.mianfeicf.lol#🔒smkn-LV-🇱🇻
-trojan://8r%3C%5B9%27l6hAO%238ZQi@213.232.204.28:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-LV-🇱🇻
+ss://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;type=grpc&amp;serviceName=grpc&amp;allowInsecure=0&amp;sni=laoye.in-gect.fun#🔒smkn-LV-🇱🇻
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2053?encryption=none&flow=xtls-rprx-vision&fp=&pbk=cGVu5j95KoeHBkWXveyTKolORbdvZm9g1T6yyo64ZBg&security=reality&sid=d26f4703cdd30f4e&sni=vk.ru&type=tcp#🔒smkn-LV-🇱🇻
+vless://c8425da6-9ada-0032-8180-c1b4a6aa17c7@13.143.142.118:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=uRuW2K9JNw64jgAVEdV39NMh_udtVD6xxEV-dQFATHY&sni=free-de-03.la-la-land.top#🔒smkn-LV-🇱🇻
+trojan://8r%3C%5B9%27l6hAO%238ZQi@31.56.227.49:2053/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-LV-🇱🇻
+vless://f61025f4-7973-4e3e-883c-a0fe85f0489c@72.56.52.30:443?security=reality&encryption=none&pbk=OFmJtVi6OB9E6KIc5QV5YmoouimRFc-Se9hICjtV8hQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=lv.rexten.cc#🔒smkn-LV-🇱🇻
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:8443?security=reality&type=xhttp&sni=laoye.in-gect.fun&fp=firefox&pbk=Z3adeet9wvavdQ8mY6BZYgoXe22BV5DFcsyFChWYNUM#🔒smkn-LV-🇱🇻
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@89.36.161.222:2096?encryption=none&host=laoye.in-gect.fun&path=%2F&security=none&type=ws#🌐smkn-LV-🇱🇻
