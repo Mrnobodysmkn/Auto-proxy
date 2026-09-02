@@ -1,7 +1,8 @@
-vless://31216f81-3139-0021-bac4-646680314264@185.218.194.69:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=e1f8a3b6&type=tcp&headerType=none#🔒smkn-FI-🇫🇮
-vless://f5a3bf49-07ca-0021-a96b-9606781e3600@2.26.147.116:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=6e3f0a5b&sni=www.amd.com#🔒smkn-FI-🇫🇮
-vless://9ec52cb8-8daa-0021-ac36-d38295a25e5b@5.61.91.207:443?security=reality&flow=xtls-rprx-vision&sni=www.amd.com&type=tcp&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=a7b2c9d4&alpn=http/1.1#🔒smkn-FI-🇫🇮
-trojan://8r%3C%5B9%27l6hAO%238ZQi@193.109.84.103:2053/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-FI-🇫🇮
-vless://758f49d3-5f5f-47e7-bfa4-4ce96faf800d@2.26.122.101:8443?encryption=none&fp=firefox&pbk=NI5Rkfn6zO_gF-UC1nuvJwu4SDakCXh3ygJOKU1EITU&security=reality&sid=f747a7a5793b5714&sni=cdn.shopify.com&type=grpc#🔒smkn-FI-🇫🇮
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@157.180.71.202:10048/?type=ws&encryption=none&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd&fp=chrome#🔒smkn-FI-🇫🇮
-vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@179.198.50.131:8443#🌐smkn-FI-🇫🇮
+vless://bd99da97-265e-0021-82cc-4ec009fe9ce2@5.61.91.206:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.amd.com&fp=firefox&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=0a4b7c3d&flow=xtls-rprx-vision#🔒smkn-FI-🇫🇮
+vless://476caa1d-7c04-48ab-8de5-2c1af0d13a66@138.124.244.248:443/?type=tcp&encryption=none&sni=yahoo.com&security=reality&pbk=PYX0lu3m0L_h28eW4186s63gRFHXoTc3K9wKeFewDUQ&sid=e9a8#🔒smkn-FI-🇫🇮
+vless://ad8a53f2-b109-4873-9156-fc3bcb0d7fe4@62.60.255.11:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ya.ru&fp=firefox&security=reality&pbk=nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw&sid=6ba85179e30d4fc2#🔒smkn-FI-🇫🇮
+vless://f5a3bf49-07ca-0021-a96b-9606781e3600@185.218.194.69:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.amd.com&fp=firefox&flow=xtls-rprx-vision&sid=6e3f0a5b&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4#🔒smkn-FI-🇫🇮
+vless://896efe15-7363-4d6c-97aa-cb0bb5499228@95.217.240.156:443?security=reality&sni=www.speedtest.net&fp=chrome&pbk=gB2mHBv8PQXA0HSxOlOcB91nq5luio58GPdkjAgmk2M&sid=10ff054b&type=tcp&flow=xtls-rprx-vision&encryption=none#🔒smkn-FI-🇫🇮
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.14.247.86:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🔒smkn-FI-🇫🇮
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ@31.76.30.79:10808#🌐smkn-FI-🇫🇮
+vmess://eyJhZGQiOiAiNjUuMTA5LjEzNC4xOTEiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjkxNjk4NzQ3LTkyYjMtNGEwNy1iNWRhLTIyNjk0ZWRiZWE4MiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvZ3JhcGhxbCIsICJwb3J0IjogODAsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUZJLVx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRlZSIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byJ9
