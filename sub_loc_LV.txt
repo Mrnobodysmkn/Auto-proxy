@@ -1,8 +1,5 @@
 vless://c7e9c591-2764-423a-afca-efbd010fd396@95.156.205.244:443?fp=chrome&host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru&type=ws#🔒smkn-LV-🇱🇻
-vless://5234b2b7-5e07-422c-8159-d62a676c00c6@138.124.180.137:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=GBdkyDLfr0LIZo_94Xv8ycAKOmkjArYzwJAEMhuXX2c&sni=www.apple.com&sid=33acba1b#🔒smkn-LV-🇱🇻
-vless://f71e29f8-0608-4705-99b9-33e0e128ca6d@217.60.3.119:8765?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=V08eH6wKELK6STU4lGdjvV89rWLE0B7yG8fbsmK8fh4&security=reality&sid=b87857f8cc3bd8dc&sni=www.linkedin.com&type=tcp#🔒smkn-LV-🇱🇻
-vless://dbacac09-9ee8-400c-b53b-745a769c220a@31.170.22.176:7443?type=grpc&security=reality&fp=firefox&pbk=8XsSsJHS3-t2C497lP13JJNtknwSMWitJGYDvRJu3XE&sid=b66233e398c50da0&sni=tv.apple.com&serviceName=grpc#🔒smkn-LV-🇱🇻
+vless://583c01d5-de48-4274-be39-2a6a817d37c4@185.220.223.82:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dk8PDNT0advoq9cPBLen0g56tuITKmhdko_CozQdWUs&sid=008746e84cd60004&sni=lvhy2.metricpipe.space#🔒smkn-LV-🇱🇻
+vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@91.197.2.220:443?&security=tls&fp=chrome&sni=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&type=ws&headerType=none&host=j.n.i.l.6.m.7.3.o.t.e.s.j.3.us.art-us.kdns.fr&path=%2Fpg%2F10086-dfc816f117c49173#🔒smkn-LV-🇱🇻
+vless://17228651-b902-0008-bdd6-ccf31d78542b@95.164.91.84:443?&security=reality&flow=xtls-rprx-vision&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&fp=firefox&sni=lv.quattro-tech.ru&type=tcp&headerType=none&host=lv.quattro-tech.ru&path=%2F#🔒smkn-LV-🇱🇻
 trojan://8r%3C%5B9%27l6hAO%238ZQi@31.57.107.41:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-LV-🇱🇻
-vless://4b056394-2f40-11f1-bffe-46c4782ac1a7@31.57.29.7:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=FVL0r87K3-vUP2KXQX1juLMFEHJtvxwKM-nm6_PYllc&sid=cafe01234567&sni=www.apple.com&path=&host=#🔒smkn-LV-🇱🇻
-trojan://8r%3C%5B9%27l6hAO%238ZQi@217.145.79.119:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-LV-🇱🇻
-trojan://8r%3C%5B9%27l6hAO%238ZQi@195.135.252.148:8443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-LV-🇱🇻
