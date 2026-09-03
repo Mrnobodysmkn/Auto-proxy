@@ -1,4 +1,5 @@
-trojan://NISHIKUITAN111@5.10.244.100:443/?type=tcp&security=tls&allowInsecure=1#🔒smkn-CW-🇨🇼
 trojan://bpb-trojan@92.60.74.143:443/?type=tcp&security=tls&sni=bpb.my79801.com#🔒smkn-CW-🇨🇼
+trojan://ttfang@5.10.246.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🔒smkn-CW-🇨🇼
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.247.225:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-CW-🇨🇼
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@62.72.166.177:8880/?type=ws&encryption=none&host=ip.langmanshanxi.top&path=%2FTelegram%40WangCai2%2F%3Fed%3D2560#🌐smkn-CW-🇨🇼
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.216.67.50:8880?type=ws&host=vms.lifetime05.workers.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2Fyoutube%40ZYFXS%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-CW-🇨🇼
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.246.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime05.workers.dev&encryption=none#🌐smkn-CW-🇨🇼
