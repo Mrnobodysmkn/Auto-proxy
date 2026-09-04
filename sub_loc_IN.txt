@@ -1,6 +1,4 @@
-trojan://Aimer@108.165.152.241:2053/?type=tcp&security=tls&sni=acepo.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.66:2083/?type=tcp&security=tls&sni=epccd.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.104:2053/?type=tcp&security=tls&sni=epccs.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
 trojan://Aimer@108.165.152.219:443/?type=tcp&security=tls&sni=agepj.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
+trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443/?type=tcp&security=tls#🔒smkn-IN-🇮🇳
 vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&fp=chrome&security=reality&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&sid=88b6#🔒smkn-IN-🇮🇳
-vless://0faaa1ee-f3d2-49ec-92af-3228329f3000@172.237.44.80:19567?encryption=none&flow=xtls-rprx-vision&fp=&pbk=tzm4xWHOerooioq4QQkI7VCvIapECgody_vJGDzX3UI&security=reality&sid=87714fc3c52a&sni=www.nvidia.com&type=tcp#🔒smkn-IN-🇮🇳
-vless://8820e16b-fbc2-49d3-90e4-eeeb8301c83c@151.101.158.71:80?security=none&type=ws&host=anycast.leslie.ch&path=%2F%3Fed%3D2560#🌐smkn-IN-🇮🇳
