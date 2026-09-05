@@ -1,8 +1,10 @@
-vless://5999a497-a2da-41d0-92cb-5b758082f83c@198.105.123.79:443?security=tls&flow=xtls-rprx-vision&fp=firefox&sni=parta3.api3-max.ru#🔒smkn-TR-🇹🇷
-trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=#🔒smkn-TR-🇹🇷
-vless://0718d4d6-42ea-4388-a41c-2069a49761f5@152.233.53.7:443?type=tcp&headerType=none&security=reality&encryption=none&sni=api-maps.yandex.ru&fp=firefox&pbk=DAdWhCSXRRcho_XopxBKq2-KDupbSY_i2r-FJCy58kY&sid=5a3874f1&flow=xtls-rprx-vision#🔒smkn-TR-🇹🇷
-vless://68bdc1ee-c6ee-4d91-ab52-35ce0d368302@193.124.46.65:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=193.124.46.65&fp=chrome#🔒smkn-TR-🇹🇷
-vless://188c0927-b022-4478-86f7-be53449e2d8b@153.52.92.160:2082?encryption=none&security=reality&type=tcp&headerType=none&host=amp-api-edge.apps.apple.com&sni=www.zelnora.ir&fp=edge&pbk=BXPU9XO_TPK-mgva2dROYKB7b3LwtBEOVcqbKJLB7HM&sid=08#🔒smkn-TR-🇹🇷
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@86.38.214.168:8880/?type=ws&encryption=none&host=kjgx.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2560#🌐smkn-TR-🇹🇷
+vless://78eb4455-0d07-4bc2-93e3-7c8654f11d74@185.123.100.56:8443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=firefox&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&sni=www.apple.com#🔒smkn-TR-🇹🇷
+vless://29b24e2d-a4b6-4785-ac90-e384b6c0b0b6@176.223.66.221:7007?security=reality&encryption=none&pbk=7wBuF3nDHbcxPy3nr9Rmf6vDLB-gu7XQZqVvkiPlnh0&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com#🔒smkn-TR-🇹🇷
+vless://215d71a9-0047-4600-9240-7c3b86b62313@46.31.76.3:80?mode=auto&path=/pwpw&security=reality&encryption=none&pbk=oTX6mQJYxkmmdF7Rq_stAKX_hYoOMXGaWmoblFl2zgo&host=bleep.global.ssl.fastly.net&fp=chrome&spx=/&type=xhttp&sni=journalofbigdata.springeropen.com&sid=5942e2#🔒smkn-TR-🇹🇷
+vless://5e41bf71-2188-4b16-a061-7b3f38dc7d6a@45.74.159.28:57362?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=ZB8dPnYX8VwMsqp__WdDA_-6rpqzje62Jx7SSfQ2X3s&sid=1f4a16cbf1&spx=/0806139f10fb88d&type=tcp&headerType=none#🔒smkn-TR-🇹🇷
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@86.38.214.101:2096/?type=ws&encryption=none&host=juzibaipiao.5112233.xyz&path=%2F%3Fed%3D2048&security=tls&sni=juzibaipiao.5112233.xyz&fp=chrome#🔒smkn-TR-🇹🇷
+vless://f8fd2381-40ea-4b46-973b-f9dab2eed50b@146.103.26.96:37211?encryption=none&fp=edge&pbk=2dpt8KZvY90iXmpdsCMkvK_00uHIhNbnz0VYrVFcJ3k&security=reality&sid=aa6f080efb8928f9&sni=www.google.com&type=tcp#🔒smkn-TR-🇹🇷
+vless://06e7cee8-0bf1-4247-a51b-d2203dddfc7d@45.74.159.28:40924?encryption=none&security=reality&sni=fr-ca.rogers.yahoo.com&fp=chrome&pbk=ibDgx0xiVjgSGqZLiNrSY61LaAEp6m8bhjKKn1iwUkc&sid=23ff07&spx=/4cbcf0632240477&type=tcp&headerType=none#🔒smkn-TR-🇹🇷
+ss://02a96d4d-f2f5-4c0b-ba83-d24aec5defb8@91.228.227.172:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#🔒smkn-TR-🇹🇷
+vless://1b0a74e1-3c69-4386-ae77-9db408d0687f@91.228.227.172:8080?security=none&encryption=none&headerType=none&type=tcp#🌐smkn-TR-🇹🇷
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZjJOcTVZTG55Y2xQYVdSOG15Ny9WZGQzWlg4VVJuY1haTmx5NStIY1VTcz06YUU2TXhCVGUrTVhIZDlIb0YyRkYvQnpLRnFHVFJlTXBNZXZsUWh2c3Uwcz0=@176.53.17.241:1943#🌐smkn-TR-🇹🇷
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@86.38.214.3:8880/?type=ws&encryption=none&host=bitget1.asdasd.click&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-TR-🇹🇷

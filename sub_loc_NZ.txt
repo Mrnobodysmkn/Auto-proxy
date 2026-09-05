@@ -1,2 +1,1 @@
-trojan://humanity@202.37.33.80:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#🔒smkn-NZ-🇳🇿
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.232.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-NZ-🇳🇿
+vless://8820e16b-fbc2-49d3-90e4-eeeb8301c83c@146.75.13.223:80?security=none&type=ws&host=anycast.leslie.ch&path=/?ed=2560#🌐smkn-NZ-🇳🇿
