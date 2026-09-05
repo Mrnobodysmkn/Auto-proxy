@@ -1,8 +1,10 @@
-vless://92e41c23-4b39-464a-bbff-63ef84f317da@84.17.58.133:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=3hiGU9oArRYulbhHEJa7nTfx1k0XL6ItE_xs-8Yi_Uc&sid=17a2a5e0&sni=api-maps.yandex.ru#🔒smkn-IT-🇮🇹
+vless://62a08ea5-0564-47b4-a92c-25be07ad6358@31.77.154.46:443?mode=gun&security=reality&encryption=none&pbk=ne8wv6o6AYcQoVvz30PiTjSxviGa3_Kw5ClIEDdg-3A&fp=firefox&spx=%2F&type=grpc&serviceName=grpc&sni=360.yandex.ru&sid=6ba85179e30d4fc2#🔒smkn-IT-🇮🇹
+vless://2b262080-f68a-4108-9ac3-d89140faaf6f@3.166.17.55:443?encryption=none&security=tls&sni=d2757rhm6iotvq.cloudfront.net&fp=chrome&type=ws&path=%2F#🔒smkn-IT-🇮🇹
+vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&security=reality&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&sid=79a1e14b#🔒smkn-IT-🇮🇹
+vless://699ce9a1-abbb-4525-988e-b940381352e8@151.241.215.109:8443?type=tcp&security=reality&fp=firefox&pbk=UQ6dyuQKvCZjFH3BiGswrecUsrptDXQ67dvKFuQC5DA&sid=74933f39a9693c&sni=yandex.ru#🔒smkn-IT-🇮🇹
+vless://b91abe1a-80ca-417b-998b-2b542661c16f@57.131.42.58:8008?mode=packet-up&path=/api/v1/stream&security=reality&encryption=none&extra={"mode":"packet-up","xPaddingBytes":"100-1000"}&pbk=yGB6HD9OYiD77YWTH1YxcG9yIYkyeEYOEcHL-WnwQn8&fp=chrome&type=xhttp&sni=play.google.com&sid=5f9a#🔒smkn-IT-🇮🇹
 vless://d5b44b89-ca73-4b82-a494-a72054c31df3@45.196.214.192:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=f32140952ba18e18&sni=storage.yandex.net#🔒smkn-IT-🇮🇹
 vless://699ce9a1-abbb-4525-988e-b940381352e8@151.241.215.109:33843?type=grpc&security=reality&fp=firefox&pbk=y3y0w-Mhz21jNw5LKtPV5fDmNqfP02k7eybhQ60VeAM&sid=90fc8bd93749&sni=www.cloudflare.com&serviceName=grpc&spx=/vcgwf7il3dy9t10#🔒smkn-IT-🇮🇹
-vless://b91abe1a-80ca-417b-998b-2b542661c16f@57.131.42.58:8008?mode=packet-up&path=/api/v1/stream&security=reality&encryption=none&extra={"mode":"packet-up","xPaddingBytes":"100-1000"}&pbk=yGB6HD9OYiD77YWTH1YxcG9yIYkyeEYOEcHL-WnwQn8&fp=chrome&type=xhttp&sni=play.google.com&sid=5f9a#🔒smkn-IT-🇮🇹
-vless://699ce9a1-abbb-4525-988e-b940381352e8@151.241.215.109:8443?type=tcp&security=reality&fp=firefox&pbk=UQ6dyuQKvCZjFH3BiGswrecUsrptDXQ67dvKFuQC5DA&sid=74933f39a9693c&sni=yandex.ru#🔒smkn-IT-🇮🇹
-vless://69ac162b-1643-4acb-9f49-09d8b0fad609@57.131.21.102:8443?path=%2FRoBeRt&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=milan.adaspoloandco.com#🔒smkn-IT-🇮🇹
 vless://699ce9a1-abbb-4525-988e-b940381352e8@151.241.215.109:443?encryption=none&path=%2F&security=none&type=ws#🔒smkn-IT-🇮🇹
-ss://YWVzLTI1Ni1jZmI6VHlOa0dtcDloczZlR3BESw@91.201.65.122:9092#🌐smkn-IT-🇮🇹
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086/?type=raw&encryption=none#🌐smkn-IT-🇮🇹
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@57.131.48.45:8388#🌐smkn-IT-🇮🇹
