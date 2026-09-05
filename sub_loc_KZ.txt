@@ -1,11 +1,6 @@
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@31.43.179.34:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#🔒smkn-KZ-🇰🇿
-vless://cfd4bf7c-e76f-4125-9e6e-65ff901fec17@80.90.183.83:443?type=tcp&flow=xtls-rprx-vision&sni=un6-21.userapi.com&encryption=none&pbk=75dkCgYCNMinL0Ac6aOi52uYsgHTY5yCzVmO_vq3N0I&security=reality&sid=612d8fa72c&fp=qq&burmalda=5420e452#🔒smkn-KZ-🇰🇿
 vless://583c01d5-de48-4274-be39-2a6a817d37c4@206.223.240.179:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=LpK8n8ScVuPu0nohacfzW546r30NbDuhrVShtgb43Ws&sid=f47cfad7f7237218&sni=kzhy2.metricpipe.space#🔒smkn-KZ-🇰🇿
-vless://401374e6-df77-41fb-f638-dad8184f175b@31.43.179.43:443/?type=grpc&encryption=none&security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2#🔒smkn-KZ-🇰🇿
-trojan://blue2024@185.176.26.193:443/?type=tcp&security=tls&sni=b.promote.icu#🔒smkn-KZ-🇰🇿
-vless://c7e9c591-2764-423a-afca-efbd010fd396@94.198.221.86:443?path=%2F&security=tls&encryption=none&insecure=1&host=forfreeuse.sub-flow.online&type=ws&allowInsecure=1&sni=forfreeuse.sub-flow.online#🔒smkn-KZ-🇰🇿
-vless://03464802-b517-404b-b15c-7750ffc5e78f@111.88.143.139:51940?encryption=none&type=grpc&security=reality&fp=chrome&pbk=uPHvFb_vZ3DKL-8Et_e9OliZskdSV5U1NZ66tHfC-2Y&sni=yahoo.com&sid=fd7f&spx=%2F#🔒smkn-KZ-🇰🇿
-vless://01970283-51b9-4ad4-96ef-9dfc8ee3dd74@194.76.18.253:2087/?type=grpc&encryption=none&serviceName=%F0%9F%91%A8%E2%80%8D%F0%9F%9A%80Free%F0%9F%91%A8%E2%80%8D%F0%9F%9A%80&security=tls&sni=qauuf2.telzirrr.com.tr&fp=chrome#🔒smkn-KZ-🇰🇿
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@194.76.18.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F%3Fed%3D2560#🌐smkn-KZ-🇰🇿
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@31.43.179.188:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-KZ-🇰🇿
-vless://19be7308-1f67-4f47-a09a-48543a741f12@194.76.18.253:2082/?type=httpupgrade&encryption=none&host=Join-bede-CONFIGT.wordperessweb.ir&path=%2FChannel-CONFIGT%3Fed%3D2082#🌐smkn-KZ-🇰🇿
+trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@194.76.18.122:443/?type=ws&path=%2Fproxyip%3D194.76.18.122%3A443&security=tls&sni=icecream.955850.xyz#🔒smkn-KZ-🇰🇿
+vless://f4dbc770-016d-4a0f-82f0-d83ee6f45da3@93.183.87.107:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=KOgPteoWEwtVtykS2FGV5NHdZw6197VzbITPGkUJDBQ&sni=lively-raptor.cdn.cachefleet.com#🔒smkn-KZ-🇰🇿
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@185.176.26.61:2087?encryption=none&security=tls&type=ws&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#🔒smkn-KZ-🇰🇿
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@31.43.179.251:8880?allowInsecure=0&sni=cf.d3z.net&type=ws&host=cf.d3z.net&path=/Telegram#🌐smkn-KZ-🇰🇿
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzOExiSkNnVWlHWGVDS1ZjNjN0SEpQ@94.198.220.183:64674#🌐smkn-KZ-🇰🇿
