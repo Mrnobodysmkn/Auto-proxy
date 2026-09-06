@@ -1,3 +1,5 @@
-trojan://rYuChHcwQZskq9E0zdoR@103.45.245.208:2053/?type=tcp&security=tls&sni=vpn5.rnmcnm.com#🔒smkn-ES-🇪🇸
-trojan://trojan@109.234.211.66:8443/?type=ws&host=store.timimi.dpdns.org&path=%2F&security=tls&sni=store.timimi.dpdns.org#🔒smkn-ES-🇪🇸
-vless://898537d9-ce3a-4937-bbef-c0fa61c07791@93.189.94.67:48296?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=ga1wUMMknP4pwJfUNOOvD9I35XV4q3c73byXPYbRxBE&sni=www.sony.com&sid=109657bb2dbe99#🔒smkn-ES-🇪🇸
+trojan://humanity@185.114.72.31:2053?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🔒smkn-ES-🇪🇸
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.180.106:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&sni=isp04.skorostnet.space#🔒smkn-ES-🇪🇸
+vless://7fbeb76f-2fa1-4a5a-9f99-4dbfaafb4da2@151.241.216.78:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.google.com&fp=chrome&pbk=4v_4RSmE8ztHfQ4EV8Ym6J-6C8ACtYiznTHcdWJw6WA&sid=aabbccdd&flow=xtls-rprx-vision#🔒smkn-ES-🇪🇸
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.250.138:80?encryption=none&security=none&sni=a.ssll.gay&type=ws&host=a.ssll.gay&path=TG%40juzibaipiao-juzi#🌐smkn-ES-🇪🇸
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.32.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-ES-🇪🇸

@@ -1,1 +1,1 @@
-trojan://humanity@185.75.243.102:443?path=/assignment&security=tls&alpn=h3,+h2,+http/1.1&fm={"tcp":[{"settings":{"delay":"0-1","length":"3","packets":"tlshello"},"type":"fragment"}]}&insecure=0&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🔒smkn-AL-🇦🇱
+vless://7659430c-4124-4f15-aee5-2be5d76f7e44@85.155.228.228:1580?encryption=none&fp=firefox&pbk=M3JXxo8ozG_kG2N5FpyQxwjZFLhXJpJJUP5bjhQrZks&security=reality&sid=bbbd20a50eb58709&sni=amp-api-edge.apps.apple.com&type=tcp#🔒smkn-AL-🇦🇱
