@@ -1,4 +1,2 @@
-vless://c396fa08-e07a-459b-b894-389456fd6a82@23.251.55.216:443?security=reality&sni=www.amazon.com&fp=firefox&pbk=m89wjPa2LxODyi8U5pRVI4E1fwVawIaftC3fLY0ZLw4&sid=9ea177c3c147119b&type=tcp&flow=xtls-rprx-vision&encryption=none#🔒smkn-BR-🇧🇷
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.248.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-BR-🇧🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#🌐smkn-BR-🇧🇷
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.184.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-BR-🇧🇷
+vless://26fc1d92-2188-42fa-b36e-91caa13df437@151.101.186.133:443/?type=ws&encryption=none&host=mashti.com&path=%2F%3Fed%3D2560&security=tls&sni=zmaoz.faculty.ucdavis.edu&alpn=h2%2Chttp%2F1.1&fp=chrome#🔒smkn-BR-🇧🇷
+vless://a34b5e88-cf0d-4c01-8199-2d1002d3c787@147.45.116.52:443?security=reality&encryption=none&pbk=HKpd1sbrhBds8SJSL0d22MAq_QyTR6EP6y5b5DYol3U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.wikihow.com#🔒smkn-BR-🇧🇷
