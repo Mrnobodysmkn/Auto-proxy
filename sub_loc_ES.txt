@@ -1,9 +1,5 @@
-vless://ab7d5ea9-6eca-47c3-b14b-67378fc2d7c2@162.248.162.83:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=N-ELdH_KBkeqUT4I7PknCV9hFvlSFjN-52fDLwIzbRs&sid=4e9b0c2d1a3f5768&sni=es.tunnelx.space#🔒smkn-ES-🇪🇸
+vless://43948542-5c01-4fc3-bf42-e339e9ca3fbe@2.27.27.33:443?mode=auto&path=/&security=reality&encryption=none&pbk=B4NK8UZflXK2SI7P6wvCbfSw0wspQRO0ElZM30gc_1E&host=pimg.mycdn.me&fp=chrome&type=xhttp&sni=pimg.mycdn.me#🔒smkn-ES-🇪🇸
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.180.106:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&sni=isp04.skorostnet.space#🔒smkn-ES-🇪🇸
+trojan://humanity@185.114.72.31:2053?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🔒smkn-ES-🇪🇸
 vless://6fbdbd3c-7696-4b9a-9a10-bcecc26e0f6f@212.227.235.66:2053?type=tcp&security=reality&encryption=none&fp=firefox&pbk=XrPOJwmpnq8NeCXu6K68Mp59gQ56Dr4YYboxI70kqzA&sid=866af6e56606f2bc&sni=www.cloudflare.com#🔒smkn-ES-🇪🇸
-trojan://t1k5znTjT8@212.227.98.235:4433?security=none&type=ws&host=sp.cloudv.qzz.io&path=%2Ftrojan#🔒smkn-ES-🇪🇸
-ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg==@5.188.181.201:9031#🌐smkn-ES-🇪🇸
-ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA@5.188.181.201:9003#🌐smkn-ES-🇪🇸
-ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg==@5.188.181.201:9030#🌐smkn-ES-🇪🇸
-ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@5.188.181.201:9037#🌐smkn-ES-🇪🇸
-ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#🌐smkn-ES-🇪🇸
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#🌐smkn-ES-🇪🇸
+vless://1f29762d-3f23-4207-9e39-f774de5d49ba@138.124.62.241:8443?alpn=h2&encryption=none&fp=chrome&security=tls&serviceName=grpc&sni=fat-sp.arpozan.cloud&type=grpc#🔒smkn-ES-🇪🇸

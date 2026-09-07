@@ -1,2 +1,5 @@
-vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh23v5.hiddendom.shop&alpn=h2#🔒smkn-HU-🇭🇺
-vless://92e41c23-4b39-464a-bbff-63ef84f317da@152.233.41.10:443?security=reality&encryption=none&pbk=LubLmalkyXoDFKxVQLtf1mh5cVK7W8K-MeNQf6ZDQ2I&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=9e354fd8#🔒smkn-HU-🇭🇺
+vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.202.193:443/?type=grpc&encryption=none&flow=&security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2#🔒smkn-HU-🇭🇺
+vless://74b6eee7-898d-4f32-9987-a035210ec5e2@217.13.104.154:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=travel.yandex.ru&fp=chrome&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=c8597fb67d55d9c4#🔒smkn-HU-🇭🇺
+trojan://bpb-trojan@141.11.202.133:443/?type=tcp&security=tls&sni=bpb.my79801.com#🔒smkn-HU-🇭🇺
+trojan://Aimer@141.11.203.168:443/?type=tcp&security=tls&sni=agepy.ambercc.filegear-sg.me#🔒smkn-HU-🇭🇺
+trojan://humanity@185.225.68.232:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🔒smkn-HU-🇭🇺
