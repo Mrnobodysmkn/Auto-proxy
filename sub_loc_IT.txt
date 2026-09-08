@@ -1,5 +1,2 @@
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@37.202.205.75:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=it.savesafe.cc&fp=firefox&pbk=UknJiwNyRmwBTaQCyY3mpq9blOPEgBFPV_NYJIgBKCs&sid=62b6d6e51d461d78&type=tcp&headerType=none#🔒smkn-IT-🇮🇹
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.113.51:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=it.s3-cloud.xyz&fp=chrome&security=reality&pbk=zPi2L9vrl2hkaCTT3lZTzBna-qz6JrteRjDz1i-DsxY&sid=7a3f9e2b1c8d4f6a#🔒smkn-IT-🇮🇹
-ss://3e8b894a-c16c-4c39-9fbc-089e89cfadf2@212.2.35.168:22211?flow=xtls-rprx-vision&fp=chrome&pbk=GkBVJX2DnjBRp3hLqpb6AW5iUE-WnOj9OfbwArNXwlk&security=reality&sid=efc881a6e4ef55a1&sni=check-host.net&type=tcp#🔒smkn-IT-🇮🇹
-ss://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086/?type=tcp&encryption=none&flow=#🌐smkn-IT-🇮🇹
+vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086/?type=raw&encryption=none#🌐smkn-IT-🇮🇹
 vless://3d1b7cfd-0019-4b71-9c8e-b922e5e262c3@151.101.242.172:80?mode=auto&path=/---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN&security=&alpn=http/1.1&encryption=none&host=sharkrt.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=global.ssl.fastly.net#🌐smkn-IT-🇮🇹
