@@ -1,7 +1,5 @@
-vless://629f88a6-b20b-4489-a22f-4d8b418c0488@212.64.201.33:2053?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=RwtMzZtTCmy9WRq3_27xeGF8-1l_qPXRVG3yIFp-6Go&sid=c0d1d1776fed0f6d&sni=tr-t.vinnypuxtomoon.today#🔒smkn-TR-🇹🇷
-vless://caeb0482-d3d9-4271-8fbe-bc2cfe694efa@2.26.94.2:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=da5UVhoC5QOCDm84AxB-RRxf0z2nySZ3lOemgqizLS4&sni=pro-tr.emrata.top#🔒smkn-TR-🇹🇷
-vless://32bf865b-e98c-494d-bcb6-23c3cde2429c@82.26.94.13:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=FYKh5rWtirmY23OjNuhNlQFJb7DI5J79E7T-gkyYNHo&sid=80bfd8cae4850bc9&sni=mywebsite.whit3.net#🔒smkn-TR-🇹🇷
-vless://78eb4455-0d07-4bc2-93e3-7c8654f11d74@185.123.100.56:8443?security=reality&encryption=none&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com#🔒smkn-TR-🇹🇷
-vless://fc60d2f9-e3b5-449f-80d8-385c08e93c94@153.52.92.239:11437?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=XW53yYaevp21yOZsWMV_mVg58iYCNp91sYndl95qnmI&sni=amp-api-edge.apps.apple.com&sid=7de83d0e31eb75ef#🔒smkn-TR-🇹🇷
-vless://9b212e1c-9750-4dac-ae63-e6c537352dcb@82.26.94.13:8443?type=grpc&security=reality&fp=firefox&pbk=nxhyzGVHpcQUBEmYLPRUZYOXFRmMxkWhEN3_s1y0nxI&sid=162791b712dcb782&sni=mywebsite.whit3.net&serviceName=mywebsite_grpc#🔒smkn-TR-🇹🇷
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@86.38.214.168:8880/?type=ws&encryption=none&host=kjgx.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2560#🌐smkn-TR-🇹🇷
+trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&insecure=0&headerType=&fp=chrome&type=tcp&allowInsecure=0&sni=#🔒smkn-TR-🇹🇷
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@86.38.214.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=%2FTelegram#🌐smkn-TR-🇹🇷
+vless://35a6946a-2003-448f-9c1b-911efaa8c9a7@45.74.178.48:20828?security=none&type=ws&host=nl-bl-nl.karmatel.ir&path=%2F#🌐smkn-TR-🇹🇷
+vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@86.38.214.53:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=/?ed=8880@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🌐smkn-TR-🇹🇷
+vless://b99590df-eda0-4e34-e1a9-3d1118faed83@86.38.214.213:8880/?type=httpupgrade&encryption=none&host=nufillter.jtip.sbs.&path=%2F#🌐smkn-TR-🇹🇷
