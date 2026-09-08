@@ -1,10 +1,8 @@
-trojan://Aimer@108.165.152.66:2083/?type=tcp&security=tls&sni=epccd.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
-trojan://ttfang@20.235.105.146:443/?type=ws&path=%2F&security=tls&sni=ttfang.fange.me#🔒smkn-IN-🇮🇳
 vless://e0b9fb0f-1bbd-478b-9580-c2294778338b@179.61.227.145:2083?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=jowOwf_cxg_FNpG36QJcyqBWtDItBBYjqj7VGhD2lnw&sni=assets.pleiades.codes&sid=d3124debabf1456c#🔒smkn-IN-🇮🇳
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@152.67.190.105:443?security=tls&type=ws&path=/danfeng&host=snippet.fgfw.ye.gs&sni=snippet.fgfw.ye.gs&fp=random#🔒smkn-IN-🇮🇳
-vless://18fd025a-eeb7-4860-b468-299a80b1b2c6@198.105.113.205:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=uFpKFKMzIJcnqfmvL8x7ykGigDW23kPkxpTkvwHJzgo&security=reality&sid=fab4&sni=india-cdn.linus-qanary.lol&type=tcp#🔒smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.1:2087/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
-vless://15fd22d1-8931-4d41-af37-8ba6711e93fe@5.253.42.163:40443?flow=xtls-rprx-vision&fp=qq&host=v2raynplus--v2raynplus--v2raynplus&pbk=d1gJntekIStCHyAwgJCuv-N4_BBx5dDQ7K6CeWmpMRo&security=reality&sid=84fc&sni=deepl.com&type=tcp#🔒smkn-IN-🇮🇳
-vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&fp=chrome&security=reality&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&sid=88b6#🔒smkn-IN-🇮🇳
-vless://a2d7890a-5451-4470-9300-a059792924bb@49.50.76.194:443?encryption=none&security=none&type=tcp&headerType=http&host=play.google.com&path=%2F#🔒smkn-IN-🇮🇳
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.104.11:80?type=ws&host=Fastapi.Org&path=%2F#🌐smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.207:443/?type=tcp&security=tls&sni=epcca.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
+vless://0bf89828-484f-4710-9581-12aa961e3bf1@194.61.31.126:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=firefox&sid=29fe4205ddc971a8&pbk=Gy6W0bXf2bpxoG1k3szp8X0ekzoyXlEtzT8V4mYQ3EE#🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.92:2053/?type=tcp&security=tls&sni=agept.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.91:2083/?type=tcp&security=tls&sni=epccd.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
+vless://c9577b4c-d52d-4eea-b2ab-6f855fa18ae5@108.165.152.38:8443/?type=ws&encryption=none&host=vv.cscfwoker.fun&security=tls&sni=vv.cscfwoker.fun&alpn=http%2F1.1#🔒smkn-IN-🇮🇳
+vless://f71e29f8-0608-4705-99b9-33e0e128ca6d@5.253.28.39:8765/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.google.com&fp=chrome&security=reality&pbk=s2xfanNw56S8d-wd2Y8XDlXSvX3ioBMwOsKPJihm9Bw&sid=c317cb25c1dba396#🔒smkn-IN-🇮🇳
+vless://Parsashonam-337@151.101.105.226:80?mode=auto&path=%2FParsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam&security=none&encryption=none&host=Free-V2ray-Bot-Parsashonam4.global.ssl.fastly.net&type=xhttp#🌐smkn-IN-🇮🇳
