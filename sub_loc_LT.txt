@@ -1,2 +1,5 @@
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@89.116.250.49:2053?path=%2F&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=dl1-tr-cdn.easy-upload.org#🔒smkn-LT-🇱🇹
-vless://c7e9c591-2764-423a-afca-efbd010fd396@185.237.185.182:2053?fp=chrome&host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru&type=ws#🔒smkn-LT-🇱🇹
+ss://70e46815-9cae-46e5-8224-d35f6bd7897d@31.76.83.49:443?security=reality&amp;encryption=none&amp;pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.sciencedirect.com&amp;sid=a1b2c4d4a1b2c5d5#🔒smkn-LT-🇱🇹
+vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@80.208.229.140:443?encryption=none&security=tls&sni=vpn47.cc.cd&insecure=0&allowInsecure=0&type=ws&host=vpn47.cc.cd&path=%2F#🔒smkn-LT-🇱🇹
+vless://cfae13ae-5f59-42dc-a6cd-a2736dd9dca9@84.32.110.58:2443?alpn=h2,http/1.1&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=lao10.enterquality.online&type=tcp#🔒smkn-LT-🇱🇹
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@89.116.250.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2F#🌐smkn-LT-🇱🇹
