@@ -1,6 +1,2 @@
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@37.202.205.70:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=UknJiwNyRmwBTaQCyY3mpq9blOPEgBFPV_NYJIgBKCs&sid=62b6d6e51d461d78&sni=it.savesafe.cc#🔒smkn-IT-🇮🇹
-vless://6ba2eac6-0ec9-44ca-a42b-a8e23aafb530@204.216.216.23:1114/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&security=reality&pbk=WfkCF0eEuIoO0MyJsKOddU89QrTzCZ4y2dzCJbH99CQ&sid=79a1e14b#🔒smkn-IT-🇮🇹
-vless://75079a7f-75b5-418b-8a65-f7b2f438cd4a@31.77.154.14:8443?encryption=none&security=reality&sni=swscan.apple.com&fp=firefox&pbk=3O__mdy-whzI07V-QEyR6GQnag1FNwtHijDxt2_jkDQ&type=grpc&authority=&serviceName=grpc-tunnel&mode=gun#🔒smkn-IT-🇮🇹
-vless://097e0483-50a9-4adf-8f62-031057710d11@116.204.164.30:7443?encryption=none&security=tls&sni=o-85ley6knn8ut.6nvkygqh144t7xtdyvh0y3o4gzo3ujhnk8n.workers.dev&fp=chrome&type=ws&host=o-85ley6knn8ut.6nvkygqh144t7xtdyvh0y3o4gzo3ujhnk8n.workers.dev&path=/@Marisa_kristi&packetEncoding=xudp#🔒smkn-IT-🇮🇹
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086/?type=raw&encryption=none#🌐smkn-IT-🇮🇹
-vless://3d1b7cfd-0019-4b71-9c8e-b922e5e262c3@151.101.242.172:80?mode=auto&path=/---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN&security=&alpn=http/1.1&encryption=none&host=sharkrt.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=global.ssl.fastly.net#🌐smkn-IT-🇮🇹
+vless://92e41c23-4b39-464a-bbff-63ef84f317da@84.17.58.133:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=3hiGU9oArRYulbhHEJa7nTfx1k0XL6ItE_xs-8Yi_Uc&sid=17a2a5e0&sni=api-maps.yandex.ru#🔒smkn-IT-🇮🇹
+vless://69ac162b-1643-4acb-9f49-09d8b0fad609@57.131.21.102:8443?encryption=none&type=ws&path=/RoBeRt&security=tls&sni=milan.adaspoloandco.com#🔒smkn-IT-🇮🇹
