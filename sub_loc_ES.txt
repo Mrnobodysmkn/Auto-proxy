@@ -1,8 +1,2 @@
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.180.93:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=isp06.skorostnet.space&fp=firefox&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&sid=fdda9806fe5d8584&type=tcp&headerType=none#🔒smkn-ES-🇪🇸
-vless://2ee26119-94e5-40b4-ba3a-16354021b600@185.18.250.127:2096?encryption=none&type=ws&security=tls&path=%2Fgraphql&host=69565ce3109804e7813f98ee.mmdbay.blog&sni=69565ce3109804e7813f98ee.mmdbay.blog&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0#🔒smkn-ES-🇪🇸
-ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA@5.188.181.201:9003#🌐smkn-ES-🇪🇸
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.132.11:80?type=ws&host=Fastapi.Org&path=%2F#🌐smkn-ES-🇪🇸
-ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWA==@5.188.181.201:9014#🌐smkn-ES-🇪🇸
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@185.18.250.3:8880/?type=ws&encryption=none&host=bitget1.asdasd.click&path=%2F#🌐smkn-ES-🇪🇸
-ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@5.188.181.201:9005#🌐smkn-ES-🇪🇸
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#🌐smkn-ES-🇪🇸
+trojan://rYuChHcwQZskq9E0zdoR@103.45.245.208:2053/?type=tcp&security=tls&sni=vpn5.rnmcnm.com#🔒smkn-ES-🇪🇸
+ss://cfe58967-e48a-499f-bbb1-db38bcaa173f@199.232.34.79:443?mode=auto&amp;pcs=7910C7C866F38FFC5FE0904282D75EB8637EB6198B12E9EB68416830A7954BFF&amp;path=%2Fassets&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=squeeze-turbojet-statistic-crescent-excavate-lens.global.ssl.fastly.net&amp;type=xhttp&amp;allowInsecure=0&amp;sni=speedtest.net#🔒smkn-ES-🇪🇸
