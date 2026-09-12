@@ -1,3 +1,4 @@
-trojan://Aimer@77.232.140.101:2053/?type=tcp&security=tls&sni=ngepy.ambercc.filegear-sg.me#🔒smkn-AE-🇦🇪
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.140.11:80?type=ws&host=Fastapi.Org&path=%2F#🌐smkn-AE-🇦🇪
-vmess://eyJhZGQiOiAiOTUuMTgyLjk0LjIxMCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCAiaWQiOiAiZGI1MGEyMGUtN2ZmNS00ZTcwLTk0OGYtMTdjYzljYTdjMTU0IiwgIm5ldCI6ICJ3cyIsICJwYWNrZXRFbmNvZGluZyI6ICJ4dWRwIiwgInBhdGgiOiAiL2FwaS92MS9ncHUtc3RyZWFtL3NvY2tldCIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUFFLVx1ZDgzY1x1ZGRlNlx1ZDgzY1x1ZGRlYSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAicmVuZGVyZXItc3RyZWFtLTItNjIubWlycmEubm93IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+ss://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.138:443?encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2#🔒smkn-AE-🇦🇪
+vless://5e243126-4a2a-84b6-782a-73b14797fb5f@45.88.13.3:993?security=reality&encryption=none&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=download.nvidia.com#🔒smkn-AE-🇦🇪
+vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@45.88.13.3:8443?security=reality&type=grpc&mode=gun&serviceName=TunService&packetEncoding=xudp&sni=download.nvidia.com&fp=firefox&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk#🔒smkn-AE-🇦🇪
+vless://1d2717a5-7e88-40fd-a55d-ba506f44dc96@185.215.235.38:8080?path=/?ed=2048&security=none&encryption=none&host=dl.armanstore22.ir&type=ws#🌐smkn-AE-🇦🇪
