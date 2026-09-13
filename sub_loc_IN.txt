@@ -1,8 +1,5 @@
-vless://0bf89828-484f-4710-9581-12aa961e3bf1@194.61.31.126:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=firefox&sid=29fe4205ddc971a8&pbk=Gy6W0bXf2bpxoG1k3szp8X0ekzoyXlEtzT8V4mYQ3EE#🔒smkn-IN-🇮🇳
-vless://1f431db3-1918-4e7b-a855-c93485e11694@108.165.152.82:443?path=/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=pari.parinazz.dpdns.org&fp=chrome&type=ws&sni=pari.parinazz.dpdns.org#🔒smkn-IN-🇮🇳
-vless://18fd025a-eeb7-4860-b468-299a80b1b2c6@198.105.113.205:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=uFpKFKMzIJcnqfmvL8x7ykGigDW23kPkxpTkvwHJzgo&security=reality&sid=fab4&sni=india-cdn.linus-qanary.lol&type=tcp#🔒smkn-IN-🇮🇳
-vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&fp=chrome&security=reality&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&sid=88b6#🔒smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.82:8443/?type=tcp&security=tls&sni=epcch.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
-vless://8820e16b-fbc2-49d3-90e4-eeeb8301c83c@151.101.158.71:80?security=none&type=ws&host=anycast.leslie.ch&path=%2F%3Fed%3D2560#🌐smkn-IN-🇮🇳
-trojan://Aimer@108.165.152.14:2096?allowInsecure=1&sni=epgc.aimercc.dpdns.org&type=ws&host=epgc.aimercc.dpdns.org&path=/?ed=2560#🌐smkn-IN-🇮🇳
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#🌐smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.202:2083/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org#🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.219:443/?type=tcp&security=tls&sni=agepj.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
+vless://6564b639-8857-4fec-a45b-ada20d4bd315@139.59.75.181:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=139.59.75.181&encryption=none#🔒smkn-IN-🇮🇳
+trojan://Aimer@108.165.152.98:2087/?type=tcp&security=tls&sni=epccx.ambercc.filegear-sg.me#🔒smkn-IN-🇮🇳
+trojan://SSorg@108.165.152.76:2096/?type=tcp&security=tls&sni=ssjj.esslh.filegear-sg.me&allowInsecure=1#🔒smkn-IN-🇮🇳
