@@ -1,12 +1,6 @@
-trojan://8r%3C%5B9%27l6hAO%238ZQi@141.101.120.253:443/?type=tcp&security=tls&sni=Koma-YT.PAGeS.Dev#🔒smkn-PL-🇵🇱
-ss://e72bb322-00dc-4206-95bc-b9e9f041c905@57.128.219.105:443?path=%2Fws&amp;security=tls&amp;encryption=none&amp;host=57.128.219.105&amp;fp=chrome&amp;type=ws&amp;sni=zula.ir#🔒smkn-PL-🇵🇱
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.3:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl4.moritech.net&alpn=h2&fp=chrome&packetEncoding=xudp#🔒smkn-PL-🇵🇱
-vless://dd9b5b35-c3bb-4e26-8b26-daedffcb3921@45.140.204.119:443/?type=raw&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=vl5WQd9UDA3DvLxPPS1yF9ivUipxkxoxhaBRHpnyLho&sid=67fb#🔒smkn-PL-🇵🇱
-trojan://af6a3685-c423-4579-bfea-784c453d5e23@146.59.3.14:443/?type=tcp&security=tls&allowInsecure=1#🔒smkn-PL-🇵🇱
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.66:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=pl-new-ded2.moritech.net&type=tcp#🔒smkn-PL-🇵🇱
+vless://0ce122a3-1c91-4cf5-a2cc-67f25e8cb56f@185.32.6.61:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=xy8AHr_xZCNqFOuLq_t2fe4oLlrv5iu38uCQ1hUJ40w&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com&sid=954c99065465428d#🔒smkn-PL-🇵🇱
 vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@144.31.5.171:753?security=reality&encryption=none&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=b91a73752053b039#🔒smkn-PL-🇵🇱
-ss://2b3e8750-b944-42fc-b36e-ec2c64b48a98@185.141.227.155:20002?security=reality&amp;encryption=none&amp;pbk=_ilhBTibNauMOEUqylnlBAUTYiqHHtmEDXkx18SHCR4&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=pool.dataroute.biz#🔒smkn-PL-🇵🇱
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.111.195:443#🔒smkn-PL-🇵🇱
-ss://bf443e4a-aa9e-4509-abf0-d0f6828d57be@178.95.170.115:2087?path=%2F4bc027a44532&amp;security=none&amp;encryption=none&amp;type=ws#🌐smkn-PL-🇵🇱
-vless://f2d78dd4-ec5a-4720-be82-5df263fd5272@146.59.13.37:80?encryption=none&security=none&type=ws&host=pl1.v2vless.xyz&path=%2Fvless#🌐smkn-PL-🇵🇱
-vless://5e8990b1-17c9-4e98-88c5-bbeee2b6bf58@57.128.198.152:80/?type=ws&encryption=none&host=ShadowProxy66&path=%2Fvless%2F#🌐smkn-PL-🇵🇱
+vless://157448af-8ecf-4075-a9e9-b23a6a94899b@84.17.55.151:8443/?type=tcp&encryption=none&security=tls&sni=pl1.fromblancwithlove.com#🔒smkn-PL-🇵🇱
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.111.209:443#🔒smkn-PL-🇵🇱
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.110.240:443#🔒smkn-PL-🇵🇱
+vmess://eyJhZGQiOiAiMjE3LjE4Mi43Ni4yMDIiLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjJlNjgwMTVmLWE4YjItNDg5My1hN2EzLTRlZGIxOWIxNzhkOSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLVBMLVx1ZDgzY1x1ZGRmNVx1ZDgzY1x1ZGRmMSIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byJ9

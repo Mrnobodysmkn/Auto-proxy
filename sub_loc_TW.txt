@@ -1,8 +1,7 @@
-vless://5859f6a7-cda1-47c2-8353-fcdee281f31d@104.199.219.172:40800?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=firefox&pbk=zohUbvPLKVBwzuDmZNsaXXFYZSKA9_xEhdUyURChrgo&sni=www.intel.com&sid=186e4c2732d61a3d#🔒smkn-TW-🇹🇼
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.250.152.230:8443/?type=tcp&security=tls&sni=official.taipeicitygovernment.ivano-frankivsk.ua&allowInsecure=1#🔒smkn-TW-🇹🇼
-vless://19d5a678-8396-4e3b-93da-ece618d0e83a@118.167.209.5:24215?encryption=none&fp=firefox&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&security=reality&sni=addons.mozilla.org&type=tcp#🔒smkn-TW-🇹🇼
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@61.222.160.199:3462/?type=tcp&security=tls&sni=a03.taipeicitygovernment.cn.ua&allowInsecure=1#🔒smkn-TW-🇹🇼
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@60.250.152.230:3462/?type=tcp&security=tls&sni=a03.taipeicitygovernment.cn.ua&allowInsecure=1#🔒smkn-TW-🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg@2.58.241.42:443#🔒smkn-TW-🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.28.59:2377#🌐smkn-TW-🇹🇼
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.59:2377#🌐smkn-TW-🇹🇼
+vless://9b18ccef-b9e0-41d1-8990-9d970569e142@83.147.12.20:443?&security=tls&fp=unsafe&sni=web-socket.tgdaosheng.ggff.net&type=ws&headerType=none&host=web-socket.tgdaosheng.ggff.net&path=MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN#🔒smkn-TW-🇹🇼
+vless://41b96ee9-ee5e-455f-9753-187a9dead97a@35.221.158.209:32981?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=firefox&pbk=JSn0GPz1WOSTUDBxN_XYnhgb2Jpjc2LpfBTzX1j3V2E&sni=www.sony.com&sid=70f4b7a4c40636#🔒smkn-TW-🇹🇼
+vless://bf8cc771-51a0-4395-810f-1f135325cfc1@34.81.129.171:34376?&security=reality&flow=xtls-rprx-vision&pbk=Atq4Fo_Mg48QtKXagBW9jnhaQSDUCiKgnATB2EU6OHU&sid=8dbafb690450d8a9&fp=firefox&sni=www.sony.com&type=tcp&headerType=none&host=www.sony.com&path=%2F#🔒smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@36.224.152.189:50099#🌐smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@223.165.4.173:990#🌐smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.28.137:2377#🌐smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.38:2377#🌐smkn-TW-🇹🇼
