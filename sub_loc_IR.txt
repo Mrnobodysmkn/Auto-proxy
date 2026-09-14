@@ -1,10 +1,4 @@
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.36:2053?path=%2F&security=tls&encryption=none&host=dl1-fr-cdn.easy-upload.org&type=ws&sni=dl1-fr-cdn.easy-upload.org#🔒smkn-IR-🇮🇷
-vless://8ff82100-8aad-4281-bf41-f318519d7182@185.24.151.67:443?security=reality&type=tcp&sni=ca.jobinvest.ru&fp=firefox&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#🔒smkn-IR-🇮🇷
-vless://8ff82100-8aad-4281-bf41-f318519d7182@185.24.151.60:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ca.jobinvest.ru&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#🔒smkn-IR-🇮🇷
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.125:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org#🔒smkn-IR-🇮🇷
-vless://ef5f6054-61c7-4ce8-a35b-dbcec449f242@185.24.151.84:443?security=reality&type=tcp&packetEncoding=none&sni=jobinvest.ru&fp=firefox&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🔒smkn-IR-🇮🇷
-vless://19bc6bd3-cac5-4387-b8c1-b2b803cd5219@185.31.8.131:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=ygUJeKZl4smtwd75QmvtLx6T1mEUNh4iylRUJSYYrVo&headerType=none&fp=chrome&spx=%2Fws%3Fed%3D443&type=tcp&sni=typeiran.com&sid=50460a#🔒smkn-IR-🇮🇷
+vless://8ff82100-8aad-4281-bf41-f318519d7182@185.24.151.37:443?security=reality&type=tcp&sni=ca.jobinvest.ru&fp=firefox&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&encryption=none#🔒smkn-IR-🇮🇷
 vless://fc7d5074-cf6d-42bc-9cf4-a76811aca6c0@95.38.135.155:8443/?type=ws&encryption=none&path=%2F&security=tls&sni=proxys46.elcom.sbs#🔒smkn-IR-🇮🇷
-vless://1073a3f2-dc7c-46fb-aa7c-4378d4b27785@93.126.31.19:449?security=tls&sni=asl3.feeliran.org&type=tcp&host=v2rayNplus--v2rayNplus--v2rayNplus&alpn=h2%2Chttp%2F1.1&allowInsecure=1#🔒smkn-IR-🇮🇷
-vless://b9ada8b3-6ad0-45cc-b72f-ace43c7de476@45.94.215.101:443?encryption=none&security=none&type=tcp&headerType=http&host=fast.com#🔒smkn-IR-🇮🇷
-vless://9aef9fc7-f901-4234-d8f5-f5980fb664d2@94.183.149.168:8880?path=%2F&security=none&encryption=none&type=ws#🌐smkn-IR-🇮🇷
+ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@185.188.105.11:443#🔒smkn-IR-🇮🇷
+vless://bc2c9bea-93f6-448a-9162-0077b4c0dd6f@185.143.233.217:80?path=%2Fws&security=none&encryption=none&host=me.chehre-negar.ir&type=ws#🌐smkn-IR-🇮🇷
