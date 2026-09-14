@@ -1,3 +1,2 @@
-vless://03e5f7fb-d569-403b-8740-9e3b4f7dd94a@151.242.168.239:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629&sni=frantax.my3cx.de#🔒smkn-NO-🇳🇴
-vless://d6b59299-2f48-4e9b-9130-b9e9cb5d0a51@31.76.5.21:443?type=tcp&headerType=none&security=reality&encryption=none&sni=no1.hat.onl&fp=firefox&pbk=HsNJGpx6_6aZAMND-kZhk8BswTDaxmfPO8C3-huiCQA&sid=9f5c3ecd3d8d390b&flow=xtls-rprx-vision#🔒smkn-NO-🇳🇴
-vless://0d4e04b1-5ab5-4525-bbd4-ffce30149bee@151.242.169.119:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=yidio.com&type=tcp#🔒smkn-NO-🇳🇴
+vless://33a31dc6-6bbc-46c0-9685-fb5e327d3c7d@95.173.205.82:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Zj7pfZMGav4r5mbPzpi5ohHue1r0El7QfnQt5nx2ljI&sid=56d5a8fb&sni=api-maps.yandex.ru#🔒smkn-NO-🇳🇴
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.236.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-NO-🇳🇴
