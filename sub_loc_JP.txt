@@ -1,8 +1,5 @@
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.26:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=jp.s3-cloud.org&fp=chrome&security=reality&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs&sid=7a3f9e2b1c8d4f6a#🔒smkn-JP-🇯🇵
-vless://65c56e1f-5c41-40bc-b0b5-9346772476ca@45.76.100.75:443?fp=edge&host=tl.520783.xyz&path=%2Fassets%2Fdist%2Fapp-update-payload.dat&security=tls&sni=tl.520783.xyz&type=ws#🔒smkn-JP-🇯🇵
-trojan://9995cc0e-2e9d-4c80-8c81-4fdbb6322a3a@20.89.130.227:443?security=tls&sni=fscus.fscloud123456789.com&allowInsecure=1&type=tcp#🔒smkn-JP-🇯🇵
-vless://871bfce7-8440-4394-8d82-56b51f20fdad@18.183.215.124:28573?security=reality&encryption=none&pbk=1DJr9toke7FRuSXjibBVuNvRnLnJnN5kXwUBG6Romzg&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=03653bc03be10c97#🔒smkn-JP-🇯🇵
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#🔒smkn-JP-🇯🇵
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80#🌐smkn-JP-🇯🇵
-vmess://eyJhZGQiOiAiMjEwLjEzOC4zNy41MyIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJEckJLZzE2ZUdmM0ZabE0zLnYuM2Rucy52aXAiLCAiaWQiOiAiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3Mtdm1lc3MiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1KUC1cdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUiLCAic2N5IjogImF1dG8iLCAic25pIjogIkRyQktnMTZlR2YzRlpsTTMudi4zZG5zLnZpcCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
-vmess://eyJhZGQiOiAiMTcyLjEwNC43OC45OCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiOTI3MDk0ZDMtZDY3OC00NzYzLTg1OTEtZTI0MGQwYmNhZTg3IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9jaGF0IiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUpQLVx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byJ9
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@168.138.50.249:443?encryption=none&security=tls&sni=dp.ylks.xyz&type=ws&host=dp.ylks.xyz&path=%2Fblue#🔒smkn-JP-🇯🇵
+vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.19:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=jp.s3-cloud.org&fp=chrome&security=reality&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs&sid=7a3f9e2b1c8d4f6a#🔒smkn-JP-🇯🇵
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@139.162.108.5:443?encryption=none&security=tls&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=Telegram%40freecodes%2F%3Fed%3D2560#🔒smkn-JP-🇯🇵
+vless://e01fcb68-3112-49da-b85d-dffb799cfc9b@156.246.88.125:26518?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=firefox&pbk=1fa6iCY7vhoQyKu91FeaK04FN-mr1qeHnrtdyLZ79mk&sid=6caead99&type=tcp&headerType=none#🔒smkn-JP-🇯🇵
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.241:443#🔒smkn-JP-🇯🇵

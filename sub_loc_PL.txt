@@ -1,8 +1,7 @@
-trojan://c65dbe85-354d-4892-909d-2b288830ee37@141.101.120.15:2053/?type=grpc&serviceName=m3u8&security=tls&sni=1744156312.speed.baxsab.china.nicchina.pp.ua#🔒smkn-PL-🇵🇱
+vless://568addfa-796a-40f8-820d-a071ee2ca50a@95.85.253.208:443?mode=auto&path=/&security=reality&encryption=none&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&fp=chrome&type=xhttp&sni=www.google.com#🔒smkn-PL-🇵🇱
+vless://1251856f-1e0a-4c5f-99d3-c2d123edc755@144.31.2.58:443?mode=auto&path=%2Fapi&security=tls&alpn=h2&encryption=none&insecure=0&host=mesh-8012.spliceflowtech.com&fp=firefox&type=xhttp&allowInsecure=0&sni=mesh-8012.spliceflowtech.com#🔒smkn-PL-🇵🇱
 trojan://bpb-trojan@185.174.138.239:443/?type=ws&host=bpb.my79801.com&path=%2Ftr&security=tls&sni=bpb.my79801.com&allowInsecure=1#🔒smkn-PL-🇵🇱
-vless://072baf2f-574e-4939-8b20-ccd89c17fefb@95.85.229.185:8443/?type=tcp&encryption=none&flow=&sni=eh.vk.com&fp=chrome&security=reality&pbk=GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4&sid=b3a1cc510a2001c6#🔒smkn-PL-🇵🇱
-vless://7ab9fe4f-6699-427f-a828-9fcf2496d714@94.183.209.239:8443?type=grpc&security=reality&fp=firefox&pbk=SW9zmLl7IOPgwf55QKT7Hlc6Ruv6KEwO_wEXdOLwIz8&sid=0d81677f74c9a6bf&sni=www.cloudflare.com&mode=gun&serviceName=b58a1e2940#🔒smkn-PL-🇵🇱
-vless://0764541b-3e57-4b47-954b-51e996fae5fc@45.144.50.231:47005?security=reality&encryption=none&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=akamai.com#🔒smkn-PL-🇵🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1U0tPbUpWSXg5RHpIdldNRzNiUGUw@77.83.246.74:443#🔒smkn-PL-🇵🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3VUVDbXo4T29jNUhseGhkdTNoNWJ3@103.167.234.75:8443#🌐smkn-PL-🇵🇱
+vless://b3a11068-1a7e-4643-85de-7c82cce46943@185.223.57.16:33743?mode=gun&security=reality&encryption=none&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&fp=chrome&type=grpc&serviceName=TunService&sni=www.google.com#🔒smkn-PL-🇵🇱
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.71.221:443#🔒smkn-PL-🇵🇱
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.111.186:443#🔒smkn-PL-🇵🇱
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.38:8080/?type=ws&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2048#🌐smkn-PL-🇵🇱
