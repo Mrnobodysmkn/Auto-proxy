@@ -1,9 +1,7 @@
-vless://0ab925b6-35f7-6e27-e713-925bea65455e@45.88.13.4:443?encryption=none&security=reality&sni=download.nvidia.com&fp=chrome&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&type=xhttp&path=%2F#🔒smkn-AE-🇦🇪
-vless://1e4668ca-6526-84ac-2a53-28bbc209da13@89.47.55.5:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=sRTNjrosfFSiuQX7Yt7Ub5DJvFznfHSC3nlzFQ3H2WU&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#🔒smkn-AE-🇦🇪
-ss://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:443?mode=auto&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=tl7xSwczBM--oN16cxdLnAD8GMf8tA0f-FXE9ilCCjA&amp;fp=chrome&amp;type=xhttp&amp;sni=download.intel.com#🔒smkn-AE-🇦🇪
-vless://eb5f5964-1b12-457b-b8a6-bca5332e0494@138.128.224.100:443/?type=ws&encryption=none&host=s6.design-mobo.ir&path=%2Ftelegram-mitivpn&security=tls&sni=s6.design-mobo.ir&fp=chrome#🔒smkn-AE-🇦🇪
-vless://0ab925b6-35f7-6e27-e713-925bea65455e@45.88.13.4:8443?mode=gun&security=reality&encryption=none&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#🔒smkn-AE-🇦🇪
-vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:8443?mode=gun&security=reality&encryption=none&authority=/?TELEGRAM--MARAMBASHI--MARAMBASHI&pbk=tl7xSwczBM--oN16cxdLnAD8GMf8tA0f-FXE9ilCCjA&fp=chrome&type=grpc&serviceName=TunService&sni=download.intel.com#🔒smkn-AE-🇦🇪
-ss://e8dd40fd-169a-4545-8664-7f71f02e0657@138.128.224.100:80?security=&amp;type=ws&amp;path=/telegram-mitivpn&amp;host=iriknet.ir&amp;encryption=none#🌐smkn-AE-🇦🇪
-vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@94.140.0.22:2052/?type=ws&encryption=none&host=register.tunnelbreaking.shop&path=%2F#🌐smkn-AE-🇦🇪
-ss://fe3e27c2-f708-4b7a-b7f3-76c5ffdcf95b@94.140.0.0:80?encryption=none&amp;security=none&amp;sni=irl.forsarinna.site&amp;type=ws&amp;host=irl.forsarinna.site&amp;path=%2F#🌐smkn-AE-🇦🇪
+trojan://humanity@176.97.66.175:443?security=tls&sni=www.ignitelimit.com#🔒smkn-AE-🇦🇪
+vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.8:443?mode=auto&amp;path=%2F&amp;security=reality&amp;encryption=none&amp;pbk=sRTNjrosfFSiuQX7Yt7Ub5DJvFznfHSC3nlzFQ3H2WU&amp;fp=chrome&amp;type=xhttp&amp;sni=cdn.steamstatic.com#🔒smkn-AE-🇦🇪
+vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@45.88.13.3:8443?security=reality&type=grpc&mode=gun&serviceName=TunService&packetEncoding=xudp&sni=download.nvidia.com&fp=firefox&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk#🔒smkn-AE-🇦🇪
+ss://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.8:8443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=WtLZK1KyhSpI3K-R4M3sLAHWPOgGPMgkL6RneL0OfCY&amp;fp=chrome&amp;type=grpc&amp;serviceName=TunService&amp;sni=download.nvidia.com#🔒smkn-AE-🇦🇪
+vless://5e243126-4a2a-84b6-782a-73b14797fb5f@45.88.13.3:993?security=reality&encryption=none&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=download.nvidia.com#🔒smkn-AE-🇦🇪
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@77.232.140.177:8880/?type=ws&encryption=none&host=ip.langmanshanxi.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-AE-🇦🇪
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@146.75.64.11:80?type=ws&host=Fastapi.Org&path=%2F#🌐smkn-AE-🇦🇪
