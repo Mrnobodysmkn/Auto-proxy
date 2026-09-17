@@ -1,1 +1,2 @@
-vless://a5194487-9b9a-462f-a047-ac7580d80201@94.20.154.22:443?alpn=http%2F1.1&encryption=none&host=kotakbla.b-cdn.net&path=%2F&security=tls&sni=kotakbla.b-cdn.net&type=ws&fp=firefox#🔒smkn-AZ-🇦🇿
+vless://d407defe-cd4f-4d32-a3b1-47c2c813c50d@31.43.191.131:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&security=reality&sni=tehno.store&type=tcp#🔒smkn-AZ-🇦🇿
+vless://1c569d2b-2b47-4537-b3e4-3b5e584e7261@180.149.45.23:51263?security=reality&encryption=mlkem768x25519plus.native.0rtt.z2lQdZuAvw8Z9sKuq4FPN9yFFy6avST0-wfa_U3r4ik&pbk=6-NCqGgOv0nBZSIEMECZh0yaA_IuGEl2Vr1IVvY5Kx0&headerType=none&fp=chrome&type=tcp&sni=www.fnac.com&sid=053fc431129db566#🔒smkn-AZ-🇦🇿
