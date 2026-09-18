@@ -1,4 +1,2 @@
-vless://40cfbd0a-f133-4174-8e03-ab0e587e1099@193.238.153.15:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dzknsuwujuOacNHTXzdPxBLNUEJfEImiwLinPPNFmwU&sid=1ea21a140beaecc5&sni=www.cloudflare.com#🔒smkn-UA-🇺🇦
 trojan://2e7d3f13-be1b-479c-94ff-0e95c2bd565d@89.116.180.158:443?security=tls&sni=3us2.pqjc.buzz&type=tcp#🔒smkn-UA-🇺🇦
-vless://66a771ab-6269-7e4d-ddf7-9d635e1a120c@104.245.240.2:8443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=sRTNjrosfFSiuQX7Yt7Ub5DJvFznfHSC3nlzFQ3H2WU&amp;fp=chrome&amp;type=grpc&amp;serviceName=TunService&amp;sni=cdn.steamstatic.com#🔒smkn-UA-🇺🇦
-vless://c9373ff0-c263-4949-885f-366671f3c6a1@104.143.223.217:2085?encryption=none&security=none&type=grpc&authority=&serviceName=vless&mode=multi#🌐smkn-UA-🇺🇦
+trojan://ttfang@45.135.235.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🔒smkn-UA-🇺🇦
