@@ -1,2 +1,13 @@
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.250.152.209:8443/?type=tcp&security=tls&sni=official.taipeicitygovernment.net.ua&allowInsecure=1&fp=chrome#🔒smkn-TW-🇹🇼
-trojan://736cd94d-7b94-3e44-8106-3419f64eaf09@60.250.152.209:3462/?type=tcp&security=tls&sni=a12.taipeicitygovernment.org.ua&allowInsecure=1#🔒smkn-TW-🇹🇼
+vless://225d638b-8ad9-47db-b4d2-77d7705fa72e@85.237.207.126:443?encryption=none&security=tls&sni=thus-k.netnode.cc.cd&fp=chrome&type=ws&host=thus-k.netnode.cc.cd&path=/t.me/daily_free_vpn#🔒smkn-TW-🇹🇼
+vless://225d638b-8ad9-47db-b4d2-77d7705fa72e@151.242.188.152:443?encryption=none&security=tls&sni=thus-k.netnode.cc.cd&fp=chrome&type=ws&host=thus-k.netnode.cc.cd&path=/t.me/daily_free_vpn#🔒smkn-TW-🇹🇼
+trojan://5a2c16f9@125.228.236.138:443?security=tls#🔒smkn-TW-🇹🇼
+vless://b82330a7-c64a-46a4-b109-e71b63cb26c4@213.210.4.48:443?encryption=none&security=tls&sni=thus-k.netnode.cc.cd&fp=chrome&type=ws&host=thus-k.netnode.cc.cd&path=%2Ft.me%2Fdaily_free_vpn#🔒smkn-TW-🇹🇼
+vless://9b18ccef-b9e0-41d1-8990-9d970569e142@83.147.12.20:443?&security=tls&fp=unsafe&sni=web-socket.tgdaosheng.ggff.net&type=ws&headerType=none&host=web-socket.tgdaosheng.ggff.net&path=MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN-MTMVPN#🔒smkn-TW-🇹🇼
+vless://85a6bd94-83a9-4e80-849f-c06d7011d1a4@35.201.163.218:30837?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=LXPNhrAGxr_QE4YCdJfKE40ebsPNIHnLbydhl6bipCo&sni=www.sony.com&sid=97101ba788915e5a#🔒smkn-TW-🇹🇼
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@60.250.152.230:8443/?type=tcp&security=tls&sni=official.taipeicitygovernment.ivano-frankivsk.ua&allowInsecure=1#🔒smkn-TW-🇹🇼
+vless://64d77a12-ad6b-4d85-a349-bd287535af1c@35.194.157.16:43450?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=HNPJBiUbqYVC3ylvu1GA7fCHLTaHO7S13Bex1nm0O1o&sni=www.amd.com&sid=e65d010354bdad73#🔒smkn-TW-🇹🇼
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@60.250.152.230:3462/?type=tcp&security=tls&sni=a03.taipeicitygovernment.cn.ua&allowInsecure=1#🔒smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@59.125.75.115:2377#🌐smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@60.249.35.3:2377#🌐smkn-TW-🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@125.227.86.44:2377#🌐smkn-TW-🇹🇼
+vmess://eyJhZGQiOiAiMTUyLjMyLjIyOS4xNDkiLCAiYWlkIjogMCwgImhvc3QiOiAiZGlhbW9uZHMtanVseS1lZ2ctc3BvcnRpbmcudHJ5Y2xvdWRmbGFyZS5jb20iLCAiaWQiOiAiZmZmZmZmZmYtZmZmZi1mZmZmLWZmZmYtZmZmZmZmZmZmZmZmIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzY1x1ZGYxMHNta24tVFctXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIn0=
