@@ -1,2 +1,1 @@
-vless://6f97389a-b42a-4a05-9890-87646eecce48@180.149.44.189:1400?encryption=mlkem768x25519plus.native.0rtt.4zwKKs2co8yy7AoWGnBbfR9gn0I6dW6k4aKr8ZZB4Uc&security=reality&type=tcp&headerType=none&host=gitlab.io&sni=gitlab.io&fp=chrome&echForceQuery=none&pbk=yttTg1YSCbhJpKC0Q4c_TpzAS38wtnidOJ42wwi9TGU&sid=587e34aa4f966262#🔒smkn-AZ-🇦🇿
-vless://6f97389a-b42a-4a05-9890-87646eecce48@180.149.44.189:1300?encryption=mlkem768x25519plus.native.0rtt.BEXGOTJfnwdc0PhdaCnyuQvcTKswMNUnenxcP40ipAg&security=none&type=tcp&headerType=http&path=/&host=playstation.com#🌐smkn-AZ-🇦🇿
+vless://a5194487-9b9a-462f-a047-ac7580d80201@94.20.154.22:443?alpn=http%2F1.1&encryption=none&host=kotakbla.b-cdn.net&path=%2F&security=tls&sni=kotakbla.b-cdn.net&type=ws&fp=firefox#🔒smkn-AZ-🇦🇿
