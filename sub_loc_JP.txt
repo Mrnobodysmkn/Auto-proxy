@@ -1,9 +1,8 @@
+trojan://253bc477d4e43c209f2d427272968280@157.120.32.122:443/?type=tcp&security=tls&sni=www.baidu.com#🔒smkn-JP-🇯🇵
+vless://c792dd9a-1693-4246-b71b-5ea51beb6e83@45.94.40.102:443?encryption=none&security=tls&sni=thus-k.netnode.cc.cd&fp=chrome&type=ws&host=thus-k.netnode.cc.cd&path=/t.me/daily_free_vpn#🔒smkn-JP-🇯🇵
+trojan://5c777277-17f2-4272-ae65-7bd00fa4fbaa@18.65.190.65:443/?type=tcp&security=tls&sni=wel-jp.optage.moe&allowInsecure=1&fp=chrome#🔒smkn-JP-🇯🇵
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.156.238.23:443?allowInsecure=1&sni=cdn8848.776676.xyz&type=ws&host=cdn8848.776676.xyz&path=/bt/image/categories?ed=2560fp=chrome&security=tls#🔒smkn-JP-🇯🇵
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.28:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=jp.s3-cloud.org&fp=chrome&security=reality&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs&sid=7a3f9e2b1c8d4f6a#🔒smkn-JP-🇯🇵
-vless://3c941f63-8dfd-413e-a09f-7eed77da73f1@198.13.37.57:443?encryption=none&security=tls&sni=thus-k.netnode.cc.cd&fp=chrome&type=ws&host=thus-k.netnode.cc.cd&path=/t.me/daily_free_vpn#🔒smkn-JP-🇯🇵
-vless://31107c01-eb9a-49f1-aeee-1529838ee043@13.143.252.1:443?type=tcp&security=reality&fp=firefox&pbk=G2i-nsQgWiVf52tdCUV-G_VeuCJ3hggwDnTaEAgvg0Y&sni=cloudrynth.com#🔒smkn-JP-🇯🇵
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@167.179.111.237:443?allowInsecure=1&amp;sni=cdn8848.776676.xyz&amp;type=ws&amp;host=cdn8848.776676.xyz&amp;path=/act/player/search?ed=2560fp=chrome&amp;security=tls#🔒smkn-JP-🇯🇵
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@168.138.46.67:443/?type=ws&encryption=none&host=pvg.aghabeiki.homes&path=%2F%3Fed%3D2744security%3Dtls#🔒smkn-JP-🇯🇵
-vless://dfc0cb9d-f005-41b0-848c-7703bd39d0de@31.76.91.19:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=jp.s3-cloud.org&fp=chrome&security=reality&pbk=QVkd5uoSbUA7rHVLtIoJB4iRp4l0zuw0H9qzQBh3lHs&sid=7a3f9e2b1c8d4f6a#🔒smkn-JP-🇯🇵
-trojan://4c3164ee-abcf-4091-abea-d1cd4937a68d@161.33.14.183:8443/?type=tcp&security=tls&sni=jy.hhllfly.kdns.fr#🔒smkn-JP-🇯🇵
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.204:443#🔒smkn-JP-🇯🇵
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@103.31.77.108:2053?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=cdn8848.776676.xyz&path=%2Fchannels%2Fact&security=tls&sni=cdn8848.776676.xyz&type=ws#🔒smkn-JP-🇯🇵
+vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@45.77.25.6:48828?encryption=none&security=tls&sni=ylnhh.cc.cd&insecure=0&allowInsecure=0&type=ws&host=ylnhh.cc.cd&path=/Telegram🇨🇳@WangCai2#🔒smkn-JP-🇯🇵
+vmess://eyJhZGQiOiAiMTY4LjEzOC40My43NSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJOb25lIiwgImlkIjogIjExYzM2MjdmLTMxZTgtNDY5NS1kZmJkLTM0MDc2ZTJmMWY1ZCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9jY3R2MTMubTN1OCIsICJwY3MiOiAiIiwgInBvcnQiOiAiODAiLCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1KUC1cdWQ4M2NcdWRkZWZcdWQ4M2NcdWRkZjUiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=
+vmess://eyJhZGQiOiAiNDcuMjQ1LjQyLjkyIiwgImFpZCI6ICIwIiwgImhvc3QiOiAibjE3NTM1OTg0NTIud3BnMjcueHl6IiwgImlkIjogIjRmMjNlYjdjLWVmMmYtNDNiMC05MGRkLWYyYjhhNzU5NTRhNSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUpQLVx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNSIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
