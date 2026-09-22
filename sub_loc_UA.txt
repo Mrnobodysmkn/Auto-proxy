@@ -1,9 +1,6 @@
-trojan://NISHIKUITAN111@194.152.44.218:443/?type=tcp&security=tls&allowInsecure=1#🔒smkn-UA-🇺🇦
 vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@104.245.240.4:443?path=/&security=reality&encryption=none&pbk=-GbQJg3bnEGEVFjVaRRu01cgF1f0K_maI4d5MWtMb28&fp=chrome&type=xhttp&sni=www.epson.com#🔒smkn-UA-🇺🇦
+trojan://2e7d3f13-be1b-479c-94ff-0e95c2bd565d@89.116.180.158:443?security=tls&sni=3us2.pqjc.buzz&type=tcp#🔒smkn-UA-🇺🇦
 vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@194.152.44.71:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org#🔒smkn-UA-🇺🇦
-vless://c9373ff0-c263-4949-885f-366671f3c6a1@104.143.223.217:2085?encryption=none&security=none&type=grpc&authority=&serviceName=vless&mode=multi#🌐smkn-UA-🇺🇦
-vless://f68a9fd4-16c7-46d1-b17c-0a4b224cc00d@104.143.223.69:2085?type=grpc&mode=multi&serviceName=vless#🌐smkn-UA-🇺🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@91.218.49.99:1080#🌐smkn-UA-🇺🇦
-vless://15295b3e-e233-4f3b-95d1-8860d40c75fe@104.143.223.82:2085?type=grpc&mode=multi&serviceName=vless#🌐smkn-UA-🇺🇦
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@89.116.180.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-UA-🇺🇦
+vless://3e4d70e5-7ec9-48f9-a4e0-48c44c6063fd@130.0.234.197:48905?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XIubADu7punjUa2oUfHj2vTmUzUJXN_xDrGsmf_LslY&sni=gpuopen.com#🔒smkn-UA-🇺🇦
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@194.54.80.37:1080#🌐smkn-UA-🇺🇦
+vless://f68a9fd4-16c7-46d1-b17c-0a4b224cc00d@104.143.223.69:2085?type=grpc&mode=multi&serviceName=vless#🌐smkn-UA-🇺🇦
