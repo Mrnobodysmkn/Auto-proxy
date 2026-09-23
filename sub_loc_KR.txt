@@ -1,8 +1,6 @@
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@132.226.23.185:443/?type=tcp&security=tls&sni=hhcm.hhxaf.cc.cd#🔒smkn-KR-🇰🇷
 vless://8102891d-7b37-4dc5-8261-9474b59b5c63@123.111.169.70:443?&security=tls&fp=chrome&sni=vip.868068.xyz&type=ws&headerType=none&host=vip.868068.xyz&path=/proxyip=us.xiabibi.cf#🔒smkn-KR-🇰🇷
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@158.247.209.57:443/?type=ws&encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr#🔒smkn-KR-🇰🇷
-vless://0d4cb711-c030-4f13-adf5-6a72dab4121c@47.80.62.71:443?type=tcp&security=reality&sni=www.nvidia.com&fp=chrome&flow=xtls-rprx-vision&pbk=AT4sr3XkuNa7QewDoScx7NnPTCa-Z6o_7ccPgivVDSQ&sid=0b674631d5fc6b93#🔒smkn-KR-🇰🇷
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@158.247.199.106:443/?type=ws&encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr#🔒smkn-KR-🇰🇷
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@64.176.226.26:8443/?type=ws&encryption=none&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome#🔒smkn-KR-🇰🇷
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@158.179.174.225:36364?encryption=none&security=tls&sni=ylnhh.cc.cd&insecure=0&allowInsecure=0&type=ws&host=ylnhh.cc.cd&path=/Telegram🇨🇳@WangCai2#🔒smkn-KR-🇰🇷
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652#🌐smkn-KR-🇰🇷
+vless://700a7a0e-3f27-406c-81d1-aa1abe411af8@34.64.149.137:443?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=kqIDhDhYFrXD-1GeurwjzFwbB0zWipgWmcbADXwmyy8&sni=www.cloudflare.com&sid=3fd0a8ddef3ae5c6#🔒smkn-KR-🇰🇷
+ss://YWVzLTI1Ni1jZmI6MTIzNCFAIyQ=@49.254.204.134:1774#🌐smkn-KR-🇰🇷
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@211.178.105.134:6123#🌐smkn-KR-🇰🇷
 vmess://eyJhZGQiOiAiMjAyLjc5LjE3Mi41MyIsICJhaWQiOiA2NCwgImhvc3QiOiAiIiwgImlkIjogIjMwMjE2MjA2LTE0YjctNDBlNy05OTVkLTYxYzEyMTliYTU4NCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvcGF0aC8yMjAxMjgwNzExMDAiLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzY1x1ZGYxMHNta24tS1ItXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIn0=
