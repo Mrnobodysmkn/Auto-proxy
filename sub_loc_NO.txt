@@ -1,3 +1,4 @@
-vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=partner.g2.com#🔒smkn-NO-🇳🇴
-vless://9bbc4303-c291-42b8-8eb4-38923f4b6cdd@89.185.81.68:443/?type=tcp&encryption=none&sni=yahoo.com&security=reality&pbk=VKnmZTvFbnmlCDWFpZiLw8054w02QOmXmXVCFFG7T2U&sid=d5d0#🔒smkn-NO-🇳🇴
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@31.76.5.42:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=norw-2.failspace.top&type=tcp#🔒smkn-NO-🇳🇴
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@194.32.107.150:443?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#🔒smkn-NO-🇳🇴
 vless://db320947-adfb-400d-b60b-383b8324bffe@46.29.238.88:40443?encryption=none&type=raw&headerType=none&security=reality&fp=qq&pbk=aZOpodpnifoxDqTzWgxJRffgsiGnG9-h-EZd4SvOImc&sni=deepl.com&sid=f7b2#🔒smkn-NO-🇳🇴
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.236.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-NO-🇳🇴
