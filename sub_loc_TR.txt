@@ -1,7 +1,6 @@
-vless://25e16692-d097-4e69-9e2d-8415609c1968@78.135.73.47:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=sZAJkAu23wp1WKY-qeaeiwR38izP5OyfhumoE9xhbB8&sid=f46cd3ea3d1eb72d&sni=www.datadoghq.com&encryption=none#🔒smkn-TR-🇹🇷
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@86.38.214.177:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-TR-🇹🇷
-vless://b1ca4f7c-d50a-41b2-b779-07c3e6ed09b2@93.190.9.44:3090?encryption=none&security=none&type=grpc&authority=&serviceName=vless&mode=multi#🌐smkn-TR-🇹🇷
-vless://7e081edf-f67b-49c8-a8f1-62425caf7ac7@93.190.9.7:3090/?type=grpc&encryption=none&flow=&serviceName=vless#🌐smkn-TR-🇹🇷
-vless://7a6ca0f6-473d-4b25-b2cb-f569b963cf15@93.190.9.25:3090/?type=grpc&encryption=none&flow=&serviceName=vless#🌐smkn-TR-🇹🇷
-vless://34fc6d57-0fd6-42f8-af83-21c9d4d87b3f@93.190.9.14:3090?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#🌐smkn-TR-🇹🇷
-vmess://eyJhZGQiOiAiMjA2LjEuOTYuMTg3IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIzMmMwMTdlNy0yZmE2LTRhNDMtOThlZi1iMjFiYjYzZDkyZTYiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLVRSLVx1ZDgzY1x1ZGRmOVx1ZDgzY1x1ZGRmNyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiJ9
+vless://5b8e0503-8d77-407b-ac13-71cd0c2958f7@64.49.15.248:2059?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&spx=/AhmadV2ray&type=grpc&pbk=FtdsU_DLWDJ1Fk7NESJAy_S0ezFFL_gaslsFDF23KCw&security=reality&fp=chrome&sni=api-maps.yandex.ru&fm=AhmadV2ray&sid=7fe0c1c54e89aaae&serviceName=ApiMapsYandex&encryption=none#🔒smkn-TR-🇹🇷
+vless://5dec24d0-89b5-457a-81fd-7992e4c09e30@198.105.123.26:8443?security=reality&encryption=none&pbk=fiE-KoxoQgOIuvm1EuBTeZp9TFZLq9FYbZPrcWes-GM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=slfs3.ardor-cloud.ru&sid=ba86aaa222fa2ee1#🔒smkn-TR-🇹🇷
+vless://702d4fab-1a81-4e40-a884-fc0411c6c46c@132.243.173.195:8443?path=/TR1&security=tls&encryption=none&insecure=0&host=tr.pad-service.com&fp=chrome&type=ws&allowInsecure=0&sni=tr.pad-sservice.lat#🔒smkn-TR-🇹🇷
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@86.38.214.254:8880/?type=ws&encryption=none&host=yg.bantony199.top&path=%2FTelegram#🌐smkn-TR-🇹🇷
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@86.38.214.168:8880/?type=ws&encryption=none&host=kjgx.laoyoutiao.link&path=Telegram%40WangCai2%2F%3Fed%3D2560#🌐smkn-TR-🇹🇷
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZjJOcTVZTG55Y2xQYVdSOG15Ny9WZGQzWlg4VVJuY1haTmx5NStIY1VTcz06YUU2TXhCVGUrTVhIZDlIb0YyRkYvQnpLRnFHVFJlTXBNZXZsUWh2c3Uwcz0=@176.53.17.241:1943#🌐smkn-TR-🇹🇷
