@@ -1,5 +1,2 @@
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@192.9.180.162:443/?type=ws&encryption=none&host=pvg.aghabeiki.homes&path=%3Fed%3D2744&security=tls&sni=pvg.aghabeiki.homes#🔒smkn-AU-🇦🇺
-vless://1a5b24bc-6180-4fa7-922d-ba7ee8a7a2b7@103.18.49.100:443?path=%2Fid-pusat&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=support.zoom.us.cyylr.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.cyylr.eu.cc#🔒smkn-AU-🇦🇺
-ss://8be20011-59b1-4118-91ed-83e8e6b662cd@202.166.187.132:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=f.yoptybla.ru&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=f.yoptybla.ru#🔒smkn-AU-🇦🇺
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.28.11:80?type=ws&host=Fastapi.Org&path=%2F#🌐smkn-AU-🇦🇺
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.169.142.30:8880?&type=ws&headerType=none&host=vms.lifetime38.workers.dev&path=%2F#🌐smkn-AU-🇦🇺
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.136.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-AU-🇦🇺
