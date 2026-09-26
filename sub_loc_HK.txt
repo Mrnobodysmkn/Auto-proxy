@@ -1,11 +1,6 @@
-trojan://Aimer@27.50.49.37:2053/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#🔒smkn-HK-🇭🇰
-trojan://blue2024@104.129.167.128:443/?type=tcp&security=tls&sni=ta.promote.icu#🔒smkn-HK-🇭🇰
-ss://40af9131-d540-448a-bc56-5bba147a1dc3@154.218.15.250:2083?alpn=http%2F1.1&fp=chrome&host=proxy-1cu.pages.dev&path=%2F&security=tls&sni=proxy-1cu.pages.dev&type=ws#🔒smkn-HK-🇭🇰
-trojan://Aimer@27.50.49.156:2096/?type=tcp&security=tls&sni=epcch.ambercc.filegear-sg.me#🔒smkn-HK-🇭🇰
-trojan://Aimer@27.50.49.177:8443/?type=tcp&security=tls&sni=epcca.ambercc.filegear-sg.me#🔒smkn-HK-🇭🇰
-trojan://i99Cef@209.248.32.116:28101?security=tls#🔒smkn-HK-🇭🇰
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg%3D%3D@216.250.97.118:443#🔒smkn-HK-🇭🇰
-ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.149.182.79:8388#🌐smkn-HK-🇭🇰
-vless://b99590df-eda0-4e34-e1a9-3d1118faed83@154.218.15.26:8880/?type=httpupgrade&encryption=none&host=nufillter.jtip.sbs.&path=%2F#🌐smkn-HK-🇭🇰
-ss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.192.224.30:8880?host=vms.lifetime17.workers.dev&path=%2F&security=none&sni=vms.lifetime17.workers.dev&type=ws#🌐smkn-HK-🇭🇰
-vmess://eyJhZGQiOiAiNDcuODMuMjA3LjE0OCIsICJhaWQiOiAiMCIsICJob3N0IjogIlZBSDRVUmRaTDNqRFg1cjIudi4zZG5zLnZpcCIsICJpZCI6ICJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3Mtdm1lc3MiLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzY1x1ZGYxMHNta24tSEstXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+vless://6f995056-7802-4a1d-bff7-61678e626c3f@20.189.104.97:443/?type=ws&encryption=none&host=dee33.azurewebsites.net&path=%2F&security=tls&sni=dee33.azurewebsites.net&fp=chrome#🔒smkn-HK-🇭🇰
+trojan://Aimer@154.218.15.250:2083/?type=tcp&security=tls&sni=agept.ambercc.filegear-sg.me&allowInsecure=1#🔒smkn-HK-🇭🇰
+trojan://Aimer@27.50.49.242:8443/?type=tcp&security=tls&sni=acepo.ambercc.filegear-sg.me&allowInsecure=1#🔒smkn-HK-🇭🇰
+ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.48.239:8443?path=%2F%3Fproxyip%3Dts.hpc.tw&amp;security=tls&amp;encryption=none&amp;host=edgb.esslh.filegear-sg.me&amp;type=ws&amp;sni=edgb.esslh.filegear-sg.me#🔒smkn-HK-🇭🇰
+trojan://Aimer@43.154.34.74:1935/?type=tcp&security=tls&sni=ngepz.ambercc.filegear-sg.me#🔒smkn-HK-🇭🇰
+vmess://eyJhZGQiOiAiMTU0LjM3LjIyMy41NiIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICIiLCAiaWQiOiAiZjFhYzVjODItMDBhNC00MDBiLWJiMjAtNTMwYzkxYjdjNWJiIiwgImluc2VjdXJlIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi9RUXF1bi03Mzc4MDU0NDMiLCAicG9ydCI6ICI1MjA4MCIsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUhLLVx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJodHRwIiwgInYiOiAiMiJ9
