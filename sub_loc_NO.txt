@@ -1,4 +1,5 @@
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@31.76.5.3:443?security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=viper-26.moriarty-web.com#🔒smkn-NO-🇳🇴
-vless://63a0b5e2-b684-4b05-b964-686aa416a868@194.110.207.195:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=lerring.no&type=tcp#🔒smkn-NO-🇳🇴
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@194.32.107.150:443?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#🔒smkn-NO-🇳🇴
 vless://202e15ee-7e79-40ad-979f-700e100c21c5@194.110.207.70:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=frantax.my3cx.de&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&security=reality&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629#🔒smkn-NO-🇳🇴
-vless://bd44419a-02a9-4c03-9cb8-a7f8ffd3ae68@144.31.128.197:2053?type=grpc&security=reality&fp=firefox&pbk=w92oaftiqLJOMFy47hUWBixZEKwWJpHF4apaFTrh71w&sni=api-maps.yandex.ru&mode=multi&serviceName=MapsYandexAPI#🔒smkn-NO-🇳🇴
+ss://cd3bb7d9-7df3-4644-ac05-c260990ac277@31.76.5.0:443?flow=xtls-rprx-vision&fp=firefox&security=tls&sni=viper-23.moriarty-web.com&type=tcp#🔒smkn-NO-🇳🇴
+vless://157448af-8ecf-4075-a9e9-b23a6a94899b@95.173.205.70:8443/?type=tcp&encryption=none&security=tls&sni=osl-no-01.fromblancwithlove.com&alpn=h2#🔒smkn-NO-🇳🇴
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#🌐smkn-NO-🇳🇴
