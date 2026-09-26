@@ -1,5 +1,9 @@
-vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@104.245.240.4:443?mode=auto&path=/&security=reality&encryption=none&pbk=skXBkyphBIt0TWVM0R5U3U-8UG0cuW00ONkaQpJ-OxU&fp=chrome&type=xhttp&sni=download.nvidia.com#🔒smkn-UA-🇺🇦
-vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@104.245.242.8:8443?mode=gun&security=reality&encryption=none&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&fp=chrome&type=grpc&serviceName=TunService&sni=download.nvidia.com#🔒smkn-UA-🇺🇦
-vless://f68a9fd4-16c7-46d1-b17c-0a4b224cc00d@104.143.223.69:2085?type=grpc&mode=multi&serviceName=vless#🌐smkn-UA-🇺🇦
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@194.152.44.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560fp%3Dchrome#🌐smkn-UA-🇺🇦
+vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@141.105.130.102:443?&security=tls&fp=chrome&sni=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&type=ws&headerType=none&host=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&path=%2Fpg%2F10086-dfc816f117c49173#🔒smkn-UA-🇺🇦
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@213.111.148.137:443?&security=tls&fp=chrome&sni=shuma.ccwu.cc&type=ws&headerType=none&host=shuma.ccwu.cc&path=%2F#🔒smkn-UA-🇺🇦
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@194.152.44.71:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org#🔒smkn-UA-🇺🇦
+vless://217d5b38-a3a9-4ee1-9ca4-20667ee85933@172.252.125.77:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=arxiv.org&fp=chrome&security=reality&pbk=wLfv-FK7CWwt57C7Ye-zx0MNraxYoQXAsjIx4f27WWY&sid=a88038293e33#🔒smkn-UA-🇺🇦
+trojan://NISHIKUITAN111@194.152.44.218:443/?type=tcp&security=tls&allowInsecure=1#🔒smkn-UA-🇺🇦
 vless://1e8565d3-d5fe-4ade-aaf3-30c186b4538c@104.143.223.67:2085?security=&encryption=none&type=grpc&serviceName=vless#🌐smkn-UA-🇺🇦
+vless://38ffee35-b305-41ba-89e0-78e62d95b99c@104.143.223.80:2085?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#🌐smkn-UA-🇺🇦
+vless://583ceab3-4022-4553-9158-9bedc625ad4e@89.116.180.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-UA-🇺🇦
+vless://9bb5dd4e-bd32-4bdb-a60d-9368433f3885@104.143.223.230:2085?encryption=none&amp;security=none&amp;type=grpc&amp;authority=&amp;serviceName=vless&amp;mode=gun#🌐smkn-UA-🇺🇦
