@@ -1,5 +1,9 @@
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.67:2053?path=%2F&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=dl1-tr-cdn.easy-upload.org#🔒smkn-IR-🇮🇷
-vless://bc4d97ba-d54f-4555-ba71-f7421796d92c@185.143.234.111:443?path=/&security=tls&encryption=none&host=frontend.parhamm2.ir&fp=chrome#🔒smkn-IR-🇮🇷
-ss://2a54636c-20ab-42cd-b725-f0da347c50e2@94.101.176.12:443?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp#🔒smkn-IR-🇮🇷
-vless://a3aff9fa-0e17-4b39-c80d-19fa9c038214@45.131.4.67:2086/?type=httpupgrade&encryption=none&host=cdn44.almass22.ir&path=%2FAar%2Cd-F%3Fed%3D2086#🌐smkn-IR-🇮🇷
-vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?encryption=none&security=none&type=tcp&headerType=none#🌐smkn-IR-🇮🇷
+vless://494613dc-2999-4893-a09b-406e088e458d@45.131.4.156:443/?type=ws&encryption=none&host=azarandooz.awebcontent.workers.dev&path=%2F%40AzarAndoozVPNbot&security=tls&sni=azarandooz.awebcontent.workers.dev&fp=chrome#🔒smkn-IR-🇮🇷
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.131:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org#🔒smkn-IR-🇮🇷
+vless://46aea670-5e6c-40af-9b99-95585dd71cc3@185.143.234.200:443?path=/?ed=443&security=tls&encryption=none&host=aiomovie.ir.wnticaceninl10.mahanmapcdn.com&fp=chrome&type=ws&sni=aiomovie.ir#🔒smkn-IR-🇮🇷
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.51:2053?path=%2F&security=tls&encryption=none&host=dl1-uk-cdn.easy-upload.org&type=ws&sni=dl1-uk-cdn.easy-upload.org#🔒smkn-IR-🇮🇷
+vless://03a2a358-d5db-4185-bfc8-f97fd88afe33@193.138.77.30:443?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=dl.google.com%2Cspeedtest.net%2Cplay.google.com#🔒smkn-IR-🇮🇷
+ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@185.188.104.11:443#🔒smkn-IR-🇮🇷
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.131:80/?type=ws&encryption=none&host=redfree8.pooriashop.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🌐smkn-IR-🇮🇷
+ss://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.233.238:2086?type=ws&amp;security=none&amp;encryption=none&amp;host=parsi.parsi.sbs&amp;path=%2F#🌐smkn-IR-🇮🇷
+vmess://eyJhZGQiOiAiMTg1LjE0My4yMzMuMTE0IiwgImFpZCI6IDAsICJob3N0IjogIjE4NS4xNDMuMjMzLjExNCIsICJpZCI6ICJjZjdmMmQ3Yy1kNGY4LTQ2OWEtYmZkNS05NzQ4NGJiOThkMmMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogODAsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUlSLVx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byJ9

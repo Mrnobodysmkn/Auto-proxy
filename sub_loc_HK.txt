@@ -1,4 +1,11 @@
-trojan://aef2ca33-b162-409f-8f16-4c736c338412@20.205.37.136:443?security=tls&allowInsecure=1&type=tcp#🔒smkn-HK-🇭🇰
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@219.76.13.169:443?encryption=none&security=tls&sni=cv.ylka.dpdns.org&alpn=h3&fp=random&allowInsecure=1&type=ws&host=cv.ylka.dpdns.org&path=%2F%3Fed%3D2560#🔒smkn-HK-🇭🇰
-trojan://Aimer@27.50.49.41:2096/?type=tcp&security=tls&sni=epcca.ambercc.filegear-sg.me#🔒smkn-HK-🇭🇰
-trojan://Aimer@27.50.49.242:8443/?type=tcp&security=tls&sni=acepo.ambercc.filegear-sg.me&allowInsecure=1#🔒smkn-HK-🇭🇰
+trojan://blue2024@104.129.167.128:443/?type=tcp&security=tls&sni=ta.promote.icu#🔒smkn-HK-🇭🇰
+vless://401374e6-df77-41fb-f638-dad8184f175b@27.50.48.192:443/?type=grpc&encryption=none&security=tls&sni=vp28.hiddendom.shop&alpn=h2#🔒smkn-HK-🇭🇰
+trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@20.255.74.102:443/?type=tcp&security=tls&sni=jp.iamnotagoodman.com&allowInsecure=1#🔒smkn-HK-🇭🇰
+trojan://Aimer@27.50.49.179:2096/?type=tcp&security=tls&sni=ngepx.ambercc.filegear-sg.me#🔒smkn-HK-🇭🇰
+vless://928e6cce-8ced-4243-9a48-a6642edd09b0@47.239.6.251:13779/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tesla.com&fp=chrome&security=reality&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&sid=af1bdd293097b664#🔒smkn-HK-🇭🇰
+trojan://Aimer@104.129.166.131:8443/?type=tcp&security=tls&sni=epccf.ambercc.filegear-sg.me#🔒smkn-HK-🇭🇰
+ss://ee6774c0-9b19-4ff1-8b30-2da4b71977e2@27.50.48.239:8443?path=%2F%3Fproxyip%3Dts.hpc.tw&amp;security=tls&amp;encryption=none&amp;host=edgb.esslh.filegear-sg.me&amp;type=ws&amp;sni=edgb.esslh.filegear-sg.me#🔒smkn-HK-🇭🇰
+trojan://Aimer@27.50.49.230:8443/?type=ws&host=epcca.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&sni=epcca.ambercc.filegear-sg.me#🔒smkn-HK-🇭🇰
+vless://a93eacd2-2852-4d84-9355-fd1e6477dccc@47.242.155.183:80?security=&type=ws&path=/?ed%3D2048&host=datafransfer.tunn.free.hr&encryption=none#🌐smkn-HK-🇭🇰
+vmess://eyJhZGQiOiAiOC4yMTguMTg0LjQiLCAiYWlkIjogIjAiLCAiYWxwbiI6IG51bGwsICJmcCI6IG51bGwsICJob3N0IjogIm55Y3FnMTl6a3dhY3BtMWIudi4zZG5zLnZpcCIsICJpZCI6ICJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsICJuYW1lIjogIlx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCBISyA3IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi93cy12bWVzcyIsICJwb3J0IjogNDQzLCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1ISy1cdWQ4M2NcdWRkZWRcdWQ4M2NcdWRkZjAiLCAic2N5IjogImF1dG8iLCAic25pIjogIm55Y3FnMTl6a3dhY3BtMWIudi4zZG5zLnZpcCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiBudWxsLCAidiI6IG51bGx9
+vmess://eyJhZGQiOiAiNDcuODMuMjA3LjE0OCIsICJhaWQiOiAiMCIsICJhbHBuIjogbnVsbCwgImZwIjogbnVsbCwgImhvc3QiOiAidmFoNHVyZHpsM2pkeDVyMi52LjNkbnMudmlwIiwgImlkIjogImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwgIm5hbWUiOiAiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwIEhLIDgiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3dzLXZtZXNzIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdWQ4M2NcdWRmMTBzbWtuLUhLLVx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMCIsICJzY3kiOiAiYXV0byIsICJzbmkiOiBudWxsLCAidGxzIjogInRscyIsICJ0eXBlIjogbnVsbCwgInYiOiBudWxsfQ==
