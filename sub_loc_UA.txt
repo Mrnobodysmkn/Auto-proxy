@@ -1,2 +1,3 @@
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.180.161:443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#🔒smkn-UA-🇺🇦
-vless://c9373ff0-c263-4949-885f-366671f3c6a1@104.143.223.217:2085?encryption=none&security=none&type=grpc&authority=&serviceName=vless&mode=multi#🌐smkn-UA-🇺🇦
+vless://217d5b38-a3a9-4ee1-9ca4-20667ee85933@172.252.125.77:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=arxiv.org&fp=chrome&security=reality&pbk=wLfv-FK7CWwt57C7Ye-zx0MNraxYoQXAsjIx4f27WWY&sid=a88038293e33#🔒smkn-UA-🇺🇦
+vless://9bb5dd4e-bd32-4bdb-a60d-9368433f3885@104.143.223.230:2085?encryption=none&security=none&type=grpc&authority=&serviceName=vless&mode=gun#🌐smkn-UA-🇺🇦
+vless://1e8565d3-d5fe-4ade-aaf3-30c186b4538c@104.143.223.67:2085?security=&encryption=none&type=grpc&serviceName=vless#🌐smkn-UA-🇺🇦
