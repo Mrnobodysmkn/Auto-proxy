@@ -1,4 +1,2 @@
-trojan://NISHIKUITAN111@194.152.44.218:443/?type=tcp&security=tls&allowInsecure=1#🔒smkn-UA-🇺🇦
-vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@104.245.240.4:443?mode=auto&path=/&security=reality&encryption=none&pbk=skXBkyphBIt0TWVM0R5U3U-8UG0cuW00ONkaQpJ-OxU&fp=chrome&type=xhttp&sni=download.nvidia.com#🔒smkn-UA-🇺🇦
-trojan://ttfang@45.135.235.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🔒smkn-UA-🇺🇦
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@194.152.44.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560fp%3Dchrome#🌐smkn-UA-🇺🇦
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.180.161:443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#🔒smkn-UA-🇺🇦
+vless://c9373ff0-c263-4949-885f-366671f3c6a1@104.143.223.217:2085?encryption=none&security=none&type=grpc&authority=&serviceName=vless&mode=multi#🌐smkn-UA-🇺🇦
