@@ -1,11 +1,4 @@
-vless://0422ee7e-b216-4cf1-b193-842e432ff233@87.120.106.11:8443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=ai.android&fp=edge&pbk=8EpTbZeAhD-q8jmfctC_lCDZL9a15T0wvJdbVw6xxAA&sid=26344bac8085845a#🔒smkn-TR-🇹🇷
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@86.38.214.101:2096/?type=ws&encryption=none&host=juzibaipiao.5112233.xyz&path=%2F%3Fed%3D2048&security=tls&sni=juzibaipiao.5112233.xyz&fp=chrome#🔒smkn-TR-🇹🇷
-vless://7e24f2b1-04a0-4ab0-af87-3bef7eb78e25@185.87.24.174:2085?encryption=none&amp;security=none&amp;type=grpc&amp;serviceName=vless&amp;mode=multi#🌐smkn-TR-🇹🇷
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@86.38.214.177:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-TR-🇹🇷
-vless://4dbc9705-e9d6-53c5-818d-ea62e57bd784@86.38.214.30:2095/?type=httpupgrade&encryption=none&host=Ge.PcStorEaRsOft.iR.&path=%2Fegram---AR_ore--tem--ar_sre--egram--AR_st_n--tegram--ar_orE_pn--tgram----aR_tre_pN%3Fed%3D2048#🌐smkn-TR-🇹🇷
-vless://762e148f-39f7-4ef3-a348-c3584bf436d2@86.38.214.30:8080/?type=ws&encryption=none&host=sNaPp.MaStErSrV.ir.&path=%2F#🌐smkn-TR-🇹🇷
-vless://34fc6d57-0fd6-42f8-af83-21c9d4d87b3f@93.190.9.3:3090?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#🌐smkn-TR-🇹🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@188.41.249.20:1080#🌐smkn-TR-🇹🇷
-ss://ed29a0e3-5a32-4a7f-8863-277e9f653629@193.31.117.25:8080?security=&amp;type=grpc&amp;encryption=none#🌐smkn-TR-🇹🇷
-vless://5b97592b-1e9c-7747-e571-b4291f98c6ab@86.38.214.30:8880/?type=httpupgrade&encryption=none&host=LondoN-Ar-25.pcsTorearsOft.iR.&path=%2Fwww.fast.com.live.skornorth.com.zula.ir%3Fed%3D2048#🌐smkn-TR-🇹🇷
-vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@86.38.214.53:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=/?ed=8880@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🌐smkn-TR-🇹🇷
+trojan://bpb-trojan@86.38.214.132:443/?type=ws&host=bpb.my79801.com&path=%2Ftr%3Fed&security=tls&sni=bpb.my79801.com#🔒smkn-TR-🇹🇷
+vless://25e16692-d097-4e69-9e2d-8415609c1968@78.135.73.47:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=sZAJkAu23wp1WKY-qeaeiwR38izP5OyfhumoE9xhbB8&sid=f46cd3ea3d1eb72d&sni=www.datadoghq.com&encryption=none#🔒smkn-TR-🇹🇷
+vless://0eed6293-8cf1-4e77-ac10-9c3d50d0b2f8@151.241.226.201:2053?encryption=none&fp=firefox&pbk=bYW_MmB_CUHrsyoCAUKviI2LZdHf63yY2yOPXbih104&security=reality&sid=9e419c0759b54d6f&sni=www.apple.com&type=tcp#🔒smkn-TR-🇹🇷
+vless://0c5853e1-a606-4aa2-bbfa-86a7b58d43b1@217.11.164.87:44217?security=reality&encryption=none&pbk=a1VvM3k8ETY4UZVL_eUbKwFwpVveNqD0ObMZ1dtwLj0&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=2adcb0c184d15c1a#🔒smkn-TR-🇹🇷
