@@ -1,6 +1,5 @@
-vless://d0f0a880-0df1-0003-bdf1-5669fb9483ce@179.254.109.54:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&sni=cosw.ggisopi.su#🔒smkn-UA-🇺🇦
-vless://16650e71-52bf-4a25-a7ed-df749c01da6a@13.143.170.15:443?mode=auto&path=/api/v2/telemetry&security=reality&encryption=none&pbk=660bDah5b-PtCfAbQ3g2tJySO41zsfaXCPb7L3nQCQc&fp=chrome&type=xhttp&sni=static.medic-ml.ru&sid=e1ac2faf5e5f309e#🔒smkn-UA-🇺🇦
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@194.152.44.71:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org#🔒smkn-UA-🇺🇦
 trojan://NISHIKUITAN111@194.152.44.218:443/?type=tcp&security=tls&allowInsecure=1#🔒smkn-UA-🇺🇦
+vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@104.245.240.4:443?mode=auto&path=/&security=reality&encryption=none&pbk=skXBkyphBIt0TWVM0R5U3U-8UG0cuW00ONkaQpJ-OxU&fp=chrome&type=xhttp&sni=download.nvidia.com#🔒smkn-UA-🇺🇦
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@213.111.148.137:443?&security=tls&fp=chrome&sni=shuma.ccwu.cc&type=ws&headerType=none&host=shuma.ccwu.cc&path=%2F#🔒smkn-UA-🇺🇦
-trojan://NISHIKUITAN111@45.135.235.196:443/?type=tcp&security=tls#🔒smkn-UA-🇺🇦
-vless://85e26ea2-0c09-44d3-94ff-57209916f935@13.143.193.88:41698?security=reality&encryption=none&sni=www.vk.com&fp=firefox&pbk=CGy3XQXti0IWqe5GK93fH5kolq7zafDhFZvkedRFKR8&sid=455b&type=tcp#🔒smkn-UA-🇺🇦
+vless://d144d943-46bd-41ce-af2c-06358c845616@104.143.223.50:2089?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#🌐smkn-UA-🇺🇦
