@@ -1,5 +1,2 @@
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@31.76.5.144:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=norw-1.failspace.top&type=tcp#🔒smkn-NO-🇳🇴
-vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=partner.g2.com#🔒smkn-NO-🇳🇴
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@31.76.5.42:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=norw-2.failspace.top&type=tcp#🔒smkn-NO-🇳🇴
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@31.76.5.3:443?security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=viper-26.moriarty-web.com#🔒smkn-NO-🇳🇴
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@194.32.107.150:443?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#🔒smkn-NO-🇳🇴
-vless://5dec24d0-89b5-457a-81fd-7992e4c09e30@87.120.104.153:8444?security=reality&encryption=none&pbk=hg6jd3UfeRzy_V02XbyUCuyrgd9TIzaPMwYcdNJ5IDs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=slfst12.ardor-cloud.ru&sid=eb86eee822af1de0#🔒smkn-NO-🇳🇴

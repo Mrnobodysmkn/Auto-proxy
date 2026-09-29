@@ -1,4 +1,3 @@
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.166:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ir-new.failspace.top&type=tcp#🔒smkn-IE-🇮🇪
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@198.55.102.68:2083?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#🔒smkn-IE-🇮🇪
-vless://6e35e494-c95d-4c40-9787-f21698ad5360@188.211.233.228:443?&security=reality&flow=xtls-rprx-vision&pbk=QQZQVGy8uV4JSgPJ6a8jA56bptsSifntKDJjhSvOl2I&sid=197e9c7abe&fp=firefox&sni=musicboss.eu&type=tcp&headerType=none&host=musicboss.eu&path=%2F#🔒smkn-IE-🇮🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@84.247.48.78:1080#🌐smkn-IE-🇮🇪
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.164:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=ir.failspace.top&type=tcp#🔒smkn-IE-🇮🇪
+vless://fdc48be3-a615-41ac-8bd1-ed844c931048@45.141.234.138:443?encryption=none&fp=chrome&host=edgetunnel-4uw.pages.dev&path=%2F&security=tls&sni=edgetunnel-4uw.pages.dev&type=ws#🔒smkn-IE-🇮🇪
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@199.232.24.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-IE-🇮🇪
