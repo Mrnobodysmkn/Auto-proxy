@@ -1,3 +1,4 @@
-vless://16650e71-52bf-4a25-a7ed-df749c01da6a@13.143.170.15:443?mode=auto&path=/api/v2/telemetry&security=reality&encryption=none&pbk=660bDah5b-PtCfAbQ3g2tJySO41zsfaXCPb7L3nQCQc&fp=chrome&type=xhttp&sni=static.medic-ml.ru&sid=e1ac2faf5e5f309e#🔒smkn-UA-🇺🇦
-vless://552d68c0-dccf-4623-9eca-f4203e2203d1@104.143.223.221:2085?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#🌐smkn-UA-🇺🇦
-vless://9bb5dd4e-bd32-4bdb-a60d-9368433f3885@104.143.223.230:2085?mode=gun&security=&encryption=none&type=grpc&serviceName=vless#🌐smkn-UA-🇺🇦
+vless://217d5b38-a3a9-4ee1-9ca4-20667ee85933@172.252.125.77:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=arxiv.org&fp=chrome&security=reality&pbk=wLfv-FK7CWwt57C7Ye-zx0MNraxYoQXAsjIx4f27WWY&sid=a88038293e33#🔒smkn-UA-🇺🇦
+trojan://NISHIKUITAN111@194.152.44.218:443/?type=tcp&security=tls&allowInsecure=1#🔒smkn-UA-🇺🇦
+vless://c9373ff0-c263-4949-885f-366671f3c6a1@104.143.223.217:2085?encryption=none&security=none&type=grpc&authority=&serviceName=vless&mode=multi#🌐smkn-UA-🇺🇦
+vless://1e8565d3-d5fe-4ade-aaf3-30c186b4538c@104.143.223.67:2085?security=&encryption=none&type=grpc&serviceName=vless#🌐smkn-UA-🇺🇦
