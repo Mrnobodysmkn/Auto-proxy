@@ -1,12 +1,6 @@
-vless://80f72027-2201-4541-9abb-7070c9b0869e@13.143.184.226:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qPh1iuwpELosLWTxOXyfCiMghs_sjSzCOGbkiF0gdkk&security=reality&sid=f7e66e308136e1a1&sni=msc1.serverslocal.ru&type=tcp#🔒smkn-UA-🇺🇦
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@213.111.148.137:443?&security=tls&fp=chrome&sni=shuma.ccwu.cc&type=ws&headerType=none&host=shuma.ccwu.cc&path=%2F#🔒smkn-UA-🇺🇦
 vless://401374e6-df77-41fb-f638-dad8184f175b@89.116.180.248:443/?type=grpc&encryption=none&security=tls&sni=pqh23v4.hiddendom.shop&alpn=h2#🔒smkn-UA-🇺🇦
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.180.130:2053?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#🔒smkn-UA-🇺🇦
-vless://55b237c9-02d3-44a8-a61c-033455da3fa8@179.254.108.151:443?security=reality&encryption=none&pbk=xweejWIAaEbPuyKn4UpPWe9eEaEx2y-DgGCS1Egtlk4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=update.web-assets.cfd&sid=1b2a3f#🔒smkn-UA-🇺🇦
-vless://16650e71-52bf-4a25-a7ed-df749c01da6a@13.143.170.15:443?mode=auto&path=/api/v2/telemetry&security=reality&encryption=none&pbk=660bDah5b-PtCfAbQ3g2tJySO41zsfaXCPb7L3nQCQc&fp=chrome&type=xhttp&sni=static.medic-ml.ru&sid=e1ac2faf5e5f309e#🔒smkn-UA-🇺🇦
-vless://40cfbd0a-f133-4174-8e03-ab0e587e1099@193.238.153.15:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dzknsuwujuOacNHTXzdPxBLNUEJfEImiwLinPPNFmwU&sid=1ea21a140beaecc5&sni=www.cloudflare.com#🔒smkn-UA-🇺🇦
-vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@104.245.240.4:443?mode=auto&path=/&security=reality&encryption=none&pbk=skXBkyphBIt0TWVM0R5U3U-8UG0cuW00ONkaQpJ-OxU&fp=chrome&type=xhttp&sni=download.nvidia.com#🔒smkn-UA-🇺🇦
-trojan://2e7d3f13-be1b-479c-94ff-0e95c2bd565d@89.116.180.158:443?security=tls&sni=3us2.pqjc.buzz&type=tcp#🔒smkn-UA-🇺🇦
+trojan://d2698cf9-c47e-455c-8384-12e642cbba15@89.116.180.179:443?security=tls&sni=p6us4.pqjc.buzz&type=ws&path=/pq/us4&host=p6us4.pqjc.buzz#🔒smkn-UA-🇺🇦
+vless://552d68c0-dccf-4623-9eca-f4203e2203d1@104.143.223.221:2085?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#🌐smkn-UA-🇺🇦
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@89.116.180.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-UA-🇺🇦
-vless://1e8565d3-d5fe-4ade-aaf3-30c186b4538c@104.143.223.67:2085?security=&encryption=none&type=grpc&serviceName=vless#🌐smkn-UA-🇺🇦
-vless://539abdab-0535-47ac-be35-31723049b21a@104.143.223.68:2085/?type=grpc&encryption=none&flow=&serviceName=vless#🌐smkn-UA-🇺🇦
-vless://d144d943-46bd-41ce-af2c-06358c845616@104.143.223.50:2089?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#🌐smkn-UA-🇺🇦
+vless://730f02b4-a187-4498-b3fa-9e9f1dccf47c@89.116.180.7:8880?type=httpupgrade&host=dl1.mcinet.xyz.&path=/?ed=8880-@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🌐smkn-UA-🇺🇦
