@@ -1,4 +1,5 @@
-vless://37a47219-f12e-416a-a3fc-cc27603ffc25@104.245.243.3:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=res.cdn.office.net&fp=safari&pbk=0xVsi6JYS-gJFUILwuePsB32jvWtxRT_okJSmcWEQEc&path=%2F#🔒smkn-UA-🇺🇦
-trojan://NISHIKUITAN111@194.152.44.218:443/?type=tcp&security=tls&allowInsecure=1#🔒smkn-UA-🇺🇦
-vless://552d68c0-dccf-4623-9eca-f4203e2203d1@104.143.223.221:2085?mode=multi&security=none&encryption=none&type=grpc&serviceName=vless#🌐smkn-UA-🇺🇦
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@89.116.180.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3#🌐smkn-UA-🇺🇦
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@89.116.180.161:443?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#🔒smkn-UA-🇺🇦
+vless://55b237c9-02d3-44a8-a61c-033455da3fa8@179.254.108.151:443?security=reality&encryption=none&pbk=xweejWIAaEbPuyKn4UpPWe9eEaEx2y-DgGCS1Egtlk4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=update.web-assets.cfd&sid=1b2a3f#🔒smkn-UA-🇺🇦
+trojan://ttfang@45.135.235.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#🔒smkn-UA-🇺🇦
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@194.152.44.251:8880/?type=ws&encryption=none&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2%20%2F%3Fed%3D2560fp%3Dchrome#🌐smkn-UA-🇺🇦
+vless://f68a9fd4-16c7-46d1-b17c-0a4b224cc00d@104.143.223.69:2085?type=grpc&mode=multi&serviceName=vless#🌐smkn-UA-🇺🇦
