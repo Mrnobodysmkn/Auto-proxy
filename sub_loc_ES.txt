@@ -1,8 +1,4 @@
+vless://5150600b-d270-4be8-8d78-c5784d3c093b@151.101.134.133:443/?type=ws&encryption=none&host=sv2traifdersgfdmine.com&security=tls&sni=unternehmen.rossmann.de#🔒smkn-ES-🇪🇸
 trojan://humanity@185.18.250.245:443/?type=tcp&security=tls&sni=www.calmlunch.com#🔒smkn-ES-🇪🇸
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@46.28.71.154:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=spanish67.kovsh.lol&fp=chrome&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88&type=tcp&headerType=none#🔒smkn-ES-🇪🇸
-vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@170.168.97.8:8443?encryption=none&security=reality&sni=www.hp.com&fp=chrome&pbk=QzFNQqkvBnDKIyjXUHJQe9jruaw9G5AV44vDC-qvnlo&type=grpc&mode=gun&authority=&serviceName=TunService#🔒smkn-ES-🇪🇸
-vless://c379d8e4-c67d-42ec-a3ed-ca99d1ad0546@196.245.52.146:25535?encryption=none&fp=firefox&pbk=Jh7CocBJSA55VZcLfXwXwoQ_Hi5pV-L1vv1SY-IrSh4&security=reality&sid=7642ce57308852e7&sni=www.microsoft.com&type=tcp#🔒smkn-ES-🇪🇸
-trojan://trojan@109.234.211.66:8443/?type=ws&host=store.timimi.dpdns.org&path=%2F&security=tls&sni=store.timimi.dpdns.org#🔒smkn-ES-🇪🇸
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A=@140.174.184.5:8388#🌐smkn-ES-🇪🇸
+trojan://humanity@212.227.144.37:8443?allowInsecure=0&sni=www.calmlunch.com&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&type=ws&host=www.calmlunch.com&path=/assignment#🌐smkn-ES-🇪🇸
 vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080/?type=xhttp&encryption=none#🌐smkn-ES-🇪🇸
-vmess://eyJhZGQiOiAiODUuOTAuMjE3LjQyIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiMjIzMjQiLCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1FUy1cdWQ4M2NcdWRkZWFcdWQ4M2NcdWRkZjgiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
