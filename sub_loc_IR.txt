@@ -1,7 +1,7 @@
-vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.131:2053?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=dl1-pl-cdn.easy-upload.org&fp=random&type=ws&sni=dl1-pl-cdn.easy-upload.org#🔒smkn-IR-🇮🇷
-vless://ad232c67-8b66-45e6-a077-ae1129c5b51e@46.38.142.94:443?security=reality&amp;encryption=mlkem768x25519plus.native.0rtt.22JLGsX9k5vRe_XSk7G8C3fncpPqg1n6Z-NSbAgQCVM&amp;pbk=_mKmDZ8WYWiC29L9COxf7pva3XUipnt8-vL_GKAo8yc&amp;host=google.com&amp;headerType=http&amp;fp=chrome&amp;spx=%2F9d892c774e9ef1c&amp;type=tcp&amp;sni=varzesh3.com&amp;sid=c37c4a1ea29e50#🔒smkn-IR-🇮🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozcmZuajExcTV4dmc3Mnkx@185.215.228.132:2044?security=none&amp;type=tcp#🌐smkn-IR-🇮🇷
-trojan://yu7AvNL9rW@212.33.206.111:80?allowInsecure=0#🌐smkn-IR-🇮🇷
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.4.131:80/?type=ws&encryption=none&host=redfree8.pooriashop.ir&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#🌐smkn-IR-🇮🇷
-vless://b8799fac-622a-4142-aab2-2aa862ad35f2@185.143.234.235:80?encryption=none&security=none&type=ws&host=vixon.portab.org&path=/#🌐smkn-IR-🇮🇷
-vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?encryption=none&security=none&type=tcp&headerType=none#🌐smkn-IR-🇮🇷
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@45.131.4.67:2053?path=%2F&security=tls&encryption=none&host=dl1-tr-cdn.easy-upload.org&type=ws&sni=dl1-tr-cdn.easy-upload.org#🔒smkn-IR-🇮🇷
+ss://bm9uZTpSU3pFSWtrMkVzSEVBVmoxNU41RS9BPT0@185.188.104.10:443#🔒smkn-IR-🇮🇷
+vless://a3aff9fa-0e17-4b39-c80d-19fa9c038214@45.131.4.67:2086/?type=httpupgrade&encryption=none&host=cdn44.almass22.ir&path=%2FAar%2Cd-F%3Fed%3D2086#🌐smkn-IR-🇮🇷
+vless://8cf73792-0b3e-8e8b-f833-e86067f7a22c@45.131.4.5:2052/?type=httpupgrade&encryption=none&host=2.v2.www.speedtest.net.blue99shop.ir.&path=%2F#🌐smkn-IR-🇮🇷
+vless://fd704838-af11-436e-84c3-5c89d649fbd4@85.133.215.172:8080?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🌐smkn-IR-🇮🇷
+vless://a9f40576-6321-491f-bb4a-7d8a762eea27@217.114.40.12:80?security=none&encryption=none&headerType=none&type=tcp#🌐smkn-IR-🇮🇷
+vmess://eyJhZGQiOiAiMTg1LjE0My4yMzIuMTc4IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogImNkbi50ci5vbmUubmVtYXZhLmNvbSIsICJpZCI6ICJmZDI2MDEyYi1lNDNiLTRkNmYtODE0Zi1jMmMwNThlMGQyZWIiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvczJCU3BQNnVVT1BRNDk5cGhwWUg4N1RzWGwiLCAicGNzIjogIiIsICJwb3J0IjogIjgwODAiLCAicHMiOiAiXHVkODNjXHVkZjEwc21rbi1JUi1cdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZjciLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiLS0tIiwgInYiOiAiMiIsICJ2Y24iOiAiIn0=
