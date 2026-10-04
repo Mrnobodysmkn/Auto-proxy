@@ -1,3 +1,5 @@
-trojan://6884d714-d3c4-4b49-aa20-767ea92837d6@160.123.255.199:443/?type=tcp&security=tls&sni=icecream.955850.xyz#🔒smkn-ZA-🇿🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCaFlNa0JwakFqRTZpeFN3@20.164.211.25:443#🔒smkn-ZA-🇿🇦
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.224.11:80/?type=ws&encryption=none&flow=&host=Fastapi.Org&path=%2F&ed=2560&eh=Sec-WebSocket-Protocol#🌐smkn-ZA-🇿🇦
+vless://93e69143-c1db-446f-a07c-c49642924fdc@140.248.170.223:443/?type=ws&encryption=none&host=bia-daily-configs.com&path=%2F%40Daily_Configs%2C%40Daily_Configs%2C%40Daily_Configs&security=tls&sni=bia-daily-configs.com&alpn=h3%2Ch2&fp=random#🔒smkn-ZA-🇿🇦
+vless://4758aee6-6d1a-4306-b460-2398b5af4e35@34.35.174.85:443?fp=chrome&pbk=dcox8XXfkOCmKn3kgrloj6wY5o1_0brJOi2mczYmAT4&security=reality&sid=5ced03e42cc31aab&sni=www.cloudflare.com#🔒smkn-ZA-🇿🇦
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@160.123.255.17:443/?type=ws&encryption=none&host=bn.ylks0033.dpdns.org&path=%2F%3Fed%3D2560&security=tls&sni=bn.ylks0033.dpdns.org#🔒smkn-ZA-🇿🇦
+vless://3e4d70e5-7ec9-48f9-a4e0-48c44c6063fd@102.129.165.81:48905?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XIubADu7punjUa2oUfHj2vTmUzUJXN_xDrGsmf_LslY&sni=gaming.radeon.com#🔒smkn-ZA-🇿🇦
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#🌐smkn-ZA-🇿🇦
