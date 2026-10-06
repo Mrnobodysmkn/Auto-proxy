@@ -1,6 +1,2 @@
-vless://9ce4c9e2-1dcc-abe8-9abf-9bf8bc1269f6@193.124.58.89:443?&security=tls&fp=chrome&sni=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&type=ws&headerType=none&host=8.o.8.e.t.g.7.w.8.n.e.1.l.e.us.art-us.kdns.fr&path=%2Fpg%2F10086-dfc816f117c491730%7C%20%F0%9F%87%A8%F0%9F%87%BF%20%E6%8D%B7%E5%85%8B%2004%20%7C%20193.124.58.89%3A443#🔒smkn-CZ-🇨🇿
-vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@5.39.202.118:443?security=reality&encryption=none&pbk=sg6UZorSKWbfwmfxh0SyfZ-SszlhitX43LHtRGTZU2Y&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cze1.somiki.best&sid=a4c4e97b89446dcd#🔒smkn-CZ-🇨🇿
-vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@14.102.228.210:2096?encryption=none&security=tls&type=ws&sni=juzibaipiao.5112233.xyz&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048#🔒smkn-CZ-🇨🇿
-vless://51c8ed23-7ca5-43f1-b0a8-0a37a7a16647@153.76.185.151:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🌐smkn-CZ-🇨🇿
-vless://4220f4b9-f20e-4566-b461-6becf700ef56@153.76.185.183:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🌐smkn-CZ-🇨🇿
-vless://6bd9b04b-17de-4f05-b8b8-e5f2a0a649c1@153.76.185.104:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#🌐smkn-CZ-🇨🇿
+vless://401374e6-df77-41fb-f638-dad8184f175b@14.102.228.18:443/?type=grpc&encryption=none&security=tls&sni=pqh36v4.hiddendom.shop&alpn=h2#🔒smkn-CZ-🇨🇿
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@14.102.228.20:8880/?type=ws&encryption=none&host=reedfree8mahsang2.redorg.ir&path=%2F#🌐smkn-CZ-🇨🇿
