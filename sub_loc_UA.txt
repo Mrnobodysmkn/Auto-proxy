@@ -1,1 +1,3 @@
-vless://217d5b38-a3a9-4ee1-9ca4-20667ee85933@172.252.125.77:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=arxiv.org&fp=chrome&security=reality&pbk=wLfv-FK7CWwt57C7Ye-zx0MNraxYoQXAsjIx4f27WWY&sid=a88038293e33#🔒smkn-UA-🇺🇦
+vless://2bb8b13c-b3f0-2552-da05-d0929bfb36db@104.245.240.4:443?mode=auto&path=/&security=reality&encryption=none&pbk=skXBkyphBIt0TWVM0R5U3U-8UG0cuW00ONkaQpJ-OxU&fp=chrome&type=xhttp&sni=download.nvidia.com#🔒smkn-UA-🇺🇦
+vless://9fc8f028-06ed-3a03-9ace-da78b660583f@104.245.243.9:443?mode=auto&path=/&security=reality&encryption=none&pbk=sbBzEDf7UllUslF6LTfsM1qiOW322QKM343zhJD0Lng&fp=chrome&type=xhttp&sni=cdn.steamstatic.com#🔒smkn-UA-🇺🇦
+vless://953358cb-82ba-4296-960d-6d2ec3468f4c@78.159.240.159:10654?encryption=none&extra=null&fp=chrome&mode=packet-up&path=/xhttp_client_upload&pbk=lGKKIZsN9yBMxzZm8yl7nzNwJII18c_wLd_AbzzvRD8&security=reality&sid=53361376&sni=dailycanvas.sysopnova.art&type=xhttp#🔒smkn-UA-🇺🇦
