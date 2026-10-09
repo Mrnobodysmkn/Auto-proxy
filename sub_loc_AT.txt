@@ -1,2 +1,1 @@
-trojan://humanity@212.183.88.136:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#🔒smkn-AT-🇦🇹
-vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@185.104.63.173:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=zsat.eu-cdn294.com&fp=chrome&security=reality&pbk=Dj1TD7Sy_TciG915ffXFpMu_pYHnrpGo_ypyyDw44Uc&sid=8fbdc8d37cc76852#🔒smkn-AT-🇦🇹
+vless://46ef8e51-66cf-4861-93e4-4e7ce111bd3d@199.232.17.194:443?path=/c6ced5a90137&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=cx03abb345.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=cx03abb345.global.ssl.fastly.net#🔒smkn-AT-🇦🇹
