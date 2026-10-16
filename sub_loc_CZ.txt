@@ -1,1 +1,4 @@
+vless://b0a100ee-c397-43f2-bdae-2adfb7a0d4e5@141.133.174.59:443?&security=tls&fp=android&sni=rnxq-1lpi3m.linmeisoft.com&type=ws&headerType=&host=rnxq-1lpi3m.linmeisoft.com&path=%2Fb0a100ee-c397-43f2-bdae-2adfb7a0d4e5#🔒smkn-CZ-🇨🇿
+vless://7c053ca8-38cc-45e2-930c-eda1fd66f903@195.123.245.241:443?flow=xtls-rprx-vision&fp=chrome&pbk=hlY5ce1UsVIgE46y5PlEZhUsSaXUnCtoDLLaGrhInjw&security=reality&sid=23d0950d60bc0d5b&sni=gateway.icloud.com&type=tcp#🔒smkn-CZ-🇨🇿
+vless://d0e771c5-024e-4393-bb90-4a3e3c561656@31.76.7.227:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=nIL5EeUo2XUkCaLJGbzgRm6zhF-96kWvV2VmhEt3CX4&security=reality&sid=4af4102cb26e59&sni=origin.vpnoodles.ru&type=tcp#🔒smkn-CZ-🇨🇿
 vless://2040f170-de2a-49bb-a903-125f0731c54d@153.76.185.93:3090?mode=multi&security=&encryption=none&type=grpc&serviceName=vless#🌐smkn-CZ-🇨🇿
