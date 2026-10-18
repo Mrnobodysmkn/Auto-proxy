@@ -1,2 +1,5 @@
-vless://6338c01a-310e-42c3-bf4f-2a20e161054b@79.139.59.46:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=mPzNFHO4pZMzFviRkIhRd7xDUz4dMHyI-flZLOrgDVg&security=reality&sid=f8379ce795f2e5ed&sni=hu1.aiage.work&type=tcp#🔒smkn-HU-🇭🇺
-ss://6338c01a-310e-42c3-bf4f-2a20e161054b@85.155.242.38:443?security=reality&amp;encryption=none&amp;pbk=mPzNFHO4pZMzFviRkIhRd7xDUz4dMHyI-flZLOrgDVg&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=hu1.aiage.work&amp;sid=f8379ce795f2e5ed#🔒smkn-HU-🇭🇺
+vless://49aabf68-e986-4722-8fd1-1702ce996bb6@217.13.104.115:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&fp=chrome&security=reality&pbk=HmnZvWf1xDzvps8H-juYYtHnWPZksvaUp6cMYV7TfSk&sid=a20d3ed244c76426#🔒smkn-HU-🇭🇺
+vless://cc6b985d-0362-4129-8763-38564174fb3e@141.11.203.254:443/?type=grpc&encryption=none&flow=&serviceName=michi&security=tls&sni=iryiccyne.wwtraveler.com&alpn=http%2F1.1%2Ch2&fp=chrome#🔒smkn-HU-🇭🇺
+vless://cc6b985d-0362-4129-8763-38564174fb3e@141.11.203.4:443/?type=grpc&encryption=none&flow=&serviceName=michi&security=tls&sni=iryiccyne.wwtraveler.com&alpn=http%2F1.1%2Ch2&fp=chrome#🔒smkn-HU-🇭🇺
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@37.221.210.113:8443?&security=tls&fp=chrome&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.com#🔒smkn-HU-🇭🇺
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@141.11.203.254:8880/?type=ws&encryption=none&flow=&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🌐smkn-HU-🇭🇺
